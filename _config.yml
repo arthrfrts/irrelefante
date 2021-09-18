@@ -3,7 +3,7 @@ title: "Irrelefante"
 description: >-
   Por Arthur Freitas.
 
-url: "https://irrelefante.com.br"
+url: "https://irrelefante.netlify.app"
 baseurl: ""
 
 author:
@@ -24,9 +24,15 @@ relative_permalinks: false
 
 plugins:
   - jekyll-last-modified-at
+  - jekyll-sitemap
+
+keep_files:
+  - uploads
 
 include:
+  - _redirects
   - _pages
+
 exclude:
   - _includes/notes_graph.json
 

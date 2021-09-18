@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Sobre
+title: Sobre 👋
 permalink: /sobre/
 ---
 
-*This is an about page.*
-
-Feel free to tell the world about what you love! 😍
+Esse é o Irrelefante, um blog e um jardim digital mantido por [Arthur Freitas](https://arthr.me) (eu!).
