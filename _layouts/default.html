@@ -1,13 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html lang="pt-br">
   {% include head.html %}
   <body>
-    <nav>{% include nav.html %}</nav>
-    <div class="wrapper">
-      <main>{{ content }}</main>
-      <footer>{% include footer.html %}</footer>
-    </div>
+    {% include header.html %}
 
-    {% include link-previews.html wrapperQuerySelector="content" %}
+    <div class="wrapper">
+      <main>
+        {{ content }}
+      </main>
+
+      {% include footer.html %}
+
+      {% include link-previews.html wrapperQuerySelector=".content" %}
+    </div>
   </body>
 </html>
