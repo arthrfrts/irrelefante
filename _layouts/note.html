@@ -2,21 +2,17 @@
 layout: default
 ---
 
-<article>
-  <div>
+<article class="note">
+  <header>
     <h1>{{ page.title }}</h1>
-    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
-      Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
-      {% endif %}
-    </time>
-  </div>
+  </header>
 
   <div id="notes-entry-container">
-    <content>
+    <div class="content">
       {{ content }}
-    </content>
+    </div>
 
-    <side style="font-size: 0.9em">
+    <aside class="side" style="font-size: 0.9em">
       <h3 style="margin-bottom: 1em">Notes mentioning this note</h3>
       {% if page.backlinks.size > 0 %}
       <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
@@ -35,8 +31,15 @@ layout: default
         </p>
       </div>
       {% endif %}
-    </side>
+    </aside>
   </div>
+
+  <footer>
+    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
+      Atualizado em {{ page.last_modified_at | date: "%d/%m/%Y às %kh%M" }}.
+      {% endif %}
+    </time>
+  </footer>
 </article>
 
 <hr>
