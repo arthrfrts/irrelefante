@@ -1,0 +1,8 @@
+- title: Arquivo
+  url: "/arquivo/"
+- title: Notas
+  url: "/notas/"
+- title: Sobre
+  url: "/sobre/"
+- title: RSS
+  url: "/rss.xml"

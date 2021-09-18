@@ -1,0 +1,9 @@
+<nav>
+  <a class="internal-link" href="{{ site.url }}"><b>{{ site.title }}</b></a>
+
+  {% for item in site.data.menu %}
+    <a href="{{ item.url }}" {% if item.external %} rel="external" {% else %} class="internal-link" {% endif %}>
+      {{- item.title -}}
+    </a>
+  {% endfor %}
+</nav>
