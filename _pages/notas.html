@@ -1,0 +1,26 @@
+---
+layout: default
+title: Todas as notas 📘
+permalink: "/notas/"
+---
+
+<article>
+  <h1>{{ page.title }}</h1>
+  {% include notes_graph.html %}
+
+  {% assign notes = site.notes | sort: "last_modified_at" | reverse %}
+
+
+  <div class="content">
+    <ul class="notes-list">
+      {% for note in notes %}
+        <li>
+          <a class="internal-link" href="{{ note.url | relative_url}}" rel="bookmark">
+            <strong>{{ note.title }}</strong>
+          </a><br />
+          <time datetime="{{ note.last_modified_at | date: date_to_xmlschema }}">{{ note.date | date: "%d/%m/%Y às %kh%M" }}</time>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</article>
