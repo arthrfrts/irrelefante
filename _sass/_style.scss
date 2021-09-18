@@ -58,7 +58,7 @@ blockquote {
   background: var(--color-box-background);
   border-radius: var(--border-radius);
 
-  p {
+  p:last-child {
     margin: 0;
   }
 }
