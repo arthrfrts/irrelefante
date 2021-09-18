@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: "Adeus hristu.net :("
 date: '2018-05-05T12:19:08-03:00'
 tags:
 - web

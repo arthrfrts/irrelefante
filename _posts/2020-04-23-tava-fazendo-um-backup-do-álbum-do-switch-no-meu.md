@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: Meu final de KRZ
 date: '2020-04-23T11:32:45-03:00'
 tags:
 - jogos

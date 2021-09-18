@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: Impressões dessa revisão de Community
 date: '2019-08-04T00:04:25-03:00'
 tags:
 - impressões

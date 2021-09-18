@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: "Anotações sobre The Leftovers: “Piloto” (1&times;01)"
 date: '2021-09-16T23:05:35-03:00'
 tags:
 - dieta cultural

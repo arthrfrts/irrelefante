@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: Sobre “Critical Film Studies”
 date: '2019-08-13T10:20:55-03:00'
 tags: []
 tumblr_url: /post/658916987011006464/meu-epis%C3%B3dio-favorito-da-segunda-temporada-de

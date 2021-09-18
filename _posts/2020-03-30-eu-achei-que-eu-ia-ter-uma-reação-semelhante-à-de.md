@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: Etc.
 date: '2020-03-30T11:09:29-03:00'
 tags:
 - etc.

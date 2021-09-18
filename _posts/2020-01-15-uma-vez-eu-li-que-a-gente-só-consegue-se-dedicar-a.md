@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: Sobre como a gente se dedica à arte
 date: '2020-01-15T09:35:06-03:00'
 tags:
 - etc.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: Observações sobre Community
 date: '2019-08-15T00:13:46-03:00'
 tags:
 - impressões

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: Visitando meus amigos no Animal Crossing
 date: '2020-06-27T11:59:05-03:00'
 tags:
 - jogos
