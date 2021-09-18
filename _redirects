@@ -1,9 +1,0 @@
----
-layout: null
----
-
-{%- for post in site.posts -%}
-{%- if post.tumblr_url -%}
-{{ post.tumblr_url }} {{ post.url | relative_url }} 301
-{% endif -%}
-{%- endfor -%}
