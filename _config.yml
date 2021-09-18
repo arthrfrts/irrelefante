@@ -49,4 +49,4 @@ defaults:
 # 🌱 Settings
 use_html_extension: false
 open_external_links_in_new_tab: true
-embed_tweets: false
+embed_tweets: true
