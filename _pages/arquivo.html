@@ -5,17 +5,15 @@ permalink: "/arquivo/"
 ---
 
 {% for post in site.posts %}
-  <article class="post">
+  <section class="post">
     <header>
       <h3 class="title">
         <a class="internal-link" href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title }}</a>
       </h3>
     </header>
-    
-    {{ post.excerpt }}
-    
+
     <footer>
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d/%m/%Y" }}</time>
     </footer>
-  </article>
+  </section>
 {% endfor %}
