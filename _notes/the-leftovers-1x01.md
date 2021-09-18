@@ -2,9 +2,6 @@
 layout: post
 title: "Anotações sobre The Leftovers: “Piloto” (1&times;01)"
 date: '2021-09-16T23:05:35-03:00'
-tags:
-- dieta cultural
-- séries
 tumblr_url: /post/662536806369230848/eu-terminei-de-rever-a-segunda-temporada-de
 ---
 Eu terminei de rever a segunda temporada de _Succession_ ontem e resolvi tentar rever _The Leftovers_ de novo
