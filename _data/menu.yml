@@ -1,7 +1,7 @@
 - title: Arquivo
   url: "/arquivo/"
-- title: Notas
-  url: "/notas/"
+# - title: Jardim
+#   url: "/notas/"
 - title: Sobre
   url: "/sobre/"
 - title: RSS
