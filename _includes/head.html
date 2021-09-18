@@ -1,48 +1,24 @@
 <head>
-  <meta charset="UTF-8">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
-
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}">
-
-  <meta property="og:site_name" content="{{ site.title }}">
-
-  <link rel="icon" type="image/png" href="data:image/png;base64,iVBORw0KGgo=">
-
-  <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
-
-  {% if page.excerpt %}
-  <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}"/>
+  {% if page.canonical_url %}
+    <link rel="canonical" href="{{ page.canonical_url }}" />
   {% else %}
-  <meta property="og:description" content="{{ site.title | strip_html | strip_newlines | truncate: 160 }}"/>
-  {% endif %}
-
-  {% if page.title %}
-  <meta property="og:title" content="{{ page.title }}">
-  <meta property="og:type" content="article">
-  {% else %}
-  <meta property="og:title" content="{{ site.title }}">
-  <meta property="og:type" content="website">
-  {% endif %}
-
-  {% if page.date %}
-  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
-  <meta property="article:author" content="{{ site.url }}/">
-  {% endif %}
-
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-
-  {% if page.image %}
-  <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+    <link rel="canonical" href="{{ page.url | absolute_url }}" />
   {% endif %}
 
   <title>
-    {% if page.id == "home" %}
-      {{ site.title }}
-    {% else %}
+    {%- if page.title -%}
       {{ page.title }} &mdash; {{ site.title }}
-    {% endif %}
+    {%- else -%}
+      {{ site.title }}
+    {%- endif -%}
   </title>
+  <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | normalize_whitespace | truncate: 160 | default: site.description }}" />
+
+  <link rel="icon" type="image/png" href="{{ '/assets/favicon.png' | relative_url }}" />
+  <link rel="stylesheet" href="{{ '/assets/styles.css' | relative_url }}" />
+
+  {% include ogp.html %}
 </head>
