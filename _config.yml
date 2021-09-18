@@ -10,15 +10,16 @@ author:
   name: Arthur Freitas
   url: "https://arthr.me"
   twitter: "@arthrfrts"
+  email: "email@arthr.me"
 
 collections:
   notes:
     output: true
-    permalink: /:slug
+    permalink: /notas/:slug
 
 # Build Settings
 incremental: true
-permalink: pretty
+permalink: "/:year/:month/:day/:slug/"
 relative_permalinks: false
 
 plugins:
