@@ -4,16 +4,26 @@ title: Arquivo de posts 📚
 permalink: "/blog/"
 ---
 
-{% for post in site.posts %}
-  <section class="post">
-    <header>
-      <h3 class="title">
-        <a class="internal-link" href="{{ post.url | relative_url }}" rel="bookmark">{{ post.title }}</a>
-      </h3>
-    </header>
+{% assign archive_date = "" %}
 
-    <footer>
-      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d/%m/%Y" }}</time>
-    </footer>
-  </section>
+
+{% for post in site.posts %}
+
+  {% assign post_date = post.date | date: "%Y" %}
+
+  {% if archive_date != post_date %}
+    {% assign archive_date = post_date %}
+    </ol>
+
+    <h2>{{ post_date }}</h2>
+
+    <ol class="notes-list" reversed>
+  {% endif %}
+
+  <li>
+    <a class="internal-link" href="{{ post.url | relative_url}}" rel="bookmark">
+      <strong>{{ post.title }}</strong>
+    </a><br />
+    <time datetime="{{ post.date | date: date_to_xmlschema }}">{{ post.date | date: "%d/%m/%Y às %kh%M" }}</time>
+  </li>
 {% endfor %}
