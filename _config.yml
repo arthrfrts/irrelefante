@@ -15,11 +15,12 @@ author:
 collections:
   notes:
     output: true
-    permalink: /notas/:slug
+    permalink: /nota/:slug
+    directory: "_seeds/"
 
 # Build Settings
 incremental: true
-permalink: "/:year/:month/:day/:slug/"
+permalink: "/blog/:slug/"
 relative_permalinks: false
 
 plugins:
@@ -42,7 +43,7 @@ defaults:
     values:
       layout: "default"
   - scope:
-      path: "_notes/**/*.md"
+      path: "_seeds/**/*.md"
     values:
       layout: "note"
 

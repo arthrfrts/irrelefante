@@ -13,7 +13,7 @@ class TweetEmbedGenerator < Jekyll::Generator
         /^https?:\/\/twitter\.com\/(?:#!\/)?(\w+)\/status(es)?\/(\d+)$/i,
         <<~HTML
           <blockquote class="twitter-tweet">
-           Esse tuíte não pode ser mostrado. <a href="#{'\0'}">Tente vê-lo no Twitter.</a>
+           Esse tuíte não pode ser exibido. <a href="#{'\0'}">Tente vê-lo no Twitter.</a>
           </blockquote>
           <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         HTML
