@@ -15,19 +15,25 @@ layout: default
     <aside class="side" style="font-size: 0.9em">
       <h3 style="margin-bottom: 1em">Menções dessa nota:</h3>
       {% if page.backlinks.size > 0 %}
-      <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
-      {% for backlink in page.backlinks %}
-        <div class="backlink-box">
-        <a class="internal-link" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">{{ backlink.title }}</a><br>
-        <div style="font-size: 0.9em">{{ backlink.excerpt | strip_html | truncatewords: 20 }}</div>
+        <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
+
+        {% for backlink in page.backlinks %}
+          <div class="backlink-box">
+            <a href="{{ backlink.url | relative_url }}">
+              {{ backlink.title }}
+            </a>
+            <div style="font-size: 0.9em">
+              {{ backlink.excerpt | strip_html | truncatewords: 20 }}
+            </div>
+          </div>
+        {% endfor %}
+
         </div>
-      {% endfor %}
-      </div>
       {% else %}
 
       <div style="font-size: 0.9em">
         <p>
-          Não há nenhuma nota mencionando essa.
+          Essa nota ainda não é mencionada por outras notas.
         </p>
       </div>
       {% endif %}
@@ -36,7 +42,7 @@ layout: default
 
   <footer>
     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
-      Atualizado em {{ page.last_modified_at | date: "%d/%m/%Y às %kh%M" }}.
+      Atualizada em {{ page.last_modified_at | date: "%d/%m/%Y às %kh%M" }}.
       {% endif %}
     </time>
   </footer>

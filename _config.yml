@@ -16,7 +16,6 @@ collections:
   notes:
     output: true
     permalink: /nota/:slug
-    directory: "_seeds/"
 
 # Build Settings
 incremental: true
