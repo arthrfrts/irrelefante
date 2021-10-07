@@ -92,12 +92,14 @@ a {
     color: black !important;
     background: #fffaf1;
   }
-  &:after {
-    position: relative;
-    top: -0.5em;
-    font-size: 0.7em;
-    content: "↗";
-    color: #aaaaaa;
+  &[href*="http"] {
+    &:after {
+      position: relative;
+      top: -0.5em;
+      font-size: 0.7em;
+      content: "↗";
+      color: #aaaaaa;
+    }
   }
   &.internal-link:after,
   &.footnote:after,
