@@ -37,7 +37,7 @@ Eu passei uma boa parte desses últimos meses pensando na distância que eu tô 
 
 Ao mesmo tempo, eu não acho que o Pão serve mais, e não só porque eu não gosto mais de escrever *resenhas*, mas porque eu acho que aquele formato, o blog, não me serve mais também. Eu escrevo de um jeito diferente hoje. Ele é mais desconexo e menos preciso. As coisas aparecem mal formadas, e demoram para assumir uma forma mais legível. Até que isso aconteça passa um tempo em que ou eu não escrevo nada, ou eu desisto daquele pensamento. E, nesses últimos meses, eu joguei muitas ideias fora.
 
-Um blog, uma Correnteza, afinal, precisa de um outro estilo de pensamento, algo que eu sinto que não me cabe mais.
+Um blog, uma Correnteza, afinal, precisa de um outro estilo de pensamento, algo que eu sinto que não me cabe mais. Caufield:
 
 > Enquanto o jardim é integrativo, a Correnteza é afirmativa. É persuasão, é argumento, é defesa. É pessoal, personalizada e imediata. É revigorante. E, como podemos ver em um minuto, também é profundamente inadequado para alguns dos usos que fazemos.
 >
