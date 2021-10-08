@@ -12,7 +12,7 @@ Há umas semanas eu li [*A Brief History & Ethos of the Digital Garden*](https:/
 
 Appleton cita [uma apresentação de Mike Caulfield](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/?utm_source=pocket_mylist), que relaciona wikis como "jardins digitais" e blogs, timelines e feeds como "correntezas":
 
-> O Jardo, é uma metáfora antiga associada ao hipertexto. Aqueles familiares com sua história vão reconhecer isso. *O Jardim dos Caminhos Bifurcados* da metade do século 20. O conceito de jardineiro de wikis dos anos 90. O ensaio *Hypertext Gardens* de Mark Bernstein publicado em 1998.
+> O Jardim é uma metáfora antiga associada ao hipertexto. Aqueles familiares com sua história vão reconhecer isso. *O Jardim dos Caminhos Bifurcados* da metade do século 20. O conceito de jardineiro de wikis dos anos 90. O ensaio *Hypertext Gardens* de Mark Bernstein publicado em 1998.
 
 * *O Jardim dos Caminhos Bifurcados* é um conto do autor argentino Jorge Luis Borges publicado em 1941. Uma versão traduzida para o português está [nesse blog](http://contosquevalemapena.blogspot.com/2014/08/04-o-jardim-dos-caminhos-que-se.html), com um link para [a versão original em espanhol](https://www.literatura.us/borges/jardin.html).
 * *Hypertext Gardens* é [um experimento](http://www.eastgate.com/garden/Enter.html) de como "passear" pelo hipertexto de um site sem o site te dizer por onde você deve ir. Ele indica caminhos, mas não guia o visitante por um caminho preferencial. Explorar e descobrir algo na internet é uma experiência própria do hipertexto.
