@@ -37,6 +37,12 @@ Eu passei uma boa parte desses últimos meses pensando na distância que eu tô 
 
 Ao mesmo tempo, eu não acho que o Pão serve mais, e não só porque eu não gosto mais de escrever *resenhas*, mas porque eu acho que aquele formato, o blog, não me serve mais também. Eu escrevo de um jeito diferente hoje. Ele é mais desconexo e menos preciso. As coisas aparecem mal formadas, e demoram para assumir uma forma mais legível. Até que isso aconteça passa um tempo em que ou eu não escrevo nada, ou eu desisto daquele pensamento. E, nesses últimos meses, eu joguei muitas ideias fora.
 
+Um blog, uma Correnteza, afinal, precisa de um outro estilo de pensamento, algo que eu sinto que não me cabe mais.
+
+> Enquanto o jardim é integrativo, a Correnteza é afirmativa. É persuasão, é argumento, é defesa. É pessoal, personalizada e imediata. É revigorante. E, como podemos ver em um minuto, também é profundamente inadequado para alguns dos usos que fazemos.
+>
+> A Correnteza é o que eu faço no Twitter e em blogs. Eu pego um fato e o projeto como mais uma parte em um argumento, narrativa ou persona que construo ao longo do tempo e recapitulo em vez de iterar. 
+
 Escrever em um blog, mesmo em um blog informal como o Pão é, requer uma carga bem intensa de pesquisa, revisão e edição. É um processo bacana, mas ele delimita um "fim" para os meus textos. É uma herança de uma forma antiga de escrever, quando a tinta selava um texto no papel. Esse tipo de oficialização é importante no mundo, mas não para aquilo que eu escrevo. Eu leio textos mais antigos no Pão e gostaria de reescrever ou complementar, mas os posts em um blog são registros temporais. Eu *posso* editá-los e complementá-los. Mas isso vai contra o princípio de como um post registra uma ideia naquele tempo exato.
 
 Eu ainda acho que esse formato é válido, mas eu escrevo de uma maneira completamente diferente hoje da que eu escrevia há um ano. E eu acho que um jardim digital, com anotações que se conectam e se complementam e se atualizam, faz mais sentido nesse momento pra mim. Eu não digo que não vou escrever mais posts no Pão, mas eu também não prometo nada. Eu espero que esse jardim me ajude a desenvolver algumas ideias e a registrar o que eu estou aprendendo, inclusive nesse novo jeito de escrever que eu tô descobrindo aos poucos.
