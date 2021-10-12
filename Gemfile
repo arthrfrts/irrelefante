@@ -14,8 +14,6 @@ group :jekyll_plugins do
   gem "jekyll-sitemap", "~> 1.4"
 end
 
-gem "jekyll-import", "~> 0.20.0"
-
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', "~> 1.2", :install_if => Gem.win_platform?
 gem 'wdm', '~> 0.1.1', :install_if => Gem.win_platform?
