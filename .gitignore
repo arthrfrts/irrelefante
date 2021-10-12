@@ -1,5 +1,6 @@
 # Generated website directory
 _site/
+Gemfile.lock
 
 # Sass cache
 .sass-cache/
