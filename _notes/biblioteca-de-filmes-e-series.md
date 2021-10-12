@@ -37,7 +37,7 @@ Se o MKV fonte for um vídeo H.264 com faixa de som AAC ou AC3, está tudo pront
 
 Se o MKV fonte for um vídeo HEVC (H.265), o cabeçalho do arquivo não é reconhecido pelo QuickTime e, assim, não é compatível pela biblioteca de vídeos do app TV. Esse é um ajuste pequeno e, pra isso, eu posso usar o `ffmpeg` para corrigir o cabeçalho:
 
-```
+```bash
 ffmpeg -i "arquivo.mp4" -map 0 -c:v copy -tag:v hvc1 -c:a copy -c:s copy "arquivo-corrigido.mp4"
 ```
 
