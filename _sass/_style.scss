@@ -1,6 +1,6 @@
 :root {
   --border-radius: 4px;
-  --font-family: system-ui, sans-serif;
+  --font-family: Inter, system-ui, sans-serif;
 
   --color-primary: hsl(0, 0%, 10%);
   --color-text: hsl(0, 0%, 20%);
@@ -61,6 +61,10 @@ blockquote {
   p:last-child {
     margin: 0;
   }
+}
+
+pre, code {
+  font-family: Inconsolata, monospace;
 }
 
 hr {
