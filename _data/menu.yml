@@ -1,7 +1,7 @@
 - title: Caderno
-  url: "/jardim/"
-- title: Posts
-  url: "/blog/"
+  url: "/notas/"
+# - title: Posts
+#   url: "/blog/"
 - title: Sobre
   url: "/sobre/"
 - title: RSS
