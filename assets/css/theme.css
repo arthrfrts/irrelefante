@@ -1,0 +1,21 @@
+:root {
+	--content-width: 100%;
+	--color-background: #f5f2ed;
+	--color-text: #44413c;
+	--color-link: var(--color-text);
+	--color-link-hover: #3498db;
+	--color-support: #948e85;
+	
+	@media (prefers-color-scheme: dark) {
+		--color-background: #44413c;
+		--color-text: #f5f2ed;
+	}
+}
+
+.site-header .site-logo {
+	background: #f5f2ed;
+}
+
+.category {
+	color: #44413c !important;
+}

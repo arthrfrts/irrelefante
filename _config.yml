@@ -1,0 +1,27 @@
+# Site settings
+title: Irrelefante
+description: >-
+  Nada faz muito sentido.
+
+lang: pt-br  
+
+baseurl: ""
+url: "https://irrelefante.com.br"
+
+# Build settings
+theme: linus
+
+paginate: 10
+permalink: /:slugified_categories/:year-:month-:title:output_ext
+
+category_colors:
+  - name: Impressões
+    color: '#eba07d'
+  - name: Esquinas
+    color: '#a0c46e'
+  - name: Achados
+    color: '#82bbcf'
+  - name: Listas
+    color: '#e6b855'
+    
+logo: /assets/favicon.png
