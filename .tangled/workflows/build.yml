@@ -19,15 +19,14 @@ dependencies:
     - glibc
 
 environment:
-  BUNDLE_PATH: "/tangled/workspace/.bundle"
-  BSKY_PDS: "https://tngl.sh"
-  BSKY_HANDLE: "arthr.me"
-  BRANCH: "main"
-  TANGLED_REMOTE: "git@tangled.org:did:plc:hphdefdmm7ddhhjq7coytopt/irrelefante"
   JEKYLL_ENV: "production"
   BUNDLE_PATH: "/tangled/workspace/.bundle"
   WISP_HANDLE: "arthr.me"
   SITE_NAME: "irrelefante"
+  BSKY_PDS: "https://tngl.sh"
+  BSKY_HANDLE: "arthr.me"
+  BRANCH: "main"
+  TANGLED_REMOTE: "git@tangled.org:did:plc:hphdefdmm7ddhhjq7coytopt/irrelefante"
 
 steps:
   - name: "Installing gems"
