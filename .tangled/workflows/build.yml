@@ -27,6 +27,9 @@ environment:
   BSKY_HANDLE: "arthr.me"
   BRANCH: "main"
   TANGLED_REMOTE: "git@tangled.org:did:plc:hphdefdmm7ddhhjq7coytopt/irrelefante"
+  LANG: "C.UTF-8"
+  LC_ALL: "C.UTF-8"
+  RUBYOPT: "-EUTF-8"
 
 steps:
   - name: "Installing gems"
