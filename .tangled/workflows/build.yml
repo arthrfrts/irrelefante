@@ -109,12 +109,10 @@ steps:
       
       CHANGED=0
       if [ -n "$(git status --porcelain .cache)" ]; then
-        git add .cache && git commit -m "chore: update webmention cache"
-        CHANGED=1
+        git add .cache && git commit -m "chore: update webmention cache"; CHANGED=1
       fi
       if [ -n "$(git status --porcelain _posts)" ]; then
-        git add _posts && git commit -m "chore: add at_uri to posts"
-        CHANGED=1
+        git add _posts && git commit -m "chore: add at_uri to posts"; CHANGED=1
       fi
       [ "$CHANGED" -eq 0 ] && { echo "Nada pra empurrar."; exit 0; }
       
@@ -122,21 +120,20 @@ steps:
       for p in /nix/store/*-openssh-*/bin/ssh; do
         [ -e "$p" ] && { SSH_BIN="$p"; break; }
       done
-      [ -z "$SSH_BIN" ] && { echo "ERRO: ssh não encontrado (falta openssh nas deps)"; exit 1; }
+      [ -z "$SSH_BIN" ] && { echo "ERRO: ssh não encontrado"; exit 1; }
       
-      mkdir -p ~/.ssh
+      # entrada de uid 0 pro getpwuid do ssh (home = HOME real, não /root)
+      printf 'root:x:0:0:root:%s:/bin/sh\n' "$HOME" >> /etc/passwd 2>/dev/null || {
+        rm -f /etc/passwd 2>/dev/null
+        printf 'root:x:0:0:root:%s:/bin/sh\n' "$HOME" > /etc/passwd
+      }
+      
+      mkdir -p ~/.ssh && chmod 700 ~/.ssh
       printf '%s\n' "$TANGLED_SSH_KEY" > ~/.ssh/id_ed25519
       chmod 600 ~/.ssh/id_ed25519
-      export HOME="${HOME:-/root}"
       
-      # ssh chama getpwuid; garante uma entrada pro uid 0
-      if ! printf 'root:x:0:0:root:/root:/bin/sh\n' >> /etc/passwd 2>/dev/null; then
-        # /etc/passwd provavelmente é symlink read-only pro store: recria como arquivo
-        rm -f /etc/passwd 2>/dev/null
-        printf 'root:x:0:0:root:/root:/bin/sh\n' > /etc/passwd
-      fi
-      
-      export GIT_SSH_COMMAND="$SSH_BIN -i $HOME/.ssh/id_ed25519 -o StrictHostKeyChecking=accept-new"
+      # sem known_hosts (evita escrever em dir que pode não existir)
+      export GIT_SSH_COMMAND="$SSH_BIN -i $HOME/.ssh/id_ed25519 -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null"
       
       git remote add tangled "$TANGLED_REMOTE" 2>/dev/null || git remote set-url tangled "$TANGLED_REMOTE"
       git push tangled "HEAD:${BRANCH}"
