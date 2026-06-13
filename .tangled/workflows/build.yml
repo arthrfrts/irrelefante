@@ -27,7 +27,7 @@ environment:
   BSKY_PDS: "https://tngl.sh"
   BSKY_HANDLE: "arthr.me"
   BRANCH: "main"
-  TANGLED_REMOTE: "git@tangled.org:did:plc:hphdefdmm7ddhhjq7coytopt/irrelefante"
+  TANGLED_REMOTE: "git@tangled.org:did:plc:hphdefdmm7ddhhjq7coytopt"
   LANG: "C.UTF-8"
   LC_ALL: "C.UTF-8"
   RUBYOPT: "-EUTF-8"
