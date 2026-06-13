@@ -1,5 +1,5 @@
 when:
-  - event: ["manual"]
+  - event: ["push", "manual"]
 
 engine: "nixery"
 
@@ -13,37 +13,33 @@ dependencies:
     - openssh
 
 environment:
-  JEKYLL_ENV: "production"
   BUNDLE_PATH: "/tangled/workspace/.bundle"
-  TANGLED_HANDLE: "arthr.me"
+  BSKY_PDS: "https://tngl.sh"
+  BSKY_HANDLE: "arthr.me"
   BRANCH: "main"
-  
+  TANGLED_REMOTE: "git@tangled.org:did:plc:hphdefdmm7ddhhjq7coytopt/irrelefante"
+
 steps:
   - name: "Installing gems"
     command: |
       export PATH="$HOME/.nix-profile/bin:$PATH"
       bundle install
 
-  - name: "Building Jekyll"
-    command: bundle exec jekyll build
+  - name: "Publishing PDS docs"
+    command: bundle exec rake standard_site:publish
 
-  - name: "Send and receive webmentions"
-    command: bundle exec jekyll webmention
-
-  - name: "Updating cache"
+  - name: "Commits and pushes front-matter"
     command: |
-      # If nothing changes:
-      if [ -z "$(git status --porcelain .cache)" ]; then
-        echo "Cache sem mudanças."
+      if [ -z "$(git status --porcelain _posts)" ]; then
+        echo "Nothing to update."
         exit 0
       fi
-      
-      # Adding private key from secret:
+
       mkdir -p ~/.ssh
       printf '%s\n' "$TANGLED_SSH_KEY" > ~/.ssh/id_ed25519
       chmod 600 ~/.ssh/id_ed25519
       ssh-keyscan tangled.org >> ~/.ssh/known_hosts 2>/dev/null
-      
+
       cat > ~/.ssh/config <<EOF
       Host tangled.org
         Hostname tangled.org
@@ -51,10 +47,10 @@ steps:
         IdentityFile ~/.ssh/id_ed25519
         AddressFamily inet
       EOF
-      
+
       git config user.name "spindle-bot"
-      git config user.email "bot@arthr.me"
-      git add .cache
-      git commit -m "chore: update webmention cache"
-      git remote add tangled "git@tangled.org:${TANGLED_HANDLE}/${TANGLED_REPO_NAME}"
+      git config user.email "bot@irrelefante.com.br"
+      git add _posts
+      git commit -m "chore: adds at_uri to posts"
+      git remote add tangled "$TANGLED_REMOTE" 2>/dev/null || git remote set-url tangled "$TANGLED_REMOTE"
       git push tangled "HEAD:${BRANCH}"
