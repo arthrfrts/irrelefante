@@ -25,3 +25,14 @@ category_colors:
     color: '#e6b855'
     
 logo: /assets/favicon.png
+
+plugins:
+  - jekyll-webmention_io
+  - jekyll-standard-site
+  
+webmentions:
+  username: arthr.me
+  cache_folder: .cache
+  cache_bad_uris_for: 5
+  legacy_domains:
+    - https://arthr.me

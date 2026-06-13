@@ -1,0 +1,39 @@
+when:
+  - event: ["push", "manual"]
+    branch: ["main"]
+
+engine: "nixery"
+
+dependencies:
+  nixpkgs:
+    - ruby
+    - bundler
+    - gcc
+    - gnumake
+    - git
+    - curl
+    - coreutils
+
+environment:
+  JEKYLL_ENV: "production"
+  BUNDLE_PATH: "/tangled/workspace/.bundle"
+  WISP_HANDLE: "arthr.me"
+  SITE_NAME: "irrelefante"
+
+steps:
+  - name: "Installing gems"
+    command: |
+      export PATH="$HOME/.nix-profile/bin:$PATH"
+      bundle install
+      
+  - name: "Building Jekyll"
+    command: bundle exec jekyll build
+
+  - name: "Deploying to wisp.place"
+    command: |
+      curl -L https://sites.wisp.place/nekomimi.pet/wisp-cli-binaries/wisp-cli-x86_64-linux -o wisp-cli
+      chmod +x wisp-cli
+        ./wisp-cli "$WISP_HANDLE" \
+        --path _site \
+        --site "$SITE_NAME" \
+        --password "$WISP_APP_PASSWORD"

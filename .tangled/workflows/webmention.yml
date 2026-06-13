@@ -1,0 +1,60 @@
+when:
+  - event: ["manual"]
+
+engine: "nixery"
+
+dependencies:
+  nixpkgs:
+    - ruby
+    - bundler
+    - gcc
+    - gnumake
+    - git
+    - openssh
+
+environment:
+  JEKYLL_ENV: "production"
+  BUNDLE_PATH: "/tangled/workspace/.bundle"
+  TANGLED_HANDLE: "arthr.me"
+  BRANCH: "main"
+  
+steps:
+  - name: "Installing gems"
+    command: |
+      export PATH="$HOME/.nix-profile/bin:$PATH"
+      bundle install
+
+  - name: "Building Jekyll"
+    command: bundle exec jekyll build
+
+  - name: "Send and receive webmentions"
+    command: bundle exec jekyll webmention
+
+  - name: "Updating cache"
+    command: |
+      # If nothing changes:
+      if [ -z "$(git status --porcelain .cache)" ]; then
+        echo "Cache sem mudanças."
+        exit 0
+      fi
+      
+      # Adding private key from secret:
+      mkdir -p ~/.ssh
+      printf '%s\n' "$TANGLED_SSH_KEY" > ~/.ssh/id_ed25519
+      chmod 600 ~/.ssh/id_ed25519
+      ssh-keyscan tangled.org >> ~/.ssh/known_hosts 2>/dev/null
+      
+      cat > ~/.ssh/config <<EOF
+      Host tangled.org
+        Hostname tangled.org
+        User git
+        IdentityFile ~/.ssh/id_ed25519
+        AddressFamily inet
+      EOF
+      
+      git config user.name "spindle-bot"
+      git config user.email "bot@arthr.me"
+      git add .cache
+      git commit -m "chore: webmention cache"
+      git remote add tangled "git@tangled.org:${TANGLED_HANDLE}/${TANGLED_REPO_NAME}"
+      git push tangled "HEAD:${BRANCH}"
