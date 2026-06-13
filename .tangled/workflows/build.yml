@@ -96,18 +96,20 @@ steps:
   - name: "Send and receive webmentions"
     command: bundle exec jekyll webmention
   
-  - name: "Updating cache"
+  - name: "Setup SSH"
     command: |
-      # If nothing changes:
-      if [ -z "$(git status --porcelain .cache)" ]; then
-        echo "Cache sem mudanças."
-        exit 0
-      fi
+      SSH_BIN=""
+      for p in /nix/store/*-openssh-*/bin/ssh; do
+        [ -e "$p" ] && { SSH_BIN="$p"; break; }
+      done
+      [ -z "$SSH_BIN" ] && { echo "ERROR: ssh not found"; exit 1; }
       
-      # Adding private key from secret:
       mkdir -p ~/.ssh
       printf '%s\n' "$TANGLED_SSH_KEY" > ~/.ssh/id_ed25519
       chmod 600 ~/.ssh/id_ed25519
+      
+      export GIT_SSH_COMMAND="$SSH_BIN -i $HOME/.ssh/id_ed25519 -o StrictHostKeyChecking=accept-new"
+      
       ssh-keyscan tangled.org >> ~/.ssh/known_hosts 2>/dev/null
       
       cat > ~/.ssh/config <<EOF
@@ -117,6 +119,14 @@ steps:
         IdentityFile ~/.ssh/id_ed25519
         AddressFamily inet
       EOF
+  
+  - name: "Updating cache"
+    command: |
+      # If nothing changes:
+      if [ -z "$(git status --porcelain .cache)" ]; then
+        echo "Cache sem mudanças."
+        exit 0
+      fi
       
       git config user.name "spindle-bot"
       git config user.email "bot@arthr.dev"
@@ -128,24 +138,13 @@ steps:
   
   - name: "Commits and pushes front-matter"
     command: |
+      export PATH="$HOME/.nix-profile/bin:$PATH"
+      
       if [ -z "$(git status --porcelain _posts)" ]; then
-        echo "Nothing to update."
+        echo "Nothing to commit."
         exit 0
       fi
-    
-      mkdir -p ~/.ssh
-      printf '%s\n' "$TANGLED_SSH_KEY" > ~/.ssh/id_ed25519
-      chmod 600 ~/.ssh/id_ed25519
-      ssh-keyscan tangled.org >> ~/.ssh/known_hosts 2>/dev/null
-    
-      cat > ~/.ssh/config <<EOF
-      Host tangled.org
-        Hostname tangled.org
-        User git
-        IdentityFile ~/.ssh/id_ed25519
-        AddressFamily inet
-      EOF
-    
+      
       git config user.name "spindle-bot"
       git config user.email "bot@arthr.dev"
       git add _posts
