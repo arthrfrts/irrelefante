@@ -28,18 +28,30 @@ steps:
     command: |
       export PATH="$HOME/.nix-profile/bin:$PATH"
       
-      OPENSSL_DEV=$(ls -d /nix/store/*-openssl-*-dev 2>/dev/null | head -1)
-      OPENSSL_OUT=$(ls -d /nix/store/*-openssl-* 2>/dev/null | grep -vE -- '-(dev|bin|man|doc)$' | head -1)
-      echo "DEV=$OPENSSL_DEV"
-      echo "OUT=$OPENSSL_OUT"
+      # imagem sem grep/which/find confiável: tudo em bash puro
+      OPENSSL_DEV=""
+      for p in /nix/store/*-openssl-*-dev; do
+        [ -e "$p" ] || continue
+        OPENSSL_DEV="$p"; break
+      done
       
-      if [ ! -f "$OPENSSL_DEV/include/openssl/ssl.h" ]; then
-        echo "ERROR: ssl.h not found in $OPENSSL_DEV/include/openssl/"
-        ls -R "$OPENSSL_DEV" 2>/dev/null | head -50
+      OPENSSL_LIB=""
+      for p in /nix/store/*-openssl-*/lib/libssl.so*; do
+        [ -e "$p" ] || continue
+        case "$p" in *-dev/*|*-bin/*) continue ;; esac
+        OPENSSL_LIB="${p%/*}"; break
+      done
+      
+      echo "DEV=$OPENSSL_DEV"
+      echo "LIB=$OPENSSL_LIB"
+      
+      if [ ! -f "$OPENSSL_DEV/include/openssl/ssl.h" ] || [ -z "$OPENSSL_LIB" ]; then
+        echo "ERROR: openssl header or lib not found"
         exit 1
       fi
       
-      export BUNDLE_BUILD__OPENSSL="--with-openssl-include=${OPENSSL_DEV}/include --with-openssl-lib=${OPENSSL_OUT}/lib"
+      export LDFLAGS="-Wl,-rpath,${OPENSSL_LIB} ${LDFLAGS:-}"
+      export BUNDLE_BUILD__OPENSSL="--with-openssl-include=${OPENSSL_DEV}/include --with-openssl-lib=${OPENSSL_LIB}"
       
       bundle install
 
