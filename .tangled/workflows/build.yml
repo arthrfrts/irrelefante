@@ -98,6 +98,8 @@ steps:
   
   - name: "Setup SSH"
     command: |
+      export PATH="$HOME/.nix-profile/bin:$PATH"
+      
       SSH_BIN=""
       for p in /nix/store/*-openssh-*/bin/ssh; do
         [ -e "$p" ] && { SSH_BIN="$p"; break; }
@@ -137,9 +139,7 @@ steps:
     command: bundle exec rake standard_site:publish
   
   - name: "Commits and pushes front-matter"
-    command: |
-      export PATH="$HOME/.nix-profile/bin:$PATH"
-      
+    command: |      
       if [ -z "$(git status --porcelain _posts)" ]; then
         echo "Nothing to commit."
         exit 0
