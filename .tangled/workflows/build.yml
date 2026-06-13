@@ -10,6 +10,9 @@ dependencies:
     - bundler
     - gcc
     - gnumake
+    - pkg-config
+    - openssl
+    - openssl.dev
     - git
     - curl
     - coreutils
@@ -24,6 +27,7 @@ steps:
   - name: "Installing gems"
     command: |
       export PATH="$HOME/.nix-profile/bin:$PATH"
+      export PKG_CONFIG_PATH="$(dirname "$(find /nix/store -name openssl.pc 2>/dev/null | head -1)")"
       bundle install
       
   - name: "Building Jekyll"

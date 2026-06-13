@@ -9,8 +9,12 @@ dependencies:
     - bundler
     - gcc
     - gnumake
+    - pkg-config
+    - openssl
+    - openssl.dev
     - git
-    - openssh
+    - curl
+    - coreutils
 
 environment:
   JEKYLL_ENV: "production"
