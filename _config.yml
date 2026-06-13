@@ -36,3 +36,13 @@ webmentions:
   cache_bad_uris_for: 5
   legacy_domains:
     - https://arthr.me
+
+seo:
+  name: Irrelefante
+  links:
+    - https://arthr.me/
+    - https://github.com/arthrfrts
+    - https://bsky.app/profile/arthr.me
+
+standard_site:
+  publication: "at://did:plc:aeaouj6eedwqmk4z3pies55n/site.standard.publication/3mo7dptc3bi2t"
