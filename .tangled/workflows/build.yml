@@ -13,6 +13,7 @@ dependencies:
     - pkg-config
     - openssl
     - openssl.dev
+    - openssh
     - git
     - curl
     - coreutils
@@ -96,58 +97,37 @@ steps:
   - name: "Send and receive webmentions"
     command: bundle exec jekyll webmention
   
-  - name: "Setup SSH"
+  - name: "Publishing PDS docs"
+    command: bundle exec rake standard_site:publish
+  
+  - name: "Updating cache and PDS docs"
     command: |
       export PATH="$HOME/.nix-profile/bin:$PATH"
+      
+      git config user.name "spindle-bot"
+      git config user.email "bot@arthr.dev"
+      
+      CHANGED=0
+      if [ -n "$(git status --porcelain .cache)" ]; then
+        git add .cache && git commit -m "chore: update webmention cache"
+        CHANGED=1
+      fi
+      if [ -n "$(git status --porcelain _posts)" ]; then
+        git add _posts && git commit -m "chore: add at_uri to posts"
+        CHANGED=1
+      fi
+      [ "$CHANGED" -eq 0 ] && { echo "Nada pra empurrar."; exit 0; }
       
       SSH_BIN=""
       for p in /nix/store/*-openssh-*/bin/ssh; do
         [ -e "$p" ] && { SSH_BIN="$p"; break; }
       done
-      [ -z "$SSH_BIN" ] && { echo "ERROR: ssh not found"; exit 1; }
+      [ -z "$SSH_BIN" ] && { echo "ERRO: ssh não encontrado (falta openssh nas deps)"; exit 1; }
       
       mkdir -p ~/.ssh
       printf '%s\n' "$TANGLED_SSH_KEY" > ~/.ssh/id_ed25519
       chmod 600 ~/.ssh/id_ed25519
-      
       export GIT_SSH_COMMAND="$SSH_BIN -i $HOME/.ssh/id_ed25519 -o StrictHostKeyChecking=accept-new"
       
-      ssh-keyscan tangled.org >> ~/.ssh/known_hosts 2>/dev/null
-      
-      cat > ~/.ssh/config <<EOF
-      Host tangled.org
-        Hostname tangled.org
-        User git
-        IdentityFile ~/.ssh/id_ed25519
-        AddressFamily inet
-      EOF
-  
-  - name: "Updating cache"
-    command: |
-      # If nothing changes:
-      if [ -z "$(git status --porcelain .cache)" ]; then
-        echo "Cache sem mudanças."
-        exit 0
-      fi
-      
-      git config user.name "spindle-bot"
-      git config user.email "bot@arthr.dev"
-      git add .cache
-      git commit -m "chore: update webmention cache"
-  
-  - name: "Publishing PDS docs"
-    command: bundle exec rake standard_site:publish
-  
-  - name: "Commits and pushes front-matter"
-    command: |      
-      if [ -z "$(git status --porcelain _posts)" ]; then
-        echo "Nothing to commit."
-        exit 0
-      fi
-      
-      git config user.name "spindle-bot"
-      git config user.email "bot@arthr.dev"
-      git add _posts
-      git commit -m "chore: adds at_uri to posts"
       git remote add tangled "$TANGLED_REMOTE" 2>/dev/null || git remote set-url tangled "$TANGLED_REMOTE"
       git push tangled "HEAD:${BRANCH}"
