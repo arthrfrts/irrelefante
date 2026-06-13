@@ -24,20 +24,23 @@ environment:
   SITE_NAME: "irrelefante"
 
 steps:
-  
-  - name: "Environment debug"
-    command: |
-      echo "--- pkg-config:"; which pkg-config || echo AUSENTE
-      echo "--- openssl bin:"; which openssl || echo AUSENTE
-      echo "--- store openssl:"; ls -d /nix/store/*openssl* 2>/dev/null || echo nenhum
-      echo "--- openssl.pc:"; find /nix/store -name openssl.pc 2>/dev/null | head
-      echo "--- ssl.h:"; find /nix/store -path '*openssl*/ssl.h' 2>/dev/null | head
-      echo "--- PKG_CONFIG_PATH=$PKG_CONFIG_PATH"
-  
   - name: "Installing gems"
     command: |
       export PATH="$HOME/.nix-profile/bin:$PATH"
-      export PKG_CONFIG_PATH="$(dirname "$(find /nix/store -name openssl.pc 2>/dev/null | head -1)")"
+      
+      OPENSSL_DEV=$(ls -d /nix/store/*-openssl-*-dev 2>/dev/null | head -1)
+      OPENSSL_OUT=$(ls -d /nix/store/*-openssl-* 2>/dev/null | grep -vE -- '-(dev|bin|man|doc)$' | head -1)
+      echo "DEV=$OPENSSL_DEV"
+      echo "OUT=$OPENSSL_OUT"
+      
+      if [ ! -f "$OPENSSL_DEV/include/openssl/ssl.h" ]; then
+        echo "ERROR: ssl.h not found in $OPENSSL_DEV/include/openssl/"
+        ls -R "$OPENSSL_DEV" 2>/dev/null | head -50
+        exit 1
+      fi
+      
+      export BUNDLE_BUILD__OPENSSL="--with-openssl-include=${OPENSSL_DEV}/include --with-openssl-lib=${OPENSSL_OUT}/lib"
+      
       bundle install
 
   - name: "Building Jekyll"
