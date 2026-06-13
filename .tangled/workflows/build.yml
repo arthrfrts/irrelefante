@@ -78,7 +78,7 @@ steps:
       echo "LOADER=$LOADER"
       echo "LIBPATH=$LIBPATH"
       
-      "$LOADER" --library-path "$LIBPATH" ./wisp-cli \
+      "$LOADER" --library-path "$LIBPATH" ./wisp-cli deploy \
         "$WISP_HANDLE" \
         --path _site \
         --site "$SITE_NAME" \
