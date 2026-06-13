@@ -16,6 +16,7 @@ dependencies:
     - git
     - curl
     - coreutils
+    - glibc
 
 environment:
   JEKYLL_ENV: "production"
@@ -28,7 +29,6 @@ steps:
     command: |
       export PATH="$HOME/.nix-profile/bin:$PATH"
       
-      # imagem sem grep/which/find confiável: tudo em bash puro
       OPENSSL_DEV=""
       for p in /nix/store/*-openssl-*-dev; do
         [ -e "$p" ] || continue
@@ -62,7 +62,24 @@ steps:
     command: |
       curl -L https://sites.wisp.place/nekomimi.pet/wisp-cli-binaries/wisp-cli-x86_64-linux -o wisp-cli
       chmod +x wisp-cli
-        ./wisp-cli "$WISP_HANDLE" \
+      
+      LOADER=""
+      for p in /nix/store/*-glibc-*/lib/ld-linux-x86-64.so.2; do
+        [ -e "$p" ] && { LOADER="$p"; break; }
+      done
+      [ -z "$LOADER" ] && { echo "ERROR: glibc loader not found"; exit 1; }
+      
+      LIBPATH=""
+      add() { [ -d "$1" ] && LIBPATH="${LIBPATH:+$LIBPATH:}$1"; }
+      for p in /nix/store/*-glibc-*/lib;     do add "$p"; done
+      for p in /nix/store/*-gcc-*-lib/lib;   do add "$p"; done
+      for p in /nix/store/*-openssl-*/lib;   do case "$p" in *-dev/*|*-bin/*) ;; *) add "$p";; esac; done
+      
+      echo "LOADER=$LOADER"
+      echo "LIBPATH=$LIBPATH"
+      
+      "$LOADER" --library-path "$LIBPATH" ./wisp-cli \
+        "$WISP_HANDLE" \
         --path _site \
         --site "$SITE_NAME" \
         --password "$WISP_APP_PASSWORD"
