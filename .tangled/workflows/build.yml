@@ -127,6 +127,15 @@ steps:
       mkdir -p ~/.ssh
       printf '%s\n' "$TANGLED_SSH_KEY" > ~/.ssh/id_ed25519
       chmod 600 ~/.ssh/id_ed25519
+      export HOME="${HOME:-/root}"
+      
+      # ssh chama getpwuid; garante uma entrada pro uid 0
+      if ! printf 'root:x:0:0:root:/root:/bin/sh\n' >> /etc/passwd 2>/dev/null; then
+        # /etc/passwd provavelmente é symlink read-only pro store: recria como arquivo
+        rm -f /etc/passwd 2>/dev/null
+        printf 'root:x:0:0:root:/root:/bin/sh\n' > /etc/passwd
+      fi
+      
       export GIT_SSH_COMMAND="$SSH_BIN -i $HOME/.ssh/id_ed25519 -o StrictHostKeyChecking=accept-new"
       
       git remote add tangled "$TANGLED_REMOTE" 2>/dev/null || git remote set-url tangled "$TANGLED_REMOTE"
