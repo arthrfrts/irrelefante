@@ -75,10 +75,12 @@ steps:
       for p in /nix/store/*-gcc-*-lib/lib;   do add "$p"; done
       for p in /nix/store/*-openssl-*/lib;   do case "$p" in *-dev/*|*-bin/*) ;; *) add "$p";; esac; done
       
-      echo "LOADER=$LOADER"
-      echo "LIBPATH=$LIBPATH"
+      mkdir -p /lib64 /lib
+      ln -sf "$LOADER" /lib64/ld-linux-x86-64.so.2
+      ln -sf "$LOADER" /lib/ld-linux-x86-64.so.2
+      export LD_LIBRARY_PATH="$LIBPATH${LD_LIBRARY_PATH:+:$LD_LIBRARY_PATH}"
       
-      "$LOADER" --library-path "$LIBPATH" ./wisp-cli deploy \
+      ./wisp-cli deploy \
         "$WISP_HANDLE" \
         --path _site \
         --site "$SITE_NAME" \
