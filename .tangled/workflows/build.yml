@@ -24,12 +24,22 @@ environment:
   SITE_NAME: "irrelefante"
 
 steps:
+  
   - name: "Installing gems"
     command: |
       export PATH="$HOME/.nix-profile/bin:$PATH"
       export PKG_CONFIG_PATH="$(dirname "$(find /nix/store -name openssl.pc 2>/dev/null | head -1)")"
       bundle install
       
+  - name: "Ambient debug"
+    command: |
+      echo "--- pkg-config:"; which pkg-config || echo AUSENTE
+      echo "--- openssl bin:"; which openssl || echo AUSENTE
+      echo "--- store openssl:"; ls -d /nix/store/*openssl* 2>/dev/null || echo nenhum
+      echo "--- openssl.pc:"; find /nix/store -name openssl.pc 2>/dev/null | head
+      echo "--- ssl.h:"; find /nix/store -path '*openssl*/ssl.h' 2>/dev/null | head
+      echo "--- PKG_CONFIG_PATH=$PKG_CONFIG_PATH"
+
   - name: "Building Jekyll"
     command: bundle exec jekyll build
 
