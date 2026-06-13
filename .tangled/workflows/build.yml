@@ -119,7 +119,7 @@ steps:
       EOF
       
       git config user.name "spindle-bot"
-      git config user.email "bot@arthr.me"
+      git config user.email "bot@arthr.dev"
       git add .cache
       git commit -m "chore: update webmention cache"
   
@@ -147,7 +147,7 @@ steps:
       EOF
     
       git config user.name "spindle-bot"
-      git config user.email "bot@irrelefante.com.br"
+      git config user.email "bot@arthr.dev"
       git add _posts
       git commit -m "chore: adds at_uri to posts"
       git remote add tangled "$TANGLED_REMOTE" 2>/dev/null || git remote set-url tangled "$TANGLED_REMOTE"
