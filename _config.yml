@@ -71,37 +71,37 @@ plugins:
 
 # Plugin: jekyll-webmention_io
 webmentions:
-username: arthr.me
-cache_folder: _data/webmentions
-syndication:
-  bluesky:
-    endpoint: https://brid.gy/publish/bluesky
-    response_mapping:
-      syndication: $.url
-  mastodon:
-    endpoint: https://brid.gy/publish/mastodon
-    response_mapping:
-      syndication: $.url
-  flickr:
-    endpoint: https://brid.gy/publish/flickr
-    response_mapping:
-      syndication: $.url
-templates:
-  webmentions: _includes/webmentions.html
-legacy_domains:
-  - https://arthrfrts.tumblr.com
-  - https://irrelefante.tumblr.com
-  - https://arthr.me
-throttle_lookups:
-  last_week: daily
-  last_month: weekly
-  last_year: every 2 weeks
-  older: monthly
-cache_bad_uris_for: 5
-bad_uri_policy:
-  default:
-    policy: retry
-    max_attempts: 5
+  username: arthr.me
+  cache_folder: _data/webmentions
+  syndication:
+    bluesky:
+      endpoint: https://brid.gy/publish/bluesky
+      response_mapping:
+        syndication: $.url
+    mastodon:
+      endpoint: https://brid.gy/publish/mastodon
+      response_mapping:
+        syndication: $.url
+    flickr:
+      endpoint: https://brid.gy/publish/flickr
+      response_mapping:
+        syndication: $.url
+  templates:
+    webmentions: _includes/webmentions.html
+  legacy_domains:
+    - https://arthrfrts.tumblr.com
+    - https://irrelefante.tumblr.com
+    - https://arthr.me
+  throttle_lookups:
+    last_week: daily
+    last_month: weekly
+    last_year: every 2 weeks
+    older: monthly
+  cache_bad_uris_for: 5
+  bad_uri_policy:
+    default:
+      policy: retry
+      max_attempts: 5
 
 # Plugin: jekyll-seo-tag
 seo:
