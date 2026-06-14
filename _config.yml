@@ -3,40 +3,105 @@ title: Irrelefante
 description: >-
   Nada faz muito sentido.
 
-lang: pt-br  
+lang: pt-br
+timezone: America/Sao_Paulo
+encoding: utf-8
 
 baseurl: ""
 url: "https://irrelefante.com.br"
 
+logo: /assets/favicon.png
+
 # Build settings
 theme: linus
 
-paginate: 10
-permalink: /:slugified_categories/:year-:month-:title:output_ext
+date_formats:
+  day: '%d/%m/%y'
+  month: "%m/%Y"
+  year: "%Y"
 
 category_colors:
-  - name: Impressões
-    color: '#eba07d'
-  - name: Esquinas
-    color: '#a0c46e'
-  - name: Achados
-    color: '#82bbcf'
-  - name: Listas
-    color: '#e6b855'
-    
-logo: /assets/favicon.png
+- name: Impressões
+  color: '#eba07d'
+- name: Esquinas
+  color: '#a0c46e'
+- name: Achados
+  color: '#82bbcf'
+- name: Listas
+  color: '#e6b855'
+
+main_menu:
+  title: Navegar
+  items:
+    - url: "/"
+      label: Posts
+    - url: "/sobre/"
+      label: Sobre
+    - url: "/arquivos/"
+      label: Arquivo & Tags
+
+footer_menu:
+  title: Acompanhe o blog
+  items:
+    - url: /feed.xml
+      label: RSS
+      rel: alternate
+    - url: /feed.json
+      label: JSON Feed
+      rel: alternate
+
+translations:
+  byline: "Por"
+  archive_date_title: "Arquivos de %date"
+  archive_tag_title: "Posts marcados com “%tag”"
+  archive_category_title: "Arquivo de %category"
+  blog_pagination_title: "Paginação do blog"
+  blog_pagination_prev_page: "Página anterior"
+  blog_pagination_next_page: "Próxima página"
+
+# Build settings
+paginate: 10
+permalink: /:slugified_categories/:year-:month-:title:output_ext
 
 plugins:
   - jekyll-webmention_io
   - jekyll-standard-site
-  
-webmentions:
-  username: arthr.me
-  cache_folder: .cache
-  cache_bad_uris_for: 5
-  legacy_domains:
-    - https://arthr.me
 
+# Plugin: jekyll-webmention_io
+webmentions:
+username: arthr.me
+cache_folder: _data/webmentions
+syndication:
+  bluesky:
+    endpoint: https://brid.gy/publish/bluesky
+    response_mapping:
+      syndication: $.url
+  mastodon:
+    endpoint: https://brid.gy/publish/mastodon
+    response_mapping:
+      syndication: $.url
+  flickr:
+    endpoint: https://brid.gy/publish/flickr
+    response_mapping:
+      syndication: $.url
+templates:
+  webmentions: _includes/webmentions.html
+legacy_domains:
+  - https://arthrfrts.tumblr.com
+  - https://irrelefante.tumblr.com
+  - https://arthr.me
+throttle_lookups:
+  last_week: daily
+  last_month: weekly
+  last_year: every 2 weeks
+  older: monthly
+cache_bad_uris_for: 5
+bad_uri_policy:
+  default:
+    policy: retry
+    max_attempts: 5
+
+# Plugin: jekyll-seo-tag
 seo:
   name: Irrelefante
   links:
@@ -44,5 +109,24 @@ seo:
     - https://github.com/arthrfrts
     - https://bsky.app/profile/arthr.me
 
+# Plugin: jekyll-standard-site
 standard_site:
   publication: "at://did:plc:aeaouj6eedwqmk4z3pies55n/site.standard.publication/3mo7dptc3bi2t"
+
+# Plugin: jekyll-archives
+jekyll-archives:
+  permalinks:
+    tags: /tag/:name/
+    category: /:name/
+
+# Plugin: jekyll-compose
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      author: arthur
+      category: Notas
+      tags:
+    posts:
+      author: arthur
+      category: Notas
+      tags:
