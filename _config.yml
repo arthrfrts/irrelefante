@@ -37,8 +37,8 @@ main_menu:
   items:
     - url: "/"
       label: Posts
-    - url: "/sobre/"
-      label: Sobre
+    # - url: "/sobre/"
+    #   label: Sobre
     - url: "/arquivos/"
       label: Arquivo & Tags
 
@@ -63,7 +63,7 @@ translations:
 
 # Build settings
 paginate: 10
-permalink: /:slugified_categories/:year-:month-:title:output_ext
+permalink: /:slugified_categories/:year/:month/:day/:title:output_ext
 
 plugins:
   - jekyll-webmention_io
