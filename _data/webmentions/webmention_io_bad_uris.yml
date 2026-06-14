@@ -1,0 +1,125 @@
+---
+ontheinterneteverybodyknows.geocities.institute:
+  state: failure
+  attempts: 1
+  last_checked: '2026-06-14 20:29:32 -0300'
+piaui.folha.uol.com.br:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:35 -0300'
+www.wikiportraits.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:35 -0300'
+bandcamp.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:35 -0300'
+sudanarchives.bandcamp.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:36 -0300'
+annavonhausswolff.bandcamp.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:37 -0300'
+paomortadela.com.br:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:37 -0300'
+www.stereogum.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:39 -0300'
+publicdomainreview.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:39 -0300'
+www.sherryning.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:40 -0300'
+defector.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:41 -0300'
+www.brwnpaperbag.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:42 -0300'
+nautil.us:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:42 -0300'
+www.nature.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:44 -0300'
+www.youtube.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:44 -0300'
+jornal.usp.br:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:45 -0300'
+fabiansjournal.bearblog.dev:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:45 -0300'
+letterboxd.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:46 -0300'
+bsky.app:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:46 -0300'
+raulranma.itch.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:46 -0300'
+arthrfrts.tumblr.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:48 -0300'
+le-chouchou.ghost.io:
+  state: error
+  attempts: 1
+  last_checked: '2026-06-14 20:29:51 -0300'
+archive.is:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:54 -0300'
+words.zip:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:54 -0300'
+arstechnica.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:54 -0300'
+www.swiss-miss.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:55 -0300'
+chris.pagecord.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:55 -0300'
+embed.music.apple.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:55 -0300'
+aphelis.net:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:55 -0300'
+brid.gy:
+  state: error
+  attempts: 1
+  last_checked: '2026-06-14 20:29:56 -0300'
+arthrfts.tumblr.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-14 20:29:57 -0300'
