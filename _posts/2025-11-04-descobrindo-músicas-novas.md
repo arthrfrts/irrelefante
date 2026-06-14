@@ -9,6 +9,7 @@ tags:
   - Sudan Archives
   - Anna von Hausswolff
 redirect_from: /post/799283712590282752/descobrindo-músicas-novas
+at_uri: "at://did:plc:aeaouj6eedwqmk4z3pies55n/site.standard.document/3mob2kg6jdl2t"
 ---
 
 Desde a pandemia, a minha relação com música tem mudado e se aprofundado muito. Começou com a dobradinha _Fetch the Bolt Cutters_, da Fiona Apple; e _Set My Heart On Fire Immediately_, do Perfume Genius. [Eu escrevi sobre isso no _Pão_ em 2020][pao].

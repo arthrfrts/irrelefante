@@ -10,6 +10,7 @@ tags:
   - bichos de estimação
   - pinturas
 redirect_from: /post/803648607310970880/o-gato-que-viajou-no-tempo
+at_uri: "at://did:plc:aeaouj6eedwqmk4z3pies55n/site.standard.document/3mob2kjcgm32t"
 ---
 
 Bridget, a gata dos pais de Tom Cox, desapareceu. Para acalmar os próprios ânimos, o pai de Cox pintava as aventuras que ele imaginava que Bridget estava tendo:

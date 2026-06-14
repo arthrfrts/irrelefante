@@ -10,6 +10,7 @@ tags:
   - paleontologia
   - dinossauros
 redirect_from: /post/801732185651609600/vômito-de-dinossauro-revela-nova-espécie-de
+at_uri: "at://did:plc:aeaouj6eedwqmk4z3pies55n/site.standard.document/3mob2kiankd2t"
 ---
 
 [Eu fico fascinado com o que têm de fóssil por aí][fossil]

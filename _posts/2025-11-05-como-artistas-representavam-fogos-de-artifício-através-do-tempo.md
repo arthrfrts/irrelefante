@@ -9,6 +9,7 @@ tags:
   - arte
   - pirotecnia
 redirect_from: /post/799380518676348928/como-artistas-representavam-fogos-de-artifício
+at_uri: "at://did:plc:aeaouj6eedwqmk4z3pies55n/site.standard.document/3mob2kgivel2t"
 ---
 
 ![Detalhe de “Fogos de artifício no Jardim do Convento” (1690), por Bernard Lens II.]({% link uploads/2025/11/fogos.webp %})

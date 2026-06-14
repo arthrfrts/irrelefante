@@ -6,6 +6,7 @@ category: Notas
 tags:
 - editorial
 date: 2026-06-14 12:10 -0300
+at_uri: "at://did:plc:aeaouj6eedwqmk4z3pies55n/site.standard.document/3mob2kkpc5l2t"
 ---
 Olá, e boas vindas ao _Irrelefante_, um blog de tropeços pela internet. Essa é uma definição bem ampla do que eu espero que o _Irrelefante_ seja no futuro. Mas ele ainda não é isso. Com dedicação o suficiente, nos próximos anos eu imagino que esse blog vai estar repleto de posts sobre pequenas descobertas do dia-a-dia, observações sobre a cultura, e aventuras por cantos ultra-específicos da internet. Eu quero que o _Irrelefante_ seja um blog para pessoas que gostam de navegar pela internet. É uma continuação, mais ampla e menos rigorosa, da forma que o meu antigo blog (o _[Pão com Mortadela][pao]_) assumiu.
 

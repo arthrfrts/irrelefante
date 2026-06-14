@@ -12,6 +12,7 @@ tags:
   - jogos
   - links
 redirect_from: /post/804362250332913664/as-cinco-melhores-coisas-de-2025
+at_uri: "at://did:plc:aeaouj6eedwqmk4z3pies55n/site.standard.document/3mob2kjnny32t"
 ---
 
 ![Ilustração por Raul (@raulranma): um elefante está sentadinho, olhando o pôr-do-sol. As nuvens formam "2025"]({% link uploads/2025/12/retro.jpg %})
