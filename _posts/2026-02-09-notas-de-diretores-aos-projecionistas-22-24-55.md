@@ -11,6 +11,7 @@ tags:
   - Stanley Kubrick
   - David Lynch
 redirect_from: /post/808123572500480000/notas-de-diretores-aos-projecionistas
+at_uri: "at://did:plc:aeaouj6eedwqmk4z3pies55n/site.standard.document/3moauc4k6k32t"
 ---
 
 Gosto muito dessa arte perdida de notas de diretores para os projecionistas que cuidam da exibição dos filmes nas salas de cinema. Alguns diretores enviavam notas aos projecionistas com observações a serem tomadas, como indicadores de trocas do rolo do filme, configurações para o sistema de som e até mesmo pequenos pedidos para corrigir momentos do filme. É uma observação dos diretores para as pessoas responsáveis por exibirem os filmes para o público.

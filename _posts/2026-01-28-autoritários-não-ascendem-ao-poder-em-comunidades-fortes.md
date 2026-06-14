@@ -8,6 +8,7 @@ tags:
   - sociedade
   - comunidades
   - sentimentos
+at_uri: "at://did:plc:aeaouj6eedwqmk4z3pies55n/site.standard.document/3moauc3sye32t"
 ---
 
 Heather Cox Richardson, via <cite>[swissmiss][sm]</cite>:
