@@ -72,7 +72,7 @@ plugins:
 # Plugin: jekyll-webmention_io
 webmentions:
   username: arthr.me
-  cache_folder: _data/webmentions
+  cache_folder: _data
   syndication:
     bluesky:
       endpoint: https://brid.gy/publish/bluesky
