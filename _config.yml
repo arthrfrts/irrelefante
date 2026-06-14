@@ -16,19 +16,21 @@ logo: /assets/favicon.png
 theme: linus
 
 date_formats:
-  day: '%d/%m/%y'
+  day: "%d/%m/%y"
   month: "%m/%Y"
   year: "%Y"
 
 category_colors:
 - name: Impressões
-  color: '#eba07d'
+  color: "#eba07d"
 - name: Esquinas
-  color: '#a0c46e'
+  color: "#a0c46e"
 - name: Achados
-  color: '#82bbcf'
+  color: "#82bbcf"
+- name: Notas
+  color: "#6a00ff"
 - name: Listas
-  color: '#e6b855'
+  color: "#e6b855"
 
 main_menu:
   title: Navegar
@@ -66,7 +68,6 @@ permalink: /:slugified_categories/:year-:month-:title:output_ext
 plugins:
   - jekyll-webmention_io
   - jekyll-standard-site
-  - jekyll-compose
 
 # Plugin: jekyll-webmention_io
 webmentions:
