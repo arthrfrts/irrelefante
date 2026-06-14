@@ -18,12 +18,12 @@ dependencies:
     - curl
     - coreutils
     - glibc
+    - wrangler
 
 environment:
   JEKYLL_ENV: "production"
   BUNDLE_PATH: "/tangled/workspace/.bundle"
-  WISP_HANDLE: "arthr.me"
-  SITE_NAME: "irrelefante"
+  CF_PAGES_PROJECT: "irrelefante"
   BSKY_PDS: "https://tngl.sh"
   BSKY_HANDLE: "arthr.me"
   BRANCH: "main"
@@ -36,77 +36,57 @@ steps:
   - name: "Installing gems"
     command: |
       export PATH="$HOME/.nix-profile/bin:$PATH"
-      
+
       OPENSSL_DEV=""
       for p in /nix/store/*-openssl-*-dev; do
         [ -e "$p" ] || continue
         OPENSSL_DEV="$p"; break
       done
-      
+
       OPENSSL_LIB=""
       for p in /nix/store/*-openssl-*/lib/libssl.so*; do
         [ -e "$p" ] || continue
         case "$p" in *-dev/*|*-bin/*) continue ;; esac
         OPENSSL_LIB="${p%/*}"; break
       done
-      
+
       echo "DEV=$OPENSSL_DEV"
       echo "LIB=$OPENSSL_LIB"
-      
+
       if [ ! -f "$OPENSSL_DEV/include/openssl/ssl.h" ] || [ -z "$OPENSSL_LIB" ]; then
         echo "ERROR: openssl header or lib not found"
         exit 1
       fi
-      
+
       export LDFLAGS="-Wl,-rpath,${OPENSSL_LIB} ${LDFLAGS:-}"
       export BUNDLE_BUILD__OPENSSL="--with-openssl-include=${OPENSSL_DEV}/include --with-openssl-lib=${OPENSSL_LIB}"
-      
+
       bundle install
 
   - name: "Building Jekyll"
     command: bundle exec jekyll build
 
-  - name: "Deploying to wisp.place"
+  - name: "Deploying to Cloudflare"
     command: |
-      curl -L https://sites.wisp.place/nekomimi.pet/wisp-cli-binaries/wisp-cli-x86_64-linux -o wisp-cli
-      chmod +x wisp-cli
-      
-      LOADER=""
-      for p in /nix/store/*-glibc-*/lib/ld-linux-x86-64.so.2; do
-        [ -e "$p" ] && { LOADER="$p"; break; }
-      done
-      [ -z "$LOADER" ] && { echo "ERROR: glibc loader not found"; exit 1; }
-      
-      LIBPATH=""
-      add() { [ -d "$1" ] && LIBPATH="${LIBPATH:+$LIBPATH:}$1"; }
-      for p in /nix/store/*-glibc-*/lib;     do add "$p"; done
-      for p in /nix/store/*-gcc-*-lib/lib;   do add "$p"; done
-      for p in /nix/store/*-openssl-*/lib;   do case "$p" in *-dev/*|*-bin/*) ;; *) add "$p";; esac; done
-      
-      mkdir -p /lib64 /lib
-      ln -sf "$LOADER" /lib64/ld-linux-x86-64.so.2
-      ln -sf "$LOADER" /lib/ld-linux-x86-64.so.2
-      export LD_LIBRARY_PATH="$LIBPATH${LD_LIBRARY_PATH:+:$LD_LIBRARY_PATH}"
-      
-      ./wisp-cli deploy \
-        "$WISP_HANDLE" \
-        --path _site \
-        --site "$SITE_NAME" \
-        --password "$WISP_APP_PASSWORD"
-    
+      export PATH="$HOME/.nix-profile/bin:$PATH"
+      wrangler pages deploy _site \
+        --project-name "$CF_PAGES_PROJECT" \
+        --branch main \
+        --commit-dirty=true
+
   - name: "Send and receive webmentions"
     command: bundle exec jekyll webmention
-  
+
   - name: "Publishing PDS docs"
     command: bundle exec rake standard_site:publish
-  
+
   - name: "Updating cache and PDS docs"
     command: |
       export PATH="$HOME/.nix-profile/bin:$PATH"
-      
+
       git config user.name "spindle-bot"
       git config user.email "bot@arthr.dev"
-      
+
       CHANGED=0
       if [ -n "$(git status --porcelain .cache)" ]; then
         git add .cache && git commit -m "chore: update webmention cache"; CHANGED=1
@@ -114,26 +94,24 @@ steps:
       if [ -n "$(git status --porcelain _posts)" ]; then
         git add _posts && git commit -m "chore: add at_uri to posts"; CHANGED=1
       fi
-      [ "$CHANGED" -eq 0 ] && { echo "Nada pra empurrar."; exit 0; }
-      
+      [ "$CHANGED" -eq 0 ] && { echo "Nothing to push."; exit 0; }
+
       SSH_BIN=""
       for p in /nix/store/*-openssh-*/bin/ssh; do
         [ -e "$p" ] && { SSH_BIN="$p"; break; }
       done
-      [ -z "$SSH_BIN" ] && { echo "ERRO: ssh não encontrado"; exit 1; }
-      
-      # entrada de uid 0 pro getpwuid do ssh (home = HOME real, não /root)
+      [ -z "$SSH_BIN" ] && { echo "ERROR: ssh not found"; exit 1; }
+
       printf 'root:x:0:0:root:%s:/bin/sh\n' "$HOME" >> /etc/passwd 2>/dev/null || {
         rm -f /etc/passwd 2>/dev/null
         printf 'root:x:0:0:root:%s:/bin/sh\n' "$HOME" > /etc/passwd
       }
-      
+
       mkdir -p ~/.ssh && chmod 700 ~/.ssh
       printf '%s\n' "$TANGLED_SSH_KEY" > ~/.ssh/id_ed25519
       chmod 600 ~/.ssh/id_ed25519
-      
-      # sem known_hosts (evita escrever em dir que pode não existir)
+
       export GIT_SSH_COMMAND="$SSH_BIN -i $HOME/.ssh/id_ed25519 -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null"
-      
+
       git remote add tangled "$TANGLED_REMOTE" 2>/dev/null || git remote set-url tangled "$TANGLED_REMOTE"
       git push tangled "HEAD:${BRANCH}"
