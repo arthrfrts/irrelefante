@@ -8,6 +8,7 @@ tags:
   - links
   - sociedade
   - tecnologia
+redirect_from: /post/807541785070108672/o-apogeu-dos-anos-90
 ---
 
 Vai ver é a crise que eu tô passando no trabalho, vai ver porque eu realmente tô valorizando esperar mais, mas [esse post do Chris Collins](https://chris.pagecord.com/we-as-a-society-peaked-in-the-90s) bateu forte em mim:
