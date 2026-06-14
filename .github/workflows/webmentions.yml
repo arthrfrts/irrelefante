@@ -29,9 +29,9 @@ jobs:
 
       - name: Commit updated cache
         run: |
-          [ -z "$(git status --porcelain .cache)" ] && { echo "No cache change."; exit 0; }
+          [ -z "$(git status --porcelain _data/webmentions)" ] && { echo "No cache change."; exit 0; }
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .cache
+          git add _data/webmentions
           git commit -m "chore: update webmention cache"
           git push
