@@ -66,6 +66,7 @@ permalink: /:slugified_categories/:year-:month-:title:output_ext
 plugins:
   - jekyll-webmention_io
   - jekyll-standard-site
+  - jekyll-compose
 
 # Plugin: jekyll-webmention_io
 webmentions:
