@@ -3,3 +3,7 @@ https://irrelefante.com.br/esquinas/listas/achados/impress%C3%B5es/2026-06-welco
   https://jekyllrb.com/docs/home: 1
   https://github.com/jekyll/jekyll: 1
   https://talk.jekyllrb.com/: 1
+https://irrelefante.com.br/esquinas/2026-06-welcome-to-jekyll.html:
+  https://jekyllrb.com/docs/home: false
+  https://github.com/jekyll/jekyll: false
+  https://talk.jekyllrb.com/: false
