@@ -1,8 +1,8 @@
 :root {
   --color-background: #f2f1ed;
   --color-text: #302e27;
-  --color-link: #22a552;
-  --color-link-hover: #dd6b00;
+  --color-link: #dd6b00;
+  --color-link-hover: #22a552;
   --color-support: #6a00ff;
   --color-shadows: hsla(47, 18%, 19%, 0.25);
 
@@ -18,11 +18,11 @@
 }
 
 .site-header .site-logo {
-  background: #f5f2ed;
+  background: #f2f1ed;
 }
 
 .category {
-  color: #44413c !important;
+  color: #302e27 !important;
 }
 
 .interactions {

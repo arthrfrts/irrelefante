@@ -13,3 +13,5 @@ gem "linus", "~> 1.3"
 
 gem "jekyll-webmention_io", "~> 4.2", group: :jekyll_plugins
 gem "jekyll-standard-site", "~> 0.2.0", group: :jekyll_plugins
+
+gem "jekyll-compose", "~> 0.12.0", group: :jekyll_plugins

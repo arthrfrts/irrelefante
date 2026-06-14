@@ -22,15 +22,15 @@ date_formats:
 
 category_colors:
 - name: Impressões
-  color: "#eba07d"
+  color: "#e0a48d"
 - name: Esquinas
-  color: "#a0c46e"
+  color: "#9bb8c0"
 - name: Achados
-  color: "#82bbcf"
+  color: "#e0bd6e"
 - name: Notas
-  color: "#6a00ff"
+  color: "#a8c098"
 - name: Listas
-  color: "#e6b855"
+  color: "#c2a8cc"
 
 main_menu:
   title: Navegar
@@ -111,6 +111,7 @@ seo:
     - https://github.com/arthrfrts
     - https://bsky.app/profile/arthr.me
     - https://organica.social/@arthr
+    - https://irrelefante.tumblr.com/
 
 # Plugin: jekyll-standard-site
 standard_site:
