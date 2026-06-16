@@ -96,8 +96,10 @@ https://irrelefante.com.br/notas/2026/06/14/um-guia-para-a-leitura-desse-futuro-
   https://paomortadela.com.br/: false
   https://arthrfts.tumblr.com/: 2
 https://irrelefante.com.br/esquinas/2026/06/15/em-defesa-dos-navegadores-em-consoles.html:
-  https://brid.gy/publish/mastodon: 1
-  https://brid.gy/publish/bluesky: 1
+  https://brid.gy/publish/mastodon: 2
+  https://brid.gy/publish/bluesky:
+    id: at://did:plc:aeaouj6eedwqmk4z3pies55n/app.bsky.feed.post/3mofyrj56gg2t
+    url: https://bsky.app/profile/arthr.me/post/3mofyrj56gg2t
   https://vale.rocks/posts/game-console-browsers: 1
   https://mohkohn.co.uk/writing/html-first/: 1
   https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/:
