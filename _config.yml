@@ -21,16 +21,16 @@ date_formats:
   year: "%Y"
 
 category_colors:
-- name: Impressões
-  color: "#e0a48d"
-- name: Esquinas
-  color: "#9bb8c0"
-- name: Achados
-  color: "#e0bd6e"
-- name: Notas
-  color: "#a8c098"
-- name: Listas
-  color: "#c2a8cc"
+  - name: Impressões
+    color: "#e0a48d"
+  - name: Esquinas
+    color: "#9bb8c0"
+  - name: Achados
+    color: "#e0bd6e"
+  - name: Notas
+    color: "#a8c098"
+  - name: Listas
+    color: "#c2a8cc"
 
 main_menu:
   title: Navegar
@@ -99,6 +99,15 @@ webmentions:
     older: monthly
   cache_bad_uris_for: 5
   bad_uri_policy:
+    unsupported: ban
+    error:
+      policy: ignore
+    failure:
+      policy: retry
+      retry_delay: [1, 12, 48, 120]
+      max_retries: 5
+    whitelist:
+      - '^https?://brid\.gy/'
     default:
       policy: retry
       max_attempts: 5
