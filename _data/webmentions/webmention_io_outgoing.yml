@@ -88,7 +88,8 @@ https://irrelefante.com.br/achados/2026/02/09/notas-de-diretores-aos-projecionis
 https://irrelefante.com.br/notas/2026/06/14/um-guia-para-a-leitura-desse-futuro-blog.html:
   https://brid.gy/publish/bluesky:
     url: https://bsky.app/profile/arthr.me/post/3mobfokwoom2t
-  https://brid.gy/publish/mastodon: false
+  https://brid.gy/publish/mastodon:
+    url: https://organica.social/@arthr/116749884253639139
   https://paomortadela.com.br/: false
   https://arthrfts.tumblr.com/: 2
 https://irrelefante.com.br/esquinas/2026/06/15/em-defesa-dos-navegadores-em-consoles.html:
