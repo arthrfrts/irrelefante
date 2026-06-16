@@ -17,8 +17,6 @@ Por alguma razão misteriosa na forma como eu tropeço em links na internet, eu 
 
 O primeiro, é [esse baita trabalho de pesquisa por Declan Chidlow][valerocks] em documentar a interface desses navegadores, passando por curiosidades como o CD-i e o Apple Pippin até o PlayStation 2 e o Wii --- e então pros consoles mais recentes.
 
-{% include link-preview.html url="https://vale.rocks/posts/game-console-browsers" %}
-
 Eu sempre gostei do fato do Wii e do 3DS terem navegadores. Eu nunca usei muito eles além da parte em que eles facilitam os hacks para homebrew de ambos os consoles. Porém, eu sempre achei curiosa a forma como a Nintendo e a desenvolvedora responsável por esses navegadores faziam um esforço em usar as capacidades específicas de hardware na navegação. No Wii, era o uso do sensor de movimentos pra controlar o ponteiro; no 3DS, o recurso de duas telas espalhava os controles pela tela de toque enquanto a de cima exibia o conteúdo da página.
 
 Eu me deparei com o segundo link quase que por engano. Em [um artigo](mohkohn) sobre como construir sites principalmente em HTML melhorou as métricas de visitas de um site tem um link para _outro_ artigo sobre a importância da simplicidade no desenvolvimento para a web. É [nesse link][shkspr] que está essa pequena anedota de Terence Eden:
