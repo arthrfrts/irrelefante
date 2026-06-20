@@ -131,3 +131,7 @@ playstationdev.wiki:
   state: unsupported
   attempts: 1
   last_checked: '2026-06-15 21:10:08 -0300'
+buttondown.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-19 21:42:19 -0300'
