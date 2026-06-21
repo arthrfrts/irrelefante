@@ -7,6 +7,7 @@ category: Notas
 tags:
   - comportamento
 redirect_from: /post/801187147182931968/os-benefícios-de-desistir
+at_uri: "at://did:plc:aeaouj6eedwqmk4z3pies55n/site.standard.document/3mosqlly5zd2t"
 ---
 
 Molly Glick, na _[Nautilus][nautilus]_:

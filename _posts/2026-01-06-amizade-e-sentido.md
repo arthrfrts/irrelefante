@@ -8,6 +8,7 @@ tags:
   - comportamento
   - amizades
 redirect_from: /post/804989195027431424/amizade-e-sentido
+at_uri: "at://did:plc:aeaouj6eedwqmk4z3pies55n/site.standard.document/3mosqlod6ft2t"
 ---
 
 ![Carol (um monstro peludo e gigante) e Max (um garoto de 10 anos) se abraçam em meio a flores laranjas.]({% link uploads/2026/01/monstros.jpg %})

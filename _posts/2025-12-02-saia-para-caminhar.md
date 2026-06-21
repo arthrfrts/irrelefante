@@ -8,6 +8,7 @@ tags:
   - links
   - caminhadas
 redirect_from: /post/801816950336569344/saia-para-caminhar
+at_uri: "at://did:plc:aeaouj6eedwqmk4z3pies55n/site.standard.document/3mosqlmygal2t"
 ---
 
 Uma pequena anedota de Fabián, [no seu diário](https://fabiansjournal.bearblog.dev/when-in-doubt-go-for-a-walk/):

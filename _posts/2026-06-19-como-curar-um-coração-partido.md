@@ -11,6 +11,7 @@ syndicate_to:
 - bluesky
 - mastodon
 date: 2026-06-19 16:18 -0300
+at_uri: "at://did:plc:aeaouj6eedwqmk4z3pies55n/site.standard.document/3mosqlrcuvt2t"
 ---
 A newsletter [_Good News_ de Mike Monteiro][monteiro] é uma das melhores coisas que eu acompanho (também disponível em um [feed RSS][feed]). Em cada post, Monteiro responde a uma pergunta de um leitor --- e com isso, destrincha o comportamento humano.
 

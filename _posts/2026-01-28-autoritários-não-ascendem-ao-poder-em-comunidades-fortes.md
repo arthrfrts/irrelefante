@@ -9,6 +9,7 @@ tags:
   - comunidades
   - sentimentos
 redirect_from: /post/807002914260500480/authoritarians-cannot-rise-if-there-are-strong
+at_uri: "at://did:plc:aeaouj6eedwqmk4z3pies55n/site.standard.document/3mosqlpcnal2t"
 ---
 
 Heather Cox Richardson, via <cite>[swissmiss][sm]</cite>:
