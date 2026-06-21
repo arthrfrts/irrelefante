@@ -8,7 +8,6 @@ tags:
   - links
   - filmes
 redirect_from: /post/803386517876801536/meus-25-filmes-dos-anos-2000-até-agora
-at_uri: "at://did:plc:aeaouj6eedwqmk4z3pies55n/site.standard.document/3mob2kix6at2t"
 ---
 
 Dei um tempo no Letterboxd nesse ano, mas vou voltar ano que vem. Para começar os trabalhos, eu fiz [uma lista com meus vinte e cinco filmes favoritos de 2000 pra cá][boxd], com anotações em cada um deles.

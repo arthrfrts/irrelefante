@@ -11,7 +11,6 @@ date: 2026-06-15 16:55 -0300
 syndicate_to:
   - mastodon
   - bluesky
-at_uri: "at://did:plc:aeaouj6eedwqmk4z3pies55n/site.standard.document/3moe2x5uhww2t"
 ---
 Por alguma razão misteriosa na forma como eu tropeço em links na internet, eu me deparei com dois links que tocam no assunto ultra-específico de navegadores em consoles de videogame.
 

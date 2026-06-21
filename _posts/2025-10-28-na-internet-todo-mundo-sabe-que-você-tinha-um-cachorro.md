@@ -8,7 +8,6 @@ tags:
   - links
   - animais
   - bichos de estimação
-at_uri: "at://did:plc:aeaouj6eedwqmk4z3pies55n/site.standard.document/3mob2kfjiid2t"
 ---
 
 Aqui vai [um link perfeito][cachorro]:

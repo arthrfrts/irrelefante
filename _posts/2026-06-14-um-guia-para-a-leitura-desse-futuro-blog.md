@@ -6,7 +6,6 @@ category: Notas
 tags:
 - editorial
 date: 2026-06-14 12:10 -0300
-at_uri: "at://did:plc:aeaouj6eedwqmk4z3pies55n/site.standard.document/3mob2kkpc5l2t"
 syndicate_to:
   - bluesky
   - mastodon

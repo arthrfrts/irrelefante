@@ -7,7 +7,6 @@ category: Notas
 tags:
   - dieta cultural
   - links
-at_uri: "at://did:plc:aeaouj6eedwqmk4z3pies55n/site.standard.document/3mob2kh5ikd2t"
 ---
 
 Por aqui estamos com alerta de temporal e vendaval, então eu decidi que meu fim de semana vai ser ficar bem quietinho bem recolhido na minha casinha, assistindo filmes e a nova série, _Pluribus_. Comprei pipoca e vou fazer um brigadeiro. E por aí, como vai ser o fim de semana?

@@ -10,7 +10,6 @@ syndicate_to:
 - bluesky
 - mastodon
 date: 2026-06-18 15:18 -0300
-at_uri: "at://did:plc:aeaouj6eedwqmk4z3pies55n/site.standard.document/3molgwyv5ts2t"
 ---
 > I never intended to have this life, believe me—  
 > It just happened. You know how dogs turn up  

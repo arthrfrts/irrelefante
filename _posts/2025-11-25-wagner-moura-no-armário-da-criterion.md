@@ -10,7 +10,6 @@ tags:
   - Barry Jenkins
   - Criterion Collection
 redirect_from: /post/801192718925692928/o-wagner-moura-visitou-o-armário-da-criterion-e
-at_uri: "at://did:plc:aeaouj6eedwqmk4z3pies55n/site.standard.document/3mob2khv7dl2t"
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hvOnBK-L-zg?si=VyovnWrAogn0mhQG&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
