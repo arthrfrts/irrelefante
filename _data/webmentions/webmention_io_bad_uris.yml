@@ -135,3 +135,7 @@ buttondown.com:
   state: unsupported
   attempts: 1
   last_checked: '2026-06-19 21:42:19 -0300'
+kotaku.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-22 05:00:33 -0300'
