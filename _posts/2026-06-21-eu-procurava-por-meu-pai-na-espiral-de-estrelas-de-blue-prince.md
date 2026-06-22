@@ -12,6 +12,7 @@ tags:
 syndicate_to:
   - bluesky
   - mastodon
+at_uri: "at://did:plc:aeaouj6eedwqmk4z3pies55n/site.standard.document/3motnzsahau2t"
 ---
 Rebekah Valentine (_Kotaku_), em [um lindo ensaio sobre o luto sobre seu pai, e o belíssimo _Blue Prince_][kotaku]:
 
