@@ -139,3 +139,11 @@ kotaku.com:
   state: unsupported
   attempts: 1
   last_checked: '2026-06-22 05:00:33 -0300'
+noelcody.itch.io:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-23 09:57:24 -0300'
+www.lexaloffle.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-06-23 09:57:24 -0300'
