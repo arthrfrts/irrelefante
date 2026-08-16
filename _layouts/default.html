@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang }}">
+  <head>
+    <meta charset="{{ site.encoding }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {% seo %}
+    {% feed_meta %}
+    {% json_feed_meta %}
+    <link rel="stylesheet" href="/assets/style.css">
+    <link rel="stylesheet" href="{{ '/assets/syntax-light.css' | relative_url }}" media="(prefers-color-scheme: light)">
+    <link rel="stylesheet" href="{{ '/assets/syntax-dark.css' | relative_url }}" media="(prefers-color-scheme: dark)">
+  </head>
+  <body>
+      <nav class="visually-hidden" aria-label="Âncoras da página">
+        <a href="#content">Pular para o conteúdo</a>
+        <a href="#menu">Pular para o menu</a>
+      </nav>
+      {% include header.html %}
+
+      <main class="site-content contained">
+        {{ content }}
+      </main>
+
+      {% include footer.html %}
+  </body>
+</html>

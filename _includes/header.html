@@ -1,0 +1,26 @@
+{%- capture site_branding -%}
+  <a class="home-link h-card u-url" href="{{ site.url | absolute_url }}">
+    <img role="presentation" class="site-logo u-photo" src="{{ site.logo }}" alt="">
+
+    <span class="site-name p-name p-org">{{ site.title }}</span>
+  </a>
+{%- endcapture -%}
+
+<header class="site-header contained">
+  <div class="branding">
+    {% if page.title and post.title != "" -%}
+      <div class="site-title">
+        {{ site_branding }}
+      </div>
+    {%- else -%}
+      <h1 class="site-title">
+        {{ site_branding }}
+      </h1>
+    {%- endif %}
+  </div>
+
+  <nav class="site-menu" aria-label="Menu de navegação">
+    <a class="menu-item" href="/sobre/">Sobre</a>
+    <a class="menu-item" href="/arquivo/">Arquivo</a>
+  </nav>
+</header>

@@ -1,0 +1,103 @@
+/*
+ * Alabaster BG (light) — tema Rouge para Jekyll
+ * Port direto de "Alabaster BG.sublime-color-scheme"
+ * https://github.com/tonsky/sublime-scheme-alabaster
+ * Autor original: Nikita Prokopov (tonsky)
+ *
+ * Alabaster destaca só o essencial: comentários, strings, escapes,
+ * constantes e definições. Palavras-chave e nomes comuns ficam com a
+ * cor de texto padrão — é proposital, não esquecimento.
+ *
+ * Uso: <div class="highlight">...</div> ao redor do bloco gerado pelo Rouge.
+ */
+
+.highlight {
+  background: #fff;
+  color: #000;
+}
+
+/* Comentários */
+.highlight .c,
+.highlight .c1,
+.highlight .cm,
+.highlight .cp,
+.highlight .cs {
+  color: #000;
+  background: #fffabc; /* yellow */
+}
+
+/* Strings */
+.highlight .s,
+.highlight .s1,
+.highlight .s2,
+.highlight .sb,
+.highlight .sc,
+.highlight .sd,
+.highlight .sh,
+.highlight .sx,
+.highlight .sr,
+.highlight .ss,
+.highlight .dl {
+  background: #f1fadf; /* green */
+}
+
+/* Escapes de string */
+.highlight .se {
+  background: #dbecb6; /* dark_green */
+}
+
+/* Interpolação de string — tratada como pontuação leve */
+.highlight .si {
+  color: #00000090;
+}
+
+/* Constantes: números, literais, keyword constants (true/false/nil) */
+.highlight .m,
+.highlight .mf,
+.highlight .mh,
+.highlight .mi,
+.highlight .mo,
+.highlight .il,
+.highlight .kc,
+.highlight .no {
+  color: #7a3e9d; /* magenta */
+}
+
+/* Pontuação e operadores */
+.highlight .p,
+.highlight .o,
+.highlight .ow {
+  color: #00000090;
+}
+
+/* Definições: classes, funções, tags, namespaces, exceções, decorators */
+.highlight .nc,
+.highlight .nf,
+.highlight .nn,
+.highlight .nt,
+.highlight .ne,
+.highlight .nd,
+.highlight .nl,
+.highlight .vc,
+.highlight .vg {
+  background: #dbf1ff; /* blue */
+}
+
+/* Erros / trechos inválidos */
+.highlight .err {
+  color: #cc3333;
+  background: #ffe0e0; /* red */
+}
+
+/* Marcação de diff (usada em blocos "diff") */
+.highlight .gd { color: hsl(2, 65%, 50%); }   /* removido */
+.highlight .gi { color: hsl(100, 50%, 50%); } /* adicionado */
+.highlight .gu { color: hsl(30, 85%, 50%); }  /* alterado */
+.highlight .go,
+.highlight .gp { color: #aaa; }
+.highlight .gh,
+.highlight .gs { font-weight: bold; }
+.highlight .ge { font-style: italic; }
+.highlight .gt { color: #cc3333; }
+
+.highlight .w { color: transparent; }

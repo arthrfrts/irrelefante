@@ -1,0 +1,60 @@
+title: Irrelefante
+description: >-
+  Nada faz muito sentido.
+logo: /assets/logo.png
+
+url: "https://irrelefante.com.br/"
+baseurl: ""
+permalink: "/:slugified_categories/:year/:title/"
+
+lang: pt-BR
+timezone: America/Sao_Paulo
+encoding: utf-8
+
+author:
+  name: Arthur Freitas
+  email: arthur@arthr.me
+  uri: https://arthr.me
+
+plugins:
+  - jekyll-feed
+  - jekyll-json-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-url-metadata
+  - jekyll-webmention_io
+
+# Plugin: jekyll-feed
+feed:
+  icon: "/assets/logo.png"
+  categories:
+    - textos
+    - notas
+    - links
+    - impressões
+
+# Plugin: jekyll-seo-tag
+seo:
+  name: Irrelefante
+  links:
+    - https://bsky.app/profile/irrelefante.com.br
+    - https://organica.social/@irrelefante
+
+# Plugin: jekyll-paginate
+paginate: 25
+paginate_path: /p/:num/
+
+# Plugin: jekyll-archives
+jekyll-archives:
+  slug_mode: latin
+  enabled:
+    - year
+    - categories
+    - tags
+  layout: archive
+  permalinks:
+    year: "/:year/"
+    tag: "/tags/:name/"
+    category: "/:name/"

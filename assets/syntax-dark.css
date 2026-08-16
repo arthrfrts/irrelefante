@@ -1,0 +1,101 @@
+/*
+ * Alabaster BG (dark) — tema Rouge para Jekyll
+ * ADAPTAÇÃO, não port oficial: o repositório tonsky/sublime-scheme-alabaster
+ * não publica uma "Alabaster Dark BG". Este arquivo aplica o mesmo princípio
+ * da variante BG oficial (destaque via fundo, não via cor de texto) sobre a
+ * paleta de "Alabaster Dark.sublime-color-scheme", reduzindo a opacidade das
+ * cores originais para funcionar como fundo sobre #0E1415.
+ * Fonte da paleta base: https://github.com/tonsky/sublime-scheme-alabaster
+ * Autor original da paleta: Nikita Prokopov (tonsky)
+ */
+
+.highlight {
+  background: #0e1415;
+  color: #cecece;
+}
+
+/* Comentários — tom original #DFDF8E (amarelo) usado como fundo translúcido */
+.highlight .c,
+.highlight .c1,
+.highlight .cm,
+.highlight .cp,
+.highlight .cs {
+  background: rgba(223, 223, 142, 0.15);
+}
+
+/* Strings — tom original #95CB82 (verde) usado como fundo translúcido */
+.highlight .s,
+.highlight .s1,
+.highlight .s2,
+.highlight .sb,
+.highlight .sc,
+.highlight .sd,
+.highlight .sh,
+.highlight .sx,
+.highlight .sr,
+.highlight .ss,
+.highlight .dl {
+  background: rgba(149, 203, 130, 0.15);
+}
+
+/* Escapes de string — valor original exato do tema Dark */
+.highlight .se {
+  background: #ffffff10;
+}
+
+/* Interpolação de string */
+.highlight .si {
+  color: #708b8d;
+}
+
+/* Constantes: números, literais, keyword constants — cor original exata */
+.highlight .m,
+.highlight .mf,
+.highlight .mh,
+.highlight .mi,
+.highlight .mo,
+.highlight .il,
+.highlight .kc,
+.highlight .no {
+  color: #cc8bc9; /* magenta, valor oficial */
+}
+
+/* Pontuação e operadores — cor original exata */
+.highlight .p,
+.highlight .o,
+.highlight .ow {
+  color: #708b8d;
+}
+
+/* Definições: classes, funções, tags, namespaces, exceções, decorators
+   Fundo translúcido a partir do azul original #71ADE7 */
+.highlight .nc,
+.highlight .nf,
+.highlight .nn,
+.highlight .nt,
+.highlight .ne,
+.highlight .nd,
+.highlight .nl,
+.highlight .vc,
+.highlight .vg {
+  background: rgba(113, 173, 231, 0.18);
+}
+
+/* Erros / trechos inválidos — valores originais exatos */
+.highlight .err {
+  color: #cc3333;
+  background: #2b1d1e;
+}
+
+/* Marcação de diff — valores originais exatos, idênticos ao tema claro */
+.highlight .gd { color: hsl(2, 65%, 50%); }
+.highlight .gi { color: hsl(100, 50%, 50%); }
+.highlight .gu { color: hsl(30, 85%, 50%); }
+.highlight .go,
+.highlight .gp { color: #aaa; }
+.highlight .gh,
+.highlight .gs { font-weight: bold; }
+.highlight .ge { font-style: italic; }
+.highlight .gt { color: #cc3333; }
+
+.highlight .w { color: transparent; }
