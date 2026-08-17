@@ -192,6 +192,7 @@
   .review-details {
     align-self: center;
     margin-right: auto;
+    font-size: var(--font-small);
   }
 
   .review-title {
@@ -205,7 +206,6 @@
   }
 
   .item-meta {
-    font-size: var(--font-small);
     display: inline-flex;
     gap: 1rem;
     color: rgb(from var(--color-accent-text) r g b / 0.65);
