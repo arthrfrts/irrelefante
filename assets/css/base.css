@@ -29,6 +29,8 @@
 }
 
 html {
+  margin: 0;
+  padding: 0;
   font-size: var(--font-size);
   background-color: var(--color-accent);
   box-sizing: border-box;
@@ -41,6 +43,9 @@ html {
 }
 
 body {
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: stretch;
   background-color: var(--color-background);
   border-top: 1rem solid var(--color-accent);
   font-family: var(--font-body);
@@ -49,10 +54,14 @@ body {
   margin: 0;
   padding: 0;
   min-height: 100vh;
-  padding-inline: 3vw;
+
+  & > * {
+    padding-inline: 3vw;
+  }
 }
 
 .contained {
+  width: 100%;
   max-width: 600px;
   margin-inline: auto;
 }

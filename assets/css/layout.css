@@ -2,12 +2,15 @@
   Site Header
 */
 .site-header {
-  display: flex;
-  flex-flow: row nowrap;
-  justify-content: space-between;
-  align-items: center;
-  border-bottom: 1px solid var(--color-ui);
   margin-block: 3rem;
+
+  .contained {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid var(--color-ui);
+  }
 
   .site-title {
     display: inline-flex;
@@ -44,6 +47,19 @@
       text-decoration-color: currentcolor;
     }
   }
+}
+
+/*
+  Site Footer
+*/
+
+.site-footer {
+  flex-grow: 1;
+  margin-top: 3rem;
+  padding-block: 3rem;
+  background-color: var(--color-accent);
+  color: var(--color-accent-text);
+  text-align: center;;
 }
 
 /*

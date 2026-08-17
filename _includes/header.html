@@ -6,21 +6,23 @@
   </a>
 {%- endcapture -%}
 
-<header class="site-header contained">
-  <div class="branding">
-    {% if page.title and post.title != "" -%}
-      <div class="site-title">
-        {{ site_branding }}
-      </div>
-    {%- else -%}
-      <h1 class="site-title">
-        {{ site_branding }}
-      </h1>
-    {%- endif %}
-  </div>
+<header class="site-header">
+  <div class="contained">
+    <div class="branding">
+      {% if page.title and post.title != "" -%}
+        <div class="site-title">
+          {{ site_branding }}
+        </div>
+      {%- else -%}
+        <h1 class="site-title">
+          {{ site_branding }}
+        </h1>
+      {%- endif %}
+    </div>
 
-  <nav class="site-menu" aria-label="Menu de navegação">
-    <a class="menu-item" href="/sobre/">Sobre</a>
-    <a class="menu-item" href="/arquivo/">Arquivo</a>
-  </nav>
+    <nav id="menu" class="site-menu" aria-label="Menu de navegação">
+      <a class="menu-item" href="/sobre/">Sobre</a>
+      <a class="menu-item" href="/arquivo/">Arquivo</a>
+    </nav>
+  </div>
 </header>

@@ -20,8 +20,10 @@
       </nav>
       {% include header.html %}
 
-      <main class="site-content contained">
-        {{ content }}
+      <main id="content" class="site-content">
+        <div class="contained">
+          {{ content }}
+        </div>
       </main>
 
       {% include footer.html %}

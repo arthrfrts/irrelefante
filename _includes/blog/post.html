@@ -1,0 +1,59 @@
+<article class="post {{ post.category | slugify: 'latin'}} h-entry">
+  {% if post.title and post.title != "" -%}
+    <h2 class="post-title">
+      <a class="post-url p-name" href="{{- post.external_url | default: post.url -}}">
+        {{- post.title -}}
+      </a>
+    </h2>
+  {%- endif %}
+
+  {% if post.image -%}
+    <figure class="post-cover">
+      <a class="post-image-link u-url" href="{{- post.url | relative_url -}}" rel="bookmark">
+        <img class="post-image u-photo" src="{{- post.image.path | default: post.image -}}" alt="{{- post.image.alt | default: '' -}}">
+      </a>
+
+      {% if post.image.caption -%}
+        <figcaption class="post-image-caption">
+          {{- post.image.caption -}}
+        </figcaption>
+      {%- endif %}
+    </figure>
+  {%- endif %}
+
+  <div class="post-content e-content">
+    {{ post.content }}
+  </div>
+
+  {% if post.external_url -%}
+    {%- assign link_type = post.reaction | default: 'like' -%}
+    {%- include link-preview.html link=post.external_url reaction=link_type -%}
+  {%- endif %}
+
+  <footer class="post-details">
+    <a class="post-permalink u-url u-uid" href="{{- post.url | relative_url -}}" rel="bookmark">
+      <time datetime="{{- post.date | date_to_xmlschema -}}" class="post-date dt-published">
+        {{- post.date | date: "%d/%m/%Y" -}}
+      </time>
+    </a>
+
+    {% if post.tags -%}
+      <ul class="post-tags">
+        {% for tag in post.tags  -%}
+          {%- assign tag_slug = tag | slugify: "latin" -%}
+          <li class="tag-item">
+            <a class="tag-link p-category" href="{{- site.jekyll-archives.permalinks.tag | replace: ":name", tag_slug -}}">
+              {{- tag | downcase -}}
+            </a>
+          </li>
+        {%- endfor %}
+      </ul>
+    {% endif %}
+
+    <span class="post-author p-author h-card">
+      <a class="p-name u-url" href="{{- site.author.uri -}}" rel="author">
+        {{- site.author.name -}}
+      </a>
+    </span>
+  </footer>
+</article>
