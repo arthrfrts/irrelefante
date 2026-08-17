@@ -1,70 +1,73 @@
 {%- assign link = include.link | metadata -%}
 
-{%- case include.reaction -%}
-  {%- when "reply" -%}
-    {% assign link_reaction = "u-in-reply-to" %}
-  {% when "like" %}
-    {% assign link_reaction = "u-like-of" %}
-  {% when "repost" %}
-    {% assign link_reaction = "u-repost-of"  %}
-  {% else %}
-    {% assign link_reaction = "" %}
-{% endcase %}
+{% if link -%}
+  {%- case include.reaction -%}
+    {%- when "reply" -%}
+      {%- assign link_reaction = "u-in-reply-to" -%}
+    {%- when "like" -%}
+      {%- assign link_reaction = "u-like-of" -%}
+    {%- when "repost" -%}
+      {%- assign link_reaction = "u-repost-of"  -%}
+    {%- else -%}
+      {%- assign link_reaction = "" -%}
+  {%- endcase -%}
 
-{% assign link_url = link.canonical | default: link['og:url'] | default: include.link %}
-{% assign link_title = link['og:title'] | default: link.title | default: link_url %}
-{% assign link_image = link['og:image'] %}
-{% assign link_description = link['og:description'] | default: link.description %}
-{% assign link_icon = link.icon %}
+  {%- assign link_url = link.canonical | default: link['og:url'] | default: include.link -%}
+  {%- assign link_title = link['og:title'] | default: link.title | default: link_url -%}
+  {%- assign link_image = link['og:image'] -%}
+  {%- assign link_description = link['og:description'] | default: link.description -%}
+  {%- assign link_icon = link.icon -%}
 
-{% unless link_icon contains "http" %}
-  {% assign link_icon_prepend = link_url | remove: "https://" | remove: "http://" | split: "/" | first | prepend: "//" %}
-  {% assign link_icon = link_icon | prepend: link_icon_prepend %}
-{% endunless %}
+  {%- unless link_icon contains "http" -%}
+    {%- assign link_icon_prepend = link_url | remove: "https://" | remove: "http://" | split: "/" | first | prepend: "//" -%}
+    {%- assign link_icon = link_icon | prepend: link_icon_prepend -%}
+  {%- endunless -%}
 
-{% assign link_domain = link_url | remove: "https://" | remove: "http://" | split: "/" | first %}
-{% assign link_site = link['og:site_name'] | default: link_domain %}
-{% assign link_author = link["article:author"] | default: link.author %}
-{% assign link_date = link["article:published_time"] %}
+  {%- assign link_domain = link_url | remove: "https://" | remove: "http://" | split: "/" | first -%}
+  {%- assign link_site = link['og:site_name'] | default: link_domain -%}
+  {%- assign link_author = link["article:author"] | default: link.author -%}
+  {%- assign link_date = link["article:published_time"] -%}
 
 
-<article class="link-preview h-cite">
-  <a class="u-url {{ link_reaction | strip }}" href="{{ link_url }}" target="_blank" rel="noopener">
-    {% if link_image %}
-      <img class="link-image u-photo" src="{{ link_image }}" alt="" role="presentation">
-    {% endif %}
+  <article class="link-preview h-cite">
+    <a class="u-url {{ link_reaction | strip -}}" href="{{- link_url -}}" target="_blank" rel="noopener">
+      {% if link_image -%}
+        <img class="link-image u-photo" src="{{- link_image -}}" alt="" role="presentation">
+      {%- endif %}
 
-    <div class="link-details">
-      {% unless link_image %}
-        {% if link_icon %}
-          <img class="link-icon u-photo" src="{{ link_icon }}" alt="">
-        {% endif %}
-      {% endunless %}
+      <div class="link-details">
+        {% unless link_image -%}
+          {%- if link_icon -%}
+            <img class="link-icon u-photo" src="{{- link_icon -}}" alt="">
+          {%- endif -%}
+        {%- endunless %}
 
-      <div class="link-citation">
-        <header class="link-header">
-          <cite class="link-title p-name">{{ link_title }}</cite>
-          <span class="link-domain p-publication">{{ link_site }}</span>
-        </header>
-        {% if link_description %}
-          <p class="p-summary link-description">
-            {{ link_description | truncatewords: 25 }}
-          </p>
-        {% endif %}
-        {% if link_author or link_date %}
-          <footer class="link-article-info">
-            {% if link_author %}
-              <span class="link-author p-author h-card">{{ link_author }}</span>
-            {% endif %}
-            {% if link_date %}
-              <time class="link-date dt-published" datetime="{{ link_date | date_to_xmlschema }}">
-                {{ link_date | date: "%d/%m/%Y" }}
-              </time>
-            {% endif %}
-          </footer>
-        {% endif %}
+        <div class="link-citation">
+          <header class="link-header">
+            <cite class="link-title p-name">{{- link_title -}}</cite>
+            <span class="link-domain p-publication">{{- link_site -}}</span>
+          </header>
+
+          {% if link_description -%}
+            <p class="p-summary link-description">
+              {{ link_description | truncatewords: 25 }}
+            </p>
+          {%- endif %}
+
+          {% if link_author or link_date -%}
+            <footer class="link-article-info">
+              {% if link_author %}
+                <span class="link-author p-author h-card">{{ link_author }}</span>
+              {% endif %}
+              {% if link_date %}
+                <time class="link-date dt-published" datetime="{{ link_date | date_to_xmlschema }}">
+                  {{ link_date | date: "%d/%m/%Y" }}
+                </time>
+              {% endif %}
+            </footer>
+          {% endif %}
+        </div>
       </div>
-    </div>
-    <span class="visually-hidden">(abre em nova aba)</span>
-  </a>
-</article>
+    </a>
+  </article>
+{%- endif %}

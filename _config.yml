@@ -11,6 +11,13 @@ lang: pt-BR
 timezone: America/Sao_Paulo
 encoding: utf-8
 
+defaults:
+- scope:
+    path: "_posts"
+    type: "posts"
+  values:
+    category: textos
+
 author:
   name: Arthur Freitas
   email: arthur@arthr.me
@@ -31,9 +38,10 @@ feed:
   icon: "/assets/logo.png"
   categories:
     - textos
+    - fotos
     - notas
     - links
-    - impressões
+    - reviews
 
 # Plugin: jekyll-seo-tag
 seo:

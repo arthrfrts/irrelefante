@@ -5,70 +5,7 @@ layout: default
 <div class="h-feed">
   {% for post in paginator.posts %}
     {% if post.category contains "review" %}
-      <article class="post {{ post.category | slugify: 'latin' }} h-entry h-review">
-        <a class="u-url" href="{{ post.url | relative_url }}" rel="bookmark">
-          <div class="review-details">
-            <header class="item-details p-item h-item">
-              <h2 class="item-name p-name">
-                {{ post.review.item | default: post.title }}
-              </h2>
-
-              <div class="item-meta">
-                {% if post.review.format %}
-                  <span class="item-format p-category">{{ post.review.format }}</span>
-                {% endif %}
-
-                {% if post.review.summary %}
-                  <span class="item-summary e-description">
-                    {{ post.review.summary }}
-                  </span>
-                {% endif %}
-
-                {% if post.review.rating %}
-                  {% assign rating = post.review.rating | default: 0 %}
-                  {% assign full_stars = rating | floor %}
-                  {% assign remainder = rating | minus: full_stars %}
-                  {% assign half_position = full_stars | plus: 1 %}
-                  {% assign gradient_id = "half-star-" | append: post.id | slugify %}
-
-                  <span class="star-rating" role="img" aria-label="Avaliação: {{ rating }} de 5 estrelas">
-                    <svg width="0" height="0" style="position: absolute;" aria-hidden="true">
-                      <defs>
-                        <linearGradient id="{{ gradient_id }}">
-                          <stop offset="50%" stop-color="currentColor" />
-                          <stop offset="50%" stop-color="transparent" stop-opacity="1" />
-                        </linearGradient>
-                      </defs>
-                    </svg>
-
-                    {% for i in (1..5) %}
-                      {% if i <= full_stars %}
-                        {% assign fill = "currentColor" %}
-                      {% elsif i == half_position and remainder >= 0.5 %}
-                        {% assign fill = "url(#" | append: gradient_id | append: ")" %}
-                      {% else %}
-                        {% assign fill = "none" %}
-                      {% endif %}
-
-                      <svg class="star" aria-hidden="true" viewBox="0 0 24 24" width="20" height="20" fill="{{ fill }}" stroke="currentColor" stroke-width="1.5">
-                        <path d="M12 2.5l2.9 6.6 7.1.6-5.4 4.7 1.6 7-6.2-3.8-6.2 3.8 1.6-7L2 9.7l7.1-.6z" />
-                      </svg>
-                    {% endfor %}
-                  </span>
-                {% endif %}
-              </div>
-            </header>
-          </div>
-
-          {% if post.review.poster or post.image %}
-            <img
-              class="review-poster u-photo"
-              src="{{ post.review.poster | default: post.image.path | default: post.image }}"
-              alt="{{ post.image.alt | default: '' }}"
-            >
-          {% endif %}
-        </a>
-      </article>
+      {% include blog/review.html %}
     {% else %}
       <article class="post {{ post.category | slugify: 'latin' }} h-entry">
         {% if post.title and post.title != "" %}
@@ -131,4 +68,20 @@ layout: default
       </article>
     {% endif %}
   {% endfor %}
+
+  {% if paginator.total_pages > 1 -%}
+    <nav class="blog-pagination" aria-label="Navegação do blog">
+      {% if paginator.previous_page -%}
+        <a class="blog-prev" href="{{ paginator.previous_page_path | relative_url }} rel="prev">
+          &larr; Posts mais recentes
+        </a>
+      {%- endif -%}
+
+      {% if paginator.next_page -%}
+        <a class="blog-next" href="{{ paginator.next_page_path | relative_url }}" rel="next">
+          Posts mais antigos &rarr;
+        </a>
+      {%- endif %}
+    </nav>
+  {%- endif %}
 </div>

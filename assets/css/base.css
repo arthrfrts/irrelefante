@@ -1,14 +1,19 @@
 :root {
   color-scheme: light dark;
 
-  --color-background: light-dark(#FFFCF0, #1C1B1A);
-  --color-text: light-dark(#1C1B1A, #E6E4D9);
-  --color-text-subtle: light-dark(#6F6E69, #878580);
-  --color-link: light-dark(#DC3C22, #FFC857);
-  --color-ui: light-dark(#E6E4D9, #2D2C2B);
+  --color-background: light-dark(#efefef, #212223);
+  --color-text: light-dark(#312f28, #fff);
+  --color-text-subtle: rgb(from var(--color-text) r g b / 0.65);
+  --color-link: light-dark(#60be83, #ffc833);
+  --color-ui: rgb(from var(--color-text) r g b / 0.12);
 
-  --color-accent: #002FA7;
-  --color-accent-text: #E6E4D9;
+  --color-accent: #6c00ff;
+  --color-accent-text: #fff;
+
+  --font-body: "Atkinson Hyperlegible Next", sans-serif;
+  --font-mono: "Atkinson Hyperlegible Mono", monospace;
+  --font-size: 16px;
+  --font-small: 0.85rem;
 }
 
 .visually-hidden {
@@ -24,7 +29,7 @@
 }
 
 html {
-  font-size: 16px;
+  font-size: var(--font-size);
   background-color: var(--color-accent);
   box-sizing: border-box;
 }
@@ -38,7 +43,7 @@ html {
 body {
   background-color: var(--color-background);
   border-top: 1rem solid var(--color-accent);
-  font-family: "Atkinson Hyperlegible NexT", sans-serif;
+  font-family: var(--font-body);
   font-size: 1rem;
   line-height: 1.6;
   margin: 0;
@@ -90,15 +95,19 @@ sup {
 
 del, ins {
   text-decoration-color: var(--color-link);
+  text-decoration-style: double;
+  text-decoration-thickness: 1px;
 }
 
 mark {
-  background-color: var(--color-ui);
+  background-color: var(--color-accent);
+  color: var(--color-accent-text);
 }
 
 /*
   Headings
 */
+
 :is(:heading),
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
@@ -130,6 +139,7 @@ h6 {
 }
 
 /* Links. */
+
 a {
   color: currentcolor;
   text-decoration: underline;
@@ -184,7 +194,7 @@ ol {
   }
 
   li::marker {
-    font-size: 0.85rem;
+    font-size: var(--font-small);
   }
 }
 
@@ -206,7 +216,7 @@ dl {
   border-top: 1px solid var(--color-ui);
 
   & > ol {
-    font-size: 0.9rem;
+    font-size: var(--font-small);
 
     li::marker {
       color: var(--color-text-subtle);
@@ -266,8 +276,10 @@ table {
 }
 
 /* Code and pre-formatted text. */
+
 code {
-  font-size: 0.85em;
+  font-family: var(--font-mono);
+  font-size: var(--font-small);
   color: var(--color-text-subtle);
 }
 
@@ -281,8 +293,12 @@ pre {
 }
 
 .highlight {
+  border-radius: 0.25rem;
+  border: 1px solid var(--color-ui);
+
   pre {
     background-color: transparent;
+    margin-block: 0;
 
     &:has(table) {
       padding: 0;
@@ -323,12 +339,12 @@ pre {
   }
 }
 
+/* Media */
 img, audio, video,
 iframe, embed, object {
   max-width: 100%;
 }
 
-/* Media */
 img {
   border-radius: 0.25rem;
 }
@@ -341,7 +357,7 @@ img + em,
 figcaption {
   display: block;
   text-align: right;
-  font-size: 0.8rem;
+  font-size: var(--font-small);
   color: var(--color-text-subtle);
 }
 
@@ -355,227 +371,9 @@ figcaption {
   }
 }
 
-/*
-  Site Header
-*/
-.site-header {
-  display: flex;
-  flex-flow: row nowrap;
-  justify-content: space-between;
-  align-items: center;
-  border-bottom: 1px solid var(--color-ui);
-  margin-block: 3rem;
-
-  .site-title {
-    display: inline-flex;
-    flex-flow: row nowrap;
-    align-items: flex-end;
-    gap: 0.5rem;
-    font-size: 1.5rem;
-    font-weight: 900;
-    margin-block: 0.5rem;
-  }
-
-  .site-logo {
-    height: 1.5rem;
-  }
-
-  .home-link {
-    text-decoration: none;
-    color: currentcolor;
-  }
-}
-
-.site-menu {
-  display: inline-flex;
-  flex-flow: row nowrap;
-  gap: 1rem;
-  align-items: center;
-
-  .menu-item {
-    color: var(--color-link);
-    text-decoration-color: transparent;
-
-    &:hover,
-    &:focus {
-      text-decoration-color: currentcolor;
-    }
-  }
-}
-
-/*
-  Posts
-*/
-
-.post {
-  margin-bottom: 3rem;
-
-  .post-title {
-    color: var(--color-link);
-    font-weight: 600;
-  }
-
-  .post-details {
-    display: flex;
-    flex-flow: row wrap;
-    gap: 0.5rem;
-    align-items: flex-start;
-    font-size: 0.85rem;
-    margin-top: 0.5rem;
-    padding-bottom: 0.5rem;
-    border-bottom: 1px solid var(--color-ui);
-
-    .post-permalink {
-      color: var(--color-link);
-      text-decoration-color: transparent;
-
-      &:hover,
-      &:focus {
-        text-decoration-color: currentcolor;
-      }
-    }
-
-    .post-tags {
-      display: inline-flex;
-      column-gap: 1ch;
-      list-style: none;
-      margin: 0;
-      padding: 0;
-
-      .tag-item {
-        margin-block: 0;
-      }
-
-      .tag-link {
-        display: inline-flex;
-        padding-inline: 0.25rem;
-        border: 1px solid var(--color-ui);
-        border-radius: 0.25rem;
-        color: var(--color-text-subtle);
-        text-decoration: none;
-
-        &:hover,
-        &:focus {
-          background-color: var(--color-ui);
-        }
-      }
-    }
-
-    .post-author {
-      display: none;
-    }
-  }
-
-  &.textos {
-    .post-title {
-      margin-top: 0;
-      margin-bottom: 1.5rem;
-    }
-  }
-
-  &.links,
-  &.notas {
-    .post-title {
-      font-size: 1rem;
-      display: inline;
-      float: left;
-      margin-block: 0;
-      margin-right: 1ch;
-    }
-
-    .post-content > :first-child {
-      &::after {
-        clear: both;
-      }
-    }
-  }
-}
-
-/*
-  Review
-*/
-
-.star--half {
-  position: relative;
-  color: transparent;
-}
-.star--half::before {
-  content: "★";
-  position: absolute;
-  inset: 0;
-  width: 50%;
-  overflow: hidden;
-  color: currentColor;
-}
-
-/*
-  Link Preview
-*/
-
-.link-preview {
-  border: 1px solid var(--color-text-subtle);
-  background-color: var(--color-ui);
+iframe, video {
+  width: 100%;
+  aspect-ratio: 2 / 1;
   border-radius: 0.25rem;
-  overflow: hidden;
-  margin-block: 1.5rem;
-
-  & > a {
-    display: block;
-    text-decoration: none;
-  }
-
-  .link-image {
-    width: 100%;
-    aspect-ratio: 2 / 1;
-    object-fit: cover;
-  }
-
-  .link-details {
-    display: flex;
-    flex-flow: row nowrap;
-    align-items: center;
-  }
-
-  .link-icon {
-    margin: 1rem;
-    aspect-ratio: 1 / 1;
-    object-fit: contain;
-  }
-
-  .link-citation {
-    padding: 1rem;
-  }
-
-  .link-title {
-    font-weight: 700;
-    font-style: normal;
-  }
-
-  .link-domain {
-    color: var(--color-text-subtle);
-    font-size: 0.9rem;
-    margin-left: 1ch;
-  }
-
-  &:hover,
-  &:focus {
-    .link-domain {
-      text-decoration: underline;
-      text-decoration-style: wavy;
-    }
-  }
-
-  .link-description {
-    margin: 0;
-    font-size: 0.9rem;
-  }
-
-  .link-article-info {
-    font-size: 0.9rem;
-    color: var(--color-text-subtle);
-    display: inline-flex;
-    flex-flow: row wrap;
-    align-items: flex-start;
-    gap: 1ch;
-  }
 }
+

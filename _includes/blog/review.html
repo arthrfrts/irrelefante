@@ -1,0 +1,45 @@
+{%- assign review_post = include.post | default: post -%}
+
+<article class="post {{ review_post.category | slugify: 'latin' }} h-entry h-review">
+  <a class="review-link u-url u-review-of" href="{{- review_post.url | relative_url -}}" rel="bookmark">
+    <div class="review-details">
+      <header class="item-details">
+        <h2 class="review-title item-name p-name p-item">
+          {{- review_post.review.item | default: review_post.title -}}
+        </h2>
+
+        <div class="item-meta">
+          {% if review_post.review.format -%}
+            <span class="item-format p-category">{{- review_post.review.format -}}</span>
+          {%- endif %}
+
+          {% if review_post.review.summary -%}
+            <span class="item-summary e-description">
+              {{- review_post.review.summary -}}
+            </span>
+          {%- endif %}
+
+          {% if review_post.review.rating -%}
+            <abbr class="item-rating p-rating" title="Nota: {{ review_post.review.rating | replace: '.', ',' }} de 5">
+              {{- review_post.review.rating | replace: '.', ',' | append: " &starf;" -}}
+            </abbr>
+          {%- endif %}
+        </div>
+      </header>
+
+      {% unless include.hide_excerpt -%}
+        <div class="p-summary">
+          {{ review_post.excerpt }}
+        </div>
+      {%- endunless %}
+    </div>
+
+    {% if review_post.review.poster or review_post.image -%}
+      <img
+        class="review-poster u-photo"
+        src="{{- review_post.review.poster | default: review_post.image.path | default: review_post.image -}}"
+        alt="{{- review_post.image.alt | default: '' -}}"
+      >
+    {%- endif %}
+  </a>
+</article>

@@ -7,9 +7,11 @@
     {% seo %}
     {% feed_meta %}
     {% json_feed_meta %}
-    <link rel="stylesheet" href="/assets/style.css">
-    <link rel="stylesheet" href="{{ '/assets/syntax-light.css' | relative_url }}" media="(prefers-color-scheme: light)">
-    <link rel="stylesheet" href="{{ '/assets/syntax-dark.css' | relative_url }}" media="(prefers-color-scheme: dark)">
+    <link rel="stylesheet" href="{% link assets/css/base.css %}">
+    <link rel="stylesheet" href="{% link assets/css/layout.css %}">
+    <link rel="stylesheet" href="{% link assets/css/syntax-light.css %}" media="(prefers-color-scheme: light)">
+    <link rel="stylesheet" href="{% link assets/css/syntax-dark.css %}" media="(prefers-color-scheme: dark)">
+    <link rel="stylesheet" href="{% link assets/css/fonts.css %}">
   </head>
   <body>
       <nav class="visually-hidden" aria-label="Âncoras da página">
