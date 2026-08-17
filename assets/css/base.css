@@ -1,15 +1,15 @@
 :root {
-  color-scheme: light;
+  color-scheme: light dark;
 
-  --color-background: #efefef;
-  --color-text: color(display-p3 0.192 0.184 0.157);
-  --color-text-subtle: rgb(from var(--color-text) r g b / 0.65);
-  --color-link: color(display-p3 0.216 0.463 0.403);
-  --color-ui: rgb(from var(--color-text) r g b / 0.12);
+  --color-background: light-dark(white, #201D1D);
+  --color-text: light-dark(#201D1D, #EAE1CD);
+  --color-text-subtle: rgb(from var(--color-text) r g b / 0.6);
+  --color-link: light-dark(#BB3102, #F5CC47);
+  --color-ui: rgb(from var(--color-text) r g b / 0.15);
 
-  --color-accent: color(display-p3 0.424 0 1 / 1);
-  --color-accent-text: white;
-  --color-accent-link: color(display-p3 1 0.784 0.2);
+  --color-accent: light-dark(#FFC857, #4B72B0);
+  --color-accent-text: light-dark(#201D1D, #EAE1CD);
+  --color-accent-link: light-dark(#BB3102, #F5CC47);
 
   --font-body: "Atkinson Hyperlegible Next", sans-serif;
   --font-mono: "Atkinson Hyperlegible Mono", monospace;
