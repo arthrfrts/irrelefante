@@ -1,15 +1,22 @@
 :root {
   color-scheme: light dark;
 
-  --color-background: light-dark(white, #201D1D);
-  --color-text: light-dark(#201D1D, #EAE1CD);
-  --color-text-subtle: rgb(from var(--color-text) r g b / 0.6);
-  --color-link: light-dark(#BB3102, #F5CC47);
-  --color-ui: rgb(from var(--color-text) r g b / 0.15);
+  --white: #EAE1CD;
+  --black: #201D1D;
+  --blue: #4B72B0;
+  --green: #1C9063;
+  --red: #BB3102;
+  --yellow:#F5CC47;
 
-  --color-accent: light-dark(#FFC857, #4B72B0);
-  --color-accent-text: light-dark(#201D1D, #EAE1CD);
-  --color-accent-link: light-dark(#BB3102, #F5CC47);
+  --color-background: light-dark(white, var(--black));
+  --color-text: light-dark(var(--black), var(--white));
+  --color-text-subtle: rgb(from var(--color-text) r g b / 0.6);
+  --color-link: light-dark(var(--red), var(--yellow));
+  --color-ui: rgb(from var(--color-text) r g b / 0.08);
+
+  --color-accent: light-dark(var(--blue), var(--green));
+  --color-accent-text: light-dark(var(--white), var(--white));
+  --color-accent-link: light-dark(var(--red), var(--yellow));
 
   --font-body: "Atkinson Hyperlegible Next", sans-serif;
   --font-mono: "Atkinson Hyperlegible Mono", monospace;
