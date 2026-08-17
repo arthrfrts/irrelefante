@@ -1,15 +1,15 @@
 :root {
   color-scheme: light;
 
-  --color-background: #EAE1CD;
-  --color-text: #201D1D;
-  --color-text-subtle: #888;
-  --color-link: #BB3102;
+  --color-background: #efefef;
+  --color-text: color(display-p3 0.192 0.184 0.157);
+  --color-text-subtle: rgb(from var(--color-text) r g b / 0.65);
+  --color-link: color(display-p3 0.216 0.463 0.403);
   --color-ui: rgb(from var(--color-text) r g b / 0.12);
 
-  --color-accent: #0064bc;
+  --color-accent: color(display-p3 0.424 0 1 / 1);
   --color-accent-text: white;
-  --color-accent-link: #fef79a;
+  --color-accent-link: color(display-p3 1 0.784 0.2);
 
   --font-body: "Atkinson Hyperlegible Next", sans-serif;
   --font-mono: "Atkinson Hyperlegible Mono", monospace;
