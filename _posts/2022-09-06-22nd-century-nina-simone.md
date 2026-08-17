@@ -1,0 +1,108 @@
+---
+layout: post
+title: "Nina Simone: “22nd Century”"
+external_url: https://youtu.be/PYcgCiWAv8c
+category: links
+tags:
+  - músicas
+  - Nina Simone
+  - Exuma
+---
+
+Eu sou apaixonado por essa performance de Nina Simone para uma música de Exuma. As letras são assombrosas:
+
+> _There is no oxygen in the air  
+> Men and women have lost their hair  
+> Ashen faces legs that stand  
+> Ghosts and goblins walk in this land  
+> When tomorrow becomes yesterday  
+> And tomorrow becomes eternity  
+> When the soul with the soul goes away beyond  
+> When life is taken and there are no more babies born  
+> And there is no one and there is everyone  
+> When there is no one and there is everyone_
+> 
+> _Tomorrow will be the 22nd century  
+> Tomorrow will be the 22nd century  
+> Tomorrow will be the 22nd century  
+> It will be, it will be, it will be ahh_
+> 
+> _21st century was here and gone  
+> And the 20th century was the dawn  
+> The begining of the end was the 21st  
+> When the 20th century was at an end_
+> 
+> _1990 was the year when the plagues struck the earth  
+> 1988 was the year when men and women  
+> Struck out for freedom  
+> And bloodletting was the thing that was_
+> 
+> _People said there was no god  
+> And there was no reason  
+> And there was no cause_
+> 
+> _1972 was right all the way  
+> Drums and bugles blasting all though the day  
+> Right wing left wing middle of the road  
+> Side winder backswinger backlash whiplash  
+> Race stockings red stockings  
+> Liberation of women liberation of men  
+> Everybody carrying a heavy load_
+> 
+> _Tomorrow will be the 22nd century  
+> Tomorrow will be the 22nd century  
+> Tomorrow will be the 22nd century  
+> It will be, it will be, it will be  
+> It will be ahh_
+> 
+> _Liberation of animals  
+> Prevention of cruelty to animals men and beast  
+> Flying and on flying flying things  
+> Revolution of music poetry love and life  
+> Sex change change change  
+> Man is woman woman is man  
+> Even your brain is not your brain  
+> Your heart is a plastic thing which can be bought  
+> There are no more diseases which can be caught_
+> 
+> _Man became the thing that he worships  
+> Man today became his god  
+> That was the day that man and woman truly became bored  
+> Man became his good  
+> Man became his evil  
+> Man became his god  
+> And man became his devil_
+> 
+> _Tomorrow will be the 22nd century  
+> Tomorrow will be the 22nd century  
+> Tomorrow will be the 22nd century  
+> It will be, it will be, it will be ahh_
+> 
+> _Young women without money caught  
+> Big dogs living in marble lofts  
+> Young men die in spring  
+> Boys of 7 falling in love  
+> Give that lady fair a diamond ring  
+> Wedding wedding wedding wedding  
+> No a wedding ain’t the thing  
+> Don’t want no preacher  
+> Don’t want no preacher man preachin  
+> Give me your hand and take my hand  
+> This is better than anybody’s preacher man  
+> Truth  
+> Truth is now unfold  
+> It says 7 years  
+> 7 years so I am told  
+> Don’t sway me over  
+> Don’t try to sway me over to your day  
+> On your day  
+> Your day will go away_
+> 
+> _Tomorrow will be the 22nd century  
+> Tomorrow will be the 22nd century  
+> Tomorrow will be the 22nd century  
+> It will be, it will be, it will be ahh_
+> 
+> _Oh tomorrow will be the 22nd century  
+> It will be, it will be, it will be  
+> It will be, it will be, it will be, it will be, it will be_

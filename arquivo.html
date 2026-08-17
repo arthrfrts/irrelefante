@@ -21,7 +21,7 @@ title: Arquivos e tags
   <ul class="years">
     {% for year in yearly_archives -%}
       <li class="year-item">
-        <a class="archive-link" href="{{ site.jekyll-archives.permalinks.year | replace: ':year', formatted_year }}">
+        <a class="archive-link" href="{{ site.jekyll-archives.permalinks.year | replace: ':year', year.name }}">
           <strong class="archive-name">
             {{ year.name }}
           </strong>

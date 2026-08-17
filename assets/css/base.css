@@ -359,6 +359,7 @@ img {
 }
 
 figure {
+  display: block;
   margin-inline: 0;
 }
 
@@ -384,5 +385,6 @@ iframe, video {
   width: 100%;
   aspect-ratio: 2 / 1;
   border-radius: 0.25rem;
+  display: block;
 }
 
