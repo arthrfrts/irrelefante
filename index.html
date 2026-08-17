@@ -14,7 +14,7 @@ layout: default
   {% if paginator.total_pages > 1 -%}
     <nav class="blog-pagination" aria-label="Navegação do blog">
       {% if paginator.previous_page -%}
-        <a class="blog-prev" href="{{- paginator.previous_page_path | relative_url -}} rel="prev">
+        <a class="blog-prev" href="{{- paginator.previous_page_path | relative_url -}}" rel="prev">
           &larr; Posts mais recentes
         </a>
       {%- endif -%}

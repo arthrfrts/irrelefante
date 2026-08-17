@@ -1,3 +1,147 @@
 ---
 layout: default
 ---
+
+<article class="post {{ page.category | slugify: 'latin' }} h-entry {% if page.category contains 'review' -%} h-review {%- endif -%}">
+  {%- if page.review -%}
+    <header class="review-widget">
+      <div class="review-details">
+        <div class="item-details">
+          <h1 class="review-title item-name p-name p-item">
+            {{- page.review.item | default: page.title -}}
+          </h1>
+
+          <div class="item-meta">
+            {% if page.review.format -%}
+              <span class="item-format p-category">{{- page.review.format -}}</span>
+            {%- endif %}
+
+            {% if page.review.summary -%}
+              <span class="item-summary e-description">
+                {{- page.review.summary -}}
+              </span>
+            {%- endif %}
+
+            {% if page.review.rating -%}
+              <abbr class="item-rating p-rating" title="Nota: {{ page.review.rating | replace: '.', ',' }} de 5">
+                {{- page.review.rating | replace: '.', ',' | append: " &starf;" -}}
+              </abbr>
+            {%- endif %}
+          </div>
+        </div>
+      </div>
+
+      {% if page.review.poster or page.image -%}
+        <img
+          class="review-poster u-photo"
+          src="{{- page.review.poster | default: page.image.path | default: page.image -}}"
+          alt="{{- page.image.alt | default: '' -}}"
+        >
+      {%- endif %}
+    </header>
+  {%- else -%}
+    <h1 class="post-title p-name">
+      {{ page.title }}
+    </h1>
+
+    {% if page.image -%}
+      <figure class="post-cover">
+        <img class="post-image u-photo" src="{{- page.image.path | default: page.image -}}" alt="{{- page.image.alt | default: '' -}}">
+
+        {% if page.image.caption -%}
+          <figcaption class="post-image-caption">
+            {{- page.image.caption -}}
+          </figcaption>
+        {%- endif %}
+      </figure>
+    {%- endif %}
+  {% endif %}
+
+  <div class="post-content e-content">
+    {{ content }}
+  </div>
+
+  {% if page.external_url -%}
+    {%- assign link_type = page.reaction | default: 'like' -%}
+    {%- include link-preview.html link=page.external_url reaction=link_type -%}
+  {%- endif %}
+
+  <footer class="post-details">
+    <a class="post-permalink u-url u-uid" href="{{- page.url | absolute_url -}}" rel="bookmark">
+      <time datetime="{{- page.date | date_to_xmlschema -}}" class="post-date dt-published">
+        {{- page.date | date: "%d/%m/%Y" -}}
+      </time>
+    </a>
+
+    {% if page.tags -%}
+      <ul class="post-tags">
+        {% for tag in page.tags  -%}
+          {%- assign tag_slug = tag | slugify: "latin" -%}
+          <li class="tag-item">
+            <a class="tag-link p-category" href="{{- site.jekyll-archives.permalinks.tag | replace: ":name", tag_slug -}}">
+              {{- tag | downcase -}}
+            </a>
+          </li>
+        {%- endfor %}
+      </ul>
+    {% endif %}
+
+    <span class="post-author p-author h-card">
+      <a class="p-name u-url" href="{{- site.author.uri -}}" rel="author">
+        {{- site.author.name -}}
+      </a>
+    </span>
+  </footer>
+
+  <aside class="syndication-callout">
+    <p>
+      Se você quiser, pode interagir com esse post através do seu próprio site com uma <a href="https://indieweb.org/Webmention">webmention</a>.
+
+      {% if page.syndication -%}
+        Esse post foi distribuído nessas redes:
+          {% for syndication_link in page.syndication -%}
+            {%- assign syndication_domain = syndication_link | remove: "https://" | remove : "www." | split: "/" | first -%}
+
+            {%- case syndication_domain -%}
+              {%- when "boxd.it" -%}
+                {%- assign syndication_service = "Letterboxd" -%}
+              {%- when "letterboxd.com" -%}
+                {%- assign syndication_service = "Letterboxd" -%}
+              {%- when "organica.social" -%}
+                {%- assign syndication_service = "Mastodon" -%}
+              {%- when "bsky.app" -%}
+                {%- assign syndication_service = "Bluesky" -%}
+              {%- when "www.flickr.com" -%}
+                {%- assign syndication_service = "Flickr" -%}
+              {%- else -%}
+                {%- assign syndication_service = "Tumblr" -%}
+            {%- endcase -%}
+
+            <a class="u-syndication" href="{{ syndication_link }}" rel="noopener">
+              {{- syndication_service -}}
+            </a>
+
+            {%- if forloop.last -%}.{%- else -%}, {% endif -%}
+          {%- endfor %}
+      {%- endif %}
+    </p>
+  </aside>
+
+  {% webmentions page.url %}
+</article>
+
+{% if page.previous or page.next -%}
+  <nav class="blog-pagination" aria-label="Navegação do blog">
+    {% if page.previous -%}
+      <a class="blog-prev" href="{{- page.previous.url | relative_url -}}" rel="prev">
+        &larr; Post anterior
+      </a>
+    {%- endif -%}
+
+    {% if page.next -%}
+      <a class="blog-next" href="{{- page.next.url | relative_url -}}" rel="next">
+        Próximo post &rarr;
+      </a>
+    {%- endif %}
+  </nav>
+{%- endif %}

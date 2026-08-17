@@ -20,6 +20,7 @@
     font-size: 1.5rem;
     font-weight: 900;
     margin-block: 0.5rem;
+    line-height: 1.2;
   }
 
   .site-logo {
@@ -70,8 +71,17 @@
   margin-bottom: 3rem;
 
   .post-title {
-    color: var(--color-link);
     font-weight: 600;
+
+    a {
+      color: var(--color-link);
+      text-decoration-color: transparent;
+
+      &:hover,
+      &:focus {
+        text-decoration-color: currentcolor;
+      }
+    }
   }
 
   .post-details {
@@ -125,7 +135,6 @@
     }
   }
 
-  &.textos,
   &:not(.notas),
   &:not(.links) {
     .post-title {
@@ -153,47 +162,61 @@
   }
 }
 
-/*
-  Review
-*/
+/* Pagination */
+.blog-pagination {
+  display: inline-flex;
+  gap: 1rem;
 
-.review {
-  .review-link {
-    display: flex;
-    background-color: var(--color-accent);
-    align-items: center;
-    color: var(--color-accent-text);
-    gap: 1rem;
-    padding: 1rem;
-    border-radius: 0.25rem;
-    text-decoration: none;
+  a {
+    color: var(--color-link);
+    text-decoration-color: transparent;
 
-    .review-title {
-      font-size: 1.5rem;
-      margin-bottom: 0;
-    }
-
-    .review-poster {
-      max-width: 150px;
-    }
-
-    .item-meta {
-      font-size: var(--font-small);
-      display: inline-flex;
-      gap: 1rem;
-      color: rgb(from var(--color-accent-text) r g b / 0.65);
-
-      .item-rating {
-        color: var(--color-link);
-      }
+    &:hover,
+    &:focus {
+      text-decoration-color: currentcolor;
     }
   }
 }
 
-/*
-  Link Preview
-*/
+/* Review */
+.review-widget {
+  display: flex;
+  background-color: var(--color-accent);
+  align-items: center;
+  color: var(--color-accent-text);
+  gap: 1rem;
+  padding: 1rem;
+  border-radius: 0.25rem;
+  text-decoration: none;
 
+  .review-details {
+    align-self: center;
+    margin-right: auto;
+  }
+
+  .review-title {
+    font-size: 1.5rem;
+    margin-bottom: 0;
+  }
+
+  .review-poster {
+    max-width: 150px;
+    align-self: flex-start;
+  }
+
+  .item-meta {
+    font-size: var(--font-small);
+    display: inline-flex;
+    gap: 1rem;
+    color: rgb(from var(--color-accent-text) r g b / 0.65);
+
+    .item-rating {
+      color: var(--color-link);
+    }
+  }
+}
+
+/* Link Preview */
 .link-preview {
   border: 1px solid var(--color-ui);
   background-color: var(--color-ui);
@@ -259,5 +282,230 @@
     flex-flow: row wrap;
     align-items: flex-start;
     gap: 1ch;
+  }
+}
+
+/* Webmentions & Interactions */
+.syndication-callout {
+  background-color: var(--color-ui);
+  border: 1px solid var(--color-ui);
+  border-radius: 0.25rem;
+  color: var(--color-text-subtle);
+  font-size: var(--font-small);
+  padding: 0.5rem;
+  margin-block: 1rem;
+
+  & > p {
+    margin-block: 0;
+  }
+}
+
+.webmentions {
+  margin-block: 1rem;
+  padding-block: 0.5rem;
+  font-size: var(--font-small);
+  color: var(--color-text-subtle);
+  border-bottom: 1px solid var(--color-ui);
+
+  .webmentions-title {
+    margin-block: 0.5rem;
+    font-size: 1rem;
+    font-weight: 500;
+  }
+
+  .reactions {
+    margin-block: 0.5rem;
+
+    .reactions-label {
+      font-weight: 500;
+      font-style: normal;
+    }
+
+    .reactions-list {
+      display: inline-flex;
+      gap: 0.25rem;
+
+      .reaction-item {
+        display: inline-block;
+        text-decoration: none;
+
+        img {
+          border-radius: 100%;
+        }
+      }
+    }
+  }
+
+  .replies {
+    margin-block: 0.5rem;
+    padding-left: 0;
+    list-style: none;
+
+    .reply {
+      margin-block: 0.5rem;
+      clear: both;
+
+      .reply-author {
+        text-decoration-color: transparent;
+        font-weight: 500;
+
+        &:hover,
+        &:focus {
+          text-decoration-color: currentcolor;
+        }
+      }
+
+      .reply-author .u-photo {
+        float: left;
+        margin-right: 0.5rem;
+        border-radius: 100%;
+      }
+
+      .reply-permalink {
+        margin-left: 1ch;
+        text-decoration-color: transparent;
+      }
+
+      .reply-body {
+        display: flex;
+        flex-flow: column nowrap;
+        gap: 0.5rem;
+
+        & > * {
+          margin-block: 0;
+        }
+      }
+    }
+  }
+}
+
+/*
+  Pages and Archives
+*/
+
+.page .post-title,
+.archive-title {
+  margin-top: 0;
+  margin-bottom: 3rem;
+  font-size: 1.5rem;
+}
+
+.archive-section-title {
+  font-size: 1rem;
+  font-weight: 500;
+  border-top: 1px solid var(--color-ui);
+  padding-top: 1rem;
+}
+
+.years {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  list-style: none;
+  padding: 0;
+
+  @media screen and (width >= 600px) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .year-item {
+    margin-block: 0;
+  }
+
+  .archive-link {
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 0.25rem;
+    border: 1px solid var(--color-ui);
+    border-radius: 0.25rem;
+    text-decoration: none;
+    padding: 1rem;
+    transition-property: color, background-color;
+    transition-duration: 0.3s;
+
+    &:hover,
+    &:focus {
+      background-color: var(--color-ui);
+      color: var(--color-link);
+    }
+
+    .archive-name {
+      font-family: var(--font-mono);
+      font-weight: 300;
+      font-size: 1.25rem;
+    }
+
+    .archive-count {
+      font-size: var(--font-small);
+    }
+  }
+}
+
+.archive-search {
+  .archive-section-title {
+    display: block;
+  }
+
+  input {
+    appearance: none;
+    border: 1px solid var(--color-ui);
+    background-color: var(--color-ui);
+    color: var(--color-link);
+    font-size: 1.25rem;
+    display: block;
+    padding: 0.25rem 0.5rem;
+    width: 100%;
+
+    &:hover,
+    &:focus {
+      border-color: var(--color-link);
+      outline: none;
+    }
+  }
+
+  #search-results {
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 1rem;
+    background-color: var(--color-accent);
+    color: var(--color-accent-text);
+    list-style: none;
+    padding: 1rem;
+    margin: 0;
+
+    &:empty {
+      display: none;
+    }
+
+    li {
+      margin-block: 0;
+
+      a {
+        color: var(--color-link);
+        font-weight: 500;
+        text-decoration-color: transparent;
+
+        &:hover,
+        &:focus {
+          text-decoration-color: currentcolor;
+        }
+      }
+
+      p {
+        margin-block: 0;
+      }
+    }
+  }
+}
+
+.tag-archives {
+  .tags-list {
+    columns: 150px 3;
+    column-gap: 2em;
+    column-rule-color: var(--color-ui);
+    column-rule-style: solid;
+    column-rule-width: 1px;
+    padding-left: 0;
+    list-style: none;
   }
 }

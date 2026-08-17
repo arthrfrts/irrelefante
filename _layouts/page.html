@@ -1,3 +1,25 @@
 ---
 layout: default
 ---
+
+<article class="post page h-entry">
+    <h1 class="post-title p-name">
+      {{ page.title }}
+    </h1>
+
+  {% if page.image -%}
+    <figure class="post-cover">
+      <img class="post-image u-photo" src="{{- page.image.path | default: page.image -}}" alt="{{- page.image.alt | default: '' -}}">
+
+      {% if page.image.caption -%}
+        <figcaption class="post-image-caption">
+          {{- page.image.caption -}}
+        </figcaption>
+      {%- endif %}
+    </figure>
+  {%- endif %}
+
+  <div class="post-content e-content">
+    {{ content }}
+  </div>
+</article>

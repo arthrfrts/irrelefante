@@ -1,0 +1,54 @@
+---
+layout: page
+title: Arquivos e tags
+---
+
+{%- assign yearly_archives = site.posts | group_by_exp: "post", "post.date | date: '%Y'" -%}
+
+<search class="archive-search" role="search">
+  <label class="archive-section-title" for="search-input">Busque no site:</label>
+  <input type="search" id="search-input" autocomplete="off">
+
+  <div class="results-widget">
+    <p id="search-status" aria-live="polite"></p>
+    <ul id="search-results"></ul>
+  </div>
+</search>
+
+<section class="yearly-archives">
+  <h2 class="archive-section-title">Navegue pelos anos:</h2>
+
+  <ul class="years">
+    {% for year in yearly_archives -%}
+      <li class="year-item">
+        <a class="archive-link" href="{{ site.jekyll-archives.permalinks.year | replace: ':year', formatted_year }}">
+          <strong class="archive-name">
+            {{ year.name }}
+          </strong>
+
+          <small class="archive-count">
+            {{ year.items | size }} posts
+          </small>
+        </a>
+      </li>
+    {%- endfor %}
+  </ul>
+</section>
+
+<section class="tag-archives">
+  <h2 class="archive-section-title">Navegue pelas tags:</h2>
+
+  <ul class="tags-list">
+    {% assign sorted_tags = site.tags | sort %}
+    {% for tag in sorted_tags %}
+      {% assign tag_slug = tag | first | slugify: "latin" %}
+      {% assign tag_count = tag | last | size %}
+      <li class="tag-item">
+        <a class="tag" href="{{ site.jekyll-archives.permalinks.tag | replace: ':name', tag_slug }}">{{ tag | first }} ({{ tag_count }})</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+</section>
+
+<script src="{% link assets/js/search.js %}"></script>

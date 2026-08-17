@@ -1,3 +1,31 @@
 ---
 layout: default
 ---
+
+{% case page.type %}
+  {% when "category" %}
+    {% assign archive_title = page.title | prepend: "Arquivos de " %}
+  {% when "tag" %}
+    {% assign archive_title = page.title | prepend: "Posts sobre " %}
+  {% when "day" %}
+    {% assign archive_title = page.date | date: "%d/%m/%Y" | prepend: "Posts em " %}
+  {% when "month" %}
+    {% assign archive_title = page.date | date: "%m/%Y" | prepend: "Posts em " %}
+  {% when "year" %}
+    {% assign archive_title = page.date | date: "%Y" | prepend: "Posts em " %}
+{% endcase %}
+
+
+<div class="archive-index h-feed">
+  <h1 class="archive-title p-name">
+    {{- archive_title -}}
+  </h1>
+
+  {% for post in page.posts %}
+    {% if post.category contains "review" -%}
+      {%- include blog/review.html -%}
+    {%- else -%}
+      {%- include blog/post.html -%}
+    {%- endif %}
+  {% endfor %}
+</div>

@@ -1,7 +1,7 @@
 {%- assign review_post = include.post | default: post -%}
 
 <article class="post {{ review_post.category | slugify: 'latin' }} h-entry h-review">
-  <a class="review-link u-url u-review-of" href="{{- review_post.url | relative_url -}}" rel="bookmark">
+  <a class="review-widget u-url u-review-of" href="{{- review_post.url | relative_url -}}" rel="bookmark">
     <div class="review-details">
       <header class="item-details">
         <h2 class="review-title item-name p-name p-item">
