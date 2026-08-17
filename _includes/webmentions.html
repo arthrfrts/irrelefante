@@ -60,7 +60,7 @@
 
                 <a class="reply-permalink u-url" href="{{ reply.uri }}" rel="bookmark nofollow">
                   <time class="reply-date dt-published" datetime="{{ reply.pubdate | date_to_xmlschema }}">
-                    {{ reply.pubdate | date: '%d/%m/%y às %H:%M' }}
+                    {{ reply.pubdate | date: '%d/%m/%y %H:%M' }}
                   </time>
                 </a>
               </header>
@@ -68,7 +68,7 @@
               <div class="reply-body e-content">
                 {% if reply.title %}
                   <a class="u-url" href="{{ reply.uri }}" rel="bookmark nofollow">
-                    {{ reply.title | append: ' &#x21e5;' }}
+                    {{ reply.title }}
                   </a>
                 {% else %}
                   {{ reply.content | markdownify }}
