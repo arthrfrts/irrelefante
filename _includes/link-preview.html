@@ -1,17 +1,17 @@
 {%- assign link = include.link | metadata -%}
 
-{% if link -%}
-  {%- case include.reaction -%}
-    {%- when "reply" -%}
-      {%- assign link_reaction = "u-in-reply-to" -%}
-    {%- when "like" -%}
-      {%- assign link_reaction = "u-like-of" -%}
-    {%- when "repost" -%}
-      {%- assign link_reaction = "u-repost-of"  -%}
-    {%- else -%}
-      {%- assign link_reaction = "" -%}
-  {%- endcase -%}
+{%- case include.reaction -%}
+  {%- when "reply" -%}
+    {%- assign link_reaction = "u-in-reply-to" -%}
+  {%- when "like" -%}
+    {%- assign link_reaction = "u-like-of" -%}
+  {%- when "repost" -%}
+    {%- assign link_reaction = "u-repost-of"  -%}
+  {%- else -%}
+    {%- assign link_reaction = "u-like-of" -%}
+{%- endcase -%}
 
+{% if link -%}
   {%- assign link_url = link.canonical | default: link['og:url'] | default: include.link -%}
   {%- assign link_title = link['og:title'] | default: link.title | default: link_url -%}
   {%- assign link_image = link['og:image'] -%}
@@ -29,18 +29,14 @@
   {%- assign link_date = link["article:published_time"] -%}
 
 
-  <article class="link-preview h-cite">
-    <a class="u-url {{ link_reaction | strip -}}" href="{{- link_url -}}" target="_blank" rel="noopener">
-      {% if link_image -%}
-        <img class="link-image u-photo" src="{{- link_image -}}" alt="" role="presentation">
-      {%- endif %}
-
+  <article class="link-preview h-cite {{ link_reaction | strip -}}">
+    <a class="u-url" href="{{- link_url -}}" target="_blank" rel="noopener">
       <div class="link-details">
-        {% unless link_image -%}
-          {%- if link_icon -%}
+        {% if link_image -%}
+          <img class="link-image u-photo" src="{{- link_image -}}" alt="" role="presentation">
+          {%- elsif link_icon -%}
             <img class="link-icon u-photo" src="{{- link_icon -}}" alt="">
-          {%- endif -%}
-        {%- endunless %}
+        {%- endif %}
 
         <div class="link-citation">
           <header class="link-header">
@@ -70,4 +66,14 @@
       </div>
     </a>
   </article>
+{%- else -%}
+  <div class="link-preview h-cite {{ link_reaction | strip -}}">
+    <a class="u-url" href="{{- include.link -}}" target="_blank" rel="noopener">
+      <div class="link-details">
+        <div class="link-citation">
+          <cite class="link-title p-name">{{ include.link | remove: "https://" | remove: "http://" | split: "/" | first }}</cite>
+        </div>
+      </div>
+    </a>
+  </div>
 {%- endif %}

@@ -3,6 +3,8 @@ layout: page
 title: Arquivos e tags
 ---
 
+<p>O Irrelefante é um blog com {{ site.posts | size }} posts até o momento. Navegue pelos <a href="/textos/">textos</a>, <a href="/links/">links</a>, <a href="/notas/">notas</a> e <a href="/reviews">reviews</a>.</p>
+
 {%- assign yearly_archives = site.posts | group_by_exp: "post", "post.date | date: '%Y'" -%}
 
 <search class="archive-search" role="search">
