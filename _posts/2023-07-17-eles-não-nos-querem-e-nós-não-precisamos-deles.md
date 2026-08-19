@@ -6,7 +6,7 @@ category: links
 tags:
   - citações
   - sociedade
-  - política
+  - cultura
 external_url: https://defector.com/they-dont-want-us-and-we-dont-need-them
 reaction: like
 syndication:
