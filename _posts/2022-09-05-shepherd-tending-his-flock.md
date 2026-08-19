@@ -8,7 +8,7 @@ image:
 category: notas
 tags:
   - arte
-  - pintura
+  - pinturas
   - Jean-François Millet
 ---
 
