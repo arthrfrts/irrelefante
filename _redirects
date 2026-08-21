@@ -6,4 +6,4 @@
 {%- endif -%}
 {%- endfor %}
 
-/tagged/:splat	/tags/:splat	301
+/tagged/*	/tags/:splat	301
