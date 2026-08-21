@@ -9,10 +9,11 @@ tags:
   - aventura
   - The Legend of Zelda
   - Nintendo
+  - Nintendo Switch
 review:
   item: "The Legend of Zelda: Tears of the Kingdom"
   format: Jogo
-  summary: Nintendo Switch, 2023
+  summary: Nintendo, 2023
   rating: 4.5
   poster: /uploads/2023/09/totk.jpg
 external_url: https://paomortadela.com.br/2023/09/the-legend-of-zelda-tears-of-the-kingdom-dá-vida/
@@ -21,6 +22,8 @@ syndication:
   - https://arthrfrts.tumblr.com/post/727588994720923648/the-legend-of-zelda-tears-of-the-kingdom-d%C3%A1-vida
 redirect_from: /post/727588994720923648/
 ---
+
+> Tears of the Kingdom dá vida à Hyrule
 
 Uma das minhas memórias favoritas em&nbsp;_Breath of the Wild_&nbsp;é também uma das mais mundanas: eu subi em uma pequena colina e, lá de cima, eu enxerguei uma fumaça subindo entre as árvores de um bosque. Indo até lá, eu vi uma pessoa — uma das primeiras pessoas que eu encontrei enquanto caminhava por Hyrule pela primeira vez, já com algumas horas de jogo. Ele estava sentado ao lado de uma fogueira, e me comentou sobre como é difícil de ver pessoas por ali. Ele me comentou sobre as ruínas de Hyrule, e para onde eu poderia ir se quisesse encontrar mais pessoas.
 

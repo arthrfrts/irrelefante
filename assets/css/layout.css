@@ -136,6 +136,12 @@
     }
   }
 
+  .post-content {
+    img {
+      width: 100%;
+    }
+  }
+
   &:not(.notas),
   &:not(.links) {
     .post-title {

@@ -8,6 +8,9 @@ tags:
   - amigos
   - sentimentos
   - solidão
+syndication:
+  - https://arthrfrts.tumblr.com/post/734515115929583616/
+redirect_from: /post/734515115929583616/
 ---
 
 Algumas citações de leituras que fiz relacionado a amizade, sentido, e a internet como uma vizinhança:

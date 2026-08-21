@@ -1,37 +1,35 @@
-{%- assign review = include.review -%}
-
 <aside class="h-item h-review">
   <div class="review-widget">
     <div class="review-details">
       <div class="item-details">
         <h2 class="review-title item-name p-name p-item">
-          {{- review.item -}}
+          {{- include.item -}}
         </h2>
 
         <div class="item-meta">
-          {% if review.format -%}
-            <span class="item-format p-category">{{- review.format -}}</span>
+          {% if include.format -%}
+            <span class="item-format p-category">{{- include.format -}}</span>
           {%- endif %}
 
-          {% if review.summary -%}
+          {% if include.summary -%}
             <span class="item-summary e-description">
-              {{- review.summary -}}
+              {{- include.summary -}}
             </span>
           {%- endif %}
 
-          {% if review.rating -%}
-            <abbr class="item-rating p-rating" title="Nota: {{ review.rating | replace: '.', ',' }} de 5">
-              {{- review.rating | replace: '.', ',' | append: " &starf;" -}}
+          {% if include.rating -%}
+            <abbr class="item-rating p-rating" title="Nota: {{ include.rating | replace: '.', ',' }} de 5">
+              {{- include.rating | replace: '.', ',' | append: " &starf;" -}}
             </abbr>
           {%- endif %}
         </div>
       </div>
     </div>
 
-    {% if review.poster -%}
+    {% if include.poster -%}
       <img
         class="review-poster u-photo"
-        src="{{- review.poster |-}}"
+        src="{{- include.poster |-}}"
         alt=""
       >
     {%- endif %}

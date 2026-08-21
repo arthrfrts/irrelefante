@@ -8,13 +8,14 @@ tags:
   - jogos
   - Nintendo
   - Mario Bros.
+  - Nintendo Switch
 syndication:
   - https://arthrfrts.tumblr.com/post/731757319750385664/minha-maior-impress%C3%A3o-de-super-mario-wonder-at%C3%A9
 redirect_from: /post/731757319750385664/
 review:
   item: Super Mario Bros. Wonder
   format: Jogo
-  summary: Nintendo Switch, 2023
+  summary: Nintendo, 2023
   poster: /uploads/2023/10/wonder.jpg
   rating: 4
 ---
