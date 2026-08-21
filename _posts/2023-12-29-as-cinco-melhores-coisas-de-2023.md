@@ -42,7 +42,7 @@ Tár (Todd Field, 2022). Nenhum filme esse ano me deu material como o novo do To
 
 ## O jogo
 
-{% include review-widget.html item="The Legend of Zelda: Tears of the Kingdom" format="Jogo" summary="Nintendo Switch, 2023" poster="uploads/2023/09/totk.jpg" %}
+{% include review-widget.html item="The Legend of Zelda: Tears of the Kingdom" format="Jogo" summary="Nintendo Switch, 2023" poster="/uploads/2023/09/totk.jpg" %}
 
 Eu me debati muito se Mario ou Zelda levariam esse ano, mas foi em uma breve conversa com o Erê, a qual transcreverei abaixo, em que isso foi decidido:
 
