@@ -9,7 +9,7 @@ tags:
   - família
   - citações
 syndication: https://arthrfrts.tumblr.com/post/736202428112912384
-redirect_from: /post/736202428112912384
+redirect_from: /post/736202428112912384/
 ---
 
 Postado por Humans of New York:

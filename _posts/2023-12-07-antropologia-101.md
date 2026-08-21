@@ -10,7 +10,7 @@ tags:
   - citações
 syndication:
   - https://arthrfrts.tumblr.com/post/736050696593555456
-redirect_from: /post/736050696593555456
+redirect_from: /post/736050696593555456/
 ---
 
 [nudityandnerdery](https://nudityandnerdery.tumblr.com/post/735831323984510976):

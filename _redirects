@@ -1,0 +1,9 @@
+---
+---
+{%- for post in site.posts %}
+{% if post.redirect_from -%}
+	{{- post.redirect_from }}*	{{ post.url | relative_url }}	301
+{%- endif -%}
+{%- endfor %}
+
+/tagged/:splat	/tags/:splat	301
