@@ -3,7 +3,7 @@ description: >-
   Nada faz muito sentido.
 logo: /assets/logo.png
 
-url: "https://irrelefante.com.br/"
+url: "https://irrelefante.com.br"
 baseurl: ""
 permalink: "/:slugified_categories/:year/:month/:day/:title/"
 

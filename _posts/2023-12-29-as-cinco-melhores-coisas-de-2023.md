@@ -10,6 +10,13 @@ reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/738045242586038272/as-cinco-melhores-coisas-de-2023
 redirect_from: /post/738045242586038272/
+tags:
+  - listas
+  - dieta cultural
+  - filmes
+  - músicas
+  - jogos
+  - séries
 ---
 
 Duas coisas que percebi fazendo a lista de fim de ano do Pão em 2023:

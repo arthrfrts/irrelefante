@@ -15,7 +15,7 @@
   {%- assign link_url = link.canonical | default: link['og:url'] | default: include.link -%}
   {%- assign link_title = link['og:title'] | default: link.title | default: link_url -%}
   {%- assign link_image = link['og:image'] -%}
-  {%- assign link_description = link['og:description'] | default: link.description -%}
+  {%- assign link_description = link['og:description'] | default: link.description | truncatewords: 10 -%}
   {%- assign link_icon = link.icon -%}
 
   {%- unless link_icon contains "http" -%}

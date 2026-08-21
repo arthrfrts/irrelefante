@@ -29,7 +29,7 @@
 
       {% unless include.hide_excerpt -%}
         <div class="p-summary">
-          {{ review_post.excerpt | strip_html | strip_newlines | normalize_whitespace | truncatewords: 25 | markdownify }}
+          {{ review_post.excerpt | strip_html | strip_newlines | normalize_whitespace | truncatewords: 10 | markdownify }}
         </div>
       {%- endunless %}
     </div>
