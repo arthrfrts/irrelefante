@@ -33,6 +33,9 @@ plugins:
   - jekyll-url-metadata
   - jekyll-webmention_io
 
+include:
+  - _redirects
+
 # Plugin: jekyll-feed
 feed:
   icon: "/assets/logo.png"

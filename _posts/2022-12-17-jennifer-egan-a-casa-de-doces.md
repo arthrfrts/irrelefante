@@ -15,7 +15,7 @@ tags:
   - tecnologia
 syndication:
   - https://arthrfrts.tumblr.com/post/703905604706680832/%C3%B3tima-a-compara%C3%A7%C3%A3o-que-jennifer-egan-faz-da
-redirect_from: /post/703905604706680832/%C3%B3tima-a-compara%C3%A7%C3%A3o-que-jennifer-egan-faz-da
+redirect_from: /post/703905604706680832/
 ---
 
 Ótima a comparação que Jennifer Egan faz da internet com o conto de João e Maria: a casa de doces é “de graça”, mas quanto mais você come, mais chances você tem de ser devorado.
