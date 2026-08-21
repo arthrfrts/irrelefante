@@ -7,3 +7,5 @@
 {%- endfor %}
 
 /tagged/*	/tags/:splat	301
+/archive	/arquivo/	301
+/rss	/feed.xml	301
