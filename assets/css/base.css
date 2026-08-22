@@ -127,6 +127,7 @@ mark {
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
   font-weight: 500;
+  clear: both;
 }
 
 h1 {
@@ -173,6 +174,7 @@ a {
 
 ul, ol {
   padding-left: 2ch;
+  clear: both;
 
   ul, ol {
     margin-block: 0;
@@ -252,6 +254,7 @@ blockquote {
   position: relative;
   padding-left: 2rem;
   margin-left: 0;
+  clear: both;
 
   & > :first-child {
     &::before {
@@ -280,6 +283,7 @@ cite {
 table {
   width: 100%;
   border-collapse: collapse;
+  clear: both;
 
   th, td {
     border-bottom: 1px solid var(--color-ui);
@@ -301,6 +305,7 @@ code {
 }
 
 pre {
+  clear: both;
   max-width: 100%;
   overflow-x: scroll;
   border: 1px solid var(--color-ui);

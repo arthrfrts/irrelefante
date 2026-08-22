@@ -9,3 +9,5 @@
 /tagged/*	/tags/:splat	301
 /archive	/arquivo/	301
 /rss	/feed.xml	301
+/agora	/tags/agora/	301
+/now	/tags/agora/	301

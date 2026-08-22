@@ -16,6 +16,7 @@ tags:
   - impressões
   - MegaWobble
   - Nintendo Switch
+canonical_url: https://paomortadela.com.br/2023/02/o-jogo-perfeito-para-esperar-pelo-novo-zelda/
 ---
 
 _Tears of the Kingdom_, a continuação de _The Legend of Zelda: Breath of the Wild_, está logo aí. É o meu jogo mais esperado do ano. Parece fantástico. Eu passo horas do meu dia lendo teorias da conspiração sobre o jogo, que a gente sabe tão pouco mesmo estando há poucos meses de seu lançamento. Eu passo as noites sonhando em tirar umas férias bem longas e me aventurar em Hyrule de novo.

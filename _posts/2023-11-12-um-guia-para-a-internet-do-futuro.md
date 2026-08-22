@@ -5,7 +5,7 @@ category: links
 tags:
   - web
   - blogs
-  - indieweb
+  - IndieWeb
   - citações
 date: 2023-11-12 10:48 -0300
 external_url: https://www.theverge.com/2023/10/23/23928550/posse-posting-activitypub-standard-twitter-tumblr-mastodon

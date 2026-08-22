@@ -17,6 +17,7 @@ tags:
   - músicas
   - jogos
   - séries
+canonical_url: https://paomortadela.com.br/2023/12/as-cinco-melhores-coisas-de-2023/
 ---
 
 Duas coisas que percebi fazendo a lista de fim de ano do Pão em 2023:

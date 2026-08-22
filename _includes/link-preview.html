@@ -16,7 +16,7 @@
   {%- assign link_title = link['og:title'] | default: link.title | default: link_url -%}
   {%- assign link_image = link['og:image'] -%}
   {%- assign link_description = link['og:description'] | default: link.description | truncatewords: 10 -%}
-  {%- assign link_icon = link.icon -%}
+  {%- assign link_icon = link["shortcut icon"] | default: link.icon -%}
 
   {%- unless link_icon contains "http" -%}
     {%- assign link_icon_prepend = link_url | remove: "https://" | remove: "http://" | split: "/" | first | prepend: "//" -%}

@@ -195,6 +195,7 @@
   padding: 1rem;
   border-radius: 0.25rem;
   text-decoration: none;
+  clear: both;
 
   .review-details {
     align-self: center;
@@ -235,6 +236,7 @@
   border-radius: 0.25rem;
   overflow: hidden;
   margin-block: 1.5rem;
+  clear: both;
 
   & > a {
     display: block;

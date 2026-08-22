@@ -11,6 +11,7 @@ tags:
 external_url: https://paomortadela.com.br/2019/08/um-ranking-de-todos-os-super-mario/
 reaction: repost
 redirect_from: /post/735198802332516352/
+canonical_url: https://paomortadela.com.br/2019/08/um-ranking-de-todos-os-super-mario/
 ---
 
 Eu atualizei [meu ranking][pao] dos _Super Mario_ para incluir _Bowser's Fury_ e _Super Mario Bros Wonder._

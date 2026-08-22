@@ -16,6 +16,7 @@ review:
   poster: /uploads/2023/03/aftersun.jpg
 external_url: https://paomortadela.com.br/2023/03/waves-of-memory/
 reaction: repost
+canonical_url: https://paomortadela.com.br/2023/03/waves-of-memory/
 ---
 
 O que eu lembro da minha avó é o jeito que ela repousava a sua mão pesada e dura nas minhas costas enquanto eu dormia, e me massageava gentilmente até eu acordar com a voz profunda dela entoando uma canção. Essa memória — dessa específica manhã, mas também de todas as manhãs que ela estava na casa dos meus pais durante a minha infância — é tudo o que eu tenho da minha avó, que partiu no dia do meu aniversário quando eu tinha dez anos, e que mesmo assim teve uma influência profunda em minha vida.

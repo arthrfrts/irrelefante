@@ -11,6 +11,7 @@ tags:
 image: /uploads/2019/08/ranking-supermario.jpg
 external_url: https://paomortadela.com.br/2019/08/um-ranking-de-todos-os-super-mario/
 reaction: repost
+canonical_url: https://paomortadela.com.br/2019/08/um-ranking-de-todos-os-super-mario/
 ---
 
 **Nota:** esse post [foi atualizado em 27/11/2023][upd] para incluir _Bowser's Fury_ e _Super Mario Bros. Wonder_.
