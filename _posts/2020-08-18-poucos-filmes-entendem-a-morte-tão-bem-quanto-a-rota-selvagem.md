@@ -9,6 +9,7 @@ tags:
   - Andrew Haigh
   - animais
   - cavalos
+  - morte
 review:
   item: A Rota Selvagem
   format: Filme

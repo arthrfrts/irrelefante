@@ -1,0 +1,18 @@
+---
+layout: post
+title: O blu-ray de “O Menino e a Garça”
+date: 2024-10-16 10:16 -0300
+category: notas
+tags:
+  - agora
+  - filmes
+  - coleções
+  - Hayao Miyazaki
+  - Studio Ghibli
+---
+
+Recebi hoje a edição em blu-ray do _O Menino e a Garça_. É o trabalho mais bem cuidado da OPC, eu acho. A luva é linda.
+
+![][heron]
+
+[heron]: /uploads/2024/10/heron.jpg

@@ -7,6 +7,7 @@ tags:
   - web
   - blogs
   - Lucy Pham
+  - coleções
 external_url: https://www.are.na/lucy-pham/abandoned-blogs
 reaction: like
 syndication:

@@ -15,7 +15,6 @@
   {%- assign link_url = link.canonical | default: link['og:url'] | default: include.link -%}
   {%- assign link_title = link['og:title'] | default: link.title | default: link_url -%}
   {%- assign link_image = link['og:image'] -%}
-  {%- assign link_description = link['og:description'] | default: link.description | truncatewords: 10 -%}
   {%- assign link_icon = link["apple-touch-icon"] | default: link["shortcut icon"] | default: link.icon  -%}
   {%- assign link_icon_prepend = link_url | remove: "https://" | remove: "http://" | split: "/" | first | prepend: "https://" -%}
 
@@ -51,12 +50,6 @@
             <cite class="link-title p-name">{{- link_title -}}</cite>
             <span class="link-domain p-publication">{{- link_site -}}</span>
           </header>
-
-          {% if link_description -%}
-            <p class="p-summary link-description">
-              {{ link_description | truncatewords: 25 }}
-            </p>
-          {%- endif %}
 
           {% if link_author or link_date -%}
             <footer class="link-article-info">

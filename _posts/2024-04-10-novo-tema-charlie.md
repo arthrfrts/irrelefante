@@ -7,6 +7,8 @@ tags:
   - web
   - desenvolvimento
   - Tumblr
+  - projetos
+  - temas
 external_url: https://www.tumblr.com/theme/41291
 reaction: repost
 syndication:
