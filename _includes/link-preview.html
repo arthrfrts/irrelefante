@@ -16,12 +16,20 @@
   {%- assign link_title = link['og:title'] | default: link.title | default: link_url -%}
   {%- assign link_image = link['og:image'] -%}
   {%- assign link_description = link['og:description'] | default: link.description | truncatewords: 10 -%}
-  {%- assign link_icon = link["shortcut icon"] | default: link.icon -%}
+  {%- assign link_icon = link["apple-touch-icon"] | default: link["shortcut icon"] | default: link.icon  -%}
+  {%- assign link_icon_prepend = link_url | remove: "https://" | remove: "http://" | split: "/" | first | prepend: "https://" -%}
 
-  {%- unless link_icon contains "http" -%}
-    {%- assign link_icon_prepend = link_url | remove: "https://" | remove: "http://" | split: "/" | first | prepend: "//" -%}
-    {%- assign link_icon = link_icon | prepend: link_icon_prepend -%}
-  {%- endunless -%}
+  {% if link_image %}
+    {% unless link_image contains "//" %}
+      {%- assign link_image = link_image | prepend: link_icon_prepend -%}
+    {% endunless %}
+  {% endif %}
+
+  {% if link_icon %}
+    {%- unless link_icon contains "//" -%}
+      {%- assign link_icon = link_icon | prepend: link_icon_prepend -%}
+    {%- endunless -%}
+  {% endif %}
 
   {%- assign link_domain = link_url | remove: "https://" | remove: "http://" | split: "/" | first -%}
   {%- assign link_site = link['og:site_name'] | default: link_domain -%}
@@ -35,7 +43,7 @@
         {% if link_image -%}
           <img class="link-image u-photo" src="{{- link_image -}}" alt="" role="presentation">
           {%- elsif link_icon -%}
-            <img class="link-icon u-photo" src="{{- link_icon -}}" alt="">
+            <img class="link-icon u-photo" width="64" height="64" src="{{- link_icon -}}" alt="">
         {%- endif %}
 
         <div class="link-citation">

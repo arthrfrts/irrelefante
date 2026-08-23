@@ -245,7 +245,8 @@
 
   .link-image {
     max-width: 150px;
-    height: auto;
+    height: 100%;
+    align-self: stretch;
     aspect-ratio: 1 / 1;
     object-fit: cover;
   }
