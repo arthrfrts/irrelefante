@@ -25,7 +25,7 @@ Vivi ficou em um dos quartos da casa, onde bate sol e é bem iluminado, e minha 
 Eu lembro muito da Vivi desde que ela morreu. [Eu já falei sobre esse dia aqui][memorias]. Dói demais pensar nele, e no meu envolvimento naquele dia. Nada me tira da cabeça que a roupa que eu coloquei nela naquela noite, alguns dias depois de ela ter feito uma cirurgia, estava apertada demais. Pra mim, desde então, eu matei a Vivi.
 
 <video controls="controls" playsinline="playsinline" muted="muted" >
-  <source src="{% link uploads/2025/08/vivi.mp4 %}" type="video/mp4">
+  <source src="https://cldup.com/r8YED4NGzb.mp4" type="video/mp4">
 </video>
 
 Mas Vivi viveu uma vida inteirinha. Quando ela aprontava, virava Viviane. Ela fazia uma expressão afrontosa quando a gente xingava ela. Eu acompanhava ela no banheiro antes de dormir (desde o acidente, como eu chamei aquela noite, ela não conseguia mais se segurar). Durante aqueles anos, eu dormi com o colchão no chão. Eu podia colocar a mão dentro do berço dela até ouvir ela roncar (e, leitores, ela roncava). Por muitos anos depois dela, meu colchão continuou no chão.
