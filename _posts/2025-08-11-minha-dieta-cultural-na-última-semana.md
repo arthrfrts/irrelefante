@@ -2,16 +2,14 @@
 layout: post
 title: Minha dieta cultural na última semana
 date: 2025-08-11 11:22 -0300
-category: textos
+category: notas
 tags:
   - impressões
   - dieta cultural
   - jogos
   - filmes
   - livros
-  - Ursula K. Le Guin
   - músicas
-  - Milton Nascimento
 syndication:
   - https://arthrfrts.tumblr.com/post/798569321737699328/
 redirect_from: /post/798569321737699328/
