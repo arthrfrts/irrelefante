@@ -1,6 +1,19 @@
 :root {
   color-scheme: light dark;
 
+  --bg: light-dark(hsl(0, 0%, 97%), hsl(189, 20%, 7%));
+  --fg: light-dark(hsl(0, 0%, 0%), hsl(0, 0%, 81%));
+  --fg-subtle: light-dark(hsl(0, 0%, 47%), hsl(184, 11%, 50%));
+  --action: light-dark(hsl(204, 100%, 40%), hsl(35, 57%, 55%));
+  --support-1: light-dark(hsl(103, 56%, 35%), hsl(104, 41%, 65%));
+  --support-2: light-dark(hsl(3, 55%, 43%), hsl(0, 60%, 50%));
+  --support-3: light-dark(hsl(278, 43%, 43%), hsl(303, 39%, 67%));
+  --support-4: light-dark(hsl(222, 59%, 47%), hsl(209, 71%, 67%));
+  --highlight: light-dark(hsl(35, 100%, 68%), hsl(60, 56%, 72%));
+  --selection: light-dark(hsl(213, 97%, 87%), hsl(185, 12%, 18%));
+  --ui: light-dark(hsl(0, 0%, 94%), hsl(187, 13%, 12%));
+  --border: light-dark(hsl(0, 0%, 88%), hsl(356, 19%, 14%));
+
   --white: #EAE1CD;
   --black: #201D1D;
   --blue: #4B72B0;
@@ -8,15 +21,15 @@
   --red: #BB3102;
   --yellow:#F5CC47;
 
-  --color-background: light-dark(#f7f7f7, #0e1415);
-  --color-text: light-dark(#000, #cecece);
-  --color-text-subtle: light-dark(#777, #708b8d);
-  --color-link: light-dark(#007acc, #cd974b);
-  --color-ui: light-dark(#e0e0e0, #1a2122);
+  --color-background: var(--bg);
+  --color-text: var(--fg);
+  --color-text-subtle: var(--fg-subtle);
+  --color-link: var(--action);
+  --color-ui: var(--ui);
 
-  --color-accent: light-dark(#448c27, #95cb82);
-  --color-accent-text: light-dark(#f7f7f7, #1a2122);
-  --color-accent-link: light-dark(#aa3731, #dfdf8e);
+  --color-accent: var(--support-1);
+  --color-accent-text: var(--bg);
+  --color-accent-link: var(--support-2);
 
   --font-body: "Atkinson Hyperlegible Next", sans-serif;
   --font-mono: "Atkinson Hyperlegible Mono", monospace;
