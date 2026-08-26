@@ -8,15 +8,15 @@
   --red: #BB3102;
   --yellow:#F5CC47;
 
-  --color-background: light-dark(white, var(--black));
-  --color-text: light-dark(var(--black), var(--white));
-  --color-text-subtle: rgb(from var(--color-text) r g b / 0.6);
-  --color-link: light-dark(var(--red), var(--yellow));
-  --color-ui: rgb(from var(--color-text) r g b / 0.08);
+  --color-background: light-dark(#f7f7f7, #0e1415);
+  --color-text: light-dark(#000, #cecece);
+  --color-text-subtle: light-dark(#777, #708b8d);
+  --color-link: light-dark(#007acc, #cd974b);
+  --color-ui: light-dark(#e0e0e0, #1a2122);
 
-  --color-accent: light-dark(var(--blue), var(--green));
-  --color-accent-text: light-dark(var(--white), var(--white));
-  --color-accent-link: light-dark(var(--red), var(--yellow));
+  --color-accent: light-dark(#448c27, #95cb82);
+  --color-accent-text: light-dark(#f7f7f7, #1a2122);
+  --color-accent-link: light-dark(#bfdbfe, #dfdf8e);
 
   --font-body: "Atkinson Hyperlegible Next", sans-serif;
   --font-mono: "Atkinson Hyperlegible Mono", monospace;
