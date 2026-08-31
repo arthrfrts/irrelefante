@@ -13,7 +13,7 @@ syndication:
 redirect_from: /post/751180713837101056/
 ---
 
-O [Ghedin trouxe pra esse lado da internet](https://manualdousuario.net/orbita-post/como-e-seu-fluxo-para-postar-no-blog/){: .u-reply-of } uma corrente gringa de como é o fluxo para blogar.
+O [Ghedin trouxe pra esse lado da internet](https://manualdousuario.net/orbita-post/como-e-seu-fluxo-para-postar-no-blog/){: .u-in-reply-to } uma corrente gringa de como é o fluxo para blogar.
 
 Eu posto no Tumblr, o que é mais fácil. Alguns posts mais breves surgem do celular ou do navegador mesmo (como [uma foto](https://arthr.me/tagged/fotos) ou [uma efêmera](https://arthr.me/tagged/ef%C3%AAmera)). Esse é um deles.
 
