@@ -17,6 +17,7 @@ review:
 syndication:
   - https://arthrfrts.tumblr.com/post/821953711107620864/
   - https://boxd.it/fcxezj
+  - https://organica.social/@arthr/116908113615466387
 redirect_from: /post/821953711107620864/
 ---
 

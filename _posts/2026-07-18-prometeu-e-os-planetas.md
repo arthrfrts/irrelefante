@@ -12,6 +12,7 @@ tags:
   - amigos
 syndication:
   - https://arthrfrts.tumblr.com/post/822530925127778304/hoje-assisti-ao-programa-prometeu-e-os-planetas
+  - https://organica.social/@arthr/116944193993908478
 redirect_from: /post/822530925127778304/
 ---
 

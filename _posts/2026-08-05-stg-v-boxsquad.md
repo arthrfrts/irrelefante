@@ -12,6 +12,7 @@ external_url: https://spacetypegenerator.com/boxsquad
 reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/824109129711927296/
+  - https://organica.social/@arthr/117042826522582715
 redirect_from: /post/824109129711927296/
 ---
 

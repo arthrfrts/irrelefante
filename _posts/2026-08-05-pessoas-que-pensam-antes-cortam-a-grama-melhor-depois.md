@@ -10,6 +10,7 @@ external_url: https://pudding.cool/2026/06/mow/
 reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/824108195059548160/
+  - https://organica.social/@arthr/117042798142016729
 redirect_from: /post/824108195059548160/
 ---
 

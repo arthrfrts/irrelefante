@@ -10,6 +10,7 @@ tags:
   - Gilmore Girls
 syndication:
   - https://irrelefante.tumblr.com/post/822707380572831744/
+  - https://organica.social/@arthr/116955243950117417
 redirect_from: /post/822707380572831744/
 image:
   path: https://64.media.tumblr.com/24252a48d6a6aa44f138c7ef1284c84a/0eacf528f34eec48-cd/s1280x1920/f85129aeb297bfaf4cb91593e93f72a5cbeeab10.webp
