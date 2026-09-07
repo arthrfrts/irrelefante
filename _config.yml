@@ -102,3 +102,7 @@ webmentions:
     default:
       policy: retry
       max_attempts: 5
+
+# Plugin: jekyll-standard-site
+standard_site:
+  publication: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.publication/3muwvtfv4m32m"
