@@ -5,7 +5,7 @@ date: 2022-10-28 11:29 -0300
 category: links
 tags:
   - arte
-  - ilustração
+  - ilustrações
   - biologia
   - livros
 external_url: https://www.biodiversitylibrary.org/item/53585#page/292/mode/2up
