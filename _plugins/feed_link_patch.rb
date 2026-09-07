@@ -1,14 +1,9 @@
 require "jekyll-feed"
 
 module JekyllFeedLinkPatch
-  ORIGINAL = '<link href="{{ post.url | absolute_url }}" rel="alternate" type="text/html" title="{{ post_title }}" />'
-
   PATCHED = <<~LIQUID.strip
     {% if post.external_url %}
-    <link href="{{ post.external_url }}" rel="alternate" type="text/html" title="{{ post_title }}" />
-    <link href="{{ post.url | absolute_url }}" rel="related" type="text/html" title="Permalink" />
-    {% else %}
-    #{ORIGINAL}
+    <link href="{{ post.external_url }}" rel="related" type="text/html" title="Permalink" />
     {% endif %}
   LIQUID
 
