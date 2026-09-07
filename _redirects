@@ -1,14 +1,13 @@
 ---
 ---
 
-/post/:id/:slug /post/:id/ 301
-
 {%- for post in site.posts %}
 {% if post.redirect_from -%}
 	{{- post.redirect_from }}	{{ post.url | relative_url }}	301
 {%- endif -%}
 {%- endfor %}
 
+/post/:id/:slug /post/:id/ 301
 /tagged/*	/tags/:splat	301
 /archive	/arquivo/	301
 /rss	/feed.xml	301
