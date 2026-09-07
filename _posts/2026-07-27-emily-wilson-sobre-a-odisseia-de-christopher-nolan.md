@@ -13,6 +13,7 @@ syndication:
 redirect_from: /post/823328764184444929/
 external_url: https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man
 reaction: like
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb3g2rga2f"
 ---
 
 A tradutora Emily Wilson [escreveu sobre a adaptação de Christopher Nolan para _A Odisseia_][lrb], e é uma das melhores críticas de cinema que eu já vi. Wilson avalia tanto a temática e a interpretação que Nolan usa, quanto a erótica do filme — aquilo que o filme a fez sentir.

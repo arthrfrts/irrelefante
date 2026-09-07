@@ -14,6 +14,7 @@ reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/821462741550268416/
 redirect_from: /post/821462741550268416/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb37y5uy2f"
 ---
 
 Nick Heer é um dos melhores autores que observam a tecnologia. Ele sempre tem opiniões muito bem embasadas que, mesmo quando eu não concordo completamente, me fazem ponderar e reconsiderar minhas certezas. No seu blog _Pixel Envy_, ele publicou recentemente o que eu acho que é [o melhor obituário possível para o metaverso][metaverso], e as loucuras que empresas como o Facebook, a Epic Games e Roblox fizeram (sem falar projetos como o Decentraland):

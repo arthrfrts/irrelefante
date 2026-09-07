@@ -20,6 +20,7 @@ review:
 syndication:
   - https://arthrfrts.tumblr.com/post/798422233929465856/
 redirect_from: /post/798422233929465856/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2gzags2y"
 ---
 
 Três dias depois e eu ainda tô vidrado, pensando em _Uma Batalha Após A Outra_. Eu nem sei por onde começar a falar desse filme.

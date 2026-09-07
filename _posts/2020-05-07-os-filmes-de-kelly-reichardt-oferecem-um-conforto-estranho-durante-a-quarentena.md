@@ -13,6 +13,7 @@ reaction: repost
 image:
   path: /uploads/2020/05/wendy-lucy.jpg
   caption: Wendy & Lucy (2008)
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaygsciv25"
 ---
 
 Eu me tornei fã de carteirinha da diretora americana Kelly Reichardt desde quando eu vi _Certas Mulheres_ pela primeira vez, depois do meu amigo Leo recomendar o filme dizendo que “é exatamente o tipo de filme que eu gosto”. O Leo acertou em cheio, _Certas Mulheres_ podia muito bem se chamar “Arthur Freitas Favorite Hits™”. Desde então eu assisti todos os outros filmes da diretora, e espero ansiosamente pelo _First Cow_ que ela lançou ano passado.

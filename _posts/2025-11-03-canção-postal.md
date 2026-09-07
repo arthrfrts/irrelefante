@@ -12,6 +12,7 @@ reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/799216368878845952/
 redirect_from: /post/799216368878845952/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2m6qdy2f"
 ---
 
 Do Lô [no seu disco do tênis](https://music.apple.com/br/album/can%C3%A7%C3%A3o-postal/713763943?i=713763970):

@@ -10,6 +10,7 @@ tags:
 syndication:
   - https://irrelefante.tumblr.com/post/819814188961710080/
 redirect_from: /post/819814188961710080/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb3auf5b2j"
 ---
 
 > I never intended to have this life, believe me—  

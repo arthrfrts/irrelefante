@@ -14,6 +14,7 @@ tags:
 canonical_url: https://paomortadela.com.br/2020/10/talvez-eu-devesse-me-sentir-culpado-por-jogar-animal-crossing-todo-esse-tempo/
 external_url: "https://paomortadela.com.br/2020/10/talvez-eu-devesse-me-sentir-culpado-por-jogar-animal-crossing-todo-esse-tempo/"
 reaction: repost
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayib6ms2y"
 ---
 
 Nas últimas semanas uns posts sobre _Animal Crossing_ nos sites de jogos que eu leio têm me chamado a atenção. No [_Polygon_][polygon]{: .u-in-reply-to }, a manchete é sobre como a gente chegou na “fase de culpa” (quando a gente raramente visita as vilas e os vizinhos começam a nos xingar por deixarmos eles sozinhos lá); o [_Kotaku_][kotaku]{: .u-in-reply-to } pega ainda mais pesado:

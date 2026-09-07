@@ -10,6 +10,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/810304038142951424/
 redirect_from: /post/810304038142951424/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2zgks62r"
 ---
 
 Tava lendo esse [artigo no _Unsung_ sobre a estrutura de URLs do Flickr][flickr-urls], e [essa continuação com links sobre “design de URLs”][url-ui].

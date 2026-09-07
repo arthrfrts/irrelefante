@@ -11,6 +11,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/751180713837101056/
 redirect_from: /post/751180713837101056/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaznpwyi2f"
 ---
 
 O [Ghedin trouxe pra esse lado da internet](https://manualdousuario.net/orbita-post/como-e-seu-fluxo-para-postar-no-blog/){: .u-in-reply-to } uma corrente gringa de como é o fluxo para blogar.

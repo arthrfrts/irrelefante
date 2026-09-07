@@ -13,6 +13,7 @@ reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/801192718925692928/
 redirect_from: /post/801192718925692928/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2qodx623"
 ---
 
 [O Wagner Moura visitou o armário da Criterion][wagner] e escolheu filmes como _Deus e o Diabo na Terra do Sol_, _Il Posto_ e coleções do World Cinema Project.

@@ -13,6 +13,7 @@ reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/798565700557012992/
 redirect_from: /post/798565700557012992/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2emffw2r"
 ---
 
 Todo ano acontece o Tiny Awards, que celebra um site da internet pequena, feita à mão. Essa é a terceira edição do prêmio, e foi pro [fiftythousandnames.org](https://fiftythousandnames.org/), que lista em um gráfico as 50 mil pessoas que morreram no genocídio em Gaza com seus nomes, idades e, em alguns casos, as circunstâncias de suas mortes. O número de pessoas no site parece baixo porque ele condiz com o número de vítimas de outubro de 2023 à março de 2025. Se feito hoje, teria muitos nomes mais.

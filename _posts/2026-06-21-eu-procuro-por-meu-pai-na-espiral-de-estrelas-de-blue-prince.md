@@ -12,6 +12,7 @@ syndication:
 redirect_from: /post/820091418640039936/
 external_url: https://kotaku.com/i-am-looking-for-my-father-in-blue-princes-spiral-of-stars-2000708221
 reaction: like
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb3bgbiq2g"
 ---
 
 Rebekah Valentine (_Kotaku_), em [um lindo ensaio sobre o luto sobre seu pai, e o belíssimo _Blue Prince_][kotaku]:

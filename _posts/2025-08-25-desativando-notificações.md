@@ -10,6 +10,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/798567701926871040/
 redirect_from: /post/798567701926871040/v
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2agl422r"
 ---
 
 Vou fazer um experimento essa semana: desativei todas as notificações no celular. Nem mesmo o calendário e os lembretes se salvaram.

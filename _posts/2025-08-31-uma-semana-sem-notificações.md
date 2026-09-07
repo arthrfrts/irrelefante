@@ -10,6 +10,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/798566685994041344/
 redirect_from: /post/798566685994041344/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2bfzws2r"
 ---
 
 Eu passei essa última semana com as notificações do meu celular desativadas e tudo fluiu bem. Bem demais, até: eu não perdi nada importante. Segundo o Tempo de Uso do iPhone, o meu número de ativações do celular também não aumentou com isso. Eu imaginei que aumentaria porque eu ia verificar o WhatsApp ou o iMessage com mais frequência para ver se eu não perdi uma mensagem dos meus amigos e da minha família, mas não aconteceu. Um dos motivos é que durante o trabalho eu uso o WhatsApp no navegador, então não preciso ficar conferindo o celular de tempos em tempos.

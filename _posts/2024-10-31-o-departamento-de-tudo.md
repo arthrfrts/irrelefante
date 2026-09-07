@@ -10,6 +10,7 @@ external_url: https://hedgehogreview.com/issues/the-varieties-of-travel-experien
 syndication:
   - https://irrelefante.tumblr.com/post/821467873198407680/
 redirect_from: /post/821467873198407680/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazxfrwg2v"
 ---
 
 Nos anos 80, a Biblioteca Pública do Brooklyn tinha uma [“Telephone Reference Division”][mag], que atendia ligações de pessoas querendo saber alguma informação — editores de jornal, aspirantes do Jeopardy, ou pessoas curiosas. Eles respondiam perguntas como os integrantes de uma banda, a população de Marrocos, a expectativa de vida de uma espécie de pássaro, citando as fontes da informação dentro daquela biblioteca.

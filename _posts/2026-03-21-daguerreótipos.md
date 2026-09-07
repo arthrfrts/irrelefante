@@ -18,6 +18,7 @@ syndication:
   - https://irrelefante.tumblr.com/post/821467167611650048/
   - https://boxd.it/dCfLrz
 redirect_from: /post/821467167611650048/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2zzq4k2y"
 ---
 
 É a segunda vez que revejo _Daguerreótipos_ no cinema. A primeira vez foi na Cinemateca Capitólio. Dessa, foi na Cinemateca Paulo Amorim — meu cinema favorito da cidade, que fica pertinho aqui de casa. A sessão não tinha tanta gente, mas todo mundo parecia apaixonado pelos sujeitos que Varda observava.

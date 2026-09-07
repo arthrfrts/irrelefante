@@ -13,6 +13,7 @@ reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/734514612779827200/
 redirect_from: /post/734514612779827200/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaz4cwqi23"
 ---
 
 [Max Read](https://maxread.substack.com/p/david-finchers-new-movie-the-killer):

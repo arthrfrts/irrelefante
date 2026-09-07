@@ -13,6 +13,7 @@ reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/732349884083126272/eu-n%C3%A3o-fazia-ideia-que-a-jenna-stoeber-tinha-sido
 redirect_from: /post/732349884083126272/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayxkxe525"
 ---
 
 Eu não fazia ideia que a Jenna Stoeber tinha sido demitida da Polygon. Ela fazia meus vídeos favoritos do canal (pelo menos, aqueles que não eram os vídeos do BDG). Fico feliz que ela tenha continuado a produzir vídeos no YouTube.

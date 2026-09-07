@@ -21,6 +21,7 @@ review:
   summary: Milton Nascimento e Lô Borges, 1972
   rating: 5
   poster: /uploads/2024/11/clube.png
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazyjsoy2m"
 ---
 
 Primeiro, vamos considerar o vento.

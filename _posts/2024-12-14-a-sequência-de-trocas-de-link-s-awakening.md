@@ -12,6 +12,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/778627523737272320/
 redirect_from: /post/778627523737272320/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazzxaeo2v"
 ---
 
 _Link’s Awakening_ é [o meu jogo de _Zelda_ favorito]({% post_url 2020-06-09-um-ranking-de-todos-os-the-legend-of-zelda %}). Eu tô jogando ele de novo (no remake lançado pro Nintendo Switch em 2019), e eu lembrei da genialidade que é a sequência de trocas que existe nele.

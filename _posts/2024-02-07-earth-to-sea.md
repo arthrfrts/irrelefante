@@ -12,6 +12,7 @@ reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/741689756735422464/
 redirect_from: /post/741689756735422464/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazc2vgo2r"
 ---
 
 Do álbum _Fantasy_:

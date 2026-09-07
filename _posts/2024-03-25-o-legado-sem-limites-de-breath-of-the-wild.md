@@ -14,6 +14,7 @@ reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/745922907487797248/
 redirect_from: /post/745922907487797248/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazhaq4k2y"
 ---
 
 Algumas passagens do texto do Lewis Gordon para o <cite>[The Ringer](https://www.theringer.com/video-games/2023/5/12/23719757/the-legend-of-zelda-breath-of-the-wild-legacy-nintendo?utm_source=pocket_saves)</cite>:

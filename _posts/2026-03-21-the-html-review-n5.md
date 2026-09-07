@@ -15,6 +15,7 @@ syndication:
 redirect_from: /post/821467061447491584/
 external_url: https://thehtml.review/05/
 reaction: like
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb32ckds2y"
 ---
 
 Saiu o novo volume da _[The HTML Review][5]_, uma revista sobre a internet feita à mão. Como todos os anos, ela é cheia de pequenos experimentos.

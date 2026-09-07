@@ -12,6 +12,7 @@ reaction: repost
 syndication:
   - https://irrelefante.tumblr.com/post/821463303184400384/
 redirect_from: /post/821463303184400384/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb37geig2r"
 ---
 
 Topher Kearby, via [_swissmiss_](https://www.swiss-miss.com/2026/05/point-out-the-good.html):

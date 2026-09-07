@@ -12,6 +12,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/798565192446394368/
 redirect_from: /post/798565192446394368/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2flbqq2f"
 ---
 
 _PomPoko: A Grande Batalha dos Guaxinins_ é um absurdo. Quando eu vi esse filme pela [primeira vez](https://boxd.it/1d7Gn1) eu fiquei impressionado sobre quanto esse filme vai fundo na ideia, sem vergonha de parecer ridículo. É um épico de guerra que consegue, ao mesmo tempo, modular entre a devastação de um conflito e achar graça no comportamento preguiçoso dos seus personagens e seus sacos gigantes.

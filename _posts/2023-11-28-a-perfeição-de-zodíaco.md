@@ -13,6 +13,7 @@ reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/735223406261387264/
 redirect_from: /post/735223406261387264/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaz6cdxo23"
 ---
 
 Emily St. James, <cite>[Episodes][em]</cite>:

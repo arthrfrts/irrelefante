@@ -13,6 +13,7 @@ reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/816981194127409152/
 redirect_from: /post/816981194127409152/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb37pdof2m"
 ---
 
 Russel Davies escreveu um texto bem interessante sobre a “soberania dos dados” que parece ser a ruína de muitas empresas ([_undermanager_][undermanager]). Alguns destaques da leitura.

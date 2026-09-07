@@ -12,6 +12,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/798565307137523712/
 redirect_from: /post/798565307137523712/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2e2ozz2v"
 ---
 
 Eu e o Tobias estávamos nas manifestações aqui da minha cidade contra a PEC da blindagem e do PL da anistia. Foi muito bonito, muito alegre. Pra uma cidade cada vez mais cinza, até o sol abriu. Deu um bocado de esperança ver toda aquela galera junta.

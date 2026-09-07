@@ -13,6 +13,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/798569321737699328/
 redirect_from: /post/798569321737699328/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb26ib4y2g"
 ---
 
 Eu vou tentar escrever toda semana sobre o que eu tô vendo, lendo, jogando e ouvindo. Eu parei de usar o Letterboxd há uns meses e sinto que eu tô esquecendo dos filmes que eu vejo. Não quero voltar para o Letterboxd por enquanto, então acho que uma boa solução é manter minhas impressões por aqui mesmo. A partir da semana que vem, esses resumos devem ser publicados no sábado pela manhã.

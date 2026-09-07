@@ -17,6 +17,7 @@ image:
 syndication:
   - https://irrelefante.tumblr.com/post/799283712590282752/
 redirect_from: /post/799283712590282752/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2mqil22r"
 ---
 
 Desde a pandemia, a minha relação com música tem mudado e se aprofundado muito. Começou com a dobradinha _Fetch the Bolt Cutters_, da Fiona Apple; e _Set My Heart On Fire Immediately_, do Perfume Genius. [Eu escrevi sobre isso no Pão em 2020][apx].

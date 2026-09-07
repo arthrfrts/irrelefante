@@ -10,6 +10,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/692378560803094528/where-does-the-day-go
 redirect_from: "/post/692378560803094528/"
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaylk3wc2r"
 ---
 
 Arquivando numa tag para links terapêuticos.

@@ -14,6 +14,7 @@ syndication:
 redirect_from: /post/728353971725549568/
 external_url: https://www.vulture.com/2023/09/talking-heads-stop-making-sense-tiff-reunion.html
 reaction: repost
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaywywdq2f"
 ---
 
 Jill Krajewski, para a <cite>Vulture</cite>:

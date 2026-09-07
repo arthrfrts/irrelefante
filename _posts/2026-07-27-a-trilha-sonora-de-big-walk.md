@@ -12,6 +12,7 @@ tags:
 syndication:
   - https://irrelefante.tumblr.com/post/823314894851014656/
 redirect_from: /post/823314894851014656/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb3frrcr2v"
 ---
 
 _Big Walk_, o novo jogo da House House (o estúdio por trás do charmosíssimo _Untitled Goose Game_), talvez seja o projeto mais esperado do ano pra exatas 01 pessoa (eu mesmo). É um jogo de exploração do Grande Lá Fora, em que você e seus amigos vão poder embarcar em várias atividades numa espécie de parque nacional. O jogo deve ser lançado no próximo dia 4 de agosto.

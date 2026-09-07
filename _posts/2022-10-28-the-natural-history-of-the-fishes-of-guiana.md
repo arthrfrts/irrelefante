@@ -13,6 +13,7 @@ reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/699365983844974592/smithsonianlibraries-an-illustration-of-a-tiger
 redirect_from: /post/699365983844974592/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayo6hly2m"
 ---
 
 Nesse livro de Robert H. Schomburgk tem a linda ilustração de um bagre:

@@ -13,6 +13,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/798672817720852480/
 redirect_from: /post/798672817720852480/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2jfb3l26"
 ---
 
 O ano é 2025, e _Spore_ continua vencendo. Eu nem acredito que eu [ainda atualizo o Esporo com notícias](https://esporo.net/2025/10/spore-é-adicionado-ao-programa-de-preservação-da-gog/) sobre esse jogo.

@@ -21,6 +21,7 @@ review:
   format: Jogo
   summary: Cardboard Computer, 2013—2020
   rating: 5
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayiy4ys2y"
 ---
 
 ## I.

@@ -10,6 +10,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/763611207980695552/
 redirect_from: /post/763611207980695552/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazvpy7k2r"
 ---
 
 Eu gosto muito de votar. Eu gosto de chegar na minha zona eleitoral e ver alguns vizinhos ali. Estamos todos juntos em um ambiente neutro (eu voto no Palácio da Justiça aqui em Porto Alegre). Os mesários da minha zona são sempre muito gentis.

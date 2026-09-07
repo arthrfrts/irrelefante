@@ -19,6 +19,7 @@ review:
 external_url: https://paomortadela.com.br/2020/08/poucos-filmes-entendem-a-morte-tao-bem-quanto-a-rota-selvagem/
 reaction: repost
 canonical_url: https://paomortadela.com.br/2020/08/poucos-filmes-entendem-a-morte-tao-bem-quanto-a-rota-selvagem/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayhxznj2v"
 ---
 
 **Esse texto contém detalhes sobre a trama de A Rota Selvagem.**

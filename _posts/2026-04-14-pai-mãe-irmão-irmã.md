@@ -17,6 +17,7 @@ review:
   summary: Jim Jarmusch, 2025
   rating: 4
   poster: /uploads/2026/04/pmii.jpg
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb33zsyg2e"
 ---
 
 Saí da sessão já falando pro Erê que esse é o meu tipo de filme: uma tríade de pequenas histórias em que suas motivações e conclusões são tão ambíguas que elas podem não existir. Nada parece acontecer, mas Jarmusch observa tudo: os silêncios, os pequenos gestos, a forma como os personagens se movimentam pela cena. Tudo o que é dito, tudo o que não é dito e tudo o que fica pelo caminho.

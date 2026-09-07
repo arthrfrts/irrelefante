@@ -20,6 +20,7 @@ redirect_from: /post/745494796598231040/
 external_url: https://paomortadela.com.br/2024/03/hist%C3%B3rias-de-fantasmas/
 reaction: repost
 canonical_url: https://paomortadela.com.br/2024/03/hist%C3%B3rias-de-fantasmas/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazepazk2w"
 ---
 
 Os filmes de Andrew Haigh são repletos de ausências, de pessoas que não fazem mais parte da vida dos personagens que acompanhamos. Por todas as cenas de _45 Anos_, Kate percebe o quanto o “fantasma” da ex-namorada de seu marido assombrou sua vida, décadas depois de sua partida. O clímax de _Weekend_ acontece quando Russell consegue falar para Glen algo que ele queria muito falar para seus pais, que nunca conheceu; e [o último segundo de Charley em _A Rota Selvagem_][rota] é com ele finalmente olhando para trás, se deparando com o luto que ele fugiu no filme inteiro — tanto da morte de seu pai quanto de seu amigo.

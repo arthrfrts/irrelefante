@@ -15,6 +15,7 @@ reaction: repost
 syndication:
   - https://irrelefante.tumblr.com/post/798735773539205120/
 redirect_from: /post/798735773539205120/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2joc5l26"
 ---
 
 Para a SUMAÚMA, um dos melhores sites da internet, Wajã Xipai entrevistou o seccretário-chefe da ONU. Wajã é o primeiro indígena a entrevistar com exclusividade o líder da ONU. [A entrevista em si](https://sumauma.com/secretario-geral-onu-antonio-guterres-vozes-indigenas-inspirar-mundo-evitar-catastrofe-climatica/) é ótima, mas esse é o relato de Wajã sobre a situação: suas preocupações sobre como abordar suas perguntas, sobre mostrar a cicatriz aberta da Amazônia sem reduzí-la a isso.

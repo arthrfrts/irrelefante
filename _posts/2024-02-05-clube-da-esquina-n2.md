@@ -12,6 +12,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/741533732598611968/
 redirect_from: /post/741533732598611968/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazbrye326"
 ---
 
 Me emocionei nessa passagem do tempo delicada em _Renascer_. Belíssima, e sensível, a forma que o Jupará nos deixa.

@@ -16,6 +16,7 @@ tags:
   - sentimentos
   - depressão
 image: /uploads/2019/07/tirinhas.jpg
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayfiloi2f"
 ---
 
 É cansativo viver em 2019. Nunca tivemos tanto poder sobre a informação — podemos aprender sobre qualquer coisa e podemos estar a par de qualquer notícia a qualquer momento — e, enquanto isso é bom para a maior parte, eu acho que teve alguns efeitos colaterais estranhos em minha mente. É fácil se perder nesse acesso infinito. Podemos ter a ilusão de que sabemos tudo ou que podemos saber tudo. Assim, abraçamos a crença de que as injustiças podem ser desfeitas e verdades objetivas são o cerne das regras em que vivemos. Mas ter essa quantidade de informações também deixa claro que não podemos consertar todos os problemas deste mundo e que, como por mais que discutamos, brigamos e ficamos com raiva na internet, as coisas não vão ficar bem no final do dia, porque do outro lado da seção de comentários há outro ser vivo, que teoricamente tem tanto acesso à informação quanto você, e mesmo assim ainda pensa diferente. A era em que vivemos nos torna conscientes do estado do mundo, e ele não vai bem, e nos pede para fazer algo sobre isso. Mas também nos torna conscientes de quão pequenos somos, como só podemos realizar um certo tanto, e como essa lacuna entre o que deve ser feito e o que podemos fazer é maior do que nossos comentários irritados na internet fazem parecer.

@@ -5,6 +5,7 @@ date: 2025-11-26 10:42 -0300
 category: notas
 tags:
   - citações
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2qx5ao2r"
 ---
 
 [cameoappearance](https://cameoappearance.tumblr.com/post/740008405588131840/reblog-if-you-are-daunted-by-the-complexities-and):

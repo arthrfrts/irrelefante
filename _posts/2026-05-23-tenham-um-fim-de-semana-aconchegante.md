@@ -9,6 +9,7 @@ tags:
 syndication:
   - https://irrelefante.tumblr.com/post/821461683047383040/
 redirect_from: /post/821461683047383040/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb3aby722r"
 ---
 
 O tempo tá bem incerto nesse fim de semana por aqui. Não tem um raio de sol no céu, e as vezes parece que vai chover. Até cai uns pingos, mas a chuva não desce de vez. Parece bem um dia de inverno, mesmo que ele não tenha chegado ainda.

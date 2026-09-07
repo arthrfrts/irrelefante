@@ -10,6 +10,7 @@ tags:
   - Yoshifumi Kondō
   - Hayao Miyazaki
   - festivais
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2hc6vk2w"
 ---
 
 Eu atrasei total esse post, e peço desculpas. Os últimos dias no trabalho — meus últimos dias na empresa que eu trabalhei pelos últimos anos — foram intensos.

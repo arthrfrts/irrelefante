@@ -12,6 +12,7 @@ reaction: like
 syndication:
   - https://irrelefante.com.br/post/821467689520431104/
 redirect_from: /post/821467689520431104/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2g6abg2e"
 ---
 
 Eu tropecei [nessa página do site de Kevin Kelly](https://kk.org/ct2/the-internet-mapping-project/) em que ele pede pras pessoas ajudarem ele a mapear a internet. Mas não mapear _toda_ a internet, mapear como as pessoas organizam ela na mente.

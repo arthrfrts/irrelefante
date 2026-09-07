@@ -12,6 +12,7 @@ tags:
 syndication:
   - https://irrelefante.tumblr.com/post/824661067362959360/
 redirect_from: /post/824661067362959360/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb3ifpua2f"
 ---
 
 Eu descobri [hoje](https://www.openculture.com/2026/08/how-the-bird-sound-effects-in-alfred-hitchcocks-the-birds-were-created-with-a-pioneering-electronic-instrument-the-trautonium.html) que o som dos pássaros perigosos no clássico _Os Pássaros_ de Alfred Hitchcock são, na verdade, sons sintetizados usando um instrumento chamado [trautônio](https://en.wikipedia.org/wiki/Trautonium) por Oskar Sala. Ouvindo eles sem o contexto do filme, eu percebi que justamente o que tornam os pássaros tão assustadores é, justamente, o som estranho que eles fazem. Meio mecânico e meio fantasmagórico (mas, ainda assim, um som que parece o de um pássaro):

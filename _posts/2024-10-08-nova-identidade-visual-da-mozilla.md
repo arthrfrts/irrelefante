@@ -11,6 +11,7 @@ reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/763822207640240128/
 redirect_from: /post/763822207640240128/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazwbvhc2r"
 ---
 
 Eu gostei muito da n[ova marca da Mozilla][nice]. O M é usado para formar uma bandeira que remete ao primeiro mascote da empresa, um tiranossauro rex. Espero que essa se mantenha por mais tempo que a péssima `moz:lla`.

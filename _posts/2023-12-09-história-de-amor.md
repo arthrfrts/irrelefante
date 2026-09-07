@@ -10,6 +10,7 @@ tags:
   - citações
 syndication: https://arthrfrts.tumblr.com/post/736202428112912384
 redirect_from: /post/736202428112912384/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaz7axhg2v"
 ---
 
 Postado por Humans of New York:

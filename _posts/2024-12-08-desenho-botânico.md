@@ -10,6 +10,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/769312373543731200
 redirect_from: /post/769312373543731200
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazznm722w"
 ---
 
 [Via abwwia](https://abwwia.tumblr.com/post/769267340391104512/).

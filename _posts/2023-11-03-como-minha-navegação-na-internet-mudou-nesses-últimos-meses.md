@@ -9,6 +9,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/732977022404526080/como-minha-navega%C3%A7%C3%A3o-na-internet-mudou-nesses
 redirect_from: /post/732977022404526080/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayy4jz52m"
 ---
 
 Minha saída do Twitter há alguns meses mudou profundamente a forma como eu navego na internet. Por mais de uma década, o Twitter servia como a verdadeira página inicial da minha navegação. Era o que eu abria primeiro para descobrir links que meus amigos ou pessoas que eu seguia estavam compartilhando, e começava minha jornada diária na internet por aí.

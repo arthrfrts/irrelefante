@@ -13,6 +13,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/742697204021673985/
 redirect_from: /post/742697204021673985/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazcmhz52m"
 ---
 
 Eu tô bem contente com esse primeiro mês desde que eu comecei a minha nova “rotina cultural”. Não precisar escolher o que fazer no fim de cada dia liberou muito mais tempo para eu ler, ver e jogar mais. Por exemplo, embora o “dia de ler” seja na terça, o tempo que antes passaria decidindo o que ia fazer na quinta eu acabo usando para ler mais, etc.

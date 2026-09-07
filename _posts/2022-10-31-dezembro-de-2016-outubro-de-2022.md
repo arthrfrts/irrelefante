@@ -9,6 +9,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/699623652203839488/29-de-dezembro-de-2016-30-de-outubro-de-2022
 redirect_from: /post/699623652203839488/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayoz7py2f"
 ---
 
 Meus amigos se despediram de mim na madrugada do dia 29 de dezembro. Eles iam para a casa de uma conhecida nossa. Eu ia ficar mais um tempo na festa em que a gente tinha se encontrado e então eu iria a pé até a rodoviária, para pegar um ônibus até a casa dos meus pais, onde eu ia passar a virada de ano novo. Eu era uma pessoa completamente diferente da que eu sou agora quando eu vi eles entrarem no carro.

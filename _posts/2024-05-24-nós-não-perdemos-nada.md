@@ -11,6 +11,7 @@ reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/751408025846300672/
 redirect_from: /post/751408025846300672/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazog4wj2v"
 ---
 
 Ariane do Carmo, no [Twitter][tw]:

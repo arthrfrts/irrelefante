@@ -14,6 +14,7 @@ image:
 syndication:
   - https://irrelefante.tumblr.com/post/804989195027431424/
 redirect_from: /post/804989195027431424/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2uojow2e"
 ---
 
 Há pouco mais de um ano eu perdi uma amizade. Foi um momento que me machucou muito. Eu gosto muito de fazer amigos e me dedico bastante a manter minhas amizades. Eu descobri, bastante cedo, que amizades são relacionamentos preciosos e frágeis, que aquilo que as torna tão únicas são justamente aquilo que as desfaz.

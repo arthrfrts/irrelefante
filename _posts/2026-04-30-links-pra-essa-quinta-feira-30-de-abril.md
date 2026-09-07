@@ -11,6 +11,7 @@ tags:
 syndication:
   - https://irrelefante.tumblr.com/post/821463432185446400/
 redirect_from: /post/821463432185446400/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb35qd3326"
 ---
 
 Aqui vão alguns links bacanas pra explorar no feriado:

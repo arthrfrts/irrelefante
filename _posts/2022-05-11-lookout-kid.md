@@ -11,6 +11,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/683953007055028224
 redirect_from: /post/683953007055028224/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaykgpbq2g"
 ---
 
 <cite>Unconditional I (Lookout Kid)</cite>, do álbum _WE_:

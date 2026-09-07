@@ -12,6 +12,7 @@ reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/815690606590459904/
 redirect_from: /post/815690606590459904/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb35ze6w2e"
 ---
 
 Do álbum _Will Butler + The Sister Squares_:

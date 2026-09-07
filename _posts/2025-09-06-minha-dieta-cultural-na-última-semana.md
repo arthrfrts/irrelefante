@@ -13,6 +13,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/798566471295025152/
 redirect_from: /post/798566471295025152/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2bxxdn2m"
 ---
 
 O dia hoje tá lindo, e tá geladinho. Bem como eu gosto. Acho que eu vou pegar o Tobias e ir no Açorianos ler um livro de tarde. Tô pensando em voltar pro _Feiticeiro de Terramar_ agora que terminei _Uma Visão Pálida das Colinas_, mas esse frescor no ar me pede uma história de mistério. Vou ver o que eu tenho aqui pra ler.

@@ -10,6 +10,7 @@ external_url: https://publicdomainreview.org/essay/picturing-pyrotechnics/)
 reaction: like
 syndication: https://irrelefante.tumblr.com/post/799380518676348928/
 redirect_from: /post/799380518676348928/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2nccxj2j"
 ---
 
 Adorei [esse ensaio de Simon Werrett para a _The Public Domain Review_](https://publicdomainreview.org/essay/picturing-pyrotechnics/) sobre os desafios e as formas com que artistas capturavam e representavam pirotecnias no passado, seja na poesia, na ilustração e na pintura.

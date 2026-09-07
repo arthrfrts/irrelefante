@@ -12,6 +12,7 @@ reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/801816950336569344/
 redirect_from: /post/801816950336569344/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2rit2c2w"
 ---
 
 Uma pequena anotação de Fabián, [no seu diário](https://fabiansjournal.bearblog.dev/when-in-doubt-go-for-a-walk/):

@@ -11,6 +11,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/799305307095498752/
 redirect_from: /post/799305307095498752/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2mzh5s2w"
 ---
 
 Tem muita arte no mundo sobre como é difícil ser mãe e pai. Eu imagino que seja, mas são poucas as obras que mostram como é difícil ser um filho. Navegar pelas ambições, as expectativas e as frustrações dos adultos que te criam, enquanto você mesmo navega na experiência que é crescer.

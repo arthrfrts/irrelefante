@@ -13,6 +13,7 @@ canonical_url: https://paomortadela.com.br/2020/06/the-legend-of-zelda-ranking/
 external_url: https://paomortadela.com.br/2020/06/the-legend-of-zelda-ranking/
 reaction: repost
 image: /uploads/2020/06/zelda.jpg
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayhpbgi2g"
 ---
 
 Desde o dia que eu terminei de fazer [meu ranking de *Super Mario*]({% post_url 2019-08-14-um-ranking-de-todos-os-super-mario %}) eu sabia que eu ia acabar fazendo outros para as duas outras franquias fundadoras da Nintendo. Junto com Mario, *Zelda* e *Metroid* são ótimos marcadores temporais para entender onde a Nintendo, e os jogos como meio artístico estavam em determinado período de tempo.

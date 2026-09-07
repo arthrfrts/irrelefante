@@ -12,6 +12,7 @@ reaction: like
 syndication:
   - https://irrelefante.com.br/post/821464532134281216/
 redirect_from: /post/821464532134281216/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb33qynq23"
 ---
 
 “Uma breve exploração de espaços recursivos” é como [Daniel Linssen][dl] descreve seu novo jogo, _[“Print Gallery of an Artist”][pi]_ Particularmente ele destruiu o meu cérebro.

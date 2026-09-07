@@ -10,6 +10,7 @@ tags:
 syndication:
   - https://irrelefante.tumblr.com/post/807541785070108672/
 redirect_from: /post/807541785070108672/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2xcsqn25"
 ---
 
 Vai ver é a crise que eu tô passando no trabalho, vai ver porque eu realmente tô valorizando esperar mais, mas [esse post do Chris Collins][cc]{: .u-in-reply-to } bateu forte em mim:

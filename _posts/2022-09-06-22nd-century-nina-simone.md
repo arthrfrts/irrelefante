@@ -12,6 +12,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/694651506658541568/22nd-century
 redirect_from: /post/694651506658541568/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaymoixk2r"
 ---
 
 Eu sou apaixonado por essa performance de Nina Simone para uma música de Exuma. As letras são assombrosas:

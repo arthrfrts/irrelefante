@@ -8,6 +8,7 @@ tags:
   - cenas
   - séries
   - Gilmore Girls
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazqxjdo2v"
 ---
 
 Via [jennhoney][jn] no Tumblr.

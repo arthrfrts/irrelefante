@@ -12,6 +12,7 @@ reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/821463360931528704/
 redirect_from: /post/821463360931528704/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb36u6ka2g"
 ---
 
 Achei lindo o [tema de _Pokémon Ventos & Ondas_](https://nintendocafe.com/post/816503505673125888/pokemon-winds-waves-main-theme-recording), que deve ser lançado em novembro do ano que vem.

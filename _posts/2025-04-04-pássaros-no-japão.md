@@ -7,6 +7,7 @@ tags:
   - vídeos
   - pássaros
   - Japão
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb24ic7k2y"
 ---
 
 Via [sanmai](https://www.tumblr.com/blog/view/sanmai/779878675624722432), um vídeo pra assistir com som:

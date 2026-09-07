@@ -12,6 +12,7 @@ reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/732604666409566208/killers-of-the-flower-moon-asks-you-to-sit-with
 redirect_from: /post/732604666409566208/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayxttmg2r"
 ---
 
 Soraya Roberts, no <cite>[Defector][def]</cite>:

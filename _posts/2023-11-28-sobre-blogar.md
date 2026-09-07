@@ -11,6 +11,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/735223824338010112/
 redirect_from: /post/735223824338010112/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaz6l6ab2j"
 ---
 
 Algumas leituras dessa madrugada foram sobre o ato de escrever em um blog.

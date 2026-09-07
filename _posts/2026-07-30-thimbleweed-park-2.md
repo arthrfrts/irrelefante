@@ -11,6 +11,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/823564607937544192/
 redirect_from: /post/823564607937544192/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb3gps7o2r"
 ---
 
 Ótima notícia: Ron Gilbert [postou no seu blog][gg] ontem que Thimbleweed Park 2 está em desenvolvimento, com lançamento previsto pro início de 2028.

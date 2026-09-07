@@ -12,6 +12,7 @@ reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/739497894498959360/
 redirect_from: /post/739497894498959360/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazanytc2r"
 ---
 
 [Shea Fitzpatrick fez um histórico de seu site pessoal](https://www.sheafitz.com/website), uma galeria que mostra a evolução e transformação de seus gostos e interesses sobre o que fazer com o seu cantinho da internet.

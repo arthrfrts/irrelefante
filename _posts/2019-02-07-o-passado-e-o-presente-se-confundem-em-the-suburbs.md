@@ -17,6 +17,7 @@ review:
 canonical_url: https://paomortadela.com.br/2019/02/o-passado-e-o-presente-se-confundem-em-the-suburbs/
 external_url: https://paomortadela.com.br/2019/02/o-passado-e-o-presente-se-confundem-em-the-suburbs/
 reaction: repost
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayf342l26"
 ---
 
 Eu escuto _The Suburbs_ todo o verão desde seu lançamento, em 2010. Quando eu descobri o Arcade Fire, um pouco antes do lançamento do álbum, eu escutava _Funeral_ e _Neon Bible_ direto, no _repeat_, quase todos os dias. Foi a trilha-sonora do último ano do ensino fundamental e do meu primeiro ano do ensino médio. _The Suburbs_ mudou tudo. Ele entendia a minha vontade de sair de casa e nunca mais voltar. Ele me acompanhou no meu primeiro emprego arrumando computadores de uma lan-house (!!). Ele soava como os meus dias de verão — gigantes, ensolarados, onde o dia durava uma eternidade de tédio, do bom e do ruim.

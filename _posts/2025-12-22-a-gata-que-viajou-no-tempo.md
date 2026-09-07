@@ -12,6 +12,7 @@ tags:
 syndication:
   - https://irrelefante.tumblr.com/post/803648607310970880/
 redirect_from: /post/803648607310970880/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2shync2r"
 ---
 
 Bridget, a gata dos pais de Tom Cox, desapareceu. Para acalmar os próprios ânimos, o pai de Cox pintava as aventuras que ele imaginava que Bridget estava tendo:

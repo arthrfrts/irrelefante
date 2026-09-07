@@ -13,6 +13,7 @@ reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/747914633199976448/
 redirect_from: /post/747914633199976448/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazjqzdc2r"
 ---
 
 Via [Present & Correct](https://www.presentandcorrect.com/blogs/blog/the-function-of-colour-in-schools-hospitals-1930), escaneadas do livro <cite>The Function of Color in Factories, Schools & Hospitals</cite>.

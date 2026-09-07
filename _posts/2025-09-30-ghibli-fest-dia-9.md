@@ -9,6 +9,7 @@ tags:
   - Studio Ghibli
   - Hayao Miyazaki
   - festivais
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2gpyjr2v"
 ---
 
 Desculpem a ausência ontem pra falar de _Vidas ao Vento_ e _Nausicaä do Vale do Vento_. Eu acabei aproveitando pra assistir _Uma Batalha Após A Outra_, o novo filme do Paul Thomas Anderson (logo mais escrevo um pouquinho sobre o que é, provavelmente, o melhor filme que eu assisti esse ano).

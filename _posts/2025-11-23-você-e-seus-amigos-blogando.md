@@ -10,6 +10,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/801003828948467712
 redirect_from: /post/801003828948467712/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2q3gm326"
 ---
 
 [altered0](https://www.tumblr.com/blog/view/altered0/800624545862238208):

@@ -14,6 +14,7 @@ reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/751686472161280000/
 redirect_from: /post/751686472161280000/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazoyfwl26"
 ---
 
 Alguns recortes do texto de Madison Butler, para o <cite>[Sidequest](https://sidequest.zone/2020/04/13/where-do-we-go-next-kentucky-route-zero-s-anxious-approach-to-hope/)</cite>:

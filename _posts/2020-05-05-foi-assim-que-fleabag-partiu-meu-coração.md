@@ -18,6 +18,7 @@ review:
   summary: 2ª temporada, Prime Video
   rating: 4.5
   poster: /uploads/2020/05/fleabag-s02-poster.jpg
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaygh4ai2f"
 ---
 
 Como todo o mundo, no meio do ano passado eu me peguei no meio do furacão que era a segunda temporada de _Fleabag_. A primeira temporada da série inglesa sobre uma mulher tentando levar a vida em meio a um colapso familiar, sexual e profissional é engraçada pra cacete desde o primeiro episódio, com a Fleabag parando a ação para comentários rápidos, muitas vezes sarcásticos, sobre o que está acontecendo ao redor dela. Mas quando _Fleabag_ voltou com tudo, ano passado, ela jogou pro alto todas as regras que tinha criado na primeira temporada e, no caminho, partiu meu coração.

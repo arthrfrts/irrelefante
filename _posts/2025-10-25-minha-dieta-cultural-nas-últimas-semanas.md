@@ -13,6 +13,7 @@ tags:
 syndication:
   - https://irrelefante.tumblr.com/post/821467521925447680/
 redirect_from: /post/821467521925447680/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2ik5t62r"
 ---
 
 Faz um tempo que eu não posto um desses resumões, não é mesmo? Eu mudei de emprego nesse último mês e, como eu não estou acostumado a fazer isso, esse tipo de mudança acaba demandando bastante de mim. Tá melhor agora! A mudança de emprego me fez mudar minha rotina, o que acabou me fazendo muito bem — algo que eu não pensei que poderia melhorar. Uma boa surpresa!

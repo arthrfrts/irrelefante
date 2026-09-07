@@ -6,6 +6,7 @@ category: notas
 tags:
   - caminhadas
   - rotina
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2tqqgj2j"
 ---
 
 [pukicho](https://pukicho.tumblr.com/post/804475999640256512/if-you-have-adhd-like-me-walk-15-minutes-twice-a):

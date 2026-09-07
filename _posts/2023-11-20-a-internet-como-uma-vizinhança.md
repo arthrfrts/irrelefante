@@ -11,6 +11,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/734515115929583616/
 redirect_from: /post/734515115929583616/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaz4lwps2r"
 ---
 
 Algumas citações de leituras que fiz relacionado a amizade, sentido, e a internet como uma vizinhança:

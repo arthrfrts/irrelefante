@@ -13,6 +13,7 @@ external_url: https://paomortadela.com.br/2020/05/eu-jogo-animal-crossing-e-fico
 reaction: repost
 image:
   path: https://paomortadela.com.br/uploads/2020/05/11/acnh-capa.jpg
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayh4irq23"
 ---
 
 Eu ando pensando bastante em como vai ser daqui pra frente. Acho que todo mundo tá, né. O que vai sobrar depois dessa pandemia? O que vai acontecer? Vamos continuar seguindo rumo ao cataclisma econômico que vai acontecer depois do coronavirus, ou a gente vai parar pra decidir uma alternativa melhor? Agora que uma parte do mundo parou e lembrou que há muito mais além da exploração viciosa do nosso modelo econômico atual, a gente vai querer voltar pra esse ciclo de novo? O peso de ter que produzir mais finalmente vai ser levado em conta?

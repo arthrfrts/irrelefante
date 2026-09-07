@@ -10,6 +10,7 @@ tags:
 syndication:
   - https://irrelefante.tumblr.com/post/821463182416756736/
 redirect_from: /post/821463182416756736/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb36lbdj2v"
 ---
 
 Eu quero poucas coisas na vida. Uma das coisas que eu mais quero na vida, é um novo filme do Spike Jonze, um dos meus diretores favoritos. Ele fez obras-primas como [_Onde Vivem Os Monstros_](https://paomortadela.com.br/2019/02/onde-vivem-os-monstros-uma-obra-prima-sobre-a-inf-ncia/), talvez o melhor filme sobre o que é ser criança já feito, e [_Ela_](https://paomortadela.com.br/2016/02/ela/), seu último filme — em 2013.

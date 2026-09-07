@@ -12,6 +12,7 @@ reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/733636446194483200/advertisers-dont-want-sites-like-jezebel-to-exist
 redirect_from: /post/733636446194483200/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayyxswo23"
 ---
 
 Jason Koebler e Emanuel Maiberg, <cite>[404 Media][fof]</cite>:

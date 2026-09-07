@@ -11,6 +11,7 @@ external_url: https://youtu.be/JeY2ojRkSys
 syndication:
   - https://arthrfrts.tumblr.com/post/700460929425473536/eu-vi-um-menino-correndo-eu-vi-o-tempo-brincando
 redirect_from: /post/700460929425473536/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaypccr326"
 ---
 
 Que honra ouvir Gal Costa nesse mundo.

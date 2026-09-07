@@ -12,6 +12,7 @@ tags:
 syndication:
   - https://irrelefante.tumblr.com/post/821467383994728448/
 redirect_from: /post/821467383994728448/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2wzsow2v"
 ---
 
 > How lucky I am to have something that makes saying goodbye so hard.

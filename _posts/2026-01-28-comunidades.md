@@ -11,6 +11,7 @@ tags:
 syndication:
   - https://irrelefante.tumblr.com/post/807002914260500480/
 redirect_from: /post/807002914260500480/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2wprh62r"
 ---
 
 Via [_swissmiss_](https://www.swiss-miss.com/2026/01/strong-communities-and-people-acting-with-joy.html):

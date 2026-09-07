@@ -9,6 +9,7 @@ tags:
   - rotina
   - casa
   - decoração
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazmcj7i2m"
 ---
 
 Tenho feito um experimento de “isolar” meu contato direto com a web para a minha escrivaninha, e os resultados têm sido bons. É impossível isolar a internet da minha vida hoje em dia, mas estou me referindo como “contato direto” à minha navegação na web, tanto para trabalho quanto para lazer. Com isso, meu relacionamento com ela tem sido cada vez melhor.

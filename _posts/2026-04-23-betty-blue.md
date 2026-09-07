@@ -18,6 +18,7 @@ syndication:
   - https://boxd.it/e5PUHT
   - https://irrelefante.tumblr.com/post/821463738604503040/
 redirect_from: /post/821463738604503040/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb355ofq2g"
 ---
 
 É a primeira vez que eu assisto a versão de cinema de _Betty Blue_. Eu sempre assisti a versão do diretor, e tinha um preconceito com a versão de cinema porque o que eu mais gosto nesse filme é a forma como ele espaça o tempo — parece muito que a gente acompanha Betty e Zorg nos meses (ou anos?) em que eles estão juntos. É muito emocionante, no final, quando Zorg encontra a foto que Betty tirou deles no início do filme. Sempre me pega muito.

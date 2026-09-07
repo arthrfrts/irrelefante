@@ -13,6 +13,7 @@ reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/763157267043500032/
 redirect_from: /post/763157267043500032/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazu2mdc2y"
 ---
 
 Manuel Moreale, [em seu blog][mm]:

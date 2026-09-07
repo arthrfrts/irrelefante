@@ -13,6 +13,7 @@ syndication:
 redirect_from: /post/822208617377939456/
 external_url: https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Earth_2026_in_Brazil
 reaction: repost
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb3e32da23"
 ---
 
 A Wikimedia está organizando o [Wiki Loves Earth 2026 no Brasil](https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Earth_2026_in_Brazil), um concurso de fotografia ambiental para ajudar a registrar e documentar as belezas naturais do mundo. No Brasil, mais de 80% das espécies brasileiras na Wikipédia não têm registros fotográficos, e 40% dos artigos sobre essas espécies não têm nenhuma imagem para ilustrá-los.

@@ -13,6 +13,7 @@ reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/733794026225025024/in-a-posse-world-everybody-owns-a-domain-name
 redirect_from: /post/733794026225025024/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayztdwi2g"
 ---
 
 David Pierce, <cite>[The Verge][tv]</cite>:

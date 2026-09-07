@@ -12,6 +12,7 @@ reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/822207614354145280/
 redirect_from: /post/822207614354145280/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb3dnsgg2v"
 ---
 
 O fim dos jogos pré-instalados no Windows fez florescer toda uma indústria de joguinhos no navegador pra se jogar no trabalho.

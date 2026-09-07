@@ -9,6 +9,7 @@ tags:
 syndication:
   - https://irrelefante.com.br/post/799034184359444481/
 redirect_from: /post/799034184359444481/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2ldbck2r"
 ---
 
 O que vocês vão fazer esse fim de semana?

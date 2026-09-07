@@ -13,6 +13,7 @@ reaction: repost
 syndication:
   - https://irrelefante.tumblr.com/post/798872632947851264
 redirect_from: /post/798872632947851264/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2k7p3q2m"
 ---
 
 _Animal Crossing: New Horizons_ vai receber uma nova atualização dia 15 de janeiro (presente de aniversário!), além de uma versão melhorada para o Nintendo Switch 2.

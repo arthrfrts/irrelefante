@@ -19,6 +19,7 @@ syndication:
   - https://boxd.it/fcxezj
   - https://organica.social/@arthr/116908113615466387
 redirect_from: /post/821953711107620864/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb3csmfb2v"
 ---
 
 Adoro quando acontece dessas: ver um dos meus filmes favoritos no meu cineminha favorito da cidade.

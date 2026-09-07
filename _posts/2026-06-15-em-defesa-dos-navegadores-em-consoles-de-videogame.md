@@ -11,6 +11,7 @@ tags:
 syndication:
   - https://irrelefante.tumblr.com/post/819533560892604416/
 redirect_from: /post/819533560892604416/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb3aldag2e"
 ---
 
 Por alguma razão misteriosa na forma como eu tropeço em links na internet, eu me deparei com dois links que tocam no assunto ultra-específico de navegadores em consoles de videogame.

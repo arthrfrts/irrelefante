@@ -12,6 +12,7 @@ reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/723106596243357696/the-vague-but-ominous-disruption-promised-by
 redirect_from: /post/723106596243357696/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaysns562r"
 ---
 
 David Roth, Defector:

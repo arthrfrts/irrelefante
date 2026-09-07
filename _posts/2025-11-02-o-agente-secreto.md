@@ -17,6 +17,7 @@ review:
 syndication:
   - https://arthrfrts.tumblr.com/post/799115365313560576/
 redirect_from: /post/799115365313560576/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2lmhej2v"
 ---
 
 Ontem de noite eu assisti _O Agente Secreto_ na cinemateca. É um grande filme, que me fez apreciar ainda mais o cinema do Kleber Mendonça Filho, um dos melhores diretores brasileiros hoje.

@@ -11,6 +11,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/736050696593555456
 redirect_from: /post/736050696593555456/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaz6ycjs2w"
 ---
 
 [nudityandnerdery](https://nudityandnerdery.tumblr.com/post/735831323984510976):

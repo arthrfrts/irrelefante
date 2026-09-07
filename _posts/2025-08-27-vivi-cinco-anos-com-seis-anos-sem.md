@@ -14,6 +14,7 @@ image:
 syndication:
   - https://arthrfrts.tumblr.com/post/798567294250926080/
 redirect_from: /post/798567294250926080/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2apzw62r"
 ---
 
 Hoje completam seis anos da morte da Vivi. A partir de hoje, o tempo que eu sinto saudades da Vivi é maior do que o tempo que eu tive perto dela. Foi a primeira coisa que eu pensei quando acordei.

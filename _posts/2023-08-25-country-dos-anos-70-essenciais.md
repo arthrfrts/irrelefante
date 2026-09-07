@@ -11,6 +11,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/726626971503755265/country-dos-anos-70-essenciais
 redirect_from: /post/726626971503755265/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayv5vkw2v"
 ---
 
 O Victor me recomendou essa playlist na última segunda, que a gente passa ouvindo música e tomando chimarrão, e realmente… é incrível.

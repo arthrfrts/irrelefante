@@ -13,6 +13,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/798566906824097792/
 redirect_from: /post/798566906824097792/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2b5bo525"
 ---
 
 Hoje tá um dia lindo e a temperatura está gostosa. 21°C e ensolarado, com uma brisa leve e gostosa. Vou passar a tarde na praça lendo com o Tobias… mas agora pela manhã, eu tô fazendo feijão. Ontem saí de um dia bem bomba porrada e tiro do trabalho e desci aqui no bar do lado de casa pra tomar uma cerveja com o Erê e me senti bem feliz por ser brasileiro. Sensação boa, essa.

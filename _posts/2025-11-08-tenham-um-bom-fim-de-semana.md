@@ -9,6 +9,7 @@ tags:
 syndication:
   - https://irrelefante.tumblr.com/post/799651432183824384/
 redirect_from: /post/799651432183824384/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2o4uly23"
 ---
 
 Por aqui estamos com alerta de temporal e vendaval, então eu decidi que meu fim de semana vai ser ficar bem quietinho bem recolhido na minha casinha, assistindo filmes e a nova série, _Pluribus_. Comprei pipoca e vou fazer um brigadeiro. E por aí, como vai ser o fim de semana?

@@ -12,6 +12,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/798566127187918848/
 redirect_from: /post/798566127187918848/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2csm6c2w"
 ---
 
 Hoje o dia amanheceu cedo. Ontem eu levei o Tobias pra uma das minhas caminhadas longas, pensando que ele ia dormir até mais tarde hoje, mas me enganei. Eram seis e meia quando ele começou a pedir pra sair. Eu até consegui ficar na cama mais um pouquinho — mas não tanto quanto eu queria. Pelo menos o dia está bonito — o céu tá bem azul, e tá fresquinho (15°C). Eu quero aproveitar o máximo possível esse tempo ameno antes do calorão infernal de Porto Alegre começar.

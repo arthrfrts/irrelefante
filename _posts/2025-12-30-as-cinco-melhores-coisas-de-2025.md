@@ -17,6 +17,7 @@ image:
   path: /uploads/2025/12/2025.jpg
   alt: Um elefante está sentadinho, olhando o pôr-do-sol. As nuvens formam "2025".
   caption: Ilistração por Raul (@raulranma)
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2srpdv2m"
 ---
 
 Há mais de uma década eu faço uma lista dos cinco melhores filmes, jogos, séries, músicas e links que eu descobri no último ano. De 2014 até 2023 [elas foram publicadas no _Pão com Mortadela_][arquivo] a do ano passado [no meu blog pessoal][2024]. Pela primeira vez, vou fazer uma listinha aqui no _Irrelefante_.

@@ -14,6 +14,7 @@ reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/763097452130746368/
 redirect_from: /post/763097452130746368/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaztrjbg2r"
 ---
 
 Brandon Dillon, _[2weeks][2w]_:

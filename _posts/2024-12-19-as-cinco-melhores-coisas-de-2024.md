@@ -13,6 +13,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/779451924242202624/
 redirect_from: /post/779451924242202624/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb227ymf25"
 ---
 
 Queridos,

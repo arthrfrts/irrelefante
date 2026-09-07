@@ -11,6 +11,7 @@ reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/804583854695432192/
 redirect_from: /post/804583854695432192/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2uep6l26"
 ---
 
 Incrível: primeiro dia de 2026 e [disponibilizaram um protótipo de Spore][hp].

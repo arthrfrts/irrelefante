@@ -13,6 +13,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/805371257993527296/
 redirect_from: /post/805371257993527296/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2uydfs2w"
 ---
 
 Tô jogando a demonstração do _Dragon Quest VII Reimagined_ e ela é tão linda… como eu queria que os novos _Pokémon_ desistissem de querer parecer com o anime e abraçassem esse estilo, um bom híbrido entre que respeita o histórico 2D da franquia mas é cheio de profundidade e textura.

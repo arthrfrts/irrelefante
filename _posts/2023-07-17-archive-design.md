@@ -13,6 +13,7 @@ reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/723110611545948160/jkottke-explore-the-graphic-design-treasures-of
 redirect_from: /post/723110611545948160/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaysach623"
 ---
 
 

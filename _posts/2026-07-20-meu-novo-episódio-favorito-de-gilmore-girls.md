@@ -15,6 +15,7 @@ redirect_from: /post/822707380572831744/
 image:
   path: https://64.media.tumblr.com/24252a48d6a6aa44f138c7ef1284c84a/0eacf528f34eec48-cd/s1280x1920/f85129aeb297bfaf4cb91593e93f72a5cbeeab10.webp
   alt: Lorelai cobre o rosto enquanto chora e se apoia no ombro de Luke, que a abraça
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb3ewf7s2r"
 ---
 
 Por muito tempo eu achava que o episódio da maratona de dança na terceira temporada de _Gilmore Girls_, “They Shoot Gilmores Don’t They” (3x07), fosse o meu episódio favorito, mas hoje eu revi “The Incredible Shrinking Lorelais” (4x14), e eu acho que minha opinião mudou.

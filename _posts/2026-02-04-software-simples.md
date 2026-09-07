@@ -12,6 +12,7 @@ tags:
 syndication:
   - https://irrelefante.tumblr.com/post/821467336573878272/
 redirect_from: /post/821467336573878272/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2xvr6v25"
 ---
 
 Eu tô tentando zerar minha lista de leitura. Ela tem 209 links para ler, catalogar e arquivar. Pra me forçar a ler um pouco todo o dia, vou começar a postar aqui o que eu estou lendo, e talvez um comentário ou destaques.

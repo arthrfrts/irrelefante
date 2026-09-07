@@ -17,6 +17,7 @@ review:
   summary: Christopher Nolan, 2026
   rating: 3
   poster: /uploads/2026/07/odisseia.jpg
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb3ficw22w"
 ---
 
 Gostei mais do que de _Oppenheimer_, que é basicamente o mesmo filme: um homem alcança a glória, mas destrói todo o mundo no processo.

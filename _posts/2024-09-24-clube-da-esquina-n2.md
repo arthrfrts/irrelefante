@@ -12,6 +12,7 @@ reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/762552545905344512/
 redirect_from: /post/762552545905344512/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazt7h2s2r"
 ---
 
 [Essa música](https://music.apple.com/br/album/clube-da-esquina-n%C2%BA-2/1473446573?i=1473446832) é física quântica. É quando você sente que está caminhando na mesma velocidade do vento ao redor. Como se você se movimentasse na velocidade do mundo.

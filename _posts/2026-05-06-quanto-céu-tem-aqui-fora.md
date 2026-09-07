@@ -10,6 +10,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/815917056286474240/
 redirect_from: /post/815917056286474240/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb36cday2g"
 ---
 
 Você sorri pra mim do outro lado da mesa durante o café da manhã e eu sei que eu te amo. Você está tomando seu café — uma taça gigante de capuccino que pensando agora parece ser grande demais pra ser de verdade — e me conta a história de quando seu pai te ensinou a estacionar, colocando uma moeda entre a roda do carro e o meio-fio. “Se o espaço fosse maior ou menor que aquela moeda”, você diz, “ele entrava no carro e me falava pra fazer de novo”. Eu olho pra você e sei que te amo e que vou lembrar pra sempre dessa história. Eu vou lembrar pra sempre da forma desengonçada que você pega a taça gigante de café. Ela parece maior agora? Você olha pro relógio e seu coração se parte. Você me diz que está na hora de irmos.

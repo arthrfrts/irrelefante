@@ -12,6 +12,7 @@ canonical_url: https://paomortadela.com.br/2020/05/no-fim-das-contas-eu-me-reapa
 external_url: https://paomortadela.com.br/2020/05/no-fim-das-contas-eu-me-reapaixonei-por-musica-no-meio-de-tudo-isso/
 reaction: repost
 image: https://paomortadela.com.br/uploads/2020/05/21/fiona-apple-perfume-genius.jpg
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayhfhvj2v"
 ---
 
 Alguma coisa mudou no jeito que eu escuto música há uns anos. Em 2013, mais especificamente. Até então, eu amava música. Eu amava entrar num blogspot e baixar alguma discografia e ouvir. Eu gostava de acompanhar lançamentos de artistas que eu gostava e de ir na Wikipédia e ouvir as referências musicais desses artistas também. Eu nunca entendi muito de música — o que faz música boa? Eu não sei, e é um dos motivos que não escrevo muito sobre aqui no Pão —, mas eu amava ouvir e descobrir música boa mesmo assim.

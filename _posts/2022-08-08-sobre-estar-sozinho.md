@@ -12,6 +12,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/692068408058150912/to-be-alone-for-any-length-of-time-is-to-shed-an
 redirect_from: "/post/692068408058150912/"
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaylb7qk2r"
 ---
 
 David Whyte em <cite>Consolations</cite>:

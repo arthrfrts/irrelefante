@@ -10,6 +10,7 @@ reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/801187147182931968/
 redirect_from: /post/801187147182931968/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2qe3s525"
 ---
 
 [Molly Glick, na <cite>Nautilus</cite>](https://nautil.us/the-surprising-benefits-of-giving-up-1248362/):

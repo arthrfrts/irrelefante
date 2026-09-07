@@ -16,6 +16,7 @@ review:
   poster: /uploads/2017/10/certas-mulheres.jpg
 syndication:
   - https://boxd.it/kUb2J
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayeryei2m"
 ---
 
 Tem esse sentimento estranho, que eu acho que é de quem vive em cidade pequena, de uma hora tu olhar ao teu redor e não conseguir perceber onde acaba tua pele e começa o ar. É o sentimento mais estranho do mundo, mas é ao mesmo tempo acolhedor. É estranho de explicar.

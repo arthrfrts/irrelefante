@@ -17,6 +17,7 @@ review:
 canonical_url: https://paomortadela.com.br/2016/01/animal-crossing-new-leaf/
 external_url: https://paomortadela.com.br/2016/01/animal-crossing-new-leaf/
 reaction: repost
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaydpdxq2m"
 ---
 
 Eu comprei meu Nintendo 3DS em junho de 2013 com o único propósito de jogar o remake de _The Legend of Zelda: Ocarina of Time_. É um dos meus jogos favoritos, e poder jogá-lo num console de novo era um sonho. Quando eu comprei o 3DS, porém, tinham acabado de lançar um jogo que estava rasgando elogios. Fui lá e comprei.

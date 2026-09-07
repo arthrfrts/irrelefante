@@ -14,6 +14,7 @@ syndication:
   - https://arthrfrts.tumblr.com/post/822530925127778304/hoje-assisti-ao-programa-prometeu-e-os-planetas
   - https://organica.social/@arthr/116944193993908478
 redirect_from: /post/822530925127778304/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb3engaq2f"
 ---
 
 Hoje assisti ao programa “Prometeu e Os Planetas” na Casa da Ospa com a minha amiga Aline. Chorei horrores em “Vênus” e “Júpiter”, e a performance de “Netuno” me arrepiou de um jeito que eu achei que meu corpo não ia parar.

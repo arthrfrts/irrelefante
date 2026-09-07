@@ -12,6 +12,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/798565976129093633/
 redirect_from: /post/798565976129093633/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2d3jz326"
 ---
 
 Hoje foi o primeiro dia do Ghibli Fest aqui na Cinemateca Paulo Amorim. Eu vou ir em todas as sessões, e vou tentar escrever sobre todos os filmes (brevemente) aqui.

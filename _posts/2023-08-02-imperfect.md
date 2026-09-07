@@ -15,6 +15,7 @@ reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/724547063281500160
 redirect_from: /post/724547063281500160/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaytiavq2g"
 ---
 
 

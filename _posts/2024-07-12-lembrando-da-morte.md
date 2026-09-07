@@ -15,6 +15,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/755841572311023616/
 redirect_from: /post/755841572311023616/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazrskoi2f"
 ---
 
 Quando eu lembro da Delinha, ou da Vivi, ou do Pepi, ou do Tigre, eu nunca lembro dos momentos banais do nosso dia-a-dia juntos, de como foi bom crescer e viver ao lado deles. Daquele ócio, daquela banalidade doce que a segurança da companhia deles trazia.

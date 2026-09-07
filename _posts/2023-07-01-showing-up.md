@@ -16,6 +16,7 @@ review:
   poster: /uploads/2023/07/showing-up.jpg
 syndication:
   - https://boxd.it/4sik8T
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayrof7g2v"
 ---
 
 > "There is life and there is work. Yet we have but one heart."

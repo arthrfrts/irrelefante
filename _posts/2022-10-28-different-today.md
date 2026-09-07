@@ -12,6 +12,7 @@ reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/699366642396839936/yeah-yeah-yeahs-different-today-i-feel-different
 redirect_from: /post/699366642396839936/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayoheqs2w"
 ---
 
 Do novo álbum do Yeah Yeah Yeahs, _Cool It Down_:

@@ -10,6 +10,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/691314109509189632/deixe-acontecer-e-ent%C3%A3o-deixe-ir-embora
 redirect_from: /post/691314109509189632/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaykycsg2e"
 ---
 
 [Leonardo, no Tumblr][leonardo]{: .u-like-of }:

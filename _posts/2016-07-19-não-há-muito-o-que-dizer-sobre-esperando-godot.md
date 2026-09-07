@@ -14,6 +14,7 @@ review:
   summary: Samuel Becket (trad. Fábio de Souza Andrade), 1953
   rating: 5
   poster: /uploads/2016/07/godot.jpg
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaydywm22w"
 ---
 
 **Esse é um péssimo texto sobre o melhor livro que eu já li na minha vida.**

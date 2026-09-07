@@ -12,6 +12,7 @@ syndication:
 redirect_from: /post/803386517876801536/
 external_url: https://boxd.it/QqrIK
 reaction: repost
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2s2owr2j"
 ---
 
 Dei um tempo no Letterboxd nesse ano, mas vou voltar ano que vem. Para começar os trabalhos, eu fiz [uma lista com meus vinte cindo filmes favoritos de 2000 pra cá](https://boxd.it/QqrIK), com anotações em cada um deles.

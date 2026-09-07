@@ -18,6 +18,7 @@ review:
 syndication:
   - https://arthrfrts.tumblr.com/post/763323684995956736/
 redirect_from: /post/763323684995956736/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazv66uv25"
 ---
 
 Eu tô apaixonado pelo novo disco da Sarah Neufeld com Richard Reed Parry e Rebecca Foon. As cordas de Neufeld sempre me impressionaram nas músicas em que ela participava pro Arcade Fire – e, principalmente, nas vezes que eu vi eles ao vivo. Em “Slow New Year”, essas mesmas cordas vêm com tudo. Parece até uma conversa, uma construção.

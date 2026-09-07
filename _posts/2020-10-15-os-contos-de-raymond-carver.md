@@ -8,6 +8,7 @@ tags:
   - contos
   - escritores
   - Raymond Carver
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayios4r2j"
 ---
 
 Um dos meus planos para 2020, lá no longínquo ano de 2019, era que eu ia voltar a ler mais. Eu fui uma criança que lia muito, mas quando eu entrei na faculdade eu magicamente parava de ler. É estranho, porque desde que eu me lembro eu estou sempre “lendo um livro”. Nos últimos anos, isso significava ler algumas páginas, ficar alguns meses sem ler, daí ler mais algumas páginas, e assim mais uns meses sem ler até terminá-lo. Mas eu sempre considerava que eu tava lendo um livro. Eu decidi parar com essa baboseira e ler de uma vez, e se o livro não me chama a atenção pra voltar no outro dia, simplesmente procurar outro pra ler. Desde que eu saí da faculdade eu acho que eu lia um livro por ano, e muito porque eu ocupei o que eu considerava meus horários de leitura com outras coisas (ver o Twitter, principalmente). Então eu mudei isso esse ano.

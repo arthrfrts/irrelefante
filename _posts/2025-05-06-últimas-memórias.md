@@ -11,6 +11,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/798567551571509248/
 redirect_from: /post/798567551571509248/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb25m3so2e"
 ---
 
 Um pensamento estranho passou pela minha cabeça agora.

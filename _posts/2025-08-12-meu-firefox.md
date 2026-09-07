@@ -12,6 +12,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/798569014936928256/
 redirect_from: /post/798569014936928256/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb26r2bz2j"
 ---
 
 Depois de mais de uma década usando o Safari como meu navegador principal, eu voltei pro Firefox.

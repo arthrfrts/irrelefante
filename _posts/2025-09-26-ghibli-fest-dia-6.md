@@ -12,6 +12,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/798565210960052224/
 redirect_from: /post/798565210960052224/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2fcar62e"
 ---
 
 Revendo os filmes do Studio Ghibli assim, um atrás do outro, a gente querendo ou não fica fazendo paralelos e suposições. Por exemplo, os dois filmes menos excelentes até aqui — _Eu Posso Ouvir o Oceano_ e _Da Colina Korukiko_ — parecem querer muito beber da fonte de _Memórias de Ontem_, uma das pérolas do cinema de Isao Takahata.

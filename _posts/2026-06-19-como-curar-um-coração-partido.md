@@ -11,6 +11,7 @@ reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/819893852583428096/
 redirect_from: /post/819893852583428096/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb3b57d623"
 ---
 
 A newsletter [_Good News_ de Mike Monteiro][monteiro] é uma das melhores coisas que eu acompanho (também disponível em um [feed RSS][monteiro-rss]). Em cada post, Monteiro responde a uma pergunta de um leitor — e com isso, destrincha o comportamento humano.

@@ -18,6 +18,7 @@ tags:
   - jogos
   - séries
 canonical_url: https://paomortadela.com.br/2023/12/as-cinco-melhores-coisas-de-2023/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaz7srtq23"
 ---
 
 Duas coisas que percebi fazendo a lista de fim de ano do Pão em 2023:

@@ -12,6 +12,7 @@ tags:
   - softwares
 external_url: https://vgbees.com/dropped-connection-the-loss-of-local-handheld-multiplayer/
 reaction: repost
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazragio2v"
 ---
 
 Merrit K, <cite>[VGBees][vgb]</cite>:

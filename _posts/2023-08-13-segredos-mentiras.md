@@ -18,6 +18,7 @@ syndication:
   - https://arthrfrts.tumblr.com/post/725505590424715264/a-review-of-secrets-lies-1996
   - https://boxd.it/4GKfL9
 redirect_from: /post/725505590424715264/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaytqwjs2w"
 ---
 
 Do tipo de filme que me faz reconsiderar todas as notas que eu dei pra outros filmes — eles todos merecem uma estrela a menos, porque esse aqui, minha gente, é o filme.

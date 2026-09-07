@@ -12,6 +12,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/798565161264955392/
 redirect_from: /post/798565161264955392/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2fufpi23"
 ---
 
 _O Castelo Animado_ e _A Viagem de Chihiro_ não fazem sentido. Suas lógicas internas são incertas. As regras de seus mundos são inconstantes. O que uma pessoa vê na outra é um mistério. Nada faz muito sentido. Ainda bem.

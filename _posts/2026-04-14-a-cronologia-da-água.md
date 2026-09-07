@@ -18,6 +18,7 @@ syndication:
   - https://boxd.it/dTJkaJ
   - https://irrelefante.tumblr.com/post/821464127591612416/
 redirect_from: /post/821464127591612416/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb34ct362e"
 ---
 
 Assisti na Casa de Cultura semana passada, e o filme ficou cozinhando em fogo baixo em mim pela semana seguinte. Kirsten Stewart dirige bem: ela tem uma montagem de impacto que me pareceu muito com o Steve McQueen no início da carreira, e ela bebe muito da textura da memória que Charlotte Wells empregou em _Aftersun_.

@@ -12,6 +12,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/802373296883744768/
 redirect_from: /post/802373296883744768/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2rrpaa2m"
 ---
 
 [John Gruber, no _Daring Fireball_](https://daringfireball.net/linked/2025/12/05/netflix-buying-warner-bros), comentando sobre a compra da Warner Bros. pelo Netflix:

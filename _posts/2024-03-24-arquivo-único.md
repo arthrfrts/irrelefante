@@ -11,6 +11,7 @@ reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/745833011017302016/
 redirect_from: /post/745833011017302016/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazgfqtb2v"
 ---
 
 Um [manifesto](https://single-file.netlify.app/) em favor às limitações de um arquivo único de HTML como documento.

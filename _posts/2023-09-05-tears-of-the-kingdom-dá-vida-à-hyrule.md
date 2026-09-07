@@ -22,6 +22,7 @@ syndication:
   - https://arthrfrts.tumblr.com/post/727588994720923648/the-legend-of-zelda-tears-of-the-kingdom-d%C3%A1-vida
 redirect_from: /post/727588994720923648/
 canonical_url: https://paomortadela.com.br/2023/09/the-legend-of-zelda-tears-of-the-kingdom-d%C3%A1-vida/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayw5ch623"
 ---
 
 > Tears of the Kingdom dá vida à Hyrule

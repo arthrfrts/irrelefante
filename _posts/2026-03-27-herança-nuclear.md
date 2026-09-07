@@ -18,6 +18,7 @@ syndication:
   - ttps://irrelefante.tumblr.com/post/821466781045719040/
   - https://boxd.it/dH9p3X
 redirect_from: /post/821466781045719040/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb32vmqi2g"
 ---
 
 Me lembrou de dois filmes, tão bons quanto.

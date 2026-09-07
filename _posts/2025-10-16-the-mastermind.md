@@ -16,6 +16,7 @@ tags:
   - Kelly Reichardt
 syndication:
   - https://boxd.it/boT8zn
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2hpfew2r"
 ---
 
 Eu tenho um carinho especial por filmes sobre as “gerações perdidas”, com seus personagens sem grandes ambições, ou sem rumo e sem expectativas de encontrar um. Eu gosto como _Betty Blue_, o clássico de Jean-Jacques Beineix, é um romance de duas pessoas que não conseguem enxergar um futuro pra si. Os horizontes desses filmes tendem a ser imensos, embora vazios — as pessoas que habitam esses lugares podem ir pra qualquer lugar, mas isso não significa que tem algo à sua espera.

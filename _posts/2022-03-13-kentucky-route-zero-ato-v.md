@@ -11,6 +11,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/678634282841948160/executables-must-have-been-four-hours-dragging
 redirect_from: /post/678634282841948160/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayk4xmo2v"
 ---
 
 Via [executables][exe]:

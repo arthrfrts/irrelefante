@@ -14,6 +14,7 @@ syndication:
   - https://irrelefante.tumblr.com/post/823935188191084544/
   - https://organica.social/@arthr/117031954192326488
 redirect_from: /post/823935188191084544/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb3hljvw2r"
 ---
 
 A Luciana [escreveu no seu blog](https://osolnacabeca.com.br/homenagem-a-arvore-querida/) um obituário pra uma árvore, companheira do seu dia-a-dia.

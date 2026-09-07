@@ -18,6 +18,7 @@ syndication:
   - https://arthrfrts.tumblr.com/post/766548136891219968/
   - https://boxd.it/7KQiDT
 redirect_from: /post/766548136891219968/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazxolcf2m"
 ---
 
 Eu cresci em uma casa assim.

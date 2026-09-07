@@ -13,6 +13,7 @@ tags:
 syndication: 
   - https://arthrfrts.tumblr.com/post/798568790876094464/
 redirect_from: /post/798568790876094464/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb27lvqy2g"
 ---
 
 [Falando em Firefox][meu], eu tô adorando experimentar os [temas feitos por Sahara][sahara], especificamente os inspirados em consoles retrô e sistemas operacionais antigos. Olha esse inspirado no [tema “Oliva” do Windows XP][oliva], do [controle do GameCube][gamecube] ou das cores da [tela do Game Boy][gameboy]

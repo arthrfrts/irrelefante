@@ -12,6 +12,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/798565383564083200/
 redirect_from: /post/798565383564083200/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2edp262v"
 ---
 
 ![](https://64.media.tumblr.com/a6dba1780690393dc5fe978334a61de5/f95ad655c48aa07c-8f/s640x960/c5e072b3b4f9d99349774bc4d7bd2f4db57669cb.png)

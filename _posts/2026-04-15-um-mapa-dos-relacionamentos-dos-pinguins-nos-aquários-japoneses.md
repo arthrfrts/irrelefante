@@ -12,6 +12,7 @@ reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/821463823865217024/
 redirect_from: post/821463823865217024/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb34uqa22y"
 ---
 
 Esses fluxogramas (pra mim isso é mais um mapa) dos relacionamentos dos pinguins dos aquários de [Quioto][quioto] e de [Sumida, em Tóquio][sumida] tão sendo uma leitura impressionante. É tanto drama!

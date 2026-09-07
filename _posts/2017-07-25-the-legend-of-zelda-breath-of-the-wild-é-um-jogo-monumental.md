@@ -18,6 +18,7 @@ review:
   rating: 6
   poster: /uploads/2017/07/botw.jpeg
 canonical_url: https://paomortadela.com.br/2017/07/the-legend-of-the-zelda-breath-of-the-wild/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayed6gl26"
 ---
 
 É gigante.

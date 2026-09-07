@@ -11,6 +11,7 @@ reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/798561887604342784/
 redirect_from: /post/798561887604342784/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2iteqj2j"
 ---
 Eu tô fascinado pela [história de Katherine Slaughterback](https://en.wikipedia.org/wiki/Katherine_McHale_Slaughterback) que estava indo com seu filho para um lago e se deparou com mais de cem cascavéis migrando. Ela matou as 140 cobras primeiro com seu rifle e, quando acabaram as balas, com uma placa que (dizem os rumores) dizia “Caça Proibida”. Amanhã, esse causo completa um século.
 

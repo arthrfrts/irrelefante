@@ -11,6 +11,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/798565820764651520/
 redirect_from: /post/798565820764651520/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2drmec2w"
 ---
 
 O Liquid Glass é muito inconsistente no Mac, e isso tá me incomodando muito. Parece até quando o Windows muda de visual, mas fica com “heranças” de redesigns anteriores (como o Explorador de arquivos).

@@ -16,6 +16,7 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/705649547281629184/meu-livro-favorito-%C3%A9-a-visita-cruel-do-tempo-em
 redirect_from: /post/705649547281629184/
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayqksnv2m"
 ---
 
 Meu livro favorito. Em um dos capítulos acompanhamos um homem, Ted Hollander, procurando a sobrinha, Sasha. Sasha é o mais próximo que o livro tem de uma protagonista. Cada capítulo do livro gira em torno de uma pessoa que pode ou não ter conhecido ela. As vezes, se passa muito tempo antes dela nascer, com pessoas que vão conhece-la muito tempo depois.
