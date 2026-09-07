@@ -5,16 +5,6 @@ title: Sobre esse site
 
 Olá, eu me chamo [Arthur](https://arthr.me). Esse é o meu blog, onde eu escrevo sobre tópicos que me interessam e registro coisas que eu tropeço pela internet. Eu escrevo pra mim mesmo, mas sempre fico feliz quando alguém encontra algo bacana por aqui.
 
-## Sobre mim
-
-Eu sou um programador e um escritor, e moro em Porto Alegre. Eu vivo com meu cachorro, chamado Tobias. A gente gosta de caminhar bastante, e a maioria dos textos que eu escrevo aqui são registros das coisas que eu penso nas longas horas que caminho todos os dias (ou quando o clima da cidade permite). Eu me lembro de me apaixonar pela ideia de _navegar pela internet_ desde a primeira vez que meu pai apresentou um navegador pra mim e pra minha irmã no computador do trabalho dele, enquanto a gente visitava o escritório. Isso foi no final dos anos 1990. Eu desenvolvo pra internet desde 2005, comecei minha carreira como desenvolvedor em 2010, e não parei desde então. Você pode dar uma olhada no meu currículo no [LinkedIn](https://www.linkedin.com/in/arthrfrts) e conferir alguns projetos em [arthr.dev](https://arthr.dev).
-
-Embora eu seja desenvolvedor, eu me formei na faculdade de cinema. Além de filmes, eu leio e jogo e escuto música. Eu vi TV demais, e agora estou dando um tempo. Atualmente meu novo fascínio é acompanhar as apresentações da Orquestra de Porto Alegre. Eu tento ir todas as semanas.
-
-### Entrar em contato
-
-Você pode falar comigo através do [Bluesky](https://bsky.app/profile/arthr.me), a única rede social que eu uso ativamente; ou por email, no endereço <arthur@arthr.me>.
-
 ## O que tem aqui
 
 O Irrelefante é o meu blog atual. Eu mantive outros blogs em outros momentos da minha vida, mas hoje eu escrevo majoritariamente aqui. Eu estou no processo de trazer _tudo o que eu já escrevi_ pro Irrelefante, de uma forma ou de outra. Você pode conferir o [arquivo]({% link arquivo.html %}), mas não se assuste se ele crescer pro passado de uma hora pra outra. É só que eu estou trazendo textos antigos pra cá.
@@ -39,6 +29,16 @@ Você também pode acompanhar esse blog por RSS. O Irrelefante tem vários feeds
 - [Links](/feed/links.xml), para você acompanhar links bacanas que encontro por aí
 - [Reviews](/feed/reviews.xml), com minhas impressões sobre minha dieta cultural
 
+## Sobre mim
+
+Eu sou um programador e um escritor, e moro em Porto Alegre. Eu vivo com meu cachorro, chamado Tobias. A gente gosta de caminhar bastante, e a maioria dos textos que eu escrevo aqui são registros das coisas que eu penso nas longas horas que caminho todos os dias (ou quando o clima da cidade permite). Eu me lembro de me apaixonar pela ideia de _navegar pela internet_ desde a primeira vez que meu pai apresentou um navegador pra mim e pra minha irmã no computador do trabalho dele, enquanto a gente visitava o escritório. Isso foi no final dos anos 1990. Eu desenvolvo pra internet desde 2005, comecei minha carreira como desenvolvedor em 2010, e não parei desde então. Você pode dar uma olhada no meu currículo no [LinkedIn](https://www.linkedin.com/in/arthrfrts) e conferir alguns projetos em [arthr.dev](https://arthr.dev).
+
+Embora eu seja desenvolvedor, eu me formei na faculdade de cinema. Além de filmes, eu leio e jogo e escuto música. Eu vi TV demais, e agora estou dando um tempo. Atualmente meu novo fascínio é acompanhar [as apresentações da Orquestra de Porto Alegre](/tags/ospa/). Eu tento ir todas as semanas.
+
+### Entrar em contato
+
+Você pode falar comigo através do [Bluesky](https://bsky.app/profile/arthr.me), a única rede social que eu uso ativamente; ou por email, no endereço <arthur@arthr.me>.
+
 ## Tecnologia
 
 Esse site é feito com [Jekyll](https://jekyllrb.com), que pega meus textos e cria páginas da web sem eu precisar me preocupar com bancos de dados nem coisa do tipo. O site é hospedado no [Cloudflare Pages](https://pages.dev).
@@ -47,7 +47,7 @@ Eu criei o tema usado nesse site em um fim de semana livre. Ele segue os princí
 
 Meus posts são escritos diretamente no [Nova](https://nova.app), usando o meu plugin [Liquid](https://extensions.panic.com/extensions/me.arthr/me.arthr.Liquid/) que eu fiz.
 
-Esse site usa o esquema de cores baseado no [Alabaster criado por Nikita Prokopov](https://github.com/tonsky/sublime-scheme-alabaster) para estilizar trechos de código. Recursos e visuais do site se baseiam em blogs que eu gosto, como [o sol na cabeça](https://osolnacabeca.com.br), [Waxy](https://waxy.org), [Note to Self](https://notetoself.studio), [Pixel Envy](https://pxlnv.com), [kottke.org](https://kottke.org), [Chris Glass](https://chrisglass.com) e [sippey.com](https://sippey.com).
+Esse site usa o esquema de cores baseado no [Alabaster criado por Nikita Prokopov](https://github.com/tonsky/sublime-scheme-alabaster) para estilizar trechos de código. Recursos e visuais do site se baseiam em blogs que eu gosto, como [o sol na cabeça](https://osolnacabeca.com.br), [Waxy](https://waxy.org), [swiss miss](https://swiss-miss.com), [Note to Self](https://notetoself.studio), [Pixel Envy](https://pxlnv.com), [kottke.org](https://kottke.org), [Chris Glass](https://chrisglass.com) e [sippey.com](https://sippey.com).
 
 As coisas podem quebrar por aqui, mas é porque eu gosto muito de arrumar e ajustar isso e aquilo continuinamente nesse site.
 
