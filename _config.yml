@@ -32,6 +32,7 @@ plugins:
   - jekyll-archives
   - jekyll-url-metadata
   - jekyll-webmention_io
+  - jekyll-standard-site
 
 include:
   - _redirects
@@ -51,7 +52,7 @@ seo:
   name: Irrelefante
   links:
     - https://bsky.app/profile/irrelefante.com.br
-    - https://organica.social/@irrelefante
+    - https://organica.social/@arthr
 
 # Plugin: jekyll-paginate
 paginate: 25
