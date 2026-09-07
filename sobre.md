@@ -45,7 +45,7 @@ Esse site é feito com [Jekyll](https://jekyllrb.com), que pega meus textos e cr
 
 Eu criei o tema usado nesse site em um fim de semana livre. Ele segue os princípios da [IndieWeb](https://indieweb.org), então outros sites podem se comunicar com o Irrelefante através de _webmentions_. Eu pretendo disponibilizar esse tema gratuitamente em breve. Eu tenho outros temas feitos para o Jekyll e Tumblr disponíveis [aqui](https://arthr.dev).
 
-Meus posts são escritos diretamente no [Nova](https://nova.app), usando o meu plugin [Liquid](https://extensions.panic.com/extensions/me.arthr/me.arthr.Liquid/) que eu fiz.
+Meus posts são escritos diretamente no [Nova](https://nova.app), usando o plugin [Liquid](https://extensions.panic.com/extensions/me.arthr/me.arthr.Liquid/) que eu fiz.
 
 Esse site usa o esquema de cores baseado no [Alabaster criado por Nikita Prokopov](https://github.com/tonsky/sublime-scheme-alabaster) para estilizar trechos de código. Recursos e visuais do site se baseiam em blogs que eu gosto, como [o sol na cabeça](https://osolnacabeca.com.br), [Waxy](https://waxy.org), [swiss miss](https://swiss-miss.com), [Note to Self](https://notetoself.studio), [Pixel Envy](https://pxlnv.com), [kottke.org](https://kottke.org), [Chris Glass](https://chrisglass.com) e [sippey.com](https://sippey.com).
 
