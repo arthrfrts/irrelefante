@@ -17,5 +17,5 @@ gem "jekyll-seo-tag", "~> 2.9", group: :jekyll_plugins
 gem "jekyll-paginate", "~> 1.1", group: :jekyll_plugins
 gem "jekyll-archives", "~> 2.3", group: :jekyll_plugins
 gem "jekyll-url-metadata", "~> 1.0", group: :jekyll_plugins
-gem "jekyll-webmention_io", "~> 4.1", group: :jekyll_plugins
+gem "jekyll-webmention_io", "4.1", group: :jekyll_plugins
 gem "jekyll-compose", "~> 0.12.0", group: :jekyll_plugins
