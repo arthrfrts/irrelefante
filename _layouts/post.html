@@ -62,7 +62,7 @@ layout: default
   </div>
 
   {% if page.external_url -%}
-    {%- assign link_type = page.reaction | default: 'like' -%}
+    {%- assign link_type = page.reaction | default: "" -%}
     {%- include link-preview.html link=page.external_url reaction=link_type -%}
   {%- endif %}
 
