@@ -12,6 +12,7 @@ syndication:
   - https://organica.social/@arthr/117235486997144521
   - https://bsky.app/profile/irrelefante.com.br/post/3muz2fpsycu2r
 date: 2026-09-08 09:10 -0300
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muz2r4upuh2j"
 ---
 Fissurado no [primeiro trailer de _You Can See Everything_][youtube], novo documentário do Nathan Fielder sobre [Elizabeth Holmes][holmes].
 
