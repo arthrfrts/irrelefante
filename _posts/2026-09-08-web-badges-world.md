@@ -10,9 +10,9 @@ tags:
 external_url: https://web.badges.world/
 reaction: like
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muywaltkqs2j"
-syndicate_to:
-  - bluesky
-  - mastodon
+syndication:
+  - https://bsky.app/profile/irrelefante.com.br/post/3muyxhz2tuv2e
+  - https://organica.social/@arthr/117235252562052351
 ---
 [Um diretório de badges de sites][badges]. Na época dos dinossauros, a gente se comunicava assim sobre aquilo que a gente gostava e recomendava que nossos web amigos usassem pra navegar no nosso site. Eu lembro que o meu primeiro blog, o [Esporo][esporo], usava PNGs transparentes que só funcionavam no Firefox e no Opera naquela época. Hoje em dia os repositórios de código usam um filhote de badges assim pra reportar testes e dependências, status do projeto, etc.
 
