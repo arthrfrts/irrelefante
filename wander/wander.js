@@ -22,6 +22,8 @@ const wander = {
     "https://chrisglass.com/",
     "https://meadow.cafe/blog/0074-the-world-is-not-made-up-of-words/",
     "https://buttondown.com/monteiro/archive/how-to-remember-and-forget/",
+    "https://www.vaudevillegho.st/make-bad-art/",
+    "https://web.badges.world/"
   ],
   // Websites and consoles to ignore.  When this console serves as
   // your host console, it will never contact consoles or recommend
