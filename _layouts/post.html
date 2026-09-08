@@ -128,6 +128,10 @@ layout: default
   </aside>
 
   {% webmentions page.url %}
+
+  {% for target in page.syndicate_to %}
+    <a href="{{ site.webmentions.syndication[target].endpoint }}" hidden></a>
+  {% endfor %}
 </article>
 
 {% if page.previous or page.next -%}
