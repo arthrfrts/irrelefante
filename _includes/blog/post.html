@@ -42,7 +42,7 @@
         {% for tag in post.tags  -%}
           {%- assign tag_slug = tag | slugify: "latin" -%}
           <li class="tag-item">
-            <a class="tag-link p-category" href="{{- site.jekyll-archives.permalinks.tag | replace: ":name", tag_slug -}}">
+            <a class="tag-link p-category" href="{{- site.jekyll-archives.permalinks.tag | replace: ':name', tag_slug -}}">
               {{- tag | downcase -}}
             </a>
           </li>
