@@ -833,3 +833,8 @@ https://irrelefante.com.br/links/2026/09/08/web-badges-world/:
     code: success
     message: You already sent a Webmention for this target. The existing Webmention
       has been updated.
+https://irrelefante.com.br/notas/2026/09/08/you-can-see-everything/:
+  https://brid.gy/publish/bluesky: false
+  https://brid.gy/publish/mastodon: false
+  https://youtu.be/GGJSRFWALTI: false
+  https://en.wikipedia.org/wiki/Elizabeth_Holmes: false
