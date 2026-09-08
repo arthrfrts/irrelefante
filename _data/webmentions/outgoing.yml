@@ -821,3 +821,15 @@ https://irrelefante.com.br/links/2026/08/31/edif%C3%ADcios-kawaii-fotografados-p
   https://kenohyama.myportfolio.com/architectural-dollhouses: 1
   https://kenohyama.myportfolio.com/: false
   https://spoon-tamago.com/kawaii-buildings-ken-ohyama-photobook/: false
+https://irrelefante.com.br/links/2026/09/08/web-badges-world/:
+  https://brid.gy/publish/bluesky: 1
+  https://brid.gy/publish/mastodon: false
+  https://web.badges.world/: 1
+  https://esporo.net: false
+  https://osolnacabeca.com.br/chuva-de-links-4/:
+    link: https://irrelefante.com.br/links/2026/09/08/web-badges-world/
+    source: https://irrelefante.com.br/links/2026/09/08/web-badges-world/
+    target: https://osolnacabeca.com.br/chuva-de-links-4/
+    code: success
+    message: You already sent a Webmention for this target. The existing Webmention
+      has been updated.
