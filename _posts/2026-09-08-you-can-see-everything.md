@@ -8,9 +8,9 @@ tags:
 - documentário
 - Nathan Fielder
 - Oscar
-syndicate_to:
-- bluesky
-- mastodon
+syndication:
+  - https://organica.social/@arthr/117235486997144521
+  - https://bsky.app/profile/irrelefante.com.br/post/3muz2fpsycu2r
 date: 2026-09-08 09:10 -0300
 ---
 Fissurado no [primeiro trailer de _You Can See Everything_][youtube], novo documentário do Nathan Fielder sobre [Elizabeth Holmes][holmes].
