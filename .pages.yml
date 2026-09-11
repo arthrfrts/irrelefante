@@ -1,6 +1,6 @@
 media:
   - name: media
-    label: Mídia
+    label: Images and Video
     input: uploads
     output: /uploads
     rename: safe
@@ -19,7 +19,7 @@ media:
         delete: "media: remove {filename}"
         rename: "media: rename {oldFilename} -> {newFilename}"
   - name: docs
-    label: Documentos
+    label: Documents
     input: uploads/docs
     output: /uploads/docs
     rename: safe
@@ -73,6 +73,7 @@ content:
             format: markdown
             media: media
         - name: date
+          label: Date
           type: date
           default: ""
           options:
