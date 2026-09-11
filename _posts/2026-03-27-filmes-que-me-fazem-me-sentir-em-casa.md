@@ -2,6 +2,7 @@
 layout: post
 title: Filmes que me fazem me sentir em casa
 date: 2026-03-27 11:21 -0300
+category: textos
 syndication:
   - https://irrelefante.tumblr.com/post/821466974212276224/
   - https://boxd.it/TuRwA/detail

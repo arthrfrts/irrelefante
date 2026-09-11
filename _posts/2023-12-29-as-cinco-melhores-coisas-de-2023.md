@@ -2,6 +2,7 @@
 layout: post
 title: As cinco melhores coisas de 2023
 date: 2023-12-29 08:59 -0300
+category: textos
 image:
   path: /uploads/2023/12/top5-capa.png
   caption: "Ilustração: Raul Fontoura"
