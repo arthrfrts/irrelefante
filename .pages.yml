@@ -46,9 +46,10 @@ content:
       fields:
         - name: layout
           type: string
-          value: post
+          default: post
           hidden: true
         - name: title
+          label: Title
           type: string
         - name: external_url
           label: Link
@@ -59,8 +60,6 @@ content:
           options:
             placeholder: Choose an IndieWeb-compatible reaction
             values:
-              - name: none
-                label: None
               - name: reply
                 label: Reply
               - name: like
@@ -73,9 +72,15 @@ content:
           options:
             format: markdown
             media: media
+        - name: date
+          type: date
+          default: ""
+          options:
+            time: true
+            format: yyyy-MM-dd' 'HH:mm' -0300'
         - name: category
           type: string
-          value: links
+          default: links
           hidden: true
         - name: tags
           label: Tags
