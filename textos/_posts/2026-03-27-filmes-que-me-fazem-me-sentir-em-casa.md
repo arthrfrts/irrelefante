@@ -8,6 +8,7 @@ tags:
 syndication:
   - https://irrelefante.tumblr.com/post/821466974212276224/
   - https://boxd.it/TuRwA/detail
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3mvbhfky57r25"
 ---
 Eu sou uma pessoa muito medrosa. Tenho medo de sentir dor, e de me sentir sozinho. Coisas completamente normais, e esperadas, de se sentir na experiência humana. Minha casa, nesse tempo que vivo aqui, se tornou um templo pra mim — as coisas mudam lá fora, mas aqui o que muda geralmente só muda de lugar. Mas uma mudança gigante abateu minha casa dessa vez, e me fez questionar ela todinha.
 
