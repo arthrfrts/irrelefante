@@ -160,7 +160,6 @@ components:
     type: select
     label: Category
     options:
-      placeholder: Which category will this belong to once published?
       values:
         - name: links
           label: Links
@@ -176,248 +175,244 @@ content:
     label: Posts
     type: group
     items:
-    - name: links
-      label: Links
-      type: collection
-      path: links/_posts
-      fields:
-        - name: layout
-          component: layout
-        - name: date
-          component: date
-        - name: title
-          component: title
-        - name: body
-          component: body
-        - name: tags
-          component: tags
-        - name: external_url
-          component: external_url
-        - name: reaction
-          component: reaction
-        - name: syndicate_to
-          component: syndicate_to
-        - name: syndication
-          component: syndication
-        - name: at_uri
-          component: at_uri
-        - name: redirect_from
-          component: redirect_from
-      view:
+      - name: drafts
+        label: Drafts
+        type: collection
+        path: _drafts
         fields:
-          - title
-          - date
-          - tags
-        primary: title
-        sort:
-          - date
-          - title
-        default:
-          sort: date
-          order: desc
-      commit:
-        templates:
-          create: "post(link): add {filename}"
-          update: "post(link): update {filename}"
-          delete: "post(link): remove {filename}"
-          rename: "post(link): rename {oldFilename} -> {newFilename}"
-
-    - name: textos
-      label: Articles
-      type: collection
-      path: textos/_posts
-      fields:
-        - name: layout
-          component: layout
-        - name: date
-          component: date
-        - name: title
-          component: title
-        - name: body
-          component: body
-        - name: tags
-          component: tags
-        - name: image
-          component: image
-        - name: external_url
-          component: external_url
-          hidden: true
-        - name: reaction
-          component: reaction
-          hidden: true
-        - name: syndicate_to
-          component: syndicate_to
-        - name: syndication
-          component: syndication
-        - name: at_uri
-          component: at_uri
-        - name: redirect_from
-          component: redirect_from
-        - name: canonical_url
-          component: canonical_url
-      view:
+          - name: layout
+            component: layout
+          - name: title
+            component: title
+          - name: body
+            component: body
+          - name: image
+            component: image
+          - name: category
+            component: category
+          - name: tags
+            component: tags
+          - name: review
+            component: review
+          - name: external_url
+            component: external_url
+          - name: reaction
+            component: reaction
+          - name: canonical_url
+            component: canonical_url
+          - name: syndicate_to
+            component: syndicate_to
+          - name: syndication
+            component: syndication
+        view:
+          fields:
+            - title
+            - category
+            - tags
+          primary: title
+          sort:
+            - title
+          default:
+            sort: title
+            order: asc
+        commit:
+          templates:
+            create: "draft: add {filename}"
+            update: "draft: update {filename}"
+            delete: "draft: remove {filename}"
+            rename: "draft: rename {oldFilename} -> {newFilename}"
+      - name: notas
+        label: Notes
+        type: collection
+        path: notas/_posts
         fields:
-          - title
-          - date
-          - tags
-        primary: title
-        sort:
-          - date
-          - title
-        default:
-          sort: date
-          order: desc
-      commit:
-        templates:
-          create: "post(article): add {filename}"
-          update: "post(article): update {filename}"
-          delete: "post(article): remove {filename}"
-          rename: "post(article): rename {oldFilename} -> {newFilename}"
-
-    - name: notas
-      label: Notas
-      type: collection
-      path: notas/_posts
-      fields:
-        - name: layout
-          component: layout
-        - name: date
-          component: date
-        - name: title
-          component: title
-        - name: body
-          component: body
-        - name: tags
-          component: tags
-        - name: external_url
-          component: external_url
-        - name: reaction
-          component: reaction
-        - name: syndicate_to
-          component: syndicate_to
-        - name: syndication
-          component: syndication
-        - name: at_uri
-          component: at_uri
-        - name: redirect_from
-          component: redirect_from
-      view:
+          - name: layout
+            component: layout
+          - name: date
+            component: date
+          - name: title
+            component: title
+          - name: body
+            component: body
+          - name: tags
+            component: tags
+          - name: external_url
+            component: external_url
+          - name: reaction
+            component: reaction
+          - name: syndicate_to
+            component: syndicate_to
+          - name: syndication
+            component: syndication
+          - name: at_uri
+            component: at_uri
+          - name: redirect_from
+            component: redirect_from
+        view:
+          fields:
+            - title
+            - date
+            - tags
+          primary: title
+          sort:
+            - date
+            - title
+          default:
+            sort: date
+            order: desc
+        commit:
+          templates:
+            create: "post(note): add {filename}"
+            update: "post(note): update {filename}"
+            delete: "post(note): remove {filename}"
+            rename: "post(note): rename {oldFilename} -> {newFilename}"
+      - name: links
+        label: Links
+        type: collection
+        path: links/_posts
         fields:
-          - title
-          - date
-          - tags
-        primary: title
-        sort:
-          - date
-          - title
-        default:
-          sort: date
-          order: desc
-      commit:
-        templates:
-          create: "post(note): add {filename}"
-          update: "post(note): update {filename}"
-          delete: "post(note): remove {filename}"
-          rename: "post(note): rename {oldFilename} -> {newFilename}"
-    - name: reviews
-      label: Reviews
-      type: collection
-      path: reviews/_posts
-      fields:
-        - name: layout
-          component: layout
-        - name: date
-          component: date
-        - name: title
-          component: title
-        - name: body
-          component: body
-        - name: tags
-          component: tags
-        - name: review
-          component: review
-        - name: external_url
-          component: external_url
-          hidden: true
-        - name: reaction
-          component: reaction
-          hidden: true
-        - name: syndicate_to
-          component: syndicate_to
-        - name: syndication
-          component: syndication
-        - name: at_uri
-          component: at_uri
-        - name: redirect_from
-          component: redirect_from
-        - name: canonical_url
-          component: canonical_url
-      view:
+          - name: layout
+            component: layout
+          - name: date
+            component: date
+          - name: title
+            component: title
+          - name: body
+            component: body
+          - name: tags
+            component: tags
+          - name: external_url
+            component: external_url
+          - name: reaction
+            component: reaction
+          - name: syndicate_to
+            component: syndicate_to
+          - name: syndication
+            component: syndication
+          - name: at_uri
+            component: at_uri
+          - name: redirect_from
+            component: redirect_from
+        view:
+          fields:
+            - title
+            - date
+            - tags
+          primary: title
+          sort:
+            - date
+            - title
+          default:
+            sort: date
+            order: desc
+        commit:
+          templates:
+            create: "post(link): add {filename}"
+            update: "post(link): update {filename}"
+            delete: "post(link): remove {filename}"
+            rename: "post(link): rename {oldFilename} -> {newFilename}"
+      - name: textos
+        label: Articles
+        type: collection
+        path: textos/_posts
         fields:
-          - title
-          - date
-          - tags
-        primary: title
-        sort:
-          - date
-          - title
-        default:
-          sort: date
-          order: desc
-      commit:
-        templates:
-          create: "reviews: add {filename}"
-          update: "reviews: update {filename}"
-          delete: "reviews: remove {filename}"
-          rename: "reviews: rename {oldFilename} -> {newFilename}"
-
-    - name: drafts
-      label: Drafts
-      type: collection
-      path: _drafts
-      fields:
-        - name: layout
-          component: layout
-        - name: title
-          component: title
-        - name: body
-          component: body
-        - name: image
-          component: image
-        - name: category
-          component: category
-        - name: tags
-          component: tags
-        - name: review
-          component: review
-        - name: external_url
-          component: external_url
-        - name: reaction
-          component: reaction
-        - name: canonical_url
-          component: canonical_url
-        - name: syndicate_to
-          component: syndicate_to
-        - name: syndication
-          component: syndication
-      view:
+          - name: layout
+            component: layout
+          - name: date
+            component: date
+          - name: title
+            component: title
+          - name: body
+            component: body
+          - name: tags
+            component: tags
+          - name: image
+            component: image
+          - name: external_url
+            component: external_url
+            hidden: true
+          - name: reaction
+            component: reaction
+            hidden: true
+          - name: syndicate_to
+            component: syndicate_to
+          - name: syndication
+            component: syndication
+          - name: at_uri
+            component: at_uri
+          - name: redirect_from
+            component: redirect_from
+          - name: canonical_url
+            component: canonical_url
+        view:
+          fields:
+            - title
+            - date
+            - tags
+          primary: title
+          sort:
+            - date
+            - title
+          default:
+            sort: date
+            order: desc
+        commit:
+          templates:
+            create: "post(article): add {filename}"
+            update: "post(article): update {filename}"
+            delete: "post(article): remove {filename}"
+            rename: "post(article): rename {oldFilename} -> {newFilename}"
+      - name: reviews
+        label: Reviews
+        type: collection
+        path: reviews/_posts
         fields:
-          - title
-          - category
-          - tags
-        primary: title
-        sort:
-          - title
-        default:
-          sort: title
-          order: asc
-      commit:
-        templates:
-          create: "draft: add {filename}"
-          update: "draft: update {filename}"
-          delete: "draft: remove {filename}"
-          rename: "draft: rename {oldFilename} -> {newFilename}"
-
+          - name: layout
+            component: layout
+          - name: date
+            component: date
+          - name: title
+            component: title
+          - name: body
+            component: body
+          - name: tags
+            component: tags
+          - name: review
+            component: review
+          - name: external_url
+            component: external_url
+            hidden: true
+          - name: reaction
+            component: reaction
+            hidden: true
+          - name: syndicate_to
+            component: syndicate_to
+          - name: syndication
+            component: syndication
+          - name: at_uri
+            component: at_uri
+          - name: redirect_from
+            component: redirect_from
+          - name: canonical_url
+            component: canonical_url
+        view:
+          fields:
+            - title
+            - date
+            - tags
+          primary: title
+          sort:
+            - date
+            - title
+          default:
+            sort: date
+            order: desc
+        commit:
+          templates:
+            create: "reviews: add {filename}"
+            update: "reviews: update {filename}"
+            delete: "reviews: remove {filename}"
+            rename: "reviews: rename {oldFilename} -> {newFilename}"
   - name: pages
     label: Pages
     type: group
@@ -440,7 +435,6 @@ content:
       commit:
         templates:
           update: "page(sobre): update {filename}"
-
     - name: arquivo
       label: Arquivo
       type: file
