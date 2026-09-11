@@ -1,0 +1,16 @@
+name: Optimize Images
+
+on:
+  push:
+    paths:
+      - 'uploads/**'
+
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Compress Images
+        uses: calibreapp/image-actions@main

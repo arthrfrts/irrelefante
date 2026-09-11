@@ -1,0 +1,81 @@
+media:
+  - name: media
+    label: Mídia
+    input: uploads
+    output: /uploads
+    rename: safe
+    categories:
+      - image
+      - video
+      - audio
+    actions:
+      - name: optimize-images
+        label: Optimize Images
+        workflow: pages-cms-optimize-images.yml
+    commit:
+      templates:
+        create: "media: add {filename}"
+        update: "media: update {filename}"
+        delete: "media: remove {filename}"
+        rename: "media: rename {oldFilename} -> {newFilename}"
+  - name: docs
+    label: Documentos
+    input: uploads/docs
+    output: /uploads/docs
+    rename: safe
+    categories:
+      - document
+      - spreadsheet
+      - code
+    commit:
+      templates:
+        create: "docs: add {filename}"
+        update: "docs: update {filename}"
+        delete: "docs: remove {filename}"
+        rename: "docs: rename {oldFilename} -> {newFilename}"
+
+content:
+  - name: posts
+    label: Posts
+    type: group
+    items:
+    - name: links
+      label: Links
+      type: collection
+      path: _posts/links
+      fields:
+        - name: layout
+          type: string
+          value: post
+          hidden: true
+        - name: title
+          type: string
+        - name: external_url
+          label: Link
+          type: string
+        - name: reaction
+          label: IndieWeb Reaction
+          type: select
+          options:
+            - name: none
+              label: None
+            - name: reply
+              label: Reply
+            - name: like
+              label: Like
+            - name: repost
+              label: Repost
+        - name: body
+          label: Body
+          type: rich-text
+          options:
+            format: markdown
+            media: media
+        - name: category
+          type: string
+          value: links
+          hidden: true
+        - name: tags
+          label: Tags
+          type: string
+          list: true
