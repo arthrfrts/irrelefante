@@ -189,7 +189,6 @@ content:
           component: title
         - name: body
           component: body
-        - name: external_url
         - name: tags
           component: tags
         - name: external_url
