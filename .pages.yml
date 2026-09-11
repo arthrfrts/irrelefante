@@ -82,10 +82,23 @@ content:
           label: Tags
           type: string
           list: true
-        - name: published
-          label: Published
-          type: boolean
-          default: false
+        - name: syndicate_to
+          label: Syndicate to
+          type: select
+          list: true
+          options:
+            placeholder: Choose where to syndicate this post
+            values:
+              - name: bluesky
+                label: Bluesky
+              - name: mastodon
+                label: Mastodon
+              - name: flickr
+                label: Flickr
+        - name: syndication
+          label: Syndication
+          type: string
+          list: true
 
 
       view:
@@ -93,7 +106,6 @@ content:
           - title
           - date
           - tags
-          - published
         primary: title
         sort:
           - date
@@ -101,3 +113,411 @@ content:
         default:
           sort: date
           order: desc
+
+    - name: textos
+      label: Textos
+      type: collection
+      path: textos/_posts
+      fields:
+        - name: layout
+          type: string
+          default: post
+          hidden: true
+        - name: title
+          label: Title
+          type: string
+        - name: body
+          label: Body
+          type: rich-text
+          options:
+            format: markdown
+            media: media
+        - name: image
+          label: Image
+          type: object
+          fields:
+            - name: path
+              label: Image
+              type: string
+            - name: alt
+              label: Alt text
+              type: string
+            - name: caption
+              label: Caption
+              type: string
+        - name: external_url
+          label: Link
+          type: string
+        - name: reaction
+          label: Reaction
+          type: select
+          options:
+            placeholder: Choose an IndieWeb-compatible reaction
+            values:
+              - name: reply
+                label: Reply
+              - name: like
+                label: Like
+              - name: repost
+                label: Repost
+        - name: canonical_url
+          label: Canonical URL
+          type: string
+        - name: date
+          label: Date
+          type: date
+          options:
+            time: true
+            format: yyyy-MM-dd' 'HH:mm' -0300'
+        - name: tags
+          label: Tags
+          type: string
+          list: true
+        - name: syndicate_to
+          label: Syndicate to
+          type: select
+          list: true
+          options:
+            placeholder: Choose where to syndicate this post
+            values:
+              - name: bluesky
+                label: Bluesky
+              - name: mastodon
+                label: Mastodon
+              - name: flickr
+                label: Flickr
+        - name: syndication
+          label: Syndication
+          type: string
+          list: true
+
+      view:
+        fields:
+          - title
+          - date
+          - tags
+        primary: title
+        sort:
+          - date
+          - title
+        default:
+          sort: date
+          order: desc
+
+    - name: notas
+      label: Notas
+      type: collection
+      path: notas/_posts
+      fields:
+        - name: layout
+          type: string
+          default: post
+          hidden: true
+        - name: title
+          label: Title
+          type: string
+        - name: body
+          label: Body
+          type: rich-text
+          options:
+            format: markdown
+            media: media
+        - name: external_url
+          label: Link
+          type: string
+        - name: reaction
+          label: Reaction
+          type: select
+          options:
+            placeholder: Choose an IndieWeb-compatible reaction
+            values:
+              - name: reply
+                label: Reply
+              - name: like
+                label: Like
+              - name: repost
+                label: Repost
+        - name: date
+          label: Date
+          type: date
+          options:
+            time: true
+            format: yyyy-MM-dd' 'HH:mm' -0300'
+        - name: tags
+          label: Tags
+          type: string
+          list: true
+        - name: syndicate_to
+          label: Syndicate to
+          type: select
+          list: true
+          options:
+            placeholder: Choose where to syndicate this post
+            values:
+              - name: bluesky
+                label: Bluesky
+              - name: mastodon
+                label: Mastodon
+              - name: flickr
+                label: Flickr
+        - name: syndication
+          label: Syndication
+          type: string
+          list: true
+
+      view:
+        fields:
+          - title
+          - date
+          - tags
+        primary: title
+        sort:
+          - date
+          - title
+        default:
+          sort: date
+          order: desc
+
+    - name: reviews
+      label: Reviews
+      type: collection
+      path: reviews/_posts
+      fields:
+        - name: layout
+          type: string
+          default: post
+          hidden: true
+        - name: title
+          label: Title
+          type: string
+        - name: body
+          label: Body
+          type: rich-text
+          options:
+            format: markdown
+            media: media
+        - name: review
+          label: Review
+          type: object
+          fields:
+            - name: item
+              label: Item
+              type: string
+            - name: format
+              label: Format
+              type: select
+              options:
+                values:
+                  - name: Disco
+                    label: Disco
+                  - name: Filme
+                    label: Filme
+                  - name: Jogo
+                    label: Jogo
+                  - name: Livro
+                    label: Livro
+                  - name: Série
+                    label: Série
+            - name: summary
+              label: Summary
+              type: string
+            - name: poster
+              label: Poster
+              type: string
+            - name: rating
+              label: Rating
+              type: number
+              options:
+                min: 0
+                max: 5
+                step: 0.5
+        - name: external_url
+          label: Link
+          type: string
+        - name: reaction
+          label: Reaction
+          type: select
+          options:
+            placeholder: Choose an IndieWeb-compatible reaction
+            values:
+              - name: reply
+                label: Reply
+              - name: like
+                label: Like
+              - name: repost
+                label: Repost
+        - name: canonical_url
+          label: Canonical URL
+          type: string
+        - name: date
+          label: Date
+          type: date
+          options:
+            time: true
+            format: yyyy-MM-dd' 'HH:mm' -0300'
+        - name: tags
+          label: Tags
+          type: string
+          list: true
+        - name: syndicate_to
+          label: Syndicate to
+          type: select
+          list: true
+          options:
+            placeholder: Choose where to syndicate this post
+            values:
+              - name: bluesky
+                label: Bluesky
+              - name: mastodon
+                label: Mastodon
+              - name: flickr
+                label: Flickr
+        - name: syndication
+          label: Syndication
+          type: string
+          list: true
+
+      view:
+        fields:
+          - title
+          - date
+          - tags
+        primary: title
+        sort:
+          - date
+          - title
+        default:
+          sort: date
+          order: desc
+
+    - name: drafts
+      label: Drafts
+      type: collection
+      path: _drafts
+      fields:
+        - name: layout
+          type: string
+          default: post
+          hidden: true
+        - name: title
+          label: Title
+          type: string
+        - name: body
+          label: Body
+          type: rich-text
+          options:
+            format: markdown
+            media: media
+        - name: image
+          label: Image
+          type: object
+          fields:
+            - name: path
+              label: Image
+              type: string
+            - name: alt
+              label: Alt text
+              type: string
+            - name: caption
+              label: Caption
+              type: string
+        - name: review
+          label: Review
+          type: object
+          fields:
+            - name: item
+              label: Item
+              type: string
+            - name: format
+              label: Format
+              type: select
+              options:
+                values:
+                  - name: Disco
+                    label: Disco
+                  - name: Filme
+                    label: Filme
+                  - name: Jogo
+                    label: Jogo
+                  - name: Livro
+                    label: Livro
+                  - name: Série
+                    label: Série
+            - name: summary
+              label: Summary
+              type: string
+            - name: poster
+              label: Poster
+              type: string
+            - name: rating
+              label: Rating
+              type: number
+              options:
+                min: 0
+                max: 5
+                step: 0.5
+        - name: external_url
+          label: Link
+          type: string
+        - name: reaction
+          label: Reaction
+          type: select
+          options:
+            placeholder: Choose an IndieWeb-compatible reaction
+            values:
+              - name: reply
+                label: Reply
+              - name: like
+                label: Like
+              - name: repost
+                label: Repost
+        - name: canonical_url
+          label: Canonical URL
+          type: string
+        - name: tags
+          label: Tags
+          type: string
+          list: true
+        - name: syndicate_to
+          label: Syndicate to
+          type: select
+          list: true
+          options:
+            placeholder: Choose where to syndicate this post
+            values:
+              - name: bluesky
+                label: Bluesky
+              - name: mastodon
+                label: Mastodon
+              - name: flickr
+                label: Flickr
+        - name: syndication
+          label: Syndication
+          type: string
+          list: true
+        - name: category
+          label: Category
+          type: select
+          options:
+            placeholder: Which category will this belong to once published?
+            values:
+              - name: links
+                label: Links
+              - name: notas
+                label: Notas
+              - name: textos
+                label: Textos
+              - name: reviews
+                label: Reviews
+
+      view:
+        fields:
+          - title
+          - category
+          - tags
+        primary: title
+        sort:
+          - title
+        default:
+          sort: title
+          order: asc
