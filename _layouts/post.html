@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article class="post {{ page.category | slugify: 'latin' }} h-entry {% if page.category contains 'review' -%} h-review {%- endif -%}">
+<article class="post {{ page.categories | first | slugify: 'latin' }} h-entry {% if page.categories contains 'reviews' -%} h-review {%- endif -%}">
   {%- if page.review -%}
     <header class="review-widget">
       <div class="review-details">
