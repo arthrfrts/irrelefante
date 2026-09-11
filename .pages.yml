@@ -99,8 +99,16 @@ content:
           label: Syndication
           type: string
           list: true
-
-
+        - name: at_uri
+          label: AT URI
+          type: string
+          default: ""
+          readonly: true
+        - name: redirect_from
+          label: Original URL
+          type: string
+          default: ""
+          hidden: true
       view:
         fields:
           - title
@@ -190,7 +198,16 @@ content:
           label: Syndication
           type: string
           list: true
-
+        - name: at_uri
+          label: AT URI
+          type: string
+          default: ""
+          readonly: true
+        - name: redirect_from
+          label: Original URL
+          type: string
+          default: ""
+          hidden: true
       view:
         fields:
           - title
@@ -264,7 +281,16 @@ content:
           label: Syndication
           type: string
           list: true
-
+        - name: at_uri
+          label: AT URI
+          type: string
+          default: ""
+          readonly: true
+        - name: redirect_from
+          label: Original URL
+          type: string
+          default: ""
+          hidden: true
       view:
         fields:
           - title
@@ -277,7 +303,6 @@ content:
         default:
           sort: date
           order: desc
-
     - name: reviews
       label: Reviews
       type: collection
@@ -376,7 +401,16 @@ content:
           label: Syndication
           type: string
           list: true
-
+        - name: at_uri
+          label: AT URI
+          type: string
+          default: ""
+          readonly: true
+        - name: redirect_from
+          label: Original URL
+          type: string
+          default: ""
+          hidden: true
       view:
         fields:
           - title
