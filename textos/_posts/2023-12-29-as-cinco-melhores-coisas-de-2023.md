@@ -2,7 +2,6 @@
 layout: post
 title: As cinco melhores coisas de 2023
 date: 2023-12-29 08:59 -0300
-category: textos
 image:
   path: /uploads/2023/12/top5-capa.png
   caption: "Ilustração: Raul Fontoura"
@@ -120,11 +119,11 @@ Também me fez conhecer o site em si, _SUMAÚMA_, que se transformou em um dos m
 
 Feliz 2024, nos vemos lá!
 
-[kelly]: {% post_url 2023-07-01-showing-up %}
-[botw]: {% post_url 2017-07-25-the-legend-of-zelda-breath-of-the-wild-é-um-jogo-monumental %}
-[gator]: {% post_url 2023-02-26-o-jogo-perfeito-para-esperar-pelo-novo-zelda %}
-[smbw]: {% post_url 2019-08-14-um-ranking-de-todos-os-super-mario %}
-[aft]: {% post_url 2023-02-02-ondas-de-memória-a-beleza-dilacerante-de-aftersun %}
+[kelly]: {% post_url reviews/2023-07-01-showing-up %}
+[botw]: {% post_url reviews/2017-07-25-the-legend-of-zelda-breath-of-the-wild-é-um-jogo-monumental %}
+[gator]: {% post_url reviews/2023-02-26-o-jogo-perfeito-para-esperar-pelo-novo-zelda %}
+[smbw]: {% post_url textos/2019-08-14-um-ranking-de-todos-os-super-mario %}
+[aft]: {% post_url reviews/2023-02-02-ondas-de-memória-a-beleza-dilacerante-de-aftersun %}
 [math]: https://aftermath.site/
 [eia]: https://www.prx.org/everythingisalive
 [radio]: http://radio.garden/

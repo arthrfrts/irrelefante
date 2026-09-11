@@ -2,7 +2,6 @@
 layout: post
 title: Uma semana sem notificações
 date: 2025-08-31 10:42 -0300
-category: textos
 tags:
   - tecnologia
   - comportamento
@@ -49,4 +48,4 @@ Essas mudanças me fizeram gostar _mais_ do meu celular nessa última semana. Pr
 [boring]: https://maximevaillancourt.com/blog/turning-my-smartphone-into-a-boring-tool
 [tech]: https://maximevaillancourt.com/blog/tech-is-not-an-end-part-1
 [mini]: https://maximevaillancourt.com/bookshelf/digital-minimalism-cal-newport
-[semana]: {% post_url 2025-08-25-desativando-notificações %}
+[semana]: {% post_url notas/2025-08-25-desativando-notificações %}

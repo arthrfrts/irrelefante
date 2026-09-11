@@ -2,7 +2,6 @@
 layout: post
 title: Não tem como descrever o “Clube da Esquina”
 date: 2024-11-19 07:41 -0300
-category: reviews
 tags:
   - músicas
   - Clube da Esquina
@@ -59,9 +58,9 @@ Meus agradecimentos a todos meus amigos que escreveram aqui nos últimos dez ano
 
 E obrigado por ler. Vocês, em geral, e você, especialmente (oi, Lu!), que leu e me retornou sobre algo. Essa é a única razão pela qual eu sempre quis escrever alguma coisa, qualquer coisa — para fazer alguém pensar, e responder, e levar a ideia adiante. Obrigado por vir junto. Espero te ver de novo.
 
-[krz]: {% post_url 2015-01-02-kentucky-route-zero-act-iii-destrói-sua-alma-com-dívidas-do-passado %}
-[fleabag]: {% post_url 2020-05-05-foi-assim-que-fleabag-partiu-meu-coração %}
-[carver]: {% post_url 2020-10-15-os-contos-de-raymond-carver %}
-[vivi]: {% post_url 2019-09-25-aprendendo-a-perder-com-pokémon-let-s-go-eevee %}
-[tirinhas]: {% post_url 2019-07-31-como-as-tirinhas-salvaram-a-minha-vida %}
+[krz]: {% post_url reviews/2015-01-02-kentucky-route-zero-act-iii-destrói-sua-alma-com-dívidas-do-passado %}
+[fleabag]: {% post_url reviews/2020-05-05-foi-assim-que-fleabag-partiu-meu-coração %}
+[carver]: {% post_url textos/2020-10-15-os-contos-de-raymond-carver %}
+[vivi]: {% post_url reviews/2019-09-25-aprendendo-a-perder-com-pokémon-let-s-go-eevee %}
+[tirinhas]: {% post_url textos/2019-07-31-como-as-tirinhas-salvaram-a-minha-vida %}
 [top100]: https://paomortadela.com.br/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/

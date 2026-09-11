@@ -2,7 +2,6 @@
 layout: post
 title: Minha dieta cultural na última semana
 date: 2025-09-13 10:33 -0300
-category: notas
 tags:
   - impressões
   - dieta cultural
@@ -47,4 +46,4 @@ Assisti o primeiro capítulo de _Mussolini: O Filho do Século_ (na MUBI), a min
 
 É uma série que se assenta muito no discurso, Mussolini fala o tempo todo, seja pra agir ou pra explicar para a audiência o porque ele está fazendo tudo. Joe Wright parece saber disso, então preenche a série com seus visuais estonteantes. A cenografia é maravilhosa, o ritmo é muito bom, quase operístico. Ele encena muito bem — todos os seus filmes parecem ter aquele proscênio delimitado pela câmera, onde o mundo todo gira ao redor dela. Eu ainda quero ver ele voltar à fluidez do movimento que ele tinha de _Orgulho & Preconceito_ (2005) até _Hanna_ (2011).
 
-[dieta]: {% post_url 2025-08-16-minha-dieta-cultural-na-última-semana %}
+[dieta]: {% post_url notas/2025-08-16-minha-dieta-cultural-na-última-semana %}

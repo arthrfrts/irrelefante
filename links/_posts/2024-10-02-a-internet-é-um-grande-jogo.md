@@ -2,7 +2,6 @@
 layout: post
 title: A internet é um grande jogo
 date: 2024-10-02 00:13 -0300
-category: links
 tags:
   - web
   - comportamento

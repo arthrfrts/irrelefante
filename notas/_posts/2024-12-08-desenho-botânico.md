@@ -2,7 +2,6 @@
 layout: post
 title: Desenho botânico
 date: 2024-12-08 11:57 -0300
-category: notas
 tags:
   - arte
   - pinturas

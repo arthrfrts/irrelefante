@@ -2,7 +2,6 @@
 layout: post
 title: Parcs et jardins des environs de Paris
 date: 2023-08-25 11:11 -0300
-category: links
 tags:
   - ilustrações
   - Victor Petit

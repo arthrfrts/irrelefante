@@ -10,7 +10,6 @@ review:
   summary: MegaWobble, 2023
   rating: 4
   poster: /uploads/2023/02/lil-gator-game.jpg
-category: reviews
 tags:
   - jogos
   - impressões

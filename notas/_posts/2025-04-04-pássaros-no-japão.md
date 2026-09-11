@@ -2,7 +2,6 @@
 layout: post
 title: Pássaros no Japão
 date: 2025-04-04 00:00 +0000
-category: notas
 tags:
   - vídeos
   - pássaros

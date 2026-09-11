@@ -2,7 +2,6 @@
 layout: post
 title: Raposas e cachorros
 date: 2024-03-25 08:32 -0300
-category: links
 tags:
   - animais
   - cachorros

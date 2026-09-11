@@ -2,7 +2,6 @@
 layout: post
 title: Antropologia 101
 date: 2023-12-07 08:37 -0300
-category: notas
 tags:
   - Community
   - sociedade

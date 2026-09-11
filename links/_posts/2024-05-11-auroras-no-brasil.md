@@ -2,7 +2,6 @@
 layout: post
 title: Auroras no Brasil
 date: 2024-05-11 11:45 -0300
-category: links
 tags:
   - natureza
   - meteorologia

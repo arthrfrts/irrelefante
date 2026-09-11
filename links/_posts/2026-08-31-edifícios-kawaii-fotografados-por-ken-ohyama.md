@@ -2,7 +2,6 @@
 layout: post
 date: 2026-08-31 11:23 -0300
 title: Edifícios Kawaii fotografados por Ken Ohyama
-category: links
 tags:
 - arquitetura
 - fotografia

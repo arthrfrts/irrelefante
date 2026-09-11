@@ -2,7 +2,6 @@
 layout: post
 title: As contradições no cerne de Assassinos da Lua de Flores
 date: 2023-10-30 08:44 -0300
-category: links
 tags:
   - cultura
   - filmes

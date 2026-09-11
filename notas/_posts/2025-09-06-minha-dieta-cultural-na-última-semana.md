@@ -2,7 +2,6 @@
 layout: post
 title: Minha dieta cultural na última semana
 date: 2025-09-06 10:38 -0300
-category: notas
 tags:
   - impressões
   - dieta cultural
@@ -58,5 +57,5 @@ Me sentindo meio culpado de ter gostado bem mais do quinto episódio de _Alien: 
 
 Continuo revendo _Community_ (tô nostálgico!), e cheguei nos finalmentes da primeira temporada. Como essa série tem coração nesse início, não é a toa que essa primeira temporada garantiu duas renovações diretas. É o melhor momento tanto para Britta quanto para Chang, que continuam bons na segunda temporada mas degringolam para versões ininteligíveis deles mesmos depois disso. Passei pelo episódio do frango frito, inspirado nos filmes do Martin Scorsese, que eu acho que é um dos melhores episódios temáticos que a série entregou justamente pelo carinho que tem tanto pelos seus personagens quanto pela dinâmica entre eles. Esqueço sempre que esse episódio é a origem do Peitos da Annie, o macaco do Troy. Tô soltando uma risadinha só de escrever essa bobagem.
 
-[dieta]: {% post_url 2025-08-30-minha-dieta-cultural-na-última-semana %}
+[dieta]: {% post_url notas/2025-08-30-minha-dieta-cultural-na-última-semana %}
 

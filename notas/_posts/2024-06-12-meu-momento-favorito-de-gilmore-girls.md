@@ -2,7 +2,6 @@
 layout: post
 title: Meu momento favorito de Gilmore Girls
 date: 2024-06-12 16:10 -0300
-category: notas
 tags:
   - citações
   - cenas

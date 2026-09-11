@@ -2,7 +2,6 @@
 layout: post
 title: Em defesa dos navegadores em consoles de videogame
 date: 2026-06-15 16:55 -0300
-category: textos
 tags:
   - web
   - desenvolvimento

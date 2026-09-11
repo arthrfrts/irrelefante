@@ -8,7 +8,6 @@ review:
   summary: Kelly Reichardt, 2025
   rating: 4
   poster: /uploads/2025/10/mastermind.jpg
-category: reviews
 tags:
   - impressões
   - filmes
@@ -33,5 +32,5 @@ Todo o primeiro ato de _The Mastermind_ me fez pensar que esse seria um filme do
 
 Mas _The Mastermind_ se transforma, na sua segunda metade no trajeto cambaleante de JB. Em busca do quê, exatamente, nem ele sabe. A falta de perspectiva, e de vontade, que traz graça à primeira metade do filme pesa nas costas do protagonista, como a tragédia de um país inteiro que (seja para um preguiçoso como JB ou uma artista dedicada como Lizzy) é incapaz de oferecer algum tipo de sonho, de possibilidade. Diferentemente de Lizzy, porém, JB não se permitiu encontrar um pouco de alento nas pessoas que cruzaram seu caminho. Ele cambaleia e segue em frente, perdido.
 
-[su]: {% post_url 2023-07-01-showing-up %}
-[cm]: {% post_url 2017-10-16-certas-mulheres %}
+[su]: {% post_url reviews/2023-07-01-showing-up %}
+[cm]: {% post_url reviews/2017-10-16-certas-mulheres %}

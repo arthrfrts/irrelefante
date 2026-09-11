@@ -2,7 +2,6 @@
 layout: post
 title: Minha dieta cultural na última semana
 date: 2025-08-11 11:22 -0300
-category: notas
 tags:
   - impressões
   - dieta cultural

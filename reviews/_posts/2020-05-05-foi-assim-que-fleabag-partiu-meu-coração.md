@@ -5,7 +5,6 @@ date: 2020-05-05 00:00 +0000
 canonical_url: https://paomortadela.com.br/2020/05/foi-assim-que-fleabag-partiu-meu-coracao/
 external_url: https://paomortadela.com.br/2020/05/foi-assim-que-fleabag-partiu-meu-coracao/
 reaction: repost
-category: reviews
 tags:
   - impressões
   - séries

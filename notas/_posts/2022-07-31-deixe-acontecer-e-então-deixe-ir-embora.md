@@ -2,7 +2,6 @@
 layout: post
 title: Deixe acontecer, e então deixe ir embora
 date: 2022-07-31 14:28 -0300
-category: notas
 tags:
   - achados
   - poesia

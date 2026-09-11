@@ -2,7 +2,6 @@
 layout: post
 title: Tears of the Kingdom dá vida à Hyrule
 date: 2023-09-05 00:02 -0300
-category: reviews
 tags:
   - jogos
   - impressões

@@ -2,7 +2,6 @@
 layout: post
 title: A Cronologia da Água
 date: 2026-04-14 22:09 -0300
-category: reviews
 tags:
   - impressões
   - filmes

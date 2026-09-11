@@ -2,7 +2,6 @@
 layout: post
 title: Rattlesnake Kate
 date: 2025-10-27 09:26 -0300
-category: link
 tags:
   - pessoas
   - história

@@ -2,7 +2,6 @@
 layout: post
 title: O uso de cores em fábricas, escolas e hospitais
 date: 2024-04-16 00:00 +0000
-category: links
 tags:
   - design
   - ilustrações

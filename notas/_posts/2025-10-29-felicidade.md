@@ -2,7 +2,6 @@
 layout: post
 title: Happiness
 date: 2025-10-29 15:32 -0300
-category: notas
 tags:
   - poesia
   - citações

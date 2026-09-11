@@ -2,7 +2,6 @@
 layout: post
 title: Últimas memórias
 date: 2025-05-06 10:55 -0300
-category: textos
 tags:
   - morte
   - sentimentos

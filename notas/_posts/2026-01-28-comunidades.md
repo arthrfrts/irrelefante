@@ -2,7 +2,6 @@
 layout: post
 title: Comunidades fortes e pessoas agindo com alegria
 date: 2026-01-28 12:32 -0300
-category: notas
 tags:
   - citações
   - Heather Cox Richardson

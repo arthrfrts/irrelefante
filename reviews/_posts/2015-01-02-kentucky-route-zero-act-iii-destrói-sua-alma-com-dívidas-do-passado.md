@@ -3,7 +3,6 @@ layout: post
 title: 'Kentucky Route Zero: Act III destrói sua alma com dívidas do passado'
 date: 2015-01-02 07:41 -0300
 canonical_url: https://paomortadela.com.br/2015/01/kentucky-route-zero-act-iii-corroi-sua-alma-com-dividas-do-passado/
-category: reviews
 tags:
   - impressões
   - jogos

@@ -3,7 +3,6 @@ layout: post
 title: Talvez eu devesse me sentir culpado por jogar Animal Crossing esse tempo todo?
 date: 2020-10-13 00:00 +0000
 image: https://paomortadela.com.br/uploads/2020/10/13/2020082819042900-02CB906EA538A35643C1E1484C4B947D.jpg
-category: textos
 tags:
   - impressões
   - jogos
@@ -46,8 +45,8 @@ Eu gosto de visitar as lojas durante a semana pra encontrar algo bacana pra pres
 [polygon]: https://www.polygon.com/2020/9/18/21445211/animal-crossing-new-horizons-guilt-trip-nintendo-email
 [kotaku]: https://kotaku.com/animal-crossing-new-horizons-six-months-later-1845146991
 [paozinho]: https://tinyletter.com/paomortadela
-[acnl]: {% post_url 2016-01-15-animal-crossing-new-leaf-vai-vender-sua-alma-para-reformar-sua-casa %}
-[acnh]: {% post_url 2020-05-11-eu-jogo-animal-crossing-e-fico-pensando-no-futuro %}
+[acnl]: {% post_url reviews/2016-01-15-animal-crossing-new-leaf-vai-vender-sua-alma-para-reformar-sua-casa %}
+[acnh]: {% post_url textos/2020-05-11-eu-jogo-animal-crossing-e-fico-pensando-no-futuro %}
 [erik]: https://nookipedia.com/wiki/Erik
 [amelia]: https://nookipedia.com/wiki/Amelia
 [spike]: https://nookipedia.com/wiki/Spike

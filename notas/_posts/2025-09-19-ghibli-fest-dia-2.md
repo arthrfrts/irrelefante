@@ -2,7 +2,6 @@
 layout: post
 title: 'Ghibli Fest: Dia 2'
 date: 2025-09-19 10:29 -0300
-category: notas
 tags:
   - filmes
   - Studio Ghibli

@@ -2,7 +2,6 @@
 layout: post
 title: Caminhadas por aí
 date: 2025-12-31 15:50 -0300
-category: notas
 tags:
   - caminhadas
   - rotina

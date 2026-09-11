@@ -2,7 +2,6 @@
 layout: post
 title: Long Grass
 date: 2026-05-04 10:59
-category: links
 tags:
   - músicas
   - Will Butler + The Sister Squares

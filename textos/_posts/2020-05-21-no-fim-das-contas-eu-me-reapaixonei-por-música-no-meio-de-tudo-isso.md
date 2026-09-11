@@ -2,7 +2,6 @@
 layout: post
 title: No fim das contas eu me reapaixonei por música no meio de *tudo isso*
 date: 2020-05-21 22:28 -0300
-category: textos
 tags:
   - músicas
   - dieta cultural
@@ -39,7 +38,7 @@ Desde então outro álbum veio e fez o mesmo, e eu percebi que eu finalmente ent
 
 Eu não tenho nenhuma conclusão marcante sobre esse tópico. Eu não sei escrever sobre música, e não posso dar uma análise técnica sobre o que esses dois discos fazem ou deixam de fazer. Mas eu achei interessante como eu reaprendi a ouvir música, redescobri o prazer que eu tinha em ouvir discos. Demorou um bocado, é verdade, mas tá sendo muito bacana poder amar ouvir música boa de novo. Agora eu tenho muita música boa pra amar ouvir.
 
-[subs]: {% post_url 2019-02-07-o-passado-e-o-presente-se-confundem-em-the-suburbs %}
+[subs]: {% post_url reviews/2019-02-07-o-passado-e-o-presente-se-confundem-em-the-suburbs %}
 [vox]: https://www.vox.com/culture/2020/4/17/21225315/fiona-apple-fetch-the-bolt-cutters-review
 [fetch]: https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj
 [set]: https://open.spotify.com/album/6daEdTBi1hyFQgmsnR7oRr?si=3KEHurv6THOH5Tww61vxcg

@@ -2,7 +2,6 @@
 layout: post
 title: Lótus selvagem
 date: 2025-11-05 12:29 -0300
-category: notas
 tags:
   - arte
   - pinturas

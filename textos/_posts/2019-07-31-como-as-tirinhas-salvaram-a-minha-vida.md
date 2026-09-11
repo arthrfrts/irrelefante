@@ -5,7 +5,6 @@ date: 2019-07-31 09:00 -0300
 canonical_url: https://paomortadela.com.br/2019/07/tirinhas/
 external_url: https://paomortadela.com.br/2019/07/tirinhas/
 reaction: repost
-category: textos
 tags:
   - cultura
   - gibis

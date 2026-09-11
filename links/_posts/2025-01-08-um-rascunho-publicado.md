@@ -2,7 +2,6 @@
 layout: post
 title: Um rascunho publicado
 date: 2025-01-08 21:39 -0300
-category: links
 tags:
   - família
   - newsletters

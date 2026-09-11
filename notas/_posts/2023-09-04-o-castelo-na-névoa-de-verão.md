@@ -2,7 +2,6 @@
 layout: post
 title: O castelo na névoa de verão
 date: 2023-09-04 00:00 +0000
-category: notas
 tags:
   - ilustrações
   - Chiang Yee

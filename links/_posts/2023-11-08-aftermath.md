@@ -2,7 +2,6 @@
 layout: post
 title: Aftermath
 date: 2023-11-08 08:55 -0300
-category: links
 tags:
   - cultura
   - jogos

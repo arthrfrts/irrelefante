@@ -2,7 +2,6 @@
 layout: post
 title: Canção Postal
 date: 2025-11-03 13:48 -0300
-category: links
 tags:
   - músicas
   - Lô Borges

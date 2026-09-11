@@ -3,7 +3,6 @@ layout: post
 title: Onde o dia vai?
 date: 2022-08-12 08:27 -0300
 external_url: https://neal.fun/where-does-the-day-go/
-category: links
 tags:
   - achados
   - rotina

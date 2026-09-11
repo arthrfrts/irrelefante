@@ -2,7 +2,6 @@
 layout: post
 title: A web quieta
 date: 2024-10-01 16:12 -0300
-category: links
 tags:
   - web
   - desenvolvimento

@@ -2,7 +2,6 @@
 layout: post
 title: Eu jogo Animal Crossing e fico pensando no futuro
 date: 2020-05-11 20:44 -0300
-category: textos
 tags:
   - jogos
   - Nintendo
@@ -53,5 +52,5 @@ No início do jogo, o cãolebridade K.K. Slider aparece em um sonho pro jogador 
 [yt]: https://www.youtube.com/watch?v=LeI3F4h2s08
 [erik]: https://paomortadela.com.br/uploads/2020/05/11/acnh2.jpg
 [naomi]: https://www.youtube.com/watch?v=BgEnbXPZX4s
-[acnl]: {% post_url 2016-01-15-animal-crossing-new-leaf-vai-vender-sua-alma-para-reformar-sua-casa %}
+[acnl]: {% post_url reviews/2016-01-15-animal-crossing-new-leaf-vai-vender-sua-alma-para-reformar-sua-casa %}
 [cama]: https://paomortadela.com.br/uploads/2020/05/11/acnh3.jpg

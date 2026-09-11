@@ -2,7 +2,6 @@
 layout: post
 title: Volta às aulas
 date: 2023-08-24 14:38 -0300
-category: links
 tags:
   - ilustrações
   - Christina Chung

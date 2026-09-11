@@ -2,7 +2,6 @@
 layout: post
 title: Temas pro Firefox
 date: 2025-08-20 11:15 -0300
-category: links
 external_url: https://addons.mozilla.org/pt-BR/firefox/user/12630743/
 reaction: like
 tags:
@@ -20,7 +19,7 @@ at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb27lvq
 
 Eu sou um dos seis usuários usando [esse tema inspirado no Wii][wii].
 
-[meu]: {% post_url 2025-08-12-meu-firefox %}
+[meu]: {% post_url textos/2025-08-12-meu-firefox %}
 [sahara]: https://addons.mozilla.org/pt-BR/firefox/user/12630743/
 [oliva]: https://addons.mozilla.org/pt-BR/firefox/addon/windows-xp-olive/
 [gamecube]: https://addons.mozilla.org/pt-BR/firefox/addon/gamecube-controller/

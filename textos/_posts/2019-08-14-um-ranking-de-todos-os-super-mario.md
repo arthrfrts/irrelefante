@@ -2,7 +2,6 @@
 layout: post
 title: Um ranking de todos os Super Mario
 date: 2019-08-14 09:00 -0300
-category: textos
 tags:
   - listas
   - jogos
@@ -226,4 +225,4 @@ Ah, e tem o Yoshi, que coloca tudo isso em dobro na sua frente. É só dar um so
 
 
 [upd]: https://paomortadela.com.br/2023/11/um-ranking-de-todos-os-super-mario/
-[botw]: {% post_url 2017-07-25-the-legend-of-zelda-breath-of-the-wild-é-um-jogo-monumental %}
+[botw]: {% post_url reviews/2017-07-25-the-legend-of-zelda-breath-of-the-wild-é-um-jogo-monumental %}

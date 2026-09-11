@@ -2,7 +2,6 @@
 layout: post
 title: Enchentes no RS
 date: 2024-05-20 01:51 -0300
-category: links
 tags:
   - enchentes
   - natureza

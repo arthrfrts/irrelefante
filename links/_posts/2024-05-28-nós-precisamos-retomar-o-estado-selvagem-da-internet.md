@@ -2,7 +2,6 @@
 layout: post
 title: Nós precisamos retomar o estado selvagem da internet
 date: 2024-05-28 00:10 -0300
-category: links
 tags:
   - web
   - IndieWeb

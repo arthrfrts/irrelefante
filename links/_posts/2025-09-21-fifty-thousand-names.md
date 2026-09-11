@@ -2,7 +2,6 @@
 layout: post
 title: fifty thousand names
 date: 2025-09-21 10:26 -0300
-category: links
 tags:
   - Palestina
   - web

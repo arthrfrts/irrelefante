@@ -3,7 +3,6 @@ layout: post
 title: "Nina Simone: “22nd Century”"
 external_url: https://youtu.be/PYcgCiWAv8c
 reaction: like
-category: links
 tags:
   - citações
   - músicas

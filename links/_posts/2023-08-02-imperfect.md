@@ -2,7 +2,6 @@
 layout: post
 title: Imperfect
 date: 2023-08-02 10:12 -0300
-category: links
 tags:
   - achados
   - fotos

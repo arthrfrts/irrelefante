@@ -2,7 +2,6 @@
 layout: post
 title: Os filmes de Kelly Reichardt oferecem um conforto estranho durante a quarentena
 date: 2020-05-07 09:40 -0300
-category: textos
 tags:
   - filmes
   - Kelly Reichardt

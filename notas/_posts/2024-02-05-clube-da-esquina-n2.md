@@ -2,7 +2,6 @@
 layout: post
 title: Clube da Esquina Nº 2
 date: 2024-02-05 21:07 -0300
-category: notas
 tags:
   - cenas
   - novelas

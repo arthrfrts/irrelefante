@@ -2,7 +2,6 @@
 layout: post
 title: Sobre estar sozinho
 date: 2022-08-08 22:17 -0300
-category: notas
 tags:
   - citações
   - livros

@@ -2,7 +2,6 @@
 layout: post
 title: Porque escolher a web como uma plataforma de jogos
 date: 2024-09-30 22:34 -0300
-category: links
 tags:
   - web
   - desenvolvimento

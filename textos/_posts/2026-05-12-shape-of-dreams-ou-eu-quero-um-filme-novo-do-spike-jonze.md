@@ -2,7 +2,6 @@
 layout: post
 title: 'Shape of Dreams (ou: eu quero um filme novo do Spike Jonze)'
 date: 2026-05-12 22:53 -0300
-category: textos
 tags:
   - vídeos
   - Spike Jonze

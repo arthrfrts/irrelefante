@@ -2,7 +2,6 @@
 layout: post
 title: How We Feel
 date: 2024-03-23 10:47 -0300
-category: links
 tags:
   - softwares
   - sentimentos

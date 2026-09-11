@@ -2,7 +2,6 @@
 layout: post
 title: The Onion agora é independente
 date: 2024-04-26 17:15 -0300
-category: links
 tags:
   - web
   - The Onion

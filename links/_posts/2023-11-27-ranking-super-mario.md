@@ -2,7 +2,6 @@
 layout: post
 title: 'Ranking: Super Mario'
 date: 2023-11-27 22:56 -0300
-category: links
 tags:
   - listas
   - Mario Bros.
@@ -18,4 +17,4 @@ at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaz5zls
 Eu atualizei [meu ranking][pao] dos _Super Mario_ para incluir _Bowser's Fury_ e _Super Mario Bros Wonder._
 
 
-[pao]: {% post_url 2019-08-14-um-ranking-de-todos-os-super-mario %}
+[pao]: {% post_url textos/2019-08-14-um-ranking-de-todos-os-super-mario %}

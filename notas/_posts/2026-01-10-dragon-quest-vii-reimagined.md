@@ -2,7 +2,6 @@
 layout: post
 title: Dragon Quest VII Reimagined
 date: 2026-01-10 12:18 -0300
-category: notas
 tags:
   - jogos
   - impressões

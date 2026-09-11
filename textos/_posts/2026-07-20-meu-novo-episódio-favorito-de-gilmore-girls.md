@@ -2,7 +2,6 @@
 layout: post
 title: Meu (novo) episódio favorito de Gilmore Girls
 date: 2026-07-20 21:48 -0300
-category: textos
 tags:
   - impressões
   - séries

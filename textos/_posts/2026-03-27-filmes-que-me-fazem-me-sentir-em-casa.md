@@ -2,7 +2,6 @@
 layout: post
 title: Filmes que me fazem me sentir em casa
 date: 2026-03-27 11:21 -0300
-category: textos
 syndication:
   - https://irrelefante.tumblr.com/post/821466974212276224/
   - https://boxd.it/TuRwA/detail
@@ -73,5 +72,5 @@ Esses filmes tem uma experiência extra-humana parecida. Alguns retratam rotinas
     Mas Sciamma é uma diretora, e roteirista, no auge de seu talento, e não ia cair na armadilha de tentar fechar uma história assim. A casa vira passado, mas ela foi um presente importante na vida de mãe e filha. Tem algo tão bonito na forma que Sciamma filma a casa, e como ela vai deixando de ser uma — as paredes vão se esvaziando, os barulhos vão mudando. Ela vai ficando quieta, como se despedisse da família que ela ajudou a construir.
 
 
-[varda]: {% post_url 2026-03-21-daguerreótipos %}
-[kelly]: {% post_url 2017-10-16-certas-mulheres %}
+[varda]: {% post_url reviews/2026-03-21-daguerreótipos %}
+[kelly]: {% post_url reviews/2017-10-16-certas-mulheres %}

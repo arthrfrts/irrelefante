@@ -2,7 +2,6 @@
 layout: post
 title: Como voltar a ler
 date: 2023-07-17 14:24 -0300
-category: links
 tags:
   - livros
   - citações

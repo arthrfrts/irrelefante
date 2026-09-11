@@ -2,7 +2,6 @@
 layout: post
 title: Print Gallery of an Artist
 date: 2026-04-10 07:30 -0300
-category: links
 tags:
   - jogos
   - web

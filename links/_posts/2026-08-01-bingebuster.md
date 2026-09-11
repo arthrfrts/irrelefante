@@ -2,7 +2,6 @@
 layout: post
 title: Bingebuster
 date: 2026-08-01 08:25 -0300
-category: links
 tags:
   - web
   - experimentos

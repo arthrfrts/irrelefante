@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Ontem, na Casa de Cultura"
-category: notas
 image:
   path: /uploads/2022/09/ccmq-bienal.jpeg
   alt: Faixas de tecidos coloridos penduradas na passarela da Casa de Cultura de Porto Alegre, um prédio rosa em estilo colonial.

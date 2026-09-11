@@ -2,7 +2,6 @@
 layout: post
 title: As semelhanças entre sua vida e um cachorro
 date: 2026-06-18 15:18 -0300
-category: notas
 tags:
   - citações
   - poesia

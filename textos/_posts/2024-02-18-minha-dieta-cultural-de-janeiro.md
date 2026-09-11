@@ -2,7 +2,6 @@
 layout: post
 title: Minha dieta cultural de janeiro
 date: 2024-02-18 17:20 -0300
-category: textos
 tags:
   - dieta cultural
   - filmes

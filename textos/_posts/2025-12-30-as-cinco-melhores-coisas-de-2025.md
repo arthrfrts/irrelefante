@@ -2,7 +2,6 @@
 layout: post
 title: As cinco melhores coisas de 2025
 date: 2025-12-30 09:00 -0300
-category: textos
 tags:
   - listas
   - filmes
@@ -101,5 +100,5 @@ Três anos depois da primeira temporada, eu tava curioso pra ver se _Ruptura_ ia
 - _The Pitt_ (1ª temporada, HBO Max). Outra série que parece vinda de outro tempo: uma mistura de _24 Horas_ com _Plantão Médico_. Eu não sabia que eu queria algo assim, mas fiquei tão feliz que _The Pitt_ entrega. Tem a crueza, a intensidade e a emoção do clássico drama médico; mas é nova, empolgante e audaciosa com sua estrutura narrativa. Louco pra ver a segunda temporada que estreia no início de 2026.
 
 [arquivo]: https://paomortadela.com.br/tag/melhores-do-ano/
-[2024]: {% post_url 2024-12-19-as-cinco-melhores-coisas-de-2024 %}
+[2024]: {% post_url textos/2024-12-19-as-cinco-melhores-coisas-de-2024 %}
 [raul]: https://raulranma.itch.io/

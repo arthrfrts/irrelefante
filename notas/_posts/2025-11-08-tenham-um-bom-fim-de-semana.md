@@ -2,7 +2,6 @@
 layout: post
 title: Tenham um bom fim de semana
 date: 2025-11-08 09:03 -0300
-category: notas
 tags:
   - dieta cultural
   - fim-de-semana

@@ -2,7 +2,6 @@
 layout: post
 title: "“Oi, sou eu, Wikipédia, e eu estou pronta para seu pedido de desculpas”"
 date: 2025-10-30 22:09 -0300
-category: links
 tags:
   - web
   - Wikipédia

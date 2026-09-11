@@ -2,7 +2,6 @@
 layout: post
 title: Lembrando da morte
 date: 2024-07-12 20:24 -0300
-category: notas
 tags:
   - memórias
   - morte
@@ -28,7 +27,7 @@ Essa última semana foi particularmente difícil pra mim por causa disso. Eu pen
 
 Eu sei que isso é parte do luto. [Eu já escrevi sobre isso quando a Vivi morreu][eevee]. O problema, pelo menos por conta de como foi com a Vivi, é que isso não passa. Eu penso na Vivi quase que diariamente desde que ela morreu, mas sempre que eu começo a pensar nela, a primeira imagem que me vem foi eu sentado ao seu corpo, fazendo um carinho no seu pelo mesmo depois de morta, porque queria lembrar da textura de sua pelagem nos meus dedos. Eu já esqueci da textura, mas eu lembro do momento. E o momento é triste. Só depois disso, que eu preciso fazer o exercício de pensar em algum outro momento melhor para lembrar, ou para considerar. É sempre algo que eu preciso fazer ativamente. Lembrar da Vivi é lembrar da sua morte. _Querer_ lembrar da Vivi é quando eu procuro uma boa lembrança na minha cabeça. Delinha viveu dezoito anos comigo, e o único momento trágico que eu tive ao lado dela é justamente o que não sai da minha cabeça quando lembro dela.
 
-[delinha]: {% post_url 2024-07-03-delinha %}
-[eevee]: {% post_url 2019-09-25-aprendendo-a-perder-com-pokémon-let-s-go-eevee %}
+[delinha]: {% post_url textos/2024-07-03-delinha %}
+[eevee]: {% post_url reviews/2019-09-25-aprendendo-a-perder-com-pokémon-let-s-go-eevee %}
 
 

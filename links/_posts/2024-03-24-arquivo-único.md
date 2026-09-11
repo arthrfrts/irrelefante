@@ -2,7 +2,6 @@
 layout: post
 title: Arquivo único
 date: 2024-03-24 09:03 -0300
-category: links
 tags:
   - web
   - desenvolvimento

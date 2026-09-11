@@ -2,7 +2,6 @@
 layout: post
 title: A Árvore da Vida
 date: 2023-09-05 19:58 -0300
-category: reviews
 tags:
   - filmes
   - Terrence Malick

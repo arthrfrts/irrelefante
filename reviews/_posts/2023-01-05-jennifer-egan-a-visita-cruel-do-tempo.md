@@ -8,7 +8,6 @@ review:
   summary: Jennifer Egan (trad. Fernanda Abreu)
   rating: 5
   poster: /uploads/2023/01/visita-cruel-do-tempo.jpg
-category: reviews
 tags:
   - impressões
   - livros

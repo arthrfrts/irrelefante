@@ -2,7 +2,6 @@
 layout: post
 title: Favoritos discretos
 date: 2024-12-21 11:23 -0300
-category: notas
 tags:
   - jogos
   - Burnout

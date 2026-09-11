@@ -5,7 +5,6 @@ date: 2025-10-01 20:27 -0300
 syndication:
   - https://irrelefante.tumblr.com/post/821467628265701377/
 redirect_from: /post/821467628265701377/
-category: reviews
 tags:
   - impressões
   - filmes

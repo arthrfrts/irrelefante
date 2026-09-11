@@ -2,7 +2,6 @@
 layout: post
 title: A história da Terra
 date: 2023-11-13 00:00 +0000
-category: links
 tags:
   - vídeos
   - história

@@ -2,7 +2,6 @@
 layout: post
 title: Website Carbon Calculator
 date: 2026-07-15 09:08 -0300
-category: links
 tags:
   - web
   - desenvolvimento

@@ -2,7 +2,6 @@
 layout: post
 title: Como eu blogo por aqui
 date: 2024-05-22 09:42 -0300
-category: textos
 tags:
   - web
   - blogs

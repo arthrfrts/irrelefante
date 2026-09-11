@@ -2,7 +2,6 @@
 layout: post
 title: O legado sem limites de Breath of the Wild
 date: 2024-03-25 08:51 -0300
-category: links
 tags:
   - cultura
   - jogos

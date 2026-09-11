@@ -2,7 +2,6 @@
 layout: post
 title: Um mapa-múndi que também é um jogo de campo minado
 date: 2026-07-15 09:24 -0300
-category: links
 tags:
   - jogos
   - cartografia

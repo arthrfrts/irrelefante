@@ -5,7 +5,6 @@ date: 2022-09-05 11:19 -0300
 image:
   path: /uploads/2022/09/millet.jpg
   caption: "Jean-François Millet (meados de 1860, óleo sobre tela)"
-category: notas
 tags:
   - arte
   - pinturas

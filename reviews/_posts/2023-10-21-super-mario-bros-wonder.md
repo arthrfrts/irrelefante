@@ -2,7 +2,6 @@
 layout: post
 title: Super Mario Bros. Wonder
 date: 2023-10-21 00:00 +0000
-category: reviews
 tags:
   - impressões
   - jogos

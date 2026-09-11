@@ -2,7 +2,6 @@
 layout: post
 title: Protótipo de Spore
 date: 2026-01-01 19:42 -0300
-category: links
 tags:
   - jogos
   - Spore

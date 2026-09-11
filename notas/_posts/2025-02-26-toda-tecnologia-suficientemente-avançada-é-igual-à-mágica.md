@@ -2,7 +2,6 @@
 layout: post
 title: Toda tecnologia suficientemente avançada é igual à mágica
 date: 2025-02-26 13:43 -0300
-category: notas
 tags:
   - softwares
   - tecnologia

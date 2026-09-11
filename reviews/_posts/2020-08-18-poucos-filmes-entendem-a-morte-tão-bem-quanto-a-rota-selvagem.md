@@ -2,7 +2,6 @@
 layout: post
 title: Poucos filmes entendem a morte tão bem quanto A Rota Selvagem
 date: 2020-08-18 21:02 -0300
-category: reviews
 tags:
   - filmes
   - drama
@@ -44,6 +43,6 @@ _45 Anos_, o filme mais aclamado de Andrew Haigh, termina em um plano que gela a
 
 Em _A Rota Selvagem_, Haigh termina o filme de uma maneira ligeiramente semelhante. Acompanhamos Charley, já abrigado na casa de sua tia, em uma de suas corridas matutinas. Charley para e olha para trás, observando os arredores, como se procurasse por algo que sabe que não está ali. “Os pesadelos talvez não desaparecerão completamente”, a tia Margie explica pra ele no final do filme, “mas você vai fazer memórias boas”. É reconfortante, mas só até certo ponto, e a expressão de Charley no final compreende isso. _A Rota Selvagem_ entende a dor que é perder alguém que se ama, porque é uma perda irreparável. Nada vai substituir aquele amor. Aquela falta vai estar sempre ali, logo atrás dele. É pra ela que Charley olha no plano final. Ela está ali, em todo o lugar, como uma lembrança mas também como um tijolo em seu bolso. É o que a gente ganha em troca quando a gente perde.
 
-[vivi]: {% post_url 2019-09-25-aprendendo-a-perder-com-pokémon-let-s-go-eevee %}
-[kelly]: {% post_url 2020-05-07-os-filmes-de-kelly-reichardt-oferecem-um-conforto-estranho-durante-a-quarentena %}
+[vivi]: {% post_url reviews/2019-09-25-aprendendo-a-perder-com-pokémon-let-s-go-eevee %}
+[kelly]: {% post_url textos/2020-05-07-os-filmes-de-kelly-reichardt-oferecem-um-conforto-estranho-durante-a-quarentena %}
 [die]: https://www.doesthedogdie.com

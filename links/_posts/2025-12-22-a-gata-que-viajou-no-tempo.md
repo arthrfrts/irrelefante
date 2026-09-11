@@ -2,7 +2,6 @@
 layout: post
 title: A Gata que Viajou no Tempo
 date: 2025-12-22 11:57 -0300
-category: links
 tags:
   - achados
   - arte

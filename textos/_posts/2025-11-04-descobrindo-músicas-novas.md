@@ -2,7 +2,6 @@
 layout: post
 title: Descobrindo músicas novas
 date: 2025-11-04 07:39 -0300
-category: textos
 tags:
   - músicas
   - dieta cultural
@@ -42,5 +41,5 @@ A outra recomendação é (eu acho) meu disco favorito desse ano: _ICONOCLASTS_,
 
 Eu acho essas descobertas empolgantes. Conhecer um artista novo, ver um filme e descobrir ali no meio dele que ele é um novo favorito, ler algo que acaba tirando teu chão do melhor jeito… É uma sensação única. Como se o mundo estivesse se abrindo pra nós.
 
-[apx]: {% post_url 2020-05-21-no-fim-das-contas-eu-me-reapaixonei-por-música-no-meio-de-tudo-isso %}
+[apx]: {% post_url textos/2020-05-21-no-fim-das-contas-eu-me-reapaixonei-por-música-no-meio-de-tudo-isso %}
 

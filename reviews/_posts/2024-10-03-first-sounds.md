@@ -2,7 +2,6 @@
 layout: post
 title: First Sounds
 date: 2024-10-03 10:29
-category: reviews
 tags:
   - músicas
   - Sarah Neufeld

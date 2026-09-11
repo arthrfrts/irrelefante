@@ -2,7 +2,6 @@
 layout: post
 title: Fim da tarde aqui em casa
 date: 2024-08-16 17:18 -0300
-category: notas
 tags:
   - agora
   - fotos

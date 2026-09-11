@@ -2,7 +2,6 @@
 layout: post
 title: Lista de referências de Gilmore Girls
 date: 2024-04-29 22:20 -0300
-category: links
 tags:
   - filmes
   - séries

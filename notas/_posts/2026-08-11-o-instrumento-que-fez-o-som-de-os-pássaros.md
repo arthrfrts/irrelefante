@@ -2,7 +2,6 @@
 layout: post
 title: O instrumento que fez o som de “Os Pássaros”
 date: 2026-08-11 11:21 -0300
-category: notas
 tags:
   - músicas
   - filmes

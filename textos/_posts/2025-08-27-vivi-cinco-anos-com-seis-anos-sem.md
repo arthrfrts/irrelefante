@@ -2,7 +2,6 @@
 layout: post
 title: 'Vivi: cinco anos com, seis anos sem'
 date: 2025-08-27 10:51 -0300
-category: textos
 tags:
   - cachorros
   - Vivi
@@ -39,6 +38,6 @@ Nos últimos meses, quando sua saúde foi piorando, eu gostava de passar os fins
 
 Eu sonhei com a Vivi há uns dias. Eu sonhei que eu chegava na casa dos meus pais em um dia de sol. Acho que era na época que eu ainda trabalhava no escritório, porque eu chegava de carro com meu pai. Minha mãe me deu oi e só me disse “ela tá lá embaixo”. Eu sabia instintivamente quem era. Eu desci as escadas e, embaixo da laranjeira, estava a Vivi, a cadeirinha de um lado, Mel de outro. Eu sentei perto dela na grama e lembrei que ela tinha morrido, e percebi que aquilo era um sonho. Eu acordei e, pela primeira vez em muitos, muitos anos, eu lembrei de como foi viver com a Vivi, ao invés de lembrar de como ela morreu.
 
-[memorias]: {% post_url 2025-05-06-últimas-memórias %}
-[eevee]: {% post_url 2019-09-25-aprendendo-a-perder-com-pokémon-let-s-go-eevee %}
+[memorias]: {% post_url textos/2025-05-06-últimas-memórias %}
+[eevee]: {% post_url reviews/2019-09-25-aprendendo-a-perder-com-pokémon-let-s-go-eevee %}
 

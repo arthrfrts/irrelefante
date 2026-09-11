@@ -2,7 +2,6 @@
 layout: post
 title: Os contos de Raymond Carver
 date: 2020-10-15 09:46 -0300
-category: textos
 tags:
   - impressões
   - contos

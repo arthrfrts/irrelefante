@@ -2,7 +2,6 @@
 layout: post
 title: A sorte de um adeus ser difícil
 date: 2026-01-30 17:46 -0300
-category: notas
 tags:
   - citações
   - A.A. Milne

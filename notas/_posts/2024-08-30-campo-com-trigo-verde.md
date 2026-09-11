@@ -2,7 +2,6 @@
 layout: post
 title: Campo com Trigo Verde
 date: 2024-08-30 14:04 -0300
-category: notas
 tags:
   - arte
   - pinturas

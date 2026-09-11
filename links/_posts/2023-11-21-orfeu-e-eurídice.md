@@ -2,7 +2,6 @@
 layout: post
 title: Orfeu e Eurídice
 date: 2023-11-21 20:31 -0300
-category: links
 tags: 
   - blogs
   - mitologia

@@ -2,7 +2,6 @@
 layout: post
 title: Betty Blue
 date: 2026-04-23 00:00 +0000
-category: reviews
 tags:
   - impressões
   - filmes
@@ -31,4 +30,4 @@ Eu tenho a impressão que a versão do diretor tem mais dessas “etapas” do r
 
 De resto, esse filme sempre foi muito lindo. É um filme [dessas gerações perdidas][ms] que aparecem de tempos em tempos, com horizontes gigantes e vazios de esperança. A melancolia parece ecoar nesse horizonte, e quando acaba realmente parece que uma vida inteira passou voando, como a própria vida de Betty. Lindo demais.
 
-[ms]: {% post_url 2025-10-16-the-mastermind %}
+[ms]: {% post_url reviews/2025-10-16-the-mastermind %}

@@ -2,7 +2,6 @@
 layout: post
 title: 'Song Exploder: “Take on Me”'
 date: 2025-10-20 08:43 -0300
-category: links
 tags:
   - podcasts
   - músicas

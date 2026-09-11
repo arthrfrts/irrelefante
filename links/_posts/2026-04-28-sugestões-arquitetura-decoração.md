@@ -2,7 +2,6 @@
 layout: post
 title: 'Sugestões: Arquitetura & Decoração'
 date: 2026-04-28 08:11 -0300
-category: links
 tags:
   - arquitetura
   - decoração

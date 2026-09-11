@@ -2,7 +2,6 @@
 layout: post
 title: 'Betty Blue na CCMQ'
 date: '2022-05-29T13:55:34-03:00'
-category: notas
 tags:
   - momentos
   - Betty Blue

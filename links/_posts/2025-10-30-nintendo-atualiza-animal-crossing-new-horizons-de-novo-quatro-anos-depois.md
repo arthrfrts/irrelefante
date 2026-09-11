@@ -2,7 +2,6 @@
 layout: post
 title: 'Nintendo atualiza Animal Crossing: New Horizons de novo, quatro anos depois'
 date: 2025-10-30 19:45 -0300
-category: links
 tags:
   - jogos
   - Animal Crossing
@@ -26,5 +25,5 @@ _New Horizons_ talvez seja o jogo que eu mais joguei na minha vida. Eu _ainda jo
 
 Mas não pra mim. Eu tenho um problema de desapego muito forte. Eu não consigo dizer adeus à Léte, minha ilha, nem pros meus vizinhos. E eu acho que eu não quero também. _Animal Crossing_ é um jogo que parece jardinagem. Ele muda com o tempo de maneiras sutis, mas reflete mais as mudanças do jogador. Nossos interesses, nosso cuidado. Tudo isso vai mudando com o tempo. Nesses cinco anos em que eu jogo _New Horizons_ quase que diariamente, o mundo mudou completamente. É um jogo da COVID, de certa forma. É um jogo do mundo depois dela também.
 
-[acnh1]: {% post_url 2020-05-11-eu-jogo-animal-crossing-e-fico-pensando-no-futuro %}
-[acnh2]: {% post_url 2020-10-13-talvez-eu-devesse-me-sentir-culpado-por-jogar-animal-crossing-esse-tempo-todo %}
+[acnh1]: {% post_url textos/2020-05-11-eu-jogo-animal-crossing-e-fico-pensando-no-futuro %}
+[acnh2]: {% post_url textos/2020-10-13-talvez-eu-devesse-me-sentir-culpado-por-jogar-animal-crossing-esse-tempo-todo %}

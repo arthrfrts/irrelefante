@@ -2,7 +2,6 @@
 layout: post
 title: A trilha-sonora de Big Walk
 date: 2026-07-27 00:00 +0000
-category: notas
 tags:
   - músicas
   - jogos

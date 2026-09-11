@@ -2,7 +2,6 @@
 layout: post
 title: A sequência de trocas de Link's Awakening
 date: 2024-12-14 06:38 -0300
-category: textos
 tags:
   - jogos
   - The Legend of Zelda
@@ -15,7 +14,7 @@ redirect_from: /post/778627523737272320/
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazzxaeo2v"
 ---
 
-_Link’s Awakening_ é [o meu jogo de _Zelda_ favorito]({% post_url 2020-06-09-um-ranking-de-todos-os-the-legend-of-zelda %}). Eu tô jogando ele de novo (no remake lançado pro Nintendo Switch em 2019), e eu lembrei da genialidade que é a sequência de trocas que existe nele.
+_Link’s Awakening_ é [o meu jogo de _Zelda_ favorito]({% post_url textos/2020-06-09-um-ranking-de-todos-os-the-legend-of-zelda %}). Eu tô jogando ele de novo (no remake lançado pro Nintendo Switch em 2019), e eu lembrei da genialidade que é a sequência de trocas que existe nele.
 
 Em _Link’s Awakening_, o Link se perdeu atravessando o Grande Mar e acaba naufragando na Ilha Koholint. Ela é diferente de tudo o que já vimos na Hyrule dos Zelda anteriores: é uma ilha tropical cheia de monstros vindos de outros jogos da Nintendo, como os Goomba do Super Mario e [uma criatura que parece muito o Kirby](https://www.zeldadungeon.net/wiki/Anti-Kirby).
 

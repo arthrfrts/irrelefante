@@ -2,7 +2,6 @@
 layout: post
 title: Minha dieta cultural na última semana
 date: 2025-08-23 11:14 -0300
-category: notas
 tags:
   - dieta cultural
   - filmes

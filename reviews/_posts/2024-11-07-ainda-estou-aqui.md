@@ -2,7 +2,6 @@
 layout: post
 title: Ainda Estou Aqui
 date: 2024-11-07 23:41 -0300
-category: reviews
 tags:
   - filmes
   - Walter Salles

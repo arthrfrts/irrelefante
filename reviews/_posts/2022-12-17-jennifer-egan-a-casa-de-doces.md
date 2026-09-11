@@ -1,7 +1,6 @@
 ---
 layout: post
 title: A Casa de Doces
-category: reviews
 review:
   item: A Casa de Doces
   format: Livro

@@ -4,7 +4,6 @@ title: Spore é adicionado ao programa de preservação de jogos da GOG
 date: 2025-10-28 00:00 +0000
 external_url: https://esporo.net/2025/10/spore-%C3%A9-adicionado-ao-programa-de-preserva%C3%A7%C3%A3o-da-gog
 reaction: repost
-category: links
 tags:
   - jogos
   - Spore

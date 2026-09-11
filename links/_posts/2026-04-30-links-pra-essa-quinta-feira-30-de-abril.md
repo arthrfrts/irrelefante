@@ -2,7 +2,6 @@
 layout: post
 title: Links pra essa quinta-feira, 30 de abril
 date: 2026-04-30 07:43 -0300
-category: links
 tags:
   - web
   - jogos

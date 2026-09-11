@@ -3,7 +3,6 @@ layout: post
 title: "Nova música do Arcade Fire"
 date: 2022-05-11 08:26 -0300
 external_url: https://youtu.be/FdXRbOrsyRY
-category: links
 tags:
   - citações
   - músicas

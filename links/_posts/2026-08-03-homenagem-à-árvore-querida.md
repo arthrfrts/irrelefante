@@ -4,7 +4,6 @@ title: Homenagem à árvore querida
 date: 2026-08-03 11:03 -0300
 external_url: https://osolnacabeca.com.br/homenagem-a-arvore-querida/
 reaction: like
-category: links
 tags:
   - blogs
   - natureza

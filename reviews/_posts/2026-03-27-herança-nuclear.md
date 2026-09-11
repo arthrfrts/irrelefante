@@ -2,7 +2,6 @@
 layout: post
 title: Herança Nuclear
 date: 2026-03-27 12:33 -0300
-category: reviews
 tags:
   - filmes
   - drama

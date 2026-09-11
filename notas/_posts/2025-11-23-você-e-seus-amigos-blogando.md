@@ -2,7 +2,6 @@
 layout: post
 title: Você e seus amigos blogando
 date: 2025-11-23 07:19 -0300
-category: notas
 tags:
   - web
   - blogs

@@ -2,7 +2,6 @@
 layout: post
 title: Daguerreótipos
 date: 2026-03-21 00:00 +0000
-category: reviews
 tags:
   - impressões
   - filmes

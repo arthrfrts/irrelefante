@@ -2,7 +2,6 @@
 layout: post
 title: Permaneça vivo
 date: 2024-03-23 22:56 -0300
-category: notas
 tags:
   - citações
 syndication:

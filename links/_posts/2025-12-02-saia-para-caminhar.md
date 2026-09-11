@@ -2,7 +2,6 @@
 layout: post
 title: Saia para caminhar
 date: 2025-12-02 06:43 -0300
-category: links
 tags:
   - citações
   - caminhadas

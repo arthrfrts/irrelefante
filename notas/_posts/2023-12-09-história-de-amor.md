@@ -2,7 +2,6 @@
 layout: post
 title: História de amor
 date: 2023-12-09 00:49 -0300
-category: notas
 tags:
   - memórias
   - relatos

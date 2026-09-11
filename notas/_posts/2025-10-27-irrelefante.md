@@ -2,7 +2,6 @@
 layout: post
 title: Irrelefante
 date: 2025-10-27 10:12 -0300
-category: notas
 tags:
   - projetos
   - blogs

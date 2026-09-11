@@ -2,7 +2,6 @@
 layout: post
 title: Os benefícios de desistir
 date: 2025-11-25 07:53 -0300
-category: links
 tags:
   - comportamento
 external_url: https://nautil.us/the-surprising-benefits-of-giving-up-1248362/

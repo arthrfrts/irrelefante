@@ -2,7 +2,6 @@
 layout: post
 title: Três coisas sobre dados
 date: 2026-05-18 15:29 -0300
-category: links
 tags:
   - tecnologia
   - web

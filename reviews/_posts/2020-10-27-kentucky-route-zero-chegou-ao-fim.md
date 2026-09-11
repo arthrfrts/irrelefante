@@ -4,7 +4,6 @@ title: Kentucky Route Zero chegou ao fim
 date: 2020-10-27 09:05 -0300
 excerpt: >-
   Nos últimos dez anos, minha vida se cruzou intimamente com um jogo. Pelos últimos dez meses, eu tento entender como ele acabou.
-category: reviews
 tags:
   - jogos
   - aventura de apontar-e-clicar
@@ -111,6 +110,6 @@ E eu espero lembrar que, de alguma maneira misteriosa, alguém conseguiu colocar
 [tag]: /tags/kentucky-route-zero/
 [advent]: https://pt.wikipedia.org/wiki/Colossal_Cave_Adventure
 [an]: http://www.anotherworld.fr/anotherworld_uk/another_world.htm
-[godot]: {% post_url 2016-07-19-não-há-muito-o-que-dizer-sobre-esperando-godot %}
+[godot]: {% post_url reviews/2016-07-19-não-há-muito-o-que-dizer-sobre-esperando-godot %}
 [caverna]: https://en.wikipedia.org/wiki/Mammoth_Cave_National_Park
 [late]: https://en.wikipedia.org/wiki/Late_capitalism

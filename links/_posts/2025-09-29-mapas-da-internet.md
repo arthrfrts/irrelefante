@@ -2,7 +2,6 @@
 layout: post
 title: Mapas da internet
 date: 2025-09-29 09:13 -0300
-category: links
 tags:
   - web
   - cartografia

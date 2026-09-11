@@ -2,7 +2,6 @@
 layout: post
 title: O passado e o presente se confundem em The Suburbs
 date: 2019-02-07 08:20 -0300
-category: reviews
 tags:
   - músicas
   - Arcade Fire

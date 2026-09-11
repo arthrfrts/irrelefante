@@ -2,7 +2,6 @@
 layout: post
 title: 'Ghibli Fest: Dia 7'
 date: 2025-09-27 10:18 -0300
-category: notas
 tags:
   - filmes
   - impressões

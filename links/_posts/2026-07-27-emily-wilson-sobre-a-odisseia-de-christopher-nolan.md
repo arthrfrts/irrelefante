@@ -2,7 +2,6 @@
 layout: post
 title: Emily Wilson sobre A Odisseia de Christopher Nolan
 date: 2026-07-27 00:00 +0000
-category: links
 tags:
   - impressões
   - filmes

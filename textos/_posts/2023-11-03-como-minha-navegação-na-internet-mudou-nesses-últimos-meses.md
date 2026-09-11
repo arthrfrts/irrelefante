@@ -2,7 +2,6 @@
 layout: post
 title: Como minha navegação na internet mudou nesses últimos meses
 date: 2023-11-03 11:22 -0300
-category: textos
 tags:
   - comportamento
   - web

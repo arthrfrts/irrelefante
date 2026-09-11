@@ -2,7 +2,6 @@
 layout: post
 title: Sobre “blogar”
 date: 2023-11-28 05:34 -0300
-category: links
 tags:
   - web
   - blogs

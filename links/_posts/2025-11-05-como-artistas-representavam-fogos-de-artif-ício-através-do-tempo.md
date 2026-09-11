@@ -2,7 +2,6 @@
 layout: post
 title: Como artistas representavam fogos de artif[ício através do tempo
 date: 2025-11-05 09:17 -0300
-category: links
 tags:
   - arte
   - pirotecnia

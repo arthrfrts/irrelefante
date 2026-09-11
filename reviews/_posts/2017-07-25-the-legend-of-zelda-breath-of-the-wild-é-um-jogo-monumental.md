@@ -2,7 +2,6 @@
 layout: post
 title: 'The Legend of Zelda: Breath of the Wild é um jogo monumental'
 date: 2017-07-25 00:00 +0000
-category: reviews
 tags:
   - jogos
   - aventura

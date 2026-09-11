@@ -2,7 +2,6 @@
 layout: post
 title: O Menino e a Garça - Trailer Oficial
 date: 2023-11-17 12:40 -0300
-category: links
 tags:
   - filmes
   - trailers

@@ -2,7 +2,6 @@
 layout: post
 title: Histórias de fantasmas
 date: 2024-03-20 15:27 -0300
-category: reviews
 tags:
   - filmes
   - drama
@@ -43,4 +42,4 @@ Haigh filma essa história de amor com uma melancolia e um melodrama que eu nunc
 
 E é tão lindo ver como Adam percebe como esse seu luto o isola do mundo mais do que os seus fantasmas o isolaram. Não é por causa deles que ele sente essa solidão — pelo menos, não a que ele sente agora. Mas talvez, ao aceitar o vazio que existe em si, Adam finalmente possa se sentir completo, e possa olhar e abraçar a pessoa ao seu lado. Todos nós estamos sozinhos nesse mundo, de certa forma. Mas tudo o que podemos fazer é enxergar o próximo em sua próxima solidão, e ajudá-lo a enxergar que estamos juntos nesse desconhecido. Sortudos, todos nós.
 
-[rota]: {% post_url 2020-08-18-poucos-filmes-entendem-a-morte-tão-bem-quanto-a-rota-selvagem %}
+[rota]: {% post_url reviews/2020-08-18-poucos-filmes-entendem-a-morte-tão-bem-quanto-a-rota-selvagem %}

@@ -2,7 +2,6 @@
 layout: post
 title: public.work
 date: 2024-07-30 08:08 -0300
-category: links
 tags:
   - achados
   - web

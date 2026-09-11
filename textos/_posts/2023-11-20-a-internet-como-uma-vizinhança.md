@@ -2,7 +2,6 @@
 layout: post
 title: A internet como uma vizinhança
 date: 2023-11-20 09:50 -0300
-category: textos
 tags:
   - citações
   - web

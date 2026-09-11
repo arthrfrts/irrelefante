@@ -2,7 +2,6 @@
 layout: post
 title: Software simples
 date: 2026-02-04 20:49 -0300
-category: links
 tags:
   - tecnologia
   - softwares
