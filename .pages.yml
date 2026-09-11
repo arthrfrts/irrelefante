@@ -42,7 +42,7 @@ content:
     - name: links
       label: Links
       type: collection
-      path: _posts/links
+      path: links/_posts
       fields:
         - name: layout
           type: string

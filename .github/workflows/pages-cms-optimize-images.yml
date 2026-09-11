@@ -1,6 +1,12 @@
 name: Optimize Images
 
 on:
+  workflow_dispatch:
+    inputs:
+      payload:
+        description: Pages CMS payload
+        required: true
+        type: string
   push:
     paths:
       - 'uploads/**'

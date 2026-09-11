@@ -13,10 +13,8 @@ encoding: utf-8
 
 defaults:
 - scope:
-    path: "_posts"
     type: "posts"
   values:
-    category: textos
     syndicate_to:
       - bluesky
       - mastodon
