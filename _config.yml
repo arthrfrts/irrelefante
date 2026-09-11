@@ -17,6 +17,9 @@ defaults:
     type: "posts"
   values:
     category: textos
+    syndicate_to:
+      - bluesky
+      - mastodon
 
 author:
   name: Arthur Freitas

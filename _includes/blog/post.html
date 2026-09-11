@@ -26,7 +26,7 @@
   </div>
 
   {% if post.external_url -%}
-    {%- assign link_type = post.reaction | default: 'like' -%}
+    {%- assign link_type = post.reaction | default: '' -%}
     {%- include link-preview.html link=post.external_url reaction=link_type -%}
   {%- endif %}
 
@@ -42,7 +42,7 @@
         {% for tag in post.tags  -%}
           {%- assign tag_slug = tag | slugify: "latin" -%}
           <li class="tag-item">
-            <a class="tag-link p-category" href="{{- site.jekyll-archives.permalinks.tag | replace: ":name", tag_slug -}}">
+            <a class="tag-link p-category" href="{{- site.jekyll-archives.permalinks.tag | replace: ':name', tag_slug -}}">
               {{- tag | downcase -}}
             </a>
           </li>

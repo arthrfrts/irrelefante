@@ -815,3 +815,11 @@ kenohyama.myportfolio.com:
   state: unsupported
   attempts: 1
   last_checked: '2026-09-07 13:47:56 -0300'
+brid.gy:
+  state: error
+  attempts: 1
+  last_checked: '2026-09-08 08:43:40 -0300'
+web.badges.world:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-09-08 08:43:40 -0300'
