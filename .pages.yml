@@ -78,10 +78,6 @@ content:
           options:
             time: true
             format: yyyy-MM-dd' 'HH:mm' -0300'
-        - name: category
-          type: string
-          default: links
-          hidden: true
         - name: tags
           label: Tags
           type: string
