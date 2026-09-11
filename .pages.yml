@@ -54,17 +54,19 @@ content:
           label: Link
           type: string
         - name: reaction
-          label: IndieWeb Reaction
+          label: Reaction
           type: select
           options:
-            - name: none
-              label: None
-            - name: reply
-              label: Reply
-            - name: like
-              label: Like
-            - name: repost
-              label: Repost
+            placeholder: Choose an IndieWeb-compatible reaction
+            values:
+              - name: none
+                label: None
+              - name: reply
+                label: Reply
+              - name: like
+                label: Like
+              - name: repost
+                label: Repost
         - name: body
           label: Body
           type: rich-text
