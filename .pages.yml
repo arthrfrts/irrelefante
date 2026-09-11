@@ -86,3 +86,18 @@ content:
           label: Published
           type: boolean
           default: false
+
+
+      view:
+        fields:
+          - title
+          - date
+          - tags
+          - published
+        primary: title
+        sort:
+          - date
+          - title
+        default:
+          sort: date
+          order: desc
