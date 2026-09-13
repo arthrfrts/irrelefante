@@ -1,12 +1,116 @@
 ---
 https://irrelefante.com.br/reviews/2017/07/24/the-legend-of-zelda-breath-of-the-wild-%C3%A9-um-jogo-monumental/:
   https://youtu.be/zw47_q9wbBE: 2
-  https://brid.gy/publish/bluesky: false
-  https://brid.gy/publish/mastodon: false
+  https://brid.gy/publish/bluesky:
+    id: at://did:plc:5anqf5uonyp67nsex6h55l6p/app.bsky.feed.post/3mvfxjaxy7y2r
+    url: https://bsky.app/profile/irrelefante.com.br/post/3mvfxjaxy7y2r
+  https://brid.gy/publish/mastodon:
+    id: '117264549669077849'
+    created_at: '2026-09-13T15:57:07.910Z'
+    in_reply_to_id:
+    in_reply_to_account_id:
+    sensitive: false
+    spoiler_text: ''
+    visibility: public
+    language: pt
+    uri: https://organica.social/users/arthr/statuses/117264549669077849
+    url: https://organica.social/@arthr/117264549669077849
+    replies_count: 0
+    reblogs_count: 0
+    favourites_count: 0
+    quotes_count: 0
+    edited_at:
+    favourited: false
+    reblogged: false
+    muted: false
+    bookmarked: false
+    pinned: false
+    content: '<p>The Legend of Zelda: Breath of the Wild: <a href="https://irrelefante.com.br/reviews/2017/07/24/the-legend-of-zelda-breath-of-the-wild-%C3%A9-um-jogo-monumental/"
+      target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span
+      class="ellipsis">irrelefante.com.br/reviews/201</span><span class="invisible">7/07/24/the-legend-of-zelda-breath-of-the-wild-%C3%A9-um-jogo-monumental/</span></a></p>'
+    filtered: []
+    reblog:
+    application:
+      name: Bridgy
+      website: https://brid.gy/
+    account:
+      id: '116176732872959618'
+      username: arthr
+      acct: arthr
+      display_name: Arthur Freitas
+      locked: false
+      bot: false
+      discoverable: true
+      indexable: true
+      group: false
+      created_at: '2026-03-05T00:00:00.000Z'
+      note: "<p>Nada faz todo o sentido.</p>"
+      url: https://organica.social/@arthr
+      uri: https://organica.social/users/arthr
+      avatar: https://organica.social/system/accounts/avatars/116/176/732/872/959/618/original/a26cf12d1063c41c.jpg
+      avatar_static: https://organica.social/system/accounts/avatars/116/176/732/872/959/618/original/a26cf12d1063c41c.jpg
+      header: https://organica.social/headers/original/missing.png
+      header_static: https://organica.social/headers/original/missing.png
+      followers_count: 6
+      following_count: 9
+      statuses_count: 31
+      last_status_at: '2026-09-13'
+      hide_collections:
+      noindex: false
+      emojis: []
+      roles: []
+      fields:
+      - name: h-card
+        value: <a href="https://arthr.me" target="_blank" rel="nofollow noopener me"
+          translate="no"><span class="invisible">https://</span><span class="">arthr.me</span><span
+          class="invisible"></span></a>
+        verified_at: '2026-03-05T13:34:10.624+00:00'
+      - name: blog
+        value: <a href="https://irrelefante.com.br" target="_blank" rel="nofollow
+          noopener me" translate="no"><span class="invisible">https://</span><span
+          class="">irrelefante.com.br</span><span class="invisible"></span></a>
+        verified_at: '2026-09-07T19:18:04.239+00:00'
+      - name: tngl.sh
+        value: <a href="https://tangled.org/arthr.me" target="_blank" rel="nofollow
+          noopener me" translate="no"><span class="invisible">https://</span><span
+          class="">tangled.org/arthr.me</span><span class="invisible"></span></a>
+        verified_at:
+    media_attachments:
+    - id: '117264549657408546'
+      type: image
+      url: https://organica.social/system/media_attachments/files/117/264/549/657/408/546/original/d500ed4c51c4bde9.jpeg
+      preview_url: https://organica.social/system/media_attachments/files/117/264/549/657/408/546/small/d500ed4c51c4bde9.jpeg
+      remote_url:
+      preview_remote_url:
+      text_url:
+      meta:
+        original:
+          width: 1024
+          height: 1024
+          size: 1024x1024
+          aspect: 1.0
+        small:
+          width: 480
+          height: 480
+          size: 480x480
+          aspect: 1.0
+      description:
+      blurhash: UhKA[^0LIVxt~TE3bboKE1WCt6oJIqW=oyoI
+    mentions: []
+    tags: []
+    emojis: []
+    quote:
+    card:
+    poll:
+    quote_approval:
+      automatic:
+      - public
+      manual: []
+      current_user: automatic
 https://irrelefante.com.br/textos/2019/07/31/como-as-tirinhas-salvaram-a-minha-vida/:
   https://www.buzzfeednews.com/article/ryanhatesthis/brazil-jair-bolsonaro-facebook-elections: 2
   https://nplusonemag.com/issue-33/the-intellectual-situation/the-best-of-a-bad-situation/: 2
-  https://brid.gy/publish/bluesky: false
+  https://brid.gy/publish/bluesky: 1
   https://brid.gy/publish/mastodon: false
 https://irrelefante.com.br/textos/2019/08/14/um-ranking-de-todos-os-super-mario/:
   https://paomortadela.com.br/2023/11/um-ranking-de-todos-os-super-mario/: 2
@@ -1284,7 +1388,7 @@ https://irrelefante.com.br/links/2026/08/31/edif%C3%ADcios-kawaii-fotografados-p
 https://irrelefante.com.br/links/2026/09/08/web-badges-world/:
   https://brid.gy/publish/bluesky: 1
   https://brid.gy/publish/mastodon: false
-  https://web.badges.world/: 1
+  https://web.badges.world/: 2
   https://esporo.net: false
   https://osolnacabeca.com.br/chuva-de-links-4/:
     link: https://irrelefante.com.br/links/2026/09/08/web-badges-world/
