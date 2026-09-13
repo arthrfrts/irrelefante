@@ -46,8 +46,8 @@ components:
   syndicate_to:
     type: select
     label: Syndicate to
-    list: true
     options:
+      multiple: true
       placeholder: Choose where to syndicate this post
       values:
         - name: bluesky
