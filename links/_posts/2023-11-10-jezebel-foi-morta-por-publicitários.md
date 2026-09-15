@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Jezebel foi morta por publicitários
 date: 2023-11-10 17:03 -0300

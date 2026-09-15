@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 date: 2026-09-08 08:28 -0300
 title: Web Badges World

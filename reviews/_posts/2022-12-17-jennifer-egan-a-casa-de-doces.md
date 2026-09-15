@@ -1,4 +1,5 @@
 ---
+category: reviews
 layout: post
 title: A Casa de Doces
 review:

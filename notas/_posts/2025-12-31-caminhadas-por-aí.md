@@ -1,4 +1,5 @@
 ---
+category: notas
 layout: post
 title: Caminhadas por aí
 date: 2025-12-31 15:50 -0300

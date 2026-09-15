@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: The natural history of the fishes of Guiana
 date: 2022-10-28 11:29 -0300

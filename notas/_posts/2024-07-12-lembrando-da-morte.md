@@ -1,4 +1,5 @@
 ---
+category: notas
 layout: post
 title: Lembrando da morte
 date: 2024-07-12 20:24 -0300

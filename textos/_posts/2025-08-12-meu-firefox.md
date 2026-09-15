@@ -1,4 +1,5 @@
 ---
+category: textos
 layout: post
 title: Meu Firefox
 date: 2025-08-12 11:19 -0300

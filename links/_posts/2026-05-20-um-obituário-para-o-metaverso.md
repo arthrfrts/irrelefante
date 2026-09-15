@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Um obituário para o metaverso
 date: 2026-05-20 20:52 -0300

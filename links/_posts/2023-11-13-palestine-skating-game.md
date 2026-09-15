@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Palestine Skating Game
 date: 2023-11-13 05:08 -0300

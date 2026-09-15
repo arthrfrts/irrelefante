@@ -1,4 +1,5 @@
 ---
+category: textos
 layout: post
 title: Amizade e sentido
 date: 2026-01-06 07:05 -0300

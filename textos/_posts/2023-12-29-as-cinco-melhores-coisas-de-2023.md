@@ -1,4 +1,5 @@
 ---
+category: textos
 layout: post
 title: As cinco melhores coisas de 2023
 date: 2023-12-29 08:59 -0300

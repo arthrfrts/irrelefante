@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Temas pro Firefox
 date: 2025-08-20 11:15 -0300

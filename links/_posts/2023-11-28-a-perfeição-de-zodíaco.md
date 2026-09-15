@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: A perfeição de Zodíaco
 date: 2023-11-28 05:27 -0300

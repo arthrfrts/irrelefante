@@ -1,4 +1,5 @@
 ---
+category: reviews
 layout: post
 title: Kentucky Route Zero chegou ao fim
 date: 2020-10-27 09:05 -0300

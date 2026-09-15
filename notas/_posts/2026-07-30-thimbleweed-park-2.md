@@ -1,4 +1,5 @@
 ---
+category: notas
 layout: post
 title: Thimbleweed Park 2
 date: 2026-07-30 00:00 +0000

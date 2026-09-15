@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: A música tema de Pokémon Ventos & Ondas
 date: 2026-05-13 04:14 -0300

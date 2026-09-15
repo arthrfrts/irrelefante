@@ -1,4 +1,5 @@
 ---
+category: textos
 layout: post
 title: '29 de dezembro de 2016 — 30 de outubro de 2022'
 tags:

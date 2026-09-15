@@ -1,4 +1,5 @@
 ---
+category: notas
 layout: post
 title: Notas de diretores aos projecionistas
 date: 2026-02-09 21:24 -0300

@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Sobre sites pessoais e a web social
 date: 2024-10-01 14:24 -0300

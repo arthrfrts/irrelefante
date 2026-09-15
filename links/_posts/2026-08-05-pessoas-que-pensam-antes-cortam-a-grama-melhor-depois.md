@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Pessoas que pensam antes cortam a grama melhor depois
 date: 2026-08-05 08:53 -0300

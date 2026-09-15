@@ -1,4 +1,5 @@
 ---
+category: notas
 layout: post
 title: Desativando notificações
 date: 2025-08-25 10:58 -0300

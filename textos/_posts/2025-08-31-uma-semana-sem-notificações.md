@@ -1,4 +1,5 @@
 ---
+category: textos
 layout: post
 title: Uma semana sem notificações
 date: 2025-08-31 10:42 -0300

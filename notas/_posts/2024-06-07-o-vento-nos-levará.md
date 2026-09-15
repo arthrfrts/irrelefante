@@ -1,4 +1,5 @@
 ---
+category: notas
 layout: post
 title: A poesia está lá
 date: 2024-06-07 09:13 -0300

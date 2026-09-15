@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: O Departamento de Tudo
 date: 2024-10-31 14:57 -0300

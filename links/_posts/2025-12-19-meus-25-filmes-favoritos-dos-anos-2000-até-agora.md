@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Meus 25 filmes favoritos dos anos 2000 (até agora)
 date: 2025-12-19 14:31 -0300

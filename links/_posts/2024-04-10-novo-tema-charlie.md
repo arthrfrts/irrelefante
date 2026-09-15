@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: 'Novo tema: Charlie'
 date: 2024-04-10 07:49 -0300

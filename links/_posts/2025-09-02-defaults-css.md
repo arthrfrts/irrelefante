@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: defaults.css
 date: 2025-09-02 10:40 -0300

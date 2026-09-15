@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Paywall do NYT suplica pela própria vida
 date: 2024-03-23 10:10 -0300

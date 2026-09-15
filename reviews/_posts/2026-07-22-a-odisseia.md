@@ -1,4 +1,5 @@
 ---
+category: reviews
 layout: post
 title: A Odisseia
 date: 2026-07-22 21:01 -0300

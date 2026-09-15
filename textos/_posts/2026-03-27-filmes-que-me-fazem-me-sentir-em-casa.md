@@ -1,4 +1,5 @@
 ---
+category: textos
 layout: post
 title: Filmes que me fazem me sentir em casa
 date: 2026-03-27 11:21 -0300

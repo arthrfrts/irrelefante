@@ -1,4 +1,5 @@
 ---
+category: notas
 layout: post
 title: 'Ghibli Fest: Dia 6'
 date: 2025-09-26 10:18 -0300

@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Novo time assume Spore
 date: 2024-10-06 22:50 -0300

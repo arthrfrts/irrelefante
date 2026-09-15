@@ -1,4 +1,5 @@
 ---
+category: textos
 layout: post
 title: Transformando a internet em um lugar
 date: 2024-05-01 13:18 -0300

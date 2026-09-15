@@ -1,4 +1,5 @@
 ---
+category: notas
 layout: post
 title: Hal & Harper
 date: 2025-11-04 13:22 -0300

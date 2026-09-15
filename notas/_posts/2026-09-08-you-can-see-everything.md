@@ -1,4 +1,5 @@
 ---
+category: notas
 layout: post
 title: You Can See Everything
 external_url: https://youtu.be/GGJSRFWALTI

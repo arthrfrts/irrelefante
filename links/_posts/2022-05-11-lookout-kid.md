@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: "Nova música do Arcade Fire"
 date: 2022-05-11 08:26 -0300

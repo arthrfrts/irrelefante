@@ -1,4 +1,5 @@
 ---
+category: notas
 layout: post
 title: Faça alguma coisa
 date: 2025-11-19 12:59 -0300

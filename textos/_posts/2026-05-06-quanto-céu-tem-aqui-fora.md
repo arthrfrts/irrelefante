@@ -1,4 +1,5 @@
 ---
+category: textos
 layout: post
 title: Quanto céu tem aqui fora
 date: 2026-05-06 22:59 -0300

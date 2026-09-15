@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Spore é adicionado ao programa de preservação de jogos da GOG
 date: 2025-10-28 00:00 +0000

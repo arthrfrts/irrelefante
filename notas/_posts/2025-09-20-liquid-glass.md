@@ -1,4 +1,5 @@
 ---
+category: notas
 layout: post
 title: Liquid Glass
 date: 2025-09-20 10:28 -0300

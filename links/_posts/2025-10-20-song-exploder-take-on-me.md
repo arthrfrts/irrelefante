@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: 'Song Exploder: “Take on Me”'
 date: 2025-10-20 08:43 -0300

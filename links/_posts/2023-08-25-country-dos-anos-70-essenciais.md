@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: 'Country dos anos 70: essenciais'
 date: 2023-08-25 09:11 -0300

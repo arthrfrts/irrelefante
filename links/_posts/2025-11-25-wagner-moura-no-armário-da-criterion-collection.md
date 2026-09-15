@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Wagner Moura no armário da Criterion Collection
 date: 2025-11-25 09:21 -0300

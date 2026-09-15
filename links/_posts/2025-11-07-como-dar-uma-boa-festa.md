@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Como dar uma boa festa
 date: 2025-11-07 14:00 -0300

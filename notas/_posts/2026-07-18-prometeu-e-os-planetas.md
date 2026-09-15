@@ -1,4 +1,5 @@
 ---
+category: notas
 layout: post
 title: Prometeu e Os Planetas
 date: 2026-07-18 23:03 -0300

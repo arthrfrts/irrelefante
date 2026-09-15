@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: O Assassino é “sigma cinema”
 date: 2023-11-20 09:42 -0300
