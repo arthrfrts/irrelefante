@@ -6,7 +6,8 @@ date: 2024-10-31 14:57 -0300
 tags:
   - achados
   - Wikipédia
-external_url: https://hedgehogreview.com/issues/the-varieties-of-travel-experience/articles/the-department-of-everything
+external_url:
+  path: https://hedgehogreview.com/issues/the-varieties-of-travel-experience/articles/the-department-of-everything
 syndication:
   - https://irrelefante.tumblr.com/post/821467873198407680/
 redirect_from: /post/821467873198407680/

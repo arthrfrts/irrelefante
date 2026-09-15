@@ -7,8 +7,9 @@ tags:
   - web
   - desenvolvimento
   - citações
-external_url: https://briankoberlein.com/tech/quiet-web/
-reaction: repost
+external_url:
+  path: https://briankoberlein.com/tech/quiet-web/
+  reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/763164061162700800/
 redirect_from: /post/763164061162700800/

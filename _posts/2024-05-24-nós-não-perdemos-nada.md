@@ -6,8 +6,9 @@ date: 2024-05-24 21:55 -0300
 tags:
   - citações
   - enchentes
-external_url: https://twitter.com/arianedocarmo/status/1794119545503826210
-reaction: repost
+external_url:
+  path: https://twitter.com/arianedocarmo/status/1794119545503826210
+  reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/751408025846300672/
 redirect_from: /post/751408025846300672/

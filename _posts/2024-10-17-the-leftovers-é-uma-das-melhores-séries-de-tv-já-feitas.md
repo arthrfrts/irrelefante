@@ -8,8 +8,9 @@ tags:
   - The Leftovers
   - citações
   - sentimentos
-external_url: https://www.vox.com/culture/2017/6/5/15730378/the-leftovers-finale-review-best-series-ever
-reaction: like
+external_url:
+  path: https://www.vox.com/culture/2017/6/5/15730378/the-leftovers-finale-review-best-series-ever
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/764596508441149440/
 redirect_from: /post/764596508441149440/

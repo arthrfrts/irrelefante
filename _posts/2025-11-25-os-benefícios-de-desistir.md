@@ -5,8 +5,9 @@ title: Os benefícios de desistir
 date: 2025-11-25 07:53 -0300
 tags:
   - comportamento
-external_url: https://nautil.us/the-surprising-benefits-of-giving-up-1248362/
-reaction: like
+external_url:
+  path: https://nautil.us/the-surprising-benefits-of-giving-up-1248362/
+  reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/801187147182931968/
 redirect_from: /post/801187147182931968/

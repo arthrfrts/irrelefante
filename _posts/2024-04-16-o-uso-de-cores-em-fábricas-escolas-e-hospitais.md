@@ -8,8 +8,9 @@ tags:
   - ilustrações
   - arquitetura
   - decoração
-external_url: https://www.presentandcorrect.com/blogs/blog/the-function-of-colour-in-schools-hospitals-1930
-reaction: like
+external_url:
+  path: https://www.presentandcorrect.com/blogs/blog/the-function-of-colour-in-schools-hospitals-1930
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/747914633199976448/
 redirect_from: /post/747914633199976448/

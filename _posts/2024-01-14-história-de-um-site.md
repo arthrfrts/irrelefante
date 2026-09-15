@@ -7,8 +7,9 @@ tags:
   - web
   - desenvolvimento
   - sites pessoais
-external_url: https://www.sheafitz.com/website
-reaction: like
+external_url:
+  path: https://www.sheafitz.com/website
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/739497894498959360/
 redirect_from: /post/739497894498959360/

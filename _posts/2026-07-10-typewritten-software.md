@@ -10,8 +10,9 @@ tags:
 syndication:
   - https://irrelefante.tumblr.com/post/821775842299527168/
 redirect_from: /post/821775842299527168/
-external_url: https://typewritten.org/Media/
-reaction: like
+external_url:
+  path: https://typewritten.org/Media/
+  reaction: like
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb3cazu62r"
 ---
 

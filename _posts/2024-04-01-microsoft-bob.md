@@ -7,8 +7,9 @@ tags:
   - tecnologia
   - Microsoft
   - softwares
-external_url: https://www.xda-developers.com/on-this-day-29-years-ago-microsoft-bob-released/
-reaction: like
+external_url:
+  path: https://www.xda-developers.com/on-this-day-29-years-ago-microsoft-bob-released/
+  reaction: like
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaziegrw2e"
 ---
 

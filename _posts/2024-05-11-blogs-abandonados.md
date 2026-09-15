@@ -8,8 +8,9 @@ tags:
   - blogs
   - Lucy Pham
   - coleções
-external_url: https://www.are.na/lucy-pham/abandoned-blogs
-reaction: like
+external_url:
+  path: https://www.are.na/lucy-pham/abandoned-blogs
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/750190251602067456/
 redirect_from: /post/750190251602067456/

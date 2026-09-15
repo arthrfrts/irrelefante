@@ -8,8 +8,9 @@ tags:
   - festas
   - amigos
   - comportamento
-external_url: https://www.atvbt.com/21-facts-about-throwing-good-parties/
-reaction: like
+external_url:
+  path: https://www.atvbt.com/21-facts-about-throwing-good-parties/
+  reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/799579488021331968/
 redirect_from: /post/799579488021331968/

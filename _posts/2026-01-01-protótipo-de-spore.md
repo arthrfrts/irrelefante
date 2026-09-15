@@ -6,8 +6,9 @@ date: 2026-01-01 19:42 -0300
 tags:
   - jogos
   - Spore
-external_url: https://hiddenpalace.org/Spore_(Feb_19,_2008_prototype)
-reaction: like
+external_url:
+  path: https://hiddenpalace.org/Spore_(Feb_19,_2008_prototype)
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/804583854695432192/
 redirect_from: /post/804583854695432192/

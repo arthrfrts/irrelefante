@@ -8,8 +8,9 @@ tags:
   - mitologia
   - web
   - Orfeu e Eurídice
-external_url: https://nicnacsnonsense.tumblr.com/post/715546402591326208/
-reaction: like
+external_url:
+  path: https://nicnacsnonsense.tumblr.com/post/715546402591326208/
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/734646059731730432
 redirect_from: /post/734646059731730432/

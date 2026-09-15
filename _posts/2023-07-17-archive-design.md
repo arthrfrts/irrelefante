@@ -8,8 +8,9 @@ tags:
   - design
   - web
   - coleções
-external_url: https://archives.design
-reaction: like
+external_url:
+  path: https://archives.design
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/723110611545948160/jkottke-explore-the-graphic-design-treasures-of
 redirect_from: /post/723110611545948160/

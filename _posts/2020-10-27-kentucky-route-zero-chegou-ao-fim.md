@@ -13,8 +13,9 @@ tags:
   - ADVENTURE
   - Another World
 canonical_url: https://paomortadela.com.br/2020/10/kentucky-route-zero/
-external_url: https://paomortadela.com.br/2020/10/kentucky-route-zero/
-reaction: repost
+external_url:
+  path: https://paomortadela.com.br/2020/10/kentucky-route-zero/
+  reaction: repost
 image: /uploads/2020/10/krz.jpeg
 review:
   item: Kentucky Route Zero

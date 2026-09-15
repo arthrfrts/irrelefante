@@ -7,8 +7,9 @@ tags:
   - citações
   - caminhadas
   - rotina
-external_url: https://fabiansjournal.bearblog.dev/when-in-doubt-go-for-a-walk/
-reaction: like
+external_url:
+  path: https://fabiansjournal.bearblog.dev/when-in-doubt-go-for-a-walk/
+  reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/801816950336569344/
 redirect_from: /post/801816950336569344/

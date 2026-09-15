@@ -7,7 +7,8 @@ tags:
   - músicas
   - Gal Costa
   - citações
-external_url: https://youtu.be/JeY2ojRkSys
+external_url:
+  path: https://youtu.be/JeY2ojRkSys
 syndication:
   - https://arthrfrts.tumblr.com/post/700460929425473536/eu-vi-um-menino-correndo-eu-vi-o-tempo-brincando
 redirect_from: /post/700460929425473536/

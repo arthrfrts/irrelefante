@@ -9,8 +9,9 @@ tags:
   - Tumblr
   - projetos
   - temas
-external_url: https://www.tumblr.com/theme/41291
-reaction: repost
+external_url:
+  path: https://www.tumblr.com/theme/41291
+  reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/747368536859607040/
 redirect_from: /post/747368536859607040/

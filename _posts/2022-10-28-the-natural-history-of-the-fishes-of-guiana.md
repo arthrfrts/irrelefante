@@ -8,8 +8,9 @@ tags:
   - ilustrações
   - biologia
   - livros
-external_url: https://www.biodiversitylibrary.org/item/53585#page/292/mode/2up
-reaction: like
+external_url:
+  path: https://www.biodiversitylibrary.org/item/53585#page/292/mode/2up
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/699365983844974592/smithsonianlibraries-an-illustration-of-a-tiger
 redirect_from: /post/699365983844974592/

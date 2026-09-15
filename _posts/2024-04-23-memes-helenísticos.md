@@ -7,8 +7,9 @@ tags:
   - Grécia
   - antiguidade
   - filosofia
-external_url: https://twitter.com/fvguima/status/1782532167270035880
-reaction: repost
+external_url:
+  path: https://twitter.com/fvguima/status/1782532167270035880
+  reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/748593573404999680/
 redirect_from: /post/748593573404999680/

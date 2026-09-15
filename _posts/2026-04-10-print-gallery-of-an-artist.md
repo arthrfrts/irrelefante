@@ -7,8 +7,9 @@ tags:
   - jogos
   - web
   - Daniel Linssen
-external_url: https://managore.itch.io/print-gallery-of-an-artist
-reaction: like
+external_url:
+  path: https://managore.itch.io/print-gallery-of-an-artist
+  reaction: like
 syndication:
   - https://irrelefante.com.br/post/821464532134281216/
 redirect_from: /post/821464532134281216/

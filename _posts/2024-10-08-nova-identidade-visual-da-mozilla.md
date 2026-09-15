@@ -6,8 +6,9 @@ date: 2024-10-08 22:33 -0300
 tags:
   - design
   - Mozilla
-external_url: https://www.itsnicethat.com/articles/jkr-mozilla-rebrand-graphic-design-project-240924
-reaction: repost
+external_url:
+  path: https://www.itsnicethat.com/articles/jkr-mozilla-rebrand-graphic-design-project-240924
+  reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/763822207640240128/
 redirect_from: /post/763822207640240128/

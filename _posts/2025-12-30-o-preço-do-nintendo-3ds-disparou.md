@@ -8,8 +8,9 @@ tags:
   - Nintendo
   - Nintendo 3DS
   - hardware
-external_url: https://kotaku.com/nitnendo-switch-2-3ds-xl-used-ebay-prices-2000656110
-reaction: reply
+external_url:
+  path: https://kotaku.com/nitnendo-switch-2-3ds-xl-used-ebay-prices-2000656110
+  reaction: reply
 syndication:
   - https://arthrfrts.tumblr.com/post/804380850771853312/
 redirect_from: /post/804380850771853312/

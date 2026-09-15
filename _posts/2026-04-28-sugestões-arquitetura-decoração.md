@@ -11,8 +11,9 @@ tags:
 syndication:
   - https://irrelefante.tumblr.com/post/821463582803984384/
 redirect_from: /post/821463582803984384/
-external_url: https://www.presentandcorrect.com/blogs/blog/sugestoes-arquitetura-decoracao-1956
-reaction: like
+external_url:
+  path: https://www.presentandcorrect.com/blogs/blog/sugestoes-arquitetura-decoracao-1956
+  reaction: like
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb35gkuq2m"
 ---
 

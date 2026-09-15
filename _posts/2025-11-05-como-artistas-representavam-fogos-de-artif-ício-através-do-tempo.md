@@ -6,8 +6,9 @@ date: 2025-11-05 09:17 -0300
 tags:
   - arte
   - pirotecnia
-external_url: https://publicdomainreview.org/essay/picturing-pyrotechnics/)
-reaction: like
+external_url:
+  path: https://publicdomainreview.org/essay/picturing-pyrotechnics/)
+  reaction: like
 syndication: https://irrelefante.tumblr.com/post/799380518676348928/
 redirect_from: /post/799380518676348928/
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb2nccxj2j"

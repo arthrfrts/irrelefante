@@ -8,8 +8,9 @@ tags:
   - séries
   - Gilmore Girls
   - listas
-external_url: https://boxd.it/QekY
-reaction: like
+external_url:
+  path: https://boxd.it/QekY
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/749144640542932992/
 redirect_from: /post/749144640542932992/

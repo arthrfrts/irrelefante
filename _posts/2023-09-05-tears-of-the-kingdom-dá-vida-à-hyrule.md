@@ -16,8 +16,9 @@ review:
   summary: Nintendo, 2023
   rating: 4.5
   poster: /uploads/2023/09/totk.jpg
-external_url: https://paomortadela.com.br/2023/09/the-legend-of-zelda-tears-of-the-kingdom-d%C3%A1-vida/
-reaction: repost
+external_url:
+  path: https://paomortadela.com.br/2023/09/the-legend-of-zelda-tears-of-the-kingdom-d%C3%A1-vida/
+  reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/727588994720923648/the-legend-of-zelda-tears-of-the-kingdom-d%C3%A1-vida
 redirect_from: /post/727588994720923648/

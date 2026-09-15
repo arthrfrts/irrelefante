@@ -7,8 +7,9 @@ tags:
   - natureza
   - animais
   - elefantes
-external_url: https://e360.yale.edu/digest/elephant-names-study
-reaction: repost
+external_url:
+  path: https://e360.yale.edu/digest/elephant-names-study
+  reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/752954398570872832/
 redirect_from: /post/752954398570872832/

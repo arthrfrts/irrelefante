@@ -7,8 +7,9 @@ tags:
   - jogos
   - tecnologia
   - inteligência artificial
-external_url: https://youraislopbores.me/
-reaction: like
+external_url:
+  path: https://youraislopbores.me/
+  reaction: like
 syndication:
   - https://irrelefante.com.br/post/821467284165017600/
 redirect_from: /post/821467284165017600/

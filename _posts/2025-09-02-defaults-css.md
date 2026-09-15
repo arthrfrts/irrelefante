@@ -7,8 +7,9 @@ tags:
   - web
   - desenvolvimento
   - CSS
-external_url: https://github.com/csswizardry/defaults.css
-reaction: repost
+external_url:
+  path: https://github.com/csswizardry/defaults.css
+  reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/798566601823780864/
 redirect_from: /post/798566601823780864/

@@ -3,8 +3,9 @@ category: reviews
 layout: post
 title: O jogo perfeito para esperar pelo novo Zelda
 date: 2023-02-26 00:00 +0000
-external_url: https://paomortadela.com.br/2023/02/o-jogo-perfeito-para-esperar-pelo-novo-zelda/
-reaction: repost
+external_url:
+  path: https://paomortadela.com.br/2023/02/o-jogo-perfeito-para-esperar-pelo-novo-zelda/
+  reaction: repost
 review:
   item: "Lil Gator Game"
   format: Jogo

@@ -8,8 +8,9 @@ tags:
   - web
   - domínio público
   - coleções
-external_url: https://public.work/
-reaction: like
+external_url:
+  path: https://public.work/
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/757425974644195328/
 redirect_from: /post/757425974644195328/

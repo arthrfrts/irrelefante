@@ -7,8 +7,9 @@ tags:
   - músicas
   - jogos
   - Pokémon
-external_url: https://nintendocafe.com/post/816503505673125888/pokemon-winds-waves-main-theme-recording
-reaction: like
+external_url:
+  path: https://nintendocafe.com/post/816503505673125888/pokemon-winds-waves-main-theme-recording
+  reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/821463360931528704/
 redirect_from: /post/821463360931528704/

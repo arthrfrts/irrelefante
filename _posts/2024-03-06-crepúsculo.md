@@ -11,8 +11,9 @@ tags:
   - sentimentos
   - paixão
   - amor
-external_url: https://youtu.be/bqloPw5wp48
-reaction: like
+external_url:
+  path: https://youtu.be/bqloPw5wp48
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/744235206336249856/
 redirect_from: /post/744235206336249856/

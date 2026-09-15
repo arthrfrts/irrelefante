@@ -8,8 +8,9 @@ tags:
   - jogos
   - Nintendo
   - game design
-external_url: https://youtu.be/q6j3Tj7l820
-reaction: like
+external_url:
+  path: https://youtu.be/q6j3Tj7l820
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/732349884083126272/eu-n%C3%A3o-fazia-ideia-que-a-jenna-stoeber-tinha-sido
 redirect_from: /post/732349884083126272/

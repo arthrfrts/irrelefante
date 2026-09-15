@@ -12,8 +12,9 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/745921680739844096/
 redirect_from: /post/745921680739844096/
-external_url: https://derinthescarletpescatarian.tumblr.com/post/709124784895787008/thebelovedlion-derinthescarletpescatarian
-reaction: like
+external_url:
+  path: https://derinthescarletpescatarian.tumblr.com/post/709124784895787008/thebelovedlion-derinthescarletpescatarian
+  reaction: like
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazgxrvg2v"
 ---
 

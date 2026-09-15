@@ -6,8 +6,9 @@ date: 2026-06-19 16:18 -0300
 tags:
   - sentimentos
   - amor
-external_url: https://buttondown.com/monteiro/archive/how-to-mend-a-broken-heart/
-reaction: like
+external_url:
+  path: https://buttondown.com/monteiro/archive/how-to-mend-a-broken-heart/
+  reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/819893852583428096/
 redirect_from: /post/819893852583428096/

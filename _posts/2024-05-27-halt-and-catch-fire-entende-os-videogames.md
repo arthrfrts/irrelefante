@@ -10,8 +10,9 @@ tags:
   - Halt and Catch Fire
   - ADVENTURE
   - citações
-external_url: https://www.polygon.com/24168298/halt-catch-fire-video-games-anniversary-best-show
-reaction: like
+external_url:
+  path: https://www.polygon.com/24168298/halt-catch-fire-video-games-anniversary-best-show
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/752261492657831936/
 redirect_from: /post/752261492657831936/

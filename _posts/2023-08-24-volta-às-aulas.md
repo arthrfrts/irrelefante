@@ -6,8 +6,9 @@ date: 2023-08-24 14:38 -0300
 tags:
   - ilustrações
   - Christina Chung
-external_url: https://christinaillos.tumblr.com/post/726545522605899776/back-to-school
-reaction: like
+external_url:
+  path: https://christinaillos.tumblr.com/post/726545522605899776/back-to-school
+  reaction: like
 syndication_url:
   - https://arthrfrts.tumblr.com/post/726556986865500160
 reaction_from: /post/726556986865500160/

@@ -6,8 +6,9 @@ date: 2025-01-08 21:39 -0300
 tags:
   - família
   - newsletters
-external_url: https://freitasmari.substack.com/p/como-eu-vim-parar-aqui
-reaction: like
+external_url:
+  path: https://freitasmari.substack.com/p/como-eu-vim-parar-aqui
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/779452085282521088/
 redirect_from: /post/779452085282521088/

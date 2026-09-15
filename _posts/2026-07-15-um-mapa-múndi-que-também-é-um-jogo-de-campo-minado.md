@@ -7,8 +7,9 @@ tags:
   - jogos
   - cartografia
   - geografia
-external_url: https://brilliantmaps.com/world-minefield-game/
-reaction: like
+external_url:
+  path: https://brilliantmaps.com/world-minefield-game/
+  reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/822207614354145280/
 redirect_from: /post/822207614354145280/

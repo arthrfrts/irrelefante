@@ -7,8 +7,9 @@ tags:
   - cultura
   - filmes
   - Martin Scorsese
-external_url: https://defector.com/killers-of-the-flower-moon-asks-you-to-sit-with-its-contradictions
-reaction: repost
+external_url:
+  path: https://defector.com/killers-of-the-flower-moon-asks-you-to-sit-with-its-contradictions
+  reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/732604666409566208/killers-of-the-flower-moon-asks-you-to-sit-with
 redirect_from: /post/732604666409566208/

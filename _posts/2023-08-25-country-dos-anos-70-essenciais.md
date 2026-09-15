@@ -3,8 +3,9 @@ category: links
 layout: post
 title: 'Country dos anos 70: essenciais'
 date: 2023-08-25 09:11 -0300
-external_url: https://music.apple.com/br/playlist/country-dos-anos-70-essenciais/pl.f046242615f44a41953b1e70b448e7ef
-reaction: like
+external_url:
+  path: https://music.apple.com/br/playlist/country-dos-anos-70-essenciais/pl.f046242615f44a41953b1e70b448e7ef
+  reaction: like
 tags:
   - músicas
   - amigos

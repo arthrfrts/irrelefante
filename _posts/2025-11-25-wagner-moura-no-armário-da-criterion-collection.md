@@ -8,8 +8,9 @@ tags:
   - Criterion Collection
   - Wagner Moura
   - Barry Jenkins
-external_url: https://youtu.be/hvOnBK-L-zg
-reaction: like
+external_url:
+  path: https://youtu.be/hvOnBK-L-zg
+  reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/801192718925692928/
 redirect_from: /post/801192718925692928/

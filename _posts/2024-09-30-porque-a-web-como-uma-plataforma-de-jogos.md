@@ -9,8 +9,9 @@ tags:
   - jogos
   - 2weeks
   - citações
-external_url: https://www.2weeks.games/fun-club/why-the-web/
-reaction: like
+external_url:
+  path: https://www.2weeks.games/fun-club/why-the-web/
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/763097452130746368/
 redirect_from: /post/763097452130746368/

@@ -14,8 +14,9 @@ review:
   summary: Charlotte Wells, 2022
   rating: 5
   poster: /uploads/2023/03/aftersun.jpg
-external_url: https://paomortadela.com.br/2023/03/waves-of-memory/
-reaction: repost
+external_url:
+  path: https://paomortadela.com.br/2023/03/waves-of-memory/
+  reaction: repost
 canonical_url: https://paomortadela.com.br/2023/03/waves-of-memory/
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayqtpta2g"
 ---

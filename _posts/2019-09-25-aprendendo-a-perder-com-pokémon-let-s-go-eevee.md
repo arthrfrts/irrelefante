@@ -19,8 +19,9 @@ review:
   rating: 3.5
   poster: /uploads/2019/09/eevee.jpg
 canonical_url: https://paomortadela.com.br/2019/09/aprendendo-a-perder-com-pokemon-lets-go/
-external_url: https://paomortadela.com.br/2019/09/aprendendo-a-perder-com-pokemon-lets-go/
-reaction: repost
+external_url:
+  path: https://paomortadela.com.br/2019/09/aprendendo-a-perder-com-pokemon-lets-go/
+  reaction: repost
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayg4tz62v"
 ---
 

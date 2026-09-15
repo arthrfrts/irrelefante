@@ -7,8 +7,9 @@ tags:
   - web
   - Wikipédia
   - citações
-external_url: https://www.mcsweeneys.net/articles/hi-its-me-wikipedia-and-i-am-ready-for-your-apology
-reaction: like
+external_url:
+  path: https://www.mcsweeneys.net/articles/hi-its-me-wikipedia-and-i-am-ready-for-your-apology
+  reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/798881739617550336/
 redirect_from: /post/798881739617550336/

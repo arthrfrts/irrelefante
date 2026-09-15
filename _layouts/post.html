@@ -62,8 +62,7 @@ layout: default
   </div>
 
   {% if page.external_url -%}
-    {%- assign link_type = page.reaction | default: "" -%}
-    {%- include link-preview.html link=page.external_url reaction=link_type -%}
+    {%- include link-preview.html link=page.external_url.path reaction=page.external_url.reaction -%}
   {%- endif %}
 
   <footer class="post-details">

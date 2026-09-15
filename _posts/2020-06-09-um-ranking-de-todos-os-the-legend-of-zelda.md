@@ -10,8 +10,9 @@ tags:
 - The Legend of Zelda
 - Nintendo
 canonical_url: https://paomortadela.com.br/2020/06/the-legend-of-zelda-ranking/
-external_url: https://paomortadela.com.br/2020/06/the-legend-of-zelda-ranking/
-reaction: repost
+external_url:
+  path: https://paomortadela.com.br/2020/06/the-legend-of-zelda-ranking/
+  reaction: repost
 image: /uploads/2020/06/zelda.jpg
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayhpbgi2g"
 ---

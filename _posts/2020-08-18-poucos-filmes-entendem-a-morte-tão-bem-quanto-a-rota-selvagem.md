@@ -16,8 +16,9 @@ review:
   summary: Andrew Haigh, 2018
   rating: 4.5
   poster: /uploads/2020/08/lean-on-pete-poster.jpg
-external_url: https://paomortadela.com.br/2020/08/poucos-filmes-entendem-a-morte-tao-bem-quanto-a-rota-selvagem/
-reaction: repost
+external_url:
+  path: https://paomortadela.com.br/2020/08/poucos-filmes-entendem-a-morte-tao-bem-quanto-a-rota-selvagem/
+  reaction: repost
 canonical_url: https://paomortadela.com.br/2020/08/poucos-filmes-entendem-a-morte-tao-bem-quanto-a-rota-selvagem/
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayhxznj2v"
 ---

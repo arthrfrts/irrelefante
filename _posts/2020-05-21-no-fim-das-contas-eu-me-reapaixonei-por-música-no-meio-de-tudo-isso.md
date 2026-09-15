@@ -9,8 +9,9 @@ tags:
   - Fiona Apple
   - Perfume Genius
 canonical_url: https://paomortadela.com.br/2020/05/no-fim-das-contas-eu-me-reapaixonei-por-musica-no-meio-de-tudo-isso/
-external_url: https://paomortadela.com.br/2020/05/no-fim-das-contas-eu-me-reapaixonei-por-musica-no-meio-de-tudo-isso/
-reaction: repost
+external_url:
+  path: https://paomortadela.com.br/2020/05/no-fim-das-contas-eu-me-reapaixonei-por-musica-no-meio-de-tudo-isso/
+  reaction: repost
 image: https://paomortadela.com.br/uploads/2020/05/21/fiona-apple-perfume-genius.jpg
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayhfhvj2v"
 ---

@@ -8,8 +8,9 @@ tags:
   - músicas
   - Song Exploder
   - A-ha
-external_url: https://songexploder.net/a-ha
-reaction: like
+external_url:
+  path: https://songexploder.net/a-ha
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/798421225190883329/
 redirect_from: /post/798421225190883329/

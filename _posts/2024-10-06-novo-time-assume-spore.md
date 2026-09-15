@@ -6,8 +6,9 @@ date: 2024-10-06 22:50 -0300
 tags:
   - jogos
   - Spore
-external_url: https://esporo.net/2024/10/spore-ganha-um-novo-time-na-ea-e-uma-comunidade-oficial-do-discord/
-reaction: repost
+external_url:
+  path: https://esporo.net/2024/10/spore-ganha-um-novo-time-na-ea-e-uma-comunidade-oficial-do-discord/
+  reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/763642042824998912/
 redirect_from: /post/763642042824998912/

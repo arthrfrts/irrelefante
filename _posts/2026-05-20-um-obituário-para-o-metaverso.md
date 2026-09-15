@@ -9,8 +9,9 @@ tags:
   - metaverso
   - Nick Heer
   - citações
-external_url: https://pxlnv.com/blog/metaverse-fever-dream/
-reaction: like
+external_url:
+  path: https://pxlnv.com/blog/metaverse-fever-dream/
+  reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/821462741550268416/
 redirect_from: /post/821462741550268416/

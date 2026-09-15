@@ -7,8 +7,9 @@ tags:
 - arquitetura
 - fotografia
 - Ken Ohyama
-external_url: https://spoon-tamago.com/kawaii-buildings-ken-ohyama-photobook/
-reaction: like
+external_url:
+  path: https://spoon-tamago.com/kawaii-buildings-ken-ohyama-photobook/
+  reaction: like
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb3ixl2623"
 ---
 O fotógrafo [Ken Ohyama][ac] tem um novo livro chamado _Architectural Dollhouses_, repleto de edifícios cheios de personalidade:

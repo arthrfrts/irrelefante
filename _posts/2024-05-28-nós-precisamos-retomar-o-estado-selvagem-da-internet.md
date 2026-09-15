@@ -8,8 +8,9 @@ tags:
   - IndieWeb
   - natureza
   - citações
-external_url: https://www.noemamag.com/we-need-to-rewild-the-internet/
-reaction: like
+external_url:
+  path: https://www.noemamag.com/we-need-to-rewild-the-internet/
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/751688282908295168/
 redirect_from: /post/751688282908295168/

@@ -7,8 +7,9 @@ tags:
   - web
   - desenvolvimento
   - IndieWeb
-external_url: https://thehtml.review/03/
-reaction: like
+external_url:
+  path: https://thehtml.review/03/
+  reaction: like
 syndication: 
   - https://arthrfrts.tumblr.com/post/745832817280335872/
 redirect_from: /post/745832817280335872/

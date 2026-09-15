@@ -7,8 +7,9 @@ tags:
   - web
   - comportamento
   - citações
-external_url: https://spencerchang.substack.com/p/ti-09-the-internet-is-one-big-video
-reaction: repost
+external_url:
+  path: https://spencerchang.substack.com/p/ti-09-the-internet-is-one-big-video
+  reaction: repost
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazuvfnw23"
 ---
 

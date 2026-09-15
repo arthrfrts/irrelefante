@@ -12,8 +12,9 @@ tags:
   - projetos
   - Pão com Mortadela
 canonical_url: https://paomortadela.com.br/2024/11/e-impossivel-descrever-o-clube-da-esquina/
-external_url: https://paomortadela.com.br/2024/11/e-impossivel-descrever-o-clube-da-esquina/
-reaction: repost
+external_url:
+  path: https://paomortadela.com.br/2024/11/e-impossivel-descrever-o-clube-da-esquina/
+  reaction: repost
 redirect_from: /post/767574909908074496/
 review:
   item: Clube da Esquina

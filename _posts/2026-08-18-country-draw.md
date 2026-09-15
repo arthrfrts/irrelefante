@@ -3,8 +3,9 @@ category: links
 layout: post
 date: 2026-08-18 15:39 -0300
 title: Você consegue desenhar um país?
-external_url: https://country-draw.vercel.app/
-reaction: like
+external_url:
+  path: https://country-draw.vercel.app/
+  reaction: like
 tags:
   - passatempos
   - experimentos

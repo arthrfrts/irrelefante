@@ -6,8 +6,9 @@ date: 2026-08-05 08:53 -0300
 tags:
   - experimentos
   - comportamento
-external_url: https://pudding.cool/2026/06/mow/
-reaction: like
+external_url:
+  path: https://pudding.cool/2026/06/mow/
+  reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/824108195059548160/
   - https://organica.social/@arthr/117042798142016729
