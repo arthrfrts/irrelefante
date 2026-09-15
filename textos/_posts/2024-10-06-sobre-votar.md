@@ -1,4 +1,5 @@
 ---
+category: textos
 layout: post
 title: Sobre votar
 date: 2024-10-06 14:39 -0300

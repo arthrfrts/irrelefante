@@ -1,4 +1,5 @@
 ---
+category: notas
 layout: post
 title: "Ontem, na Casa de Cultura"
 image:

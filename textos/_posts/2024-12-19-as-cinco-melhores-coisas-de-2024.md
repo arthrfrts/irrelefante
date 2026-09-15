@@ -1,4 +1,5 @@
 ---
+category: textos
 layout: post
 title: As cinco melhores coisas de 2024
 date: 2024-12-19 09:58 -0300

@@ -1,4 +1,5 @@
 ---
+category: reviews
 layout: post
 title: 'Ondas de memória: a beleza dilacerante de Aftersun'
 date: 2023-02-02 00:00 +0000

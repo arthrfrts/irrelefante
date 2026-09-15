@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Força Estranha
 date: 2022-11-09 11:33 -0300

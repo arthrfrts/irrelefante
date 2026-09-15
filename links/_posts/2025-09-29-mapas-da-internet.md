@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Mapas da internet
 date: 2025-09-29 09:13 -0300

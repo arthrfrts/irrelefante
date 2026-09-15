@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Como curar um coração partido
 date: 2026-06-19 16:18 -0300

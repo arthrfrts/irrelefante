@@ -1,4 +1,5 @@
 ---
+category: textos
 layout: post
 title: O apogeu dos anos 90
 date: 2026-02-03 11:17 -0300

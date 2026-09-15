@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Os benefícios de desistir
 date: 2025-11-25 07:53 -0300

@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Point out the good
 date: 2026-05-14 22:06 -0300

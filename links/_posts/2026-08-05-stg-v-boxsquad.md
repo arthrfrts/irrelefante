@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: STG v.boxSquad
 date: 2026-08-05 09:08 -0300

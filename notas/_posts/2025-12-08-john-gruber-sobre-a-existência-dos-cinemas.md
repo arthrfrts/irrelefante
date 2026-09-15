@@ -1,4 +1,5 @@
 ---
+category: notas
 layout: post
 title: John Gruber sobre a existência dos cinemas
 date: 2025-12-08 10:06 -0300

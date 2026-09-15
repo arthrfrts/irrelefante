@@ -1,4 +1,5 @@
 ---
+category: reviews
 layout: post
 title: 'Kentucky Route Zero: Act III destrói sua alma com dívidas do passado'
 date: 2015-01-02 07:41 -0300

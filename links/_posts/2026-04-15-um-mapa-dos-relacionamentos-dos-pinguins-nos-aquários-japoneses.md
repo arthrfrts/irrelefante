@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Um mapa dos relacionamentos dos pinguins nos aquários japoneses
 date: 2026-04-15 16:15 -0300

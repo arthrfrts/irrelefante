@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Na internet todo mundo sabe que você tinha um cachorro
 date: 2025-09-29 09:39 -0300

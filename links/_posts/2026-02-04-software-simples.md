@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Software simples
 date: 2026-02-04 20:49 -0300

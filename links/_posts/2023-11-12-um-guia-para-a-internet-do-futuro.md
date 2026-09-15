@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Um guia para a internet do futuro
 tags:

@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Different Today
 date: 2022-10-28 11:40 -0300

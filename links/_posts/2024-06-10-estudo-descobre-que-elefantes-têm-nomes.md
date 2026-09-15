@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Estudo descobre que elefantes têm nomes
 date: 2024-06-10 00:00 +0000

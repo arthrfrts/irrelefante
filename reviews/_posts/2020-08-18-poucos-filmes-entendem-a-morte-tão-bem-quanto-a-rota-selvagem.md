@@ -1,4 +1,5 @@
 ---
+category: reviews
 layout: post
 title: Poucos filmes entendem a morte tão bem quanto A Rota Selvagem
 date: 2020-08-18 21:02 -0300

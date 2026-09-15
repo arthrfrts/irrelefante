@@ -1,4 +1,5 @@
 ---
+category: textos
 layout: post
 title: A sequência de trocas de Link's Awakening
 date: 2024-12-14 06:38 -0300

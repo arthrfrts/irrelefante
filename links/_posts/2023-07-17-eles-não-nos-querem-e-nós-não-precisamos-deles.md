@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Eles não nos querem e nós não precisamos deles
 date: 2023-07-17 00:00 +0000

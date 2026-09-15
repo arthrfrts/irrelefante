@@ -1,4 +1,5 @@
 ---
+category: reviews
 layout: post
 title: The Mastermind
 date: 2025-10-16 19:44 -0300

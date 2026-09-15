@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: 'Ranking: Super Mario'
 date: 2023-11-27 22:56 -0300

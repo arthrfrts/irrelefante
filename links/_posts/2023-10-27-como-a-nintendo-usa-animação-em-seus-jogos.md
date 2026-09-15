@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Como a Nintendo usa animação em seus jogos
 date: 2023-10-27 13:14 -0300

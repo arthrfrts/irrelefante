@@ -1,4 +1,5 @@
 ---
+category: notas
 layout: post
 title: Poesia é o evento
 date: 2024-03-05 23:25 -0300

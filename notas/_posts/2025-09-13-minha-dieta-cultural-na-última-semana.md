@@ -1,4 +1,5 @@
 ---
+category: notas
 layout: post
 title: Minha dieta cultural na última semana
 date: 2025-09-13 10:33 -0300

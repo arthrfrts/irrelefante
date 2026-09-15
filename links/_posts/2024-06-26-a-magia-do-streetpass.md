@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: A magia do StreetPass
 date: 2024-06-26 12:19 -0300

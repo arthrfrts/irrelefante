@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Bingebuster
 date: 2026-08-01 08:25 -0300

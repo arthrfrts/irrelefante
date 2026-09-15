@@ -1,4 +1,5 @@
 ---
+category: reviews
 layout: post
 title: Histórias de fantasmas
 date: 2024-03-20 15:27 -0300

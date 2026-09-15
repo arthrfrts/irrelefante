@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Website Carbon Calculator
 date: 2026-07-15 09:08 -0300

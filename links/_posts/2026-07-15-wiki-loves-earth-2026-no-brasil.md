@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Wiki Loves Earth 2026 no Brasil
 date: 2026-07-15 09:40 -0300

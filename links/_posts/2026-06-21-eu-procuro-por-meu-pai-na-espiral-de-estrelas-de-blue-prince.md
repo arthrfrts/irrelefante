@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Eu procuro por meu pai na espiral de estrelas de Blue Prince
 date: 2026-06-21 21:47 -0300

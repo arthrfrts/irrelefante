@@ -1,4 +1,5 @@
 ---
+category: reviews
 layout: post
 title: Aprendendo a perder com Pokémon Let's Go! Eevee
 date: 2019-09-25 09:00 -0300

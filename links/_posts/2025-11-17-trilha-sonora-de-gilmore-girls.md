@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Trilha-sonora de Gilmore Girls
 date: 2025-11-17 09:30 -0300

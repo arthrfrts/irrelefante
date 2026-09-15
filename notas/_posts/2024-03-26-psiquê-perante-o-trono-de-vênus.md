@@ -1,4 +1,5 @@
 ---
+category: notas
 layout: post
 title: Psiquê perante o Trono de Vênus
 date: 2024-03-26 08:54 -0300

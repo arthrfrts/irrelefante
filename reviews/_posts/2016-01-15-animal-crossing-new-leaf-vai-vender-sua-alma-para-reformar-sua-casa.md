@@ -1,4 +1,5 @@
 ---
+category: reviews
 layout: post
 title: 'Animal Crossing: New Leaf vai vender sua alma para reformar sua casa'
 date: 2016-01-15 00:00 +0000

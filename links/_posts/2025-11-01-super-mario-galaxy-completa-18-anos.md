@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Super Mario Galaxy completa 18 anos
 date: 2025-11-01 13:57 -0300

@@ -1,4 +1,5 @@
 ---
+category: notas
 layout: post
 title: Encanamento
 date: 2026-03-05 21:33 -0300

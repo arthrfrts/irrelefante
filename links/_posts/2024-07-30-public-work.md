@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: public.work
 date: 2024-07-30 08:08 -0300

@@ -2,6 +2,7 @@
 layout: post
 title: Talvez eu devesse me sentir culpado por jogar Animal Crossing esse tempo todo?
 date: 2020-10-13 00:00 +0000
+category: textos
 image: https://paomortadela.com.br/uploads/2020/10/13/2020082819042900-02CB906EA538A35643C1E1484C4B947D.jpg
 tags:
   - impressões

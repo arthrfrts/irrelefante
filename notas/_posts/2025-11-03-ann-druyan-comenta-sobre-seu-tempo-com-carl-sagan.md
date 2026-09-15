@@ -1,4 +1,5 @@
 ---
+category: notas
 layout: post
 title: Ann Druyan comenta sobre seu tempo com Carl Sagan
 date: 2025-11-03 19:45 -0300

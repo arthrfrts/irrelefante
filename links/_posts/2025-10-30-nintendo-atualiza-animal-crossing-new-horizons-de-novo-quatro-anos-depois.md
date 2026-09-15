@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: 'Nintendo atualiza Animal Crossing: New Horizons de novo, quatro anos depois'
 date: 2025-10-30 19:45 -0300

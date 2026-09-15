@@ -1,4 +1,5 @@
 ---
+category: reviews
 layout: post
 title: Não tem como descrever o “Clube da Esquina”
 date: 2024-11-19 07:41 -0300

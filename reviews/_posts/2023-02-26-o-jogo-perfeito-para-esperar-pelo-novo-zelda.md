@@ -1,4 +1,5 @@
 ---
+category: reviews
 layout: post
 title: O jogo perfeito para esperar pelo novo Zelda
 date: 2023-02-26 00:00 +0000

@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Tenham um fim de semana aconchegante
 date: 2026-05-23 03:48 -0300

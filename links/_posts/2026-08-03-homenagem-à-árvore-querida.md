@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Homenagem à árvore querida
 date: 2026-08-03 11:03 -0300

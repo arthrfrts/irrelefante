@@ -1,4 +1,5 @@
 ---
+category: notas
 layout: post
 title: Encontre sentido
 date: 2026-07-11 07:10 -0300

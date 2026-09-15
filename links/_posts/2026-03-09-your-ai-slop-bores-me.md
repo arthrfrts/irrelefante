@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Your AI slop bores me
 date: 2026-03-09 08:56 -0300

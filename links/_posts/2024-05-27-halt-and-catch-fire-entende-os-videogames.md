@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Halt and Catch Fire entende os videogames
 date: 2024-05-27 08:01 -0300

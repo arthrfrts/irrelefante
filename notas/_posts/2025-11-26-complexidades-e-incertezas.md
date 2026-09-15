@@ -1,4 +1,5 @@
 ---
+category: notas
 layout: post
 title: Complexidades e incertezas
 date: 2025-11-26 10:42 -0300

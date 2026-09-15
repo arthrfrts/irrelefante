@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Parcs et jardins des environs de Paris
 date: 2023-08-25 11:11 -0300

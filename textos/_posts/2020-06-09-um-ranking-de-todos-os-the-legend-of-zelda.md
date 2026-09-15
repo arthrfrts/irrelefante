@@ -2,6 +2,7 @@
 layout: post
 title: Um ranking de todos os The Legend of Zelda
 date: 2020-06-09 09:00 -0300
+category: textos
 tags:
 - listas
 - jogos

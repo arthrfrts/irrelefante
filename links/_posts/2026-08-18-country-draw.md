@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 date: 2026-08-18 15:39 -0300
 title: Você consegue desenhar um país?

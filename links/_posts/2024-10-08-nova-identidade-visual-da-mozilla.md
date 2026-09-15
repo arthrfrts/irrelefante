@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Nova identidade visual da Mozilla
 date: 2024-10-08 22:33 -0300

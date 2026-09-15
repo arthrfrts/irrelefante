@@ -1,4 +1,5 @@
 ---
+category: reviews
 layout: post
 title: Betty Blue
 date: 2026-04-23 00:00 +0000

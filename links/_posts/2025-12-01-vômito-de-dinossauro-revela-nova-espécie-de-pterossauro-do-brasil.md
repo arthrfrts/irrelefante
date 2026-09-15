@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Vômito de dinossauro revela nova espécie de pterossauro do Brasil
 date: 2025-12-01 08:16 -0300

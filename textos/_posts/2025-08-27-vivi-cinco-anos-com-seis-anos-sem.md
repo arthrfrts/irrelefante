@@ -1,4 +1,5 @@
 ---
+category: textos
 layout: post
 title: 'Vivi: cinco anos com, seis anos sem'
 date: 2025-08-27 10:51 -0300

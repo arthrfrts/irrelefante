@@ -1,4 +1,5 @@
 ---
+category: textos
 layout: post
 title: Descobrindo músicas novas
 date: 2025-11-04 07:39 -0300

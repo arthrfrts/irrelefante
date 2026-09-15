@@ -1,4 +1,5 @@
 ---
+category: reviews
 layout: post
 title: Não há muito o que dizer sobre Esperando Godot
 date: 2016-07-19 00:00 +0000

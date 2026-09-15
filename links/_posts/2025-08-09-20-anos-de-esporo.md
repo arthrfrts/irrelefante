@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: 20 anos de Esporo
 date: 2025-08-09 11:24 -0300

@@ -2,6 +2,7 @@
 layout: post
 title: Eu jogo Animal Crossing e fico pensando no futuro
 date: 2020-05-11 20:44 -0300
+category: textos
 tags:
   - jogos
   - Nintendo

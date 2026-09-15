@@ -1,4 +1,5 @@
 ---
+category: reviews
 layout: post
 title: Uma Batalha Após a Outra
 date: 2025-10-01 20:27 -0300

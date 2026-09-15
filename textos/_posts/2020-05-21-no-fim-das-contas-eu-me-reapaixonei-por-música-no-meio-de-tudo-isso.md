@@ -2,6 +2,7 @@
 layout: post
 title: No fim das contas eu me reapaixonei por música no meio de *tudo isso*
 date: 2020-05-21 22:28 -0300
+category: textos
 tags:
   - músicas
   - dieta cultural

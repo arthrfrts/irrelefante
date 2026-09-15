@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Ninguém sabe por que os preços do Nintendo 3DS dispararam
 date: 2025-12-30 13:55 -0300

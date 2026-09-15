@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Wajã Xipai reflete sobre sua entrevista com António Guterres
 date: 2025-10-29 07:29 -0300

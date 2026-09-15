@@ -1,4 +1,5 @@
 ---
+category: textos
 layout: post
 title: As cinco melhores coisas de 2025
 date: 2025-12-30 09:00 -0300

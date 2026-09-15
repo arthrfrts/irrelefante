@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Typewritten Software
 date: 2026-07-10 15:01 -0300

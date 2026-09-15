@@ -1,4 +1,5 @@
 ---
+category: notas
 layout: post
 title: O blu-ray de “O Menino e a Garça”
 date: 2024-10-16 10:16 -0300

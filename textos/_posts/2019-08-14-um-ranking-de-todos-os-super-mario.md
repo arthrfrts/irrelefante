@@ -2,6 +2,7 @@
 layout: post
 title: Um ranking de todos os Super Mario
 date: 2019-08-14 09:00 -0300
+category: textos
 tags:
   - listas
   - jogos

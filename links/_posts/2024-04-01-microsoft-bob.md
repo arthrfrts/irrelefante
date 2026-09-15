@@ -1,4 +1,5 @@
 ---
+category: links
 layout: post
 title: Microsoft Bob
 date: 2024-04-01 09:02 -0300
