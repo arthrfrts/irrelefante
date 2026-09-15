@@ -20,7 +20,7 @@ bundle exec rake standard_site:publish   # publish new/changed posts to standard
 
 There is no JS/CSS build step, linter, or test suite — this is a content-and-templates repo. jekyll-compose (in the Gemfile) is available for `bundle exec jekyll post`/`jekyll draft`-style scaffolding if used.
 
-`bundle exec jekyll build` is safe for testing config changes (queues/caches only, no network sends); `bundle exec jekyll webmention` performs live sends to Bridgy/Bluesky/Mastodon — don't run it just to "verify" a fix.
+`bundle exec jekyll build` is safe for testing config changes (queues/caches only, no network sends) **except** for `jekyll-url-metadata`, which live-fetches any not-yet-cached `external_url` for link previews — see "Link preview metadata caching" below; `bundle exec jekyll webmention` performs live sends to Bridgy/Bluesky/Mastodon — don't run it just to "verify" a fix.
 
 ## Git
 
@@ -59,6 +59,14 @@ Syndication is driven by `jekyll-webmention_io`, configured under `webmentions:`
 - Fixed (2026-09): `brid.gy` is whitelisted in `webmentions.bad_uri_policy.whitelist`, so a Bridgy failure on one post/silo no longer host-bans all syndication — each post/silo retries independently via its own attempt counter in `outgoing.yml`.
 - `bad_uri_policy` settings (`cache_bad_uris_for`, `whitelist`, `blacklist`) must nest *inside* `bad_uri_policy:`, not sit as siblings — the gem reads `bad_uri_policy['cache_bad_uris_for']`, so a misplaced sibling key is silently ignored. The plugin's syndication docs don't cover this; read the installed gem source instead (`gem contents jekyll-webmention_io`).
 - `.github/workflows/standard-site.yml` is unrelated to Bridgy: it runs on push to `main` when files change under `*/_posts/**`, runs `rake standard_site:publish`, and commits the resulting `at_uri` front matter back with `[skip ci]`.
+
+## Link preview metadata caching (jekyll-url-metadata, fragile — read before touching)
+
+`_includes/link-preview.html` calls the `jekyll-url-metadata` plugin's `metadata` filter on every post's `external_url` to render link/repost previews (title, image, site name, etc.). This is a **live network fetch** at build time (1s open/read timeouts).
+
+- The gem's own cache (`Jekyll::Cache`, disk-backed under `.jekyll-cache/`) is gitignored and gets wiped wholesale by Jekyll itself whenever `_config.yml` changes (`Jekyll::Cache.clear_if_config_changed`), so it never survives a fresh checkout — useless for both the hourly `syndication.yml` GitHub Actions build and Cloudflare Pages' production build, which both start from a clean clone every run.
+- `_plugins/url_metadata_cache_patch.rb` replaces it with a committed cache instead: `_data/url_metadata.yml` (resolved metadata, keyed by URL) and `_data/url_metadata_failures.yml` (failed fetches, tracked with `last_attempt`/`attempts`, backed off for `url_metadata.retry_after_days` days — see `_config.yml` — before being retried). Both files **must stay committed**, same as `_data/webmentions/`; deleting them just means every URL gets live-fetched again on the next build.
+- Every build (local, the hourly `syndication.yml` job, and Cloudflare Pages' own production build) checks this committed cache first and only live-fetches on a cache miss or an expired backoff. Cloudflare Pages builds still resolve brand-new links immediately this way (its network fetches more reliably than GitHub Actions runners do) — but Cloudflare Pages has no way to commit that result back to the repo itself. Only `syndication.yml` has git push rights, so it's what actually persists a successful (or failed) fetch into `_data/` for future builds to reuse; until that hourly job has run at least once for a newly-introduced URL, Cloudflare Pages will keep re-fetching it live on every deploy.
 
 ## Other things worth knowing
 
