@@ -823,3 +823,7 @@ brid.gy:
   state: error
   attempts: 1
   last_checked: '2026-09-13 12:57:10 -0300'
+aworkinglibrary.com:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-09-15 01:16:32 -0300'
