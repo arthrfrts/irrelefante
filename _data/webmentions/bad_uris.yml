@@ -819,10 +819,6 @@ web.badges.world:
   state: unsupported
   attempts: 2
   last_checked: '2026-09-13 12:57:10 -0300'
-brid.gy:
-  state: error
-  attempts: 1
-  last_checked: '2026-09-13 12:57:10 -0300'
 aworkinglibrary.com:
   state: unsupported
   attempts: 1
