@@ -8,8 +8,9 @@ tags:
   - Animal Crossing
   - Nintendo
   - pendente
-external_url: https://youtu.be/7nODHyw3lgs
-reaction: repost
+external_url:
+  path: https://youtu.be/7nODHyw3lgs
+  reaction: repost
 syndication:
   - https://irrelefante.tumblr.com/post/798872632947851264
 redirect_from: /post/798872632947851264/

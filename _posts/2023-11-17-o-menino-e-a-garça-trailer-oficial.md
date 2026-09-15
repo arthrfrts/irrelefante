@@ -8,8 +8,9 @@ tags:
   - trailers
   - Hayao Miyazaki
   - Studio Ghibli
-external_url: https://youtu.be/t5khm-VjEu4
-reaction: like
+external_url:
+  path: https://youtu.be/t5khm-VjEu4
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/734254054708019200/
 redirect_from: /post/734254054708019200/

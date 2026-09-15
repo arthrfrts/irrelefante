@@ -6,8 +6,9 @@ date: 2023-12-29 08:59 -0300
 image:
   path: /uploads/2023/12/top5-capa.png
   caption: "Ilustração: Raul Fontoura"
-external_url: https://paomortadela.com.br/2023/12/as-cinco-melhores-coisas-de-2023/
-reaction: repost
+external_url:
+  path: https://paomortadela.com.br/2023/12/as-cinco-melhores-coisas-de-2023/
+  reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/738045242586038272/as-cinco-melhores-coisas-de-2023
 redirect_from: /post/738045242586038272/

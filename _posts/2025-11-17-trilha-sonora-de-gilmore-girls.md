@@ -8,8 +8,9 @@ tags:
   - séries
   - Gilmore Girls
   - Sam Phillips
-external_url: https://music.apple.com/br/album/happy/1850993447?i=1850993673
-reaction: like
+external_url:
+  path: https://music.apple.com/br/album/happy/1850993447?i=1850993673
+  reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/800468448928055296/
 redirect_from: /post/800468448928055296/

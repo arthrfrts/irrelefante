@@ -7,8 +7,9 @@ tags:
   - citações
   - músicas
   - Yeah Yeah Yeahs
-external_url: https://soundcloud.com/yeah-yeah-yeahs-official/different-today
-reaction: like
+external_url:
+  path: https://soundcloud.com/yeah-yeah-yeahs-official/different-today
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/699366642396839936/yeah-yeah-yeahs-different-today-i-feel-different
 redirect_from: /post/699366642396839936/

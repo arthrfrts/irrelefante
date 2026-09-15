@@ -12,8 +12,9 @@ tags:
   - rotina
   - amigos
 canonical_url: https://paomortadela.com.br/2020/10/talvez-eu-devesse-me-sentir-culpado-por-jogar-animal-crossing-todo-esse-tempo/
-external_url: "https://paomortadela.com.br/2020/10/talvez-eu-devesse-me-sentir-culpado-por-jogar-animal-crossing-todo-esse-tempo/"
-reaction: repost
+external_url:
+  path: "https://paomortadela.com.br/2020/10/talvez-eu-devesse-me-sentir-culpado-por-jogar-animal-crossing-todo-esse-tempo/"
+  reaction: repost
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayib6ms2y"
 ---
 

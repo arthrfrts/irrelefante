@@ -8,8 +8,9 @@ tags:
   - filmes
   - David Fincher
   - citações
-external_url: https://maxread.substack.com/p/david-finchers-new-movie-the-killer
-reaction: repost
+external_url:
+  path: https://maxread.substack.com/p/david-finchers-new-movie-the-killer
+  reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/734514612779827200/
 redirect_from: /post/734514612779827200/

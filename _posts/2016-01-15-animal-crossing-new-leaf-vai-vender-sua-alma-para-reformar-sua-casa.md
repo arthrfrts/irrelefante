@@ -15,8 +15,9 @@ review:
   poster: /uploads/2016/01/acnl.jpg
   rating: 4
 canonical_url: https://paomortadela.com.br/2016/01/animal-crossing-new-leaf/
-external_url: https://paomortadela.com.br/2016/01/animal-crossing-new-leaf/
-reaction: repost
+external_url:
+  path: https://paomortadela.com.br/2016/01/animal-crossing-new-leaf/
+  reaction: repost
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaydpdxq2m"
 ---
 

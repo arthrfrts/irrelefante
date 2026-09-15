@@ -8,8 +8,9 @@ tags:
   - desenvolvimento
   - IndieWeb
   - citações
-external_url: https://manuelmoreale.com/@/page/acx1bK7UldiQW556
-reaction: repost
+external_url:
+  path: https://manuelmoreale.com/@/page/acx1bK7UldiQW556
+  reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/763157267043500032/
 redirect_from: /post/763157267043500032/

@@ -6,8 +6,9 @@ date: 2025-10-27 09:26 -0300
 tags:
   - pessoas
   - história
-external_url: https://en.wikipedia.org/wiki/Katherine_McHale_Slaughterback
-reaction: like
+external_url:
+  path: https://en.wikipedia.org/wiki/Katherine_McHale_Slaughterback
+  reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/798561887604342784/
 redirect_from: /post/798561887604342784/

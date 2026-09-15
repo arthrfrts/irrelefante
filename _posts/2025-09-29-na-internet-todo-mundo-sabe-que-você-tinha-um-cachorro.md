@@ -6,8 +6,9 @@ date: 2025-09-29 09:39 -0300
 tags:
   - web
   - cachorros
-external_url: https://ontheinterneteverybodyknows.geocities.institute/
-reaction: like
+external_url:
+  path: https://ontheinterneteverybodyknows.geocities.institute/
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/798422450264276992/
 redirect_from: /post/798422450264276992/

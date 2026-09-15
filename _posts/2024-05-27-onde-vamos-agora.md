@@ -9,8 +9,9 @@ tags:
   - sociedade
   - game design
   - citações
-external_url: https://sidequest.zone/2020/04/13/where-do-we-go-next-kentucky-route-zero-s-anxious-approach-to-hope/
-reaction: repost
+external_url:
+  path: https://sidequest.zone/2020/04/13/where-do-we-go-next-kentucky-route-zero-s-anxious-approach-to-hope/
+  reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/751686472161280000/
 redirect_from: /post/751686472161280000/

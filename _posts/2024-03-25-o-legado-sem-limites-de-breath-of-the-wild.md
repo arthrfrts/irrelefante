@@ -9,8 +9,9 @@ tags:
   - Nintendo
   - The Legend of Zelda
   - game design
-external_url: https://www.theringer.com/video-games/2023/5/12/23719757/the-legend-of-zelda-breath-of-the-wild-legacy-nintendo?utm_source=pocket_saves
-reaction: like
+external_url:
+  path: https://www.theringer.com/video-games/2023/5/12/23719757/the-legend-of-zelda-breath-of-the-wild-legacy-nintendo?utm_source=pocket_saves
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/745922907487797248/
 redirect_from: /post/745922907487797248/

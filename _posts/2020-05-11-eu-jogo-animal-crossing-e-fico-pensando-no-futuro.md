@@ -9,8 +9,9 @@ tags:
   - Animal Crossing
   - sociedade
 canonical_url: https://paomortadela.com.br/2020/05/eu-jogo-animal-crossing-e-fico-pensando-no-futuro/
-external_url: https://paomortadela.com.br/2020/05/eu-jogo-animal-crossing-e-fico-pensando-no-futuro/
-reaction: repost
+external_url:
+  path: https://paomortadela.com.br/2020/05/eu-jogo-animal-crossing-e-fico-pensando-no-futuro/
+  reaction: repost
 image:
   path: https://paomortadela.com.br/uploads/2020/05/11/acnh-capa.jpg
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayh4irq23"

@@ -8,8 +8,9 @@ tags:
   - Kelly Reichardt
   - impressões
 canonical_url: https://paomortadela.com.br/2020/05/os-filmes-de-kelly-reichardt-oferecem-um-conforto-estranho-durante-a-quarentena/
-external_url: https://paomortadela.com.br/2020/05/os-filmes-de-kelly-reichardt-oferecem-um-conforto-estranho-durante-a-quarentena/
-reaction: repost
+external_url:
+  path: https://paomortadela.com.br/2020/05/os-filmes-de-kelly-reichardt-oferecem-um-conforto-estranho-durante-a-quarentena/
+  reaction: repost
 image:
   path: /uploads/2020/05/wendy-lucy.jpg
   caption: Wendy & Lucy (2008)

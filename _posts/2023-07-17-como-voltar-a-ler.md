@@ -9,8 +9,9 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/723928790812803073/i-always-have-a-book-next-to-wherever-i-put-my
 redirect_from: /post/723928790812803073/
-external_url: https://www.vox.com/even-better/23269893/start-reading-ritual-books
-reaction: like
+external_url:
+  path: https://www.vox.com/even-better/23269893/start-reading-ritual-books
+  reaction: like
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayswndj2j"
 ---
 

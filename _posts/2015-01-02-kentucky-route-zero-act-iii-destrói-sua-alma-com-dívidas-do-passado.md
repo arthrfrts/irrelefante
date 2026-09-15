@@ -10,8 +10,9 @@ tags:
   - Cardboard Computer
   - Kentucky Route Zero
   - aventura de apontar-e-clicar
-external_url: https://paomortadela.com.br/2015/01/kentucky-route-zero-act-iii-corroi-sua-alma-com-dividas-do-passado/
-reaction: repost
+external_url:
+  path: https://paomortadela.com.br/2015/01/kentucky-route-zero-act-iii-corroi-sua-alma-com-dividas-do-passado/
+  reaction: repost
 review:
   item: "Kentucky Route Zero: Act III"
   format: Jogo

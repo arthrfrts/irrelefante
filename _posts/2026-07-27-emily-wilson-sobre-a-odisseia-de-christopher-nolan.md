@@ -11,8 +11,9 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/823328764184444929/
 redirect_from: /post/823328764184444929/
-external_url: https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man
-reaction: like
+external_url:
+  path: https://www.lrb.co.uk/the-paper/v48/n14/emily-wilson/an-uncomplicated-man
+  reaction: like
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb3g2rga2f"
 ---
 

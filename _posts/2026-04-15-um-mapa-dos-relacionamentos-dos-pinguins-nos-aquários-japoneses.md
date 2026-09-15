@@ -7,8 +7,9 @@ tags:
   - animais
   - pinguins
   - Japão
-external_url: https://spoon-tamago.com/japanese-aquarium-penguin-relationship-flowchart/
-reaction: like
+external_url:
+  path: https://spoon-tamago.com/japanese-aquarium-penguin-relationship-flowchart/
+  reaction: like
 syndication:
   - https://irrelefante.tumblr.com/post/821463823865217024/
 redirect_from: post/821463823865217024/

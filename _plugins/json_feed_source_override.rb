@@ -5,7 +5,7 @@ module JekyllJsonFeedLinkPatch
 
   PATCHED = <<~LIQUID.strip
     "url": {{ post.url | absolute_url | jsonify }},
-    {% if post.external_url %}"external_url": {{ post.external_url | jsonify }},{% endif %}
+    {% if post.external_url %}"external_url": {{ post.external_url.path | jsonify }},{% endif %}
   LIQUID
 
   def content_for_file(file_path, file_source_path)

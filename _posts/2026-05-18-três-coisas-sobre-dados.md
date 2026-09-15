@@ -8,8 +8,9 @@ tags:
   - web
   - citações
   - Russel Davies
-external_link: https://www.undermanager.com/three-things-about-data/
-reaction: like
+external_url:
+  path: https://www.undermanager.com/three-things-about-data/
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/816981194127409152/
 redirect_from: /post/816981194127409152/

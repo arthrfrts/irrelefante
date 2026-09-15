@@ -13,8 +13,9 @@ tags:
 syndication:
   - https://irrelefante.tumblr.com/post/821467061447491584/
 redirect_from: /post/821467061447491584/
-external_url: https://thehtml.review/05/
-reaction: like
+external_url:
+  path: https://thehtml.review/05/
+  reaction: like
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb32ckds2y"
 ---
 

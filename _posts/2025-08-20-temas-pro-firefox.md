@@ -3,8 +3,9 @@ category: links
 layout: post
 title: Temas pro Firefox
 date: 2025-08-20 11:15 -0300
-external_url: https://addons.mozilla.org/pt-BR/firefox/user/12630743/
-reaction: like
+external_url:
+  path: https://addons.mozilla.org/pt-BR/firefox/user/12630743/
+  reaction: like
 tags:
   - tecnologia
   - softwares

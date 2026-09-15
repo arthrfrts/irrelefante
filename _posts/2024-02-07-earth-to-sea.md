@@ -7,8 +7,9 @@ tags:
   - músicas
   - M83
   - citações
-external_url: https://youtu.be/kyaO0zgBxa8
-reaction: like
+external_url:
+  path: https://youtu.be/kyaO0zgBxa8
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/741689756735422464/
 redirect_from: /post/741689756735422464/

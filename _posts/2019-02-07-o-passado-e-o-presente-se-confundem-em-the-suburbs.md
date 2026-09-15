@@ -15,8 +15,9 @@ review:
   rating: 5
   poster: /uploads/2019/02/suburbs.jpg
 canonical_url: https://paomortadela.com.br/2019/02/o-passado-e-o-presente-se-confundem-em-the-suburbs/
-external_url: https://paomortadela.com.br/2019/02/o-passado-e-o-presente-se-confundem-em-the-suburbs/
-reaction: repost
+external_url:
+  path: https://paomortadela.com.br/2019/02/o-passado-e-o-presente-se-confundem-em-the-suburbs/
+  reaction: repost
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayf342l26"
 ---
 

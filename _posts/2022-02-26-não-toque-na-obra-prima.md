@@ -2,7 +2,8 @@
 category: links
 layout: post
 title: Não toque na obra-prima
-external_url: https://best-of-reblogs.tumblr.com/post/677171691013685248/critical-perspective-etherialism
+external_url:
+  path: https://best-of-reblogs.tumblr.com/post/677171691013685248/critical-perspective-etherialism
 tags:
   - Tumblr
 date: 2022-02-26 00:00 +0000

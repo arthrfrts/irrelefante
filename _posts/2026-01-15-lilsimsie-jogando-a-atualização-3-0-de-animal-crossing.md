@@ -8,8 +8,9 @@ tags:
   - vídeos
   - lilsimsie
   - Animal Crossing
-external_url: https://youtu.be/Lgju_TzG2GM
-reaction: like
+external_url:
+  path: https://youtu.be/Lgju_TzG2GM
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/805815288788566016/
 redirect_from: /post/805815288788566016/

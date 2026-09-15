@@ -8,8 +8,9 @@ tags:
   - IndieWeb
   - citações
 date: 2023-11-12 10:48 -0300
-external_url: https://www.theverge.com/2023/10/23/23928550/posse-posting-activitypub-standard-twitter-tumblr-mastodon
-reaction: like
+external_url:
+  path: https://www.theverge.com/2023/10/23/23928550/posse-posting-activitypub-standard-twitter-tumblr-mastodon
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/733794026225025024/in-a-posse-world-everybody-owns-a-domain-name
 redirect_from: /post/733794026225025024/

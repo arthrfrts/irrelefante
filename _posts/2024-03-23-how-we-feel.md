@@ -7,8 +7,9 @@ tags:
   - softwares
   - sentimentos
   - How We Feel
-external_url: https://howwefeel.org/get
-reaction: like
+external_url:
+  path: https://howwefeel.org/get
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/745748986500153344/
 redirect_from: /post/745748986500153344/

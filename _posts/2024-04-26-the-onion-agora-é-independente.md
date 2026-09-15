@@ -6,8 +6,9 @@ date: 2024-04-26 17:15 -0300
 tags:
   - web
   - The Onion
-external_url: https://www.axios.com/2024/04/26/the-onion-sale-future-twilio-jeff-lawson
-reaction: repost
+external_url:
+  path: https://www.axios.com/2024/04/26/the-onion-sale-future-twilio-jeff-lawson
+  reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/748853699681615872/
 redirect_from: /post/748853699681615872/

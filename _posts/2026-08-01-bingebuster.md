@@ -8,8 +8,9 @@ tags:
   - experimentos
   - filmes
   - lugares
-external_url: https://bingebuster.net
-reaction: like
+external_url:
+  path: https://bingebuster.net
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/823744066168700928/
 redirect_from: /post/823744066168700928/

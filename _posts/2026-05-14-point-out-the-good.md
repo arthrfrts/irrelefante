@@ -7,8 +7,9 @@ tags:
   - citações
   - Topher Kearby
   - poesia
-external_url: https://www.swiss-miss.com/2026/05/point-out-the-good.html
-reaction: repost
+external_url:
+  path: https://www.swiss-miss.com/2026/05/point-out-the-good.html
+  reaction: repost
 syndication:
   - https://irrelefante.tumblr.com/post/821463303184400384/
 redirect_from: /post/821463303184400384/

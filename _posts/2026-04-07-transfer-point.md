@@ -8,8 +8,9 @@ tags:
   - emuladores
   - World Builder
   - Mike Piontek
-external_url: https://robotspacer.software/transfer-point.html
-reaction: like
+external_url:
+  path: https://robotspacer.software/transfer-point.html
+  reaction: like
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb33i7qs2w"
 ---
 

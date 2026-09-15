@@ -7,8 +7,9 @@ tags:
   - sociedade
   - web
   - blogs
-external_url: https://www.404media.co/advertisers-dont-want-sites-like-jezebel-to-exist/
-reaction: repost
+external_url:
+  path: https://www.404media.co/advertisers-dont-want-sites-like-jezebel-to-exist/
+  reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/733636446194483200/advertisers-dont-want-sites-like-jezebel-to-exist
 redirect_from: /post/733636446194483200/

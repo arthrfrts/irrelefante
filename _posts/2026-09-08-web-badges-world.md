@@ -7,8 +7,9 @@ tags:
 - web
 - curiosidades
 - comunidades
-external_url: https://web.badges.world/
-reaction: like
+external_url:
+  path: https://web.badges.world/
+  reaction: like
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muywaltkqs2j"
 syndication:
   - https://bsky.app/profile/irrelefante.com.br/post/3muyxhz2tuv2e

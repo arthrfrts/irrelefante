@@ -10,8 +10,9 @@ tags:
   - António Guterres
   - ONU
   - Amazônia
-external_url: https://sumauma.com/secretario-geral-onu-antonio-guterres-vozes-indigenas-inspirar-mundo-evitar-catastrofe-climatica/
-reaction: repost
+external_url:
+  path: https://sumauma.com/secretario-geral-onu-antonio-guterres-vozes-indigenas-inspirar-mundo-evitar-catastrofe-climatica/
+  reaction: repost
 syndication:
   - https://irrelefante.tumblr.com/post/798735773539205120/
 redirect_from: /post/798735773539205120/

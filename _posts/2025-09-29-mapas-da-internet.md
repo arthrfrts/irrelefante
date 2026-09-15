@@ -7,8 +7,9 @@ tags:
   - web
   - cartografia
   - achados
-external_url: https://kk.org/ct2/the-internet-mapping-project/
-reaction: like
+external_url:
+  path: https://kk.org/ct2/the-internet-mapping-project/
+  reaction: like
 syndication:
   - https://irrelefante.com.br/post/821467689520431104/
 redirect_from: /post/821467689520431104/

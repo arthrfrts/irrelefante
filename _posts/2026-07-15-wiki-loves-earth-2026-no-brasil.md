@@ -11,8 +11,9 @@ tags:
 syndication:
   - https://irrelefante.tumblr.com/post/822208617377939456/
 redirect_from: /post/822208617377939456/
-external_url: https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Earth_2026_in_Brazil
-reaction: repost
+external_url:
+  path: https://commons.wikimedia.org/wiki/Commons:Wiki_Loves_Earth_2026_in_Brazil
+  reaction: repost
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxb3e32da23"
 ---
 

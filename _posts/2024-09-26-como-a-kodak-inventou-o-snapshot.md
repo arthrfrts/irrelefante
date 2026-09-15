@@ -7,8 +7,9 @@ tags:
   - fotografia
   - vídeos
   - Kodak
-external_url: https://youtu.be/k-a0EFhr3vE
-reaction: like
+external_url:
+  path: https://youtu.be/k-a0EFhr3vE
+  reaction: like
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaztidak2r"
 ---
 

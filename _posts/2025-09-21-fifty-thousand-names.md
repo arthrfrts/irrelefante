@@ -8,8 +8,9 @@ tags:
   - web
   - genocídio em Gaza
   - Tiny Awards
-external_url: https://fiftythousandnames.org/
-reaction: like
+external_url:
+  path: https://fiftythousandnames.org/
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/798565700557012992/
 redirect_from: /post/798565700557012992/

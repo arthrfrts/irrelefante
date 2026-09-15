@@ -7,8 +7,9 @@ tags:
   - músicas
   - Milton Nascimento
   - Clube da Esquina
-external_url: "https://music.apple.com/br/album/clube-da-esquina-n%C2%BA-2/1473446573?i=1473446832"
-reaction: like
+external_url:
+  path: "https://music.apple.com/br/album/clube-da-esquina-n%C2%BA-2/1473446573?i=1473446832"
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/762552545905344512/
 redirect_from: /post/762552545905344512/

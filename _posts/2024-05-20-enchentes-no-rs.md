@@ -6,8 +6,9 @@ date: 2024-05-20 01:51 -0300
 tags:
   - enchentes
   - natureza
-external_url: https://sumauma.com/agora-somos-nos-em-um-barco-de-resgate-tendo-que-contar-ao-mundo-que-estamos-nos-afogando/
-reaction: repost
+external_url:
+  path: https://sumauma.com/agora-somos-nos-em-um-barco-de-resgate-tendo-que-contar-ao-mundo-que-estamos-nos-afogando/
+  reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/750969885831626752/
 redirect_from: /post/750969885831626752/

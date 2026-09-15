@@ -7,8 +7,9 @@ tags:
   - web
   - desenvolvimento
   - sustentabilidade
-external_url: https://www.websitecarbon.com/
-reaction: like
+external_url:
+  path: https://www.websitecarbon.com/
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/822206579977928704/
 redirect_from: /post/822206579977928704/

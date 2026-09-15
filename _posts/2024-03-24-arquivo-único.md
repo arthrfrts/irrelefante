@@ -6,8 +6,9 @@ date: 2024-03-24 09:03 -0300
 tags:
   - web
   - desenvolvimento
-external_url: https://single-file.netlify.app/
-reaction: like
+external_url:
+  path: https://single-file.netlify.app/
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/745833011017302016/
 redirect_from: /post/745833011017302016/

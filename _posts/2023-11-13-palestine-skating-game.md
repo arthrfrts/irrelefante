@@ -10,8 +10,9 @@ tags:
 syndication:
   - https://arthrfrts.tumblr.com/post/733908312594235392/making-a-skating-game-set-in-palestine-has-become
 redirect_from: /post/733908312594235392/
-external_url: https://aftermath.site/making-a-skating-game-set-in-palestine-has-become-an-act-of-resistance
-reaction: like
+external_url:
+  path: https://aftermath.site/making-a-skating-game-set-in-palestine-has-become-an-act-of-resistance
+  reaction: like
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxaz2vsqy2m"
 ---
 

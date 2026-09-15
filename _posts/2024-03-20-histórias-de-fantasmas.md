@@ -17,8 +17,9 @@ review:
 syndication:
   - https://arthrfrts.tumblr.com/post/745494796598231040/
 redirect_from: /post/745494796598231040/
-external_url: https://paomortadela.com.br/2024/03/hist%C3%B3rias-de-fantasmas/
-reaction: repost
+external_url:
+  path: https://paomortadela.com.br/2024/03/hist%C3%B3rias-de-fantasmas/
+  reaction: repost
 canonical_url: https://paomortadela.com.br/2024/03/hist%C3%B3rias-de-fantasmas/
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxazepazk2w"
 ---

@@ -1,7 +1,7 @@
 <article class="post {{ post.categories | first | slugify: 'latin'}} h-entry">
   {% if post.title and post.title != "" -%}
     <h2 class="post-title">
-      <a class="post-url p-name" href="{{- post.external_url | default: post.url -}}">
+      <a class="post-url p-name" href="{{- post.external_url.path | default: post.url -}}">
         {{- post.title -}}
       </a>
     </h2>
@@ -26,8 +26,7 @@
   </div>
 
   {% if post.external_url -%}
-    {%- assign link_type = post.reaction | default: '' -%}
-    {%- include link-preview.html link=post.external_url reaction=link_type -%}
+    {%- include link-preview.html link=post.external_url.path reaction=post.external_url.reaction -%}
   {%- endif %}
 
   <footer class="post-details">

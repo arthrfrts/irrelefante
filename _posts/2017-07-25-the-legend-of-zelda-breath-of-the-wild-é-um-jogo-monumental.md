@@ -9,8 +9,9 @@ tags:
   - Nintendo
   - The Legend of Zelda
   - Nintendo Switch
-external_link: https://paomortadela.com.br/2017/07/the-legend-of-the-zelda-breath-of-the-wild/
-reaction: repost
+external_url:
+  path: https://paomortadela.com.br/2017/07/the-legend-of-the-zelda-breath-of-the-wild/
+  reaction: repost
 review:
   item: "The Legend of Zelda: Breath of the Wild"
   format: Jogo

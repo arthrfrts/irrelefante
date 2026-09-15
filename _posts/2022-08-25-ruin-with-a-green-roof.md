@@ -6,8 +6,9 @@ date: 2022-08-25 09:51 -0300
 tags:
   - fotos
   - arquitetura
-external_url: https://abandonedography.com/post/60239696179/ruin-with-a-green-roof-by-j-fish
-reaction: repost
+external_url:
+  path: https://abandonedography.com/post/60239696179/ruin-with-a-green-roof-by-j-fish
+  reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/693561580576784384/abandonedography-ruin-with-a-green-roof-by-j
 redirect_from: /post/693561580576784384/

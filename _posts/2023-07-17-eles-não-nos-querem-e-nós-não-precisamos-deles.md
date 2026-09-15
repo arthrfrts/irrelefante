@@ -7,8 +7,9 @@ tags:
   - citações
   - sociedade
   - cultura
-external_url: https://defector.com/they-dont-want-us-and-we-dont-need-them
-reaction: like
+external_url:
+  path: https://defector.com/they-dont-want-us-and-we-dont-need-them
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/723106596243357696/the-vague-but-ominous-disruption-promised-by
 redirect_from: /post/723106596243357696/

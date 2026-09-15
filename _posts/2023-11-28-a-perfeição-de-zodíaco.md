@@ -8,8 +8,9 @@ tags:
   - David Fincher
   - comportamento
   - citações
-external_url: https://episodes.ghost.io/zodiac-david-fincher-true-crime/
-reaction: like
+external_url:
+  path: https://episodes.ghost.io/zodiac-david-fincher-true-crime/
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/735223406261387264/
 redirect_from: /post/735223406261387264/

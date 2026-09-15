@@ -9,8 +9,9 @@ tags:
   - geologia
   - ciência
   - Kurzgesagst
-external_url: https://youtu.be/S7TUe5w6RHo
-reaction: like
+external_url:
+  path: https://youtu.be/S7TUe5w6RHo
+  reaction: like
 syndication:
   - https://arthrfrts.tumblr.com/post/733932625984684032/o-kurzgesagt-comemora-dez-anos-fazendo-um
 redirect_from: /post/733932625984684032/

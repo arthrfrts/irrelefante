@@ -10,8 +10,9 @@ tags:
   - Mario Bros.
   - Nintendo
 image: /uploads/2019/08/ranking-supermario.jpg
-external_url: https://paomortadela.com.br/2019/08/um-ranking-de-todos-os-super-mario/
-reaction: repost
+external_url:
+  path: https://paomortadela.com.br/2019/08/um-ranking-de-todos-os-super-mario/
+  reaction: repost
 canonical_url: https://paomortadela.com.br/2019/08/um-ranking-de-todos-os-super-mario/
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3muxayfskxb2j"
 ---

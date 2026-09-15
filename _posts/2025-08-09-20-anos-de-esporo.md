@@ -9,8 +9,9 @@ tags:
   - jogos
   - Spore
   - desenvolvimento
-external_url: https://esporo.net/2025/08/20-anos-de-esporo/
-reaction: repost
+external_url:
+  path: https://esporo.net/2025/08/20-anos-de-esporo/
+  reaction: repost
 syndication:
   - https://arthrfrts.tumblr.com/post/798569357971210240/
 redirect_from: /post/798569357971210240/
