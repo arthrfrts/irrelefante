@@ -1,824 +1,824 @@
 ---
 youtu.be:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:05:59 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:30:08 -0300'
 www.buzzfeednews.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:05:59 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:30:08 -0300'
 nplusonemag.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:00 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:30:09 -0300'
 paomortadela.com.br:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:00 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:30:14 -0300'
 pokemondb.net:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:00 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:30:17 -0300'
 www.fanbyte.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:00 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:30:21 -0300'
 www.vice.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:01 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:30:22 -0300'
 www.youtube.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:02 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:30:23 -0300'
 www.vox.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:02 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:30:26 -0300'
 open.spotify.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:02 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:30:26 -0300'
 www.doesthedogdie.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:03 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:30:32 -0300'
 www.polygon.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:03 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:30:35 -0300'
 kotaku.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:03 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:30:36 -0300'
 tinyletter.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:04 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:30:36 -0300'
 nookipedia.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:04 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:30:36 -0300'
 pt.wikipedia.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:04 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:30:54 -0300'
 www.anotherworld.fr:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:05 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:30:58 -0300'
 en.wikipedia.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:05 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:30:58 -0300'
 geographyofrobots.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:06 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:31:01 -0300'
 critical-perspective.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:06 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:31:03 -0300'
 etherialism.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:06 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:31:04 -0300'
 cornputer.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:07 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:31:04 -0300'
 assindeto.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:07 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:31:04 -0300'
 64.media.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:07 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:31:04 -0300'
 executables.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:07 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:31:09 -0300'
 leonardospoetry.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:08 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:31:12 -0300'
 www.flickr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:08 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:31:15 -0300'
 brooklynmuseum.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:08 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:31:21 -0300'
 smithsonianlibraries.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:08 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:31:25 -0300'
 cldup.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:09 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:31:28 -0300'
 kottke.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:09 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:31:36 -0300'
 smithsonianlibrariesarchives.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:09 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:31:42 -0300'
 defector.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:10 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:31:47 -0300'
 kagi.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:10 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:31:50 -0300'
 protonsforbreakfast.wordpress.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:10 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:31:50 -0300'
 daco-broman.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:11 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:31:55 -0300'
 va.media.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:11 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:31:55 -0300'
 wfanet.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:12 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:31:58 -0300'
 www.weforum.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:12 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:31:59 -0300'
 www.theverge.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:13 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:32:05 -0300'
 www.washingtonpost.com:
   state: failure
-  attempts: 2
-  last_checked: '2026-09-12 16:06:18 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:32:23 -0300'
 maxread.substack.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:18 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:32:42 -0300'
 longreads.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:18 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:32:45 -0300'
 craigmod.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:18 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:32:45 -0300'
 spencerchang.substack.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:18 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:32:45 -0300'
 syllabusproject.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:18 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:32:45 -0300'
 nicnacsnonsense.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:19 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:32:51 -0300'
 upload.wikimedia.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:19 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:32:55 -0300'
 theurbnite.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:20 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:32:58 -0300'
 whiona.weblog.lol:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:21 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:33:06 -0300'
 www.complex.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:21 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:33:06 -0300'
 nudityandnerdery.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:21 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:33:58 -0300'
 celerylapel.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:22 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:33:59 -0300'
 oysters-aint-for-me.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:23 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:34:00 -0300'
 dontliveinthefuture.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:23 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:34:03 -0300'
 thedissolve.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:23 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:34:05 -0300'
 sumauma.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:24 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:34:08 -0300'
 www.prx.org:
-  state: failure
-  attempts: 2
-  last_checked: '2026-09-12 16:06:29 -0300'
+  state: unsupported
+  attempts: 3
+  last_checked: '2026-09-15 09:34:08 -0300'
 radio.garden:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:30 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:34:08 -0300'
 www.nytimes.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:30 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:34:09 -0300'
 raulranma.itch.io:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:31 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:34:09 -0300'
 www.tiktok.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:31 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:34:12 -0300'
 diagram.website:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:31 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:34:14 -0300'
 www.sheafitz.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:32 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:34:16 -0300'
 videoda.me:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:32 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:34:21 -0300'
 blog.jgc.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:32 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:34:23 -0300'
 poetsandwriters.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:33 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:34:33 -0300'
 www.mcsweeneys.net:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:33 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:34:48 -0300'
 infectiouspiss.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:34 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:34:52 -0300'
 thehtml.review:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:34 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:34:55 -0300'
 single-file.netlify.app:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:34 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:34:59 -0300'
 derinthescarletpescatarian.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:35 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:35:02 -0300'
 www.theringer.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:35 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:35:05 -0300'
 fordarkmornings.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:35 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:35:08 -0300'
 apoemaday.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:36 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:35:11 -0300'
 www.xda-developers.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:36 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:35:14 -0300'
 icarusdiesatdawn.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:36 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:35:17 -0300'
 www.presentandcorrect.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:36 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:35:19 -0300'
 twitter.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:37 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:35:23 -0300'
 forgotten-tuesdays.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:37 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:35:25 -0300'
 www.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:37 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:35:25 -0300'
 yves-and-scessernee.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:38 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:35:26 -0300'
 greelin.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:38 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:35:26 -0300'
 default-mode.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:38 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:35:33 -0300'
 www.theonion.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:39 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:35:39 -0300'
 boxd.it:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:40 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:35:44 -0300'
 www.copetti.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:40 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:35:48 -0300'
 maximevaillancourt.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:40 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:35:48 -0300'
 www.are.na:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:40 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:35:50 -0300'
 metsul.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:41 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:35:55 -0300'
 manualdousuario.net:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:42 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:36:10 -0300'
 arthr.me:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:42 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:36:10 -0300'
 redsweater.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:43 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:36:10 -0300'
 sidequest.zone:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:43 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:36:24 -0300'
 www.noemamag.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:43 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:36:29 -0300'
 littleselkie.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:43 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:36:38 -0300'
 e360.yale.edu:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:43 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:36:45 -0300'
 jennhoney.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:44 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:36:48 -0300'
 vgbees.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:44 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:36:51 -0300'
 sweela.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:44 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:36:54 -0300'
 public.work:
-  state: failure
-  attempts: 2
-  last_checked: '2026-09-12 16:06:49 -0300'
+  state: unsupported
+  attempts: 3
+  last_checked: '2026-09-15 09:36:58 -0300'
 music.apple.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:50 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:37:04 -0300'
 manuelmoreale.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:51 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:37:15 -0300'
 briankoberlein.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:52 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:37:21 -0300'
 esporo.net:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:52 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:37:34 -0300'
 www.itsnicethat.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:52 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:37:37 -0300'
 hedgehogreview.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:52 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:37:46 -0300'
 ben-mini.github.io:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:53 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:37:48 -0300'
 walzr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:53 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:37:49 -0300'
 irrelefante.com.br:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:53 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:37:51 -0300'
 abwwia.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:53 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:38:01 -0300'
 www.zeldadungeon.net:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:53 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:38:03 -0300'
 bsky.app:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:54 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:38:06 -0300'
 www.thenewatlantis.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:54 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:38:06 -0300'
 freitasmari.substack.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:54 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:38:09 -0300'
 clarabeau.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:54 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:38:12 -0300'
 blog.mozilla.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:54 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:38:31 -0300'
 addons.mozilla.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:55 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:38:32 -0300'
 goodlinks.app:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:55 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:38:32 -0300'
 github.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:56 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:38:35 -0300'
 minduim.arthr.dev:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:56 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:38:35 -0300'
 serenityos.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:56 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:38:35 -0300'
 www.vulture.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:57 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:38:38 -0300'
 www.haiku-os.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:57 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:38:47 -0300'
 meyerweb.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:58 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:38:58 -0300'
 necolas.github.io:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:58 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:38:58 -0300'
 fiftythousandnames.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:58 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:39:19 -0300'
 tinyawards.net:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:58 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:39:19 -0300'
 kk.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:06:59 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:39:33 -0300'
 breakfastatmyhouse.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:00 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:39:35 -0300'
 ontheinterneteverybodyknows.geocities.institute:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:00 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:39:38 -0300'
 songexploder.net:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:01 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:39:49 -0300'
 door.link:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:01 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:39:55 -0300'
 donate.wikimedia.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:02 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:40:09 -0300'
 www.wikiportraits.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:03 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:40:13 -0300'
 piaui.folha.uol.com.br:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:06 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:40:16 -0300'
 www.itatiaia.com.br:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:06 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:40:19 -0300'
 skepticalinquirer.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:07 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:40:27 -0300'
 www.stereogum.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:09 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:40:29 -0300'
 sudanarchives.bandcamp.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:10 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:40:30 -0300'
 annavonhausswolff.bandcamp.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:10 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:40:30 -0300'
 mubi.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:10 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:40:36 -0300'
 publicdomainreview.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:12 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:40:39 -0300'
 beifongkendo.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:12 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:40:42 -0300'
 www.sherryning.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:13 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:40:47 -0300'
 www.brwnpaperbag.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:14 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:40:49 -0300'
 nintendocafe.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:14 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:41:05 -0300'
 nautil.us:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:14 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:41:10 -0300'
 www.nature.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:16 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:41:12 -0300'
 cameoappearance.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:16 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:41:20 -0300'
 notbecauseofvictories.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:17 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:41:20 -0300'
 jornal.usp.br:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:17 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:41:23 -0300'
 fabiansjournal.bearblog.dev:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:18 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:41:30 -0300'
 daringfireball.net:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:18 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:41:33 -0300'
 pukicho.tumblr.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:18 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:41:45 -0300'
 hiddenpalace.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:18 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:41:53 -0300'
 archive.is:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:19 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:41:57 -0300'
 words.zip:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:19 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:42:03 -0300'
 wikipedia25.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:19 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:42:10 -0300'
 arstechnica.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:20 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:42:13 -0300'
 www.swiss-miss.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:20 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:42:16 -0300'
 chris.pagecord.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:21 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:42:18 -0300'
 www.newyorker.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:25 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:42:23 -0300'
 aphelis.net:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:25 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:42:27 -0300'
 unsung.aresluna.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:26 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:42:30 -0300'
 inessential.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:26 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:42:30 -0300'
 youraislopbores.me:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:26 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:42:33 -0300'
 robotspacer.software:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:26 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:42:38 -0300'
 managore.itch.io:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:27 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:42:41 -0300'
 www.kyoto-aquarium.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:27 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:42:45 -0300'
 www.sumida-aquarium.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:28 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:42:45 -0300'
 spoon-tamago.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:29 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:42:45 -0300'
 artemistimeline.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:29 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:42:54 -0300'
 neal.fun:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:29 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:42:54 -0300'
 cupofjo.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:31 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:42:54 -0300'
 rip.so:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:32 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:42:54 -0300'
 ilovem83.bandcamp.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:32 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:43:07 -0300'
 pxlnv.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:32 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:43:16 -0300'
 www.macrotrends.net:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:33 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:43:16 -0300'
 explorer.samismith.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:33 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:43:24 -0300'
 stephango.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:33 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:43:24 -0300'
 www.historians.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:33 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:43:24 -0300'
 www.gov.uk:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:34 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:43:27 -0300'
 vale.rocks:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:34 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:43:28 -0300'
 mohkohn.co.uk:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:35 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:43:28 -0300'
 buttondown.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:35 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:43:33 -0300'
 noelcody.itch.io:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:36 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:43:43 -0300'
 www.lexaloffle.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:36 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:43:44 -0300'
 www.websitecarbon.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:36 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:43:49 -0300'
 brilliantmaps.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:37 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:43:52 -0300'
 commons.wikimedia.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:37 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:43:56 -0300'
 2026.html.energy:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:37 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:44:01 -0300'
 htmldaycwb.neocities.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:37 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:44:01 -0300'
 htmlday2026rio.neocities.org:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:37 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:44:01 -0300'
 www.lrb.co.uk:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:38 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:44:15 -0300'
 grumpygamer.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:38 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:44:19 -0300'
 bigwalk.game:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:38 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:44:19 -0300'
 bingebuster.net:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:38 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:44:23 -0300'
 www.theatlantic.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:39 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:44:25 -0300'
 pudding.cool:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:39 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:44:32 -0300'
 spacetypegenerator.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:39 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:44:35 -0300'
 www.openculture.com:
-  state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:39 -0300'
+  state: failure
+  attempts: 3
+  last_checked: '2026-09-15 09:44:43 -0300'
 pauwee.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:40 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:44:46 -0300'
 kenohyama.myportfolio.com:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-12 16:07:40 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:44:48 -0300'
 web.badges.world:
   state: unsupported
-  attempts: 2
-  last_checked: '2026-09-13 12:57:10 -0300'
+  attempts: 3
+  last_checked: '2026-09-15 09:44:53 -0300'
 aworkinglibrary.com:
   state: unsupported
   attempts: 1
