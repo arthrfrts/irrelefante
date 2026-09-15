@@ -73,6 +73,10 @@ jekyll-archives:
     tag: "/tags/:name/"
     category: "/:name/"
 
+# Plugin: jekyll-url-metadata
+url_metadata:
+  retry_after_days: 1
+
 # Plugin: jekyll-webmention_io
 webmentions:
   username: arthr.me
