@@ -5353,3 +5353,219 @@ https://aworkinglibrary.com/writing/in-the-world:
   preload: "/css/main.css?v2026"
   stylesheet: https://use.typekit.net/fhq2xej.css
   alternate: "/feed/index.xml"
+https://aftermath.site/:
+  title: Aftermath
+  charset: utf-8
+  HandheldFriendly: 'True'
+  viewport: width=device-width, initial-scale=1.0
+  theme-color: "#fe77b6"
+  ghost-theme: Gazet 1.3.0
+  description: Video games, the internet and what comes after
+  referrer: no-referrer-when-downgrade
+  og:site_name: Aftermath
+  og:type: website
+  og:title: Aftermath
+  og:description: Video games, the internet and what comes after
+  og:url: https://aftermath.site/
+  og:image: https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2025/10/BlueGroup-1.png
+  twitter:card: summary_large_image
+  twitter:title: Aftermath
+  twitter:description: Video games, the internet and what comes after
+  twitter:url: https://aftermath.site/
+  twitter:image: https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2025/10/BlueGroup-1.png
+  og:image:width: '1200'
+  og:image:height: '675'
+  generator: Ghost 6.64
+  preconnect: https://fonts.bunny.net
+  stylesheet: https://fonts.bunny.net/css?family=chakra-petch:400|roboto:400,500,700
+  icon: https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w256h256/2025/08/favicon4.png
+  canonical: https://aftermath.site/
+  next: https://aftermath.site/page/2/
+  alternate: https://aftermath.site/rss/
+  webmention: https://aftermath.site/webmentions/receive/
+https://aftermath.site/making-a-skating-game-set-in-palestine-has-become-an-act-of-resistance:
+  title: Making A Skating Game Set In Palestine Has Become An Act Of Resistance -
+    Aftermath
+  charset: utf-8
+  HandheldFriendly: 'True'
+  viewport: width=device-width, initial-scale=1.0
+  theme-color: "#fe77b6"
+  ghost-theme: Gazet 1.3.0
+  description: For the developers of "Palestine Skating Game," the game "has become
+    more important now than at any other time."
+  referrer: no-referrer-when-downgrade
+  og:site_name: Aftermath
+  og:type: article
+  og:title: Making A Skating Game Set In Palestine Has Become An Act Of Resistance
+    - Aftermath
+  og:description: For the developers of "Palestine Skating Game," the game "has become
+    more important now than at any other time."
+  og:url: https://aftermath.site/making-a-skating-game-set-in-palestine-has-become-an-act-of-resistance/
+  og:image: https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2025/10/signal-2023-11-12-134027_002-jpeg-3.jpg
+  article:published_time: '2023-11-13T16:42:58.000Z'
+  article:modified_time: '2025-10-27T17:22:29.000Z'
+  article:tag: Politics
+  twitter:card: summary_large_image
+  twitter:title: Making A Skating Game Set In Palestine Has Become An Act Of Resistance
+    - Aftermath
+  twitter:description: For the developers of "Palestine Skating Game," the game "has
+    become more important now than at any other time."
+  twitter:url: https://aftermath.site/making-a-skating-game-set-in-palestine-has-become-an-act-of-resistance/
+  twitter:image: https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2025/10/signal-2023-11-12-134027_002-jpeg-2.jpg
+  twitter:label1: Written by
+  twitter:data1: Gita Jackson
+  twitter:label2: Filed under
+  twitter:data2: Feature, palestine, palestine skating game, Politics
+  og:image:width: '1200'
+  og:image:height: '601'
+  generator: Ghost 6.64
+  preconnect: https://fonts.bunny.net
+  stylesheet: https://fonts.bunny.net/css?family=chakra-petch:400|roboto:400,500,700
+  icon: https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w256h256/2025/08/favicon4.png
+  canonical: https://aftermath.site/making-a-skating-game-set-in-palestine-has-become-an-act-of-resistance/
+  alternate: https://aftermath.site/rss/
+  webmention: https://aftermath.site/webmentions/receive/
+https://sumauma.com/a-sumauma-que-comoveu-belem/:
+  title: A sumaúma que comoveu Belém - SUMAÚMA
+  charset: UTF-8
+  publisher: Sumaúma Jornalismo
+  robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+  viewport: width=device-width, initial-scale=1.0
+  og:locale: pt_BR
+  og:type: article
+  og:title: A sumaúma que comoveu Belém - SUMAÚMA
+  og:description: Ao cair na madrugada com seus 200 anos de história, a pessoa-árvore
+    levou com ela memórias da vida de tantos, lembranças de uma cidade que se esqueceu
+    de que foi erguida sobre o corpo da natureza
+  og:url: https://sumauma.com/a-sumauma-que-comoveu-belem/
+  og:site_name: SUMAÚMA
+  article:publisher: https://facebook.com/sumaumajornalismo/
+  article:published_time: '2023-02-11T13:11:58+00:00'
+  article:modified_time: '2023-08-09T11:01:08+00:00'
+  og:image: https://sumauma.com/wp-content/uploads/2023/02/sumaumeira_belem_001-1920x1280.jpg
+  og:image:width: '1920'
+  og:image:height: '1280'
+  og:image:type: image/jpeg
+  author: ''
+  twitter:card: summary_large_image
+  twitter:creator: "@sumaumajornal"
+  twitter:site: "@sumaumajornal"
+  twitter:label1: Escrito por
+  twitter:data1: Viviane Zandonadi
+  generator: image-prioritizer 1.0.0-beta3
+  msapplication-TileImage: https://s3.amazonaws.com/wp-sumauma.com/wp-content/uploads/2022/09/23161908/cropped-sum-favicon-512-a-512x512.jpg
+  description: Ao cair na madrugada com seus 200 anos de história, a pessoa-árvore
+    levou com ela memórias da vida de tantos, lembranças de uma cidade que se esqueceu
+    de que foi erguida sobre o corpo da natureza
+  keywords: Amazônia, Árvores, Belém, Samaumeira, Sumaúma, Sumaumeira
+  profile: https://gmpg.org/xfn/11
+  canonical: https://sumauma.com/a-sumauma-que-comoveu-belem/
+  dns-prefetch: "//code.jquery.com"
+  alternate: https://sumauma.com/a-sumauma-que-comoveu-belem/
+  stylesheet: https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600&display=swap
+  https://api.w.org/: https://sumauma.com/wp-json/
+  EditURI: https://sumauma.com/xmlrpc.php?rsd
+  shortlink: https://sumauma.com/?p=5537
+  icon: https://s3.amazonaws.com/wp-sumauma.com/wp-content/uploads/2022/09/23161908/cropped-sum-favicon-512-a-512x512.jpg
+  apple-touch-icon: https://s3.amazonaws.com/wp-sumauma.com/wp-content/uploads/2022/09/23161908/cropped-sum-favicon-512-a-512x512.jpg
+  preconnect: https://fonts.gstatic.com
+  preload: https://s3.amazonaws.com/wp-sumauma.com/wp-content/uploads/2023/02/23161456/sumaumeira_belem_001-1920x1280.jpg
+https://sumauma.com/secretario-geral-onu-antonio-guterres-vozes-indigenas-inspirar-mundo-evitar-catastrofe-climatica/:
+  title: 'Exclusivo | Secretário-geral da ONU: vozes indígenas ''são indispensáveis''
+    para evitar a catástrofe climática - SUMAÚMA'
+  charset: UTF-8
+  publisher: Sumaúma Jornalismo
+  robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+  viewport: width=device-width, initial-scale=1.0
+  og:locale: pt_BR
+  og:type: article
+  og:title: 'Exclusivo | Secretário-geral da ONU: vozes indígenas ''são indispensáveis''
+    para evitar a catástrofe climática - SUMAÚMA'
+  og:description: Em sua única entrevista à imprensa antes da COP30 e a primeira exclusiva
+    feita por um jornalista indígena da Floresta, António Guterres disse a SUMAÚMA
+    que a humanidade precisa mudar de rumo ou enfrentará 'consequências devastadoras'
+  og:url: https://sumauma.com/secretario-geral-onu-antonio-guterres-vozes-indigenas-inspirar-mundo-evitar-catastrofe-climatica/
+  og:site_name: SUMAÚMA
+  article:publisher: https://facebook.com/sumaumajornalismo/
+  article:published_time: '2025-10-28T00:00:23+00:00'
+  article:modified_time: '2025-11-06T12:22:15+00:00'
+  og:image: https://s3.amazonaws.com/wp-sumauma.com/wp-content/uploads/2025/10/27171057/01.guterres_abre3.webp
+  og:image:width: '1752'
+  og:image:height: '1248'
+  og:image:type: image/jpeg
+  author: Rio
+  twitter:card: summary_large_image
+  twitter:creator: "@sumaumajornal"
+  twitter:site: "@sumaumajornal"
+  twitter:label1: Escrito por
+  twitter:data1: Viviane Zandonadi
+  twitter:label2: Est. tempo de leitura
+  twitter:data2: 2 minutos
+  generator: image-prioritizer 1.0.0-beta3
+  msapplication-TileImage: https://s3.amazonaws.com/wp-sumauma.com/wp-content/uploads/2022/09/23161908/cropped-sum-favicon-512-a-512x512.jpg
+  description: Em sua única entrevista à imprensa antes da COP30 e a primeira exclusiva
+    feita por um jornalista indígena da Floresta, António Guterres disse a SUMAÚMA
+    que a humanidade precisa mudar de rumo ou enfrentará 'consequências devastadoras'
+  keywords: Adaptação climática, Amazônia, António Guterres, Biodiversidade, Combustíveis
+    fósseis, Conferência do clima, COP, COP30, Crise climática, Direitos da natureza,
+    Direitos humanos, Floresta Amazônica, Foz do Amazonas, Lideranças indígenas, Micélio
+    - Programa de Coformação de Jornalistas-Floresta, NDC, ONU, Ponto de não retorno,
+    Povos indígenas, Povos originários, Povos-floresta, Povos-natureza, Terra do Meio,
+    Terra Indígena Xipaya
+  profile: https://gmpg.org/xfn/11
+  canonical: https://sumauma.com/secretario-geral-onu-antonio-guterres-vozes-indigenas-inspirar-mundo-evitar-catastrofe-climatica/
+  dns-prefetch: "//code.jquery.com"
+  alternate: https://sumauma.com/secretario-geral-onu-antonio-guterres-vozes-indigenas-inspirar-mundo-evitar-catastrofe-climatica/
+  stylesheet: https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600&display=swap
+  https://api.w.org/: https://sumauma.com/wp-json/
+  EditURI: https://sumauma.com/xmlrpc.php?rsd
+  shortlink: https://sumauma.com/?p=34243
+  icon: https://s3.amazonaws.com/wp-sumauma.com/wp-content/uploads/2022/09/23161908/cropped-sum-favicon-512-a-512x512.jpg
+  apple-touch-icon: https://s3.amazonaws.com/wp-sumauma.com/wp-content/uploads/2022/09/23161908/cropped-sum-favicon-512-a-512x512.jpg
+  preconnect: https://fonts.gstatic.com
+  preload: https://s3.amazonaws.com/wp-sumauma.com/wp-content/uploads/2025/10/27171057/01.guterres_abre3.webp
+https://kotaku.com/nitnendo-switch-2-3ds-xl-used-ebay-prices-2000656110:
+  title: Nintendo 3DS Prices Are Soaring And No One's Sure Why
+  charset: utf-8
+  viewport: width=device-width, initial-scale=1
+  apple-mobile-web-app-title: Kotaku
+  application-name: Kotaku
+  theme-color: "#ffffff"
+  robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+  description: The New 3DS XL is fetching as much as $350 on eBay, and prices are
+    climbing
+  og:locale: en_US
+  og:type: article
+  og:title: Nintendo 3DS Prices Are Soaring And No One's Sure Why
+  og:description: The New 3DS XL is fetching as much as $350 on eBay, and prices are
+    climbing
+  og:url: https://kotaku.com/nitnendo-switch-2-3ds-xl-used-ebay-prices-2000656110
+  og:site_name: Kotaku
+  article:publisher: https://www.facebook.com/kotaku/
+  article:author: John Walker
+  article:published_time: '2025-12-30T15:04:08+00:00'
+  article:modified_time: '2025-12-30T15:25:47+00:00'
+  og:image: https://kotaku.com/app/uploads/2025/12/3ds-1200x675.jpg
+  og:image:width: '1200'
+  og:image:height: '675'
+  og:image:type: image/jpeg
+  author: John Walker
+  twitter:card: summary_large_image
+  twitter:creator: "@Kotaku"
+  twitter:site: "@Kotaku"
+  twitter:label1: Written by
+  twitter:data1: John Walker
+  twitter:label2: Est. reading time
+  twitter:data2: 2 minutes
+  mrf:tags: contentType:Post
+  mrf:authors: John Walker
+  article:section: News
+  icon: "/favicon.png"
+  shortcut icon: "/favicon.ico"
+  apple-touch-icon: "/apple-touch-icon.png"
+  manifest: "/site.webmanifest"
+  stylesheet: https://kotaku.com/app/themes/kotaku/public/app.d7e2fd.css
+  canonical: https://kotaku.com/nitnendo-switch-2-3ds-xl-used-ebay-prices-2000656110
+  dns-prefetch: "//scripts.opti-digital.com"
+  alternate: https://kotaku.com/feed
+  preload: https://securepubads.g.doubleclick.net/tag/js/gpt.js
