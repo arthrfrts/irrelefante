@@ -5609,16 +5609,15 @@ https://boingboing.net/2026/09/19/fruit-vegetable-storage-cheat-sheet.html:
   google-adsense-platform-account: ca-host-pub-2644536267352236
   google-adsense-platform-domain: sitekit.withgoogle.com
   msapplication-TileImage: https://i0.wp.com/boingboing.net/wp-content/uploads/2018/04/apple-touch-icon-1.png?fit=158%2C158&quality=55&ssl=1
-  ! '': https://boingboing.net/wp-content/uploads/2026/09/fruit-vegetable-storage-cheat-sheet-scaled.jpg
-  pingback: https://boingboing.net/xmlrpc.php
-  canonical: https://boingboing.net/2026/09/19/fruit-vegetable-storage-cheat-sheet.html
-  dns-prefetch: "//v0.wordpress.com"
-  preconnect: https://cdn.confiant-integrations.net
-  alternate: https://boingboing.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fboingboing.net%2F2026%2F09%2F19%2Ffruit-vegetable-storage-cheat-sheet.html&format=xml
-  stylesheet: https://a.pub.network/boingboing-net/cls.css
-  apple-touch-icon: https://i0.wp.com/boingboing.net/wp-content/uploads/2018/04/apple-touch-icon-1.png?fit=158%2C158&quality=55&ssl=1
-  icon: https://i0.wp.com/boingboing.net/wp-content/uploads/2018/04/apple-touch-icon-1.png?fit=158%2C158&quality=55&ssl=1
-  manifest: "/wp-content/uploads/fbrfg/site.webmanifest"
-  mask-icon: "/wp-content/uploads/fbrfg/safari-pinned-tab.svg"
-  shortcut icon: "/wp-content/uploads/fbrfg/favicon.ico"
-  amphtml: https://boingboing.net/2026/09/19/fruit-vegetable-storage-cheat-sheet.html/amp
+  https://boingboing.net/wp-content/uploads/2026/09/fruit-vegetable-storage-cheat-sheet-scaled.jpg: pingback
+  https://boingboing.net/xmlrpc.php: canonical
+  https://boingboing.net/2026/09/19/fruit-vegetable-storage-cheat-sheet.html: dns-prefetch
+  "//v0.wordpress.com": preconnect
+  https://cdn.confiant-integrations.net: alternate
+  ? https://boingboing.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fboingboing.net%2F2026%2F09%2F19%2Ffruit-vegetable-storage-cheat-sheet.html&format=xml
+  : stylesheet
+  https://a.pub.network/boingboing-net/cls.css: apple-touch-icon
+  https://i0.wp.com/boingboing.net/wp-content/uploads/2018/04/apple-touch-icon-1.png?fit=158%2C158&quality=55&ssl=1: manifest
+  "/wp-content/uploads/fbrfg/site.webmanifest": mask-icon
+  "/wp-content/uploads/fbrfg/safari-pinned-tab.svg": shortcut icon
+  "/wp-content/uploads/fbrfg/favicon.ico": amphtml
