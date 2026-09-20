@@ -1,7 +1,7 @@
 {
   "editor.default_syntax" : "liquid-html",
   "workspace.art_style" : 1,
-  "workspace.color" : 1,
+  "workspace.color" : 5,
   "workspace.name" : "irrelefante.com.br",
   "workspace.preview_append_paths" : false,
   "workspace.preview_type" : "custom",
