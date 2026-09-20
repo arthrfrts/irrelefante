@@ -13,6 +13,7 @@ external_url:
 syndicate_to:
   - bluesky
   - mastodon
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3mvxgbcxggd2e"
 ---
 Trazendo pra cá [as dicas de @chadoyofficial](https://www.instagram.com/p/DdY7Nj_lrzz/) (via [Boing Boing](https://boingboing.net/2026/09/19/fruit-vegetable-storage-cheat-sheet.html)), já que eu não tenho Instagram pra salvar:
 
