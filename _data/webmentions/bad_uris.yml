@@ -825,9 +825,9 @@ aworkinglibrary.com:
   last_checked: '2026-09-19 11:27:02 -0300'
 www.instagram.com:
   state: unsupported
-  attempts: 1
-  last_checked: '2026-09-20 11:50:33 -0300'
+  attempts: 2
+  last_checked: '2026-09-21 14:05:53 -0300'
 boingboing.net:
   state: unsupported
-  attempts: 1
-  last_checked: '2026-09-20 11:50:33 -0300'
+  attempts: 2
+  last_checked: '2026-09-21 14:05:53 -0300'
