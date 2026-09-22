@@ -36,7 +36,7 @@ components:
     label: Syndicate to
     options:
       multiple: true
-      placeholder: Choose where to syndicate this post
+      placeholder: Silos to sindicate this post in.
       values:
         - name: bluesky
           label: Bluesky
@@ -126,19 +126,26 @@ components:
     type: string
     label: Tags
     list: true
+    description: >-
+      A list of topics. Include the author name if it's related to an artwork or quote.
   canonical_url:
     type: string
     label: Canonical URL
+    description: >-
+      The canonical URL of this post. Fill it with the original post URL if this is a repost from a previous blog.
   syndication:
     type: string
     label: Syndication
     list: true
+    description: >-
+      A list of links to social websites where this post is linked to.
   at_uri:
     type: string
     label: AT URI
     default: ""
     readonly: true
-    hidden: true
+    description: >-
+      This field will be automatically filled after the post is published.
   redirect_from:
     type: string
     label: Original URL
@@ -154,8 +161,9 @@ components:
       - name: reaction
         label: Reaction
         type: select
+        description: >-
+          Choose an IndieWeb-compatible reaction.
         options:
-          placeholder: Choose an IndieWeb-compatible reaction
           values:
             - name: reply
               label: Reply
@@ -166,6 +174,7 @@ components:
   category:
     type: select
     label: Category
+    default: notas
     options:
       values:
         - name: links
