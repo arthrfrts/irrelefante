@@ -44,6 +44,9 @@ components:
           label: Mastodon
         - name: flickr
           label: Flickr
+    default:
+      - bluesky
+      - mastodon
   image:
     type: object
     label: Image
@@ -281,39 +284,39 @@ content:
     label: Pages
     type: group
     items:
-    - name: sobre
-      label: Sobre
-      type: file
-      path: sobre.md
-      fields:
-        - name: layout
-          component: layout
-          default: page
-        - name: title
-          component: title
-        - name: body
-          type: code
-          label: Body
-          options:
-            format: markdown
-      commit:
-        templates:
-          update: "page(sobre): update {filename}"
-    - name: arquivo
-      label: Arquivo
-      type: file
-      path: arquivo.html
-      fields:
-        - name: layout
-          component: layout
-          default: page
-        - name: title
-          component: title
-        - name: body
-          type: code
-          label: Body
-          options:
-            format: html
-      commit:
-        templates:
-          update: "page(arquivo): update {filename}"
+      - name: sobre
+        label: Sobre
+        type: file
+        path: sobre.md
+        fields:
+          - name: layout
+            component: layout
+            default: page
+          - name: title
+            component: title
+          - name: body
+            type: code
+            label: Body
+            options:
+              format: markdown
+        commit:
+          templates:
+            update: "page(sobre): update {filename}"
+      - name: arquivo
+        label: Arquivo
+        type: file
+        path: arquivo.html
+        fields:
+          - name: layout
+            component: layout
+            default: page
+          - name: title
+            component: title
+          - name: body
+            type: code
+            label: Body
+            options:
+              format: html
+        commit:
+          templates:
+            update: "page(arquivo): update {filename}"
