@@ -397,7 +397,90 @@
 "/notas/2026/07/29/thimbleweed-park-2/": {}
 "/textos/2026/07/31/mystery/": {}
 "/links/2026/08/01/bingebuster/": {}
-"/links/2026/08/03/homenagem-%C3%A0-%C3%A1rvore-querida/": {}
+"/links/2026/08/03/homenagem-%C3%A0-%C3%A1rvore-querida/":
+  '2030269':
+    id: '2030269'
+    uri: https://organica.social/@arthr/117031954192326488#reblogged-by-115963023569377637
+    source: false
+    pubdate: 2026-09-09 11:32:58.000000000 +00:00
+    raw:
+      source: https://brid.gy/repost/mastodon/@arthr@organica.social/117031954192326488/115963023569377637
+      verified: true
+      verified_date: '2026-09-09T11:32:58+00:00'
+      id: 2030269
+      private: false
+      data:
+        author: &3
+          name: Luciana
+          url: https://organica.social/@luciana
+          photo: https://avatars.webmention.io/organica.social/42f67db4d868e3c4ffbde0f88e8668a40b515cf0d57321416b9999bb050ed240.png
+        url: https://organica.social/@arthr/117031954192326488#reblogged-by-115963023569377637
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: repost
+      target: https://irrelefante.com.br/links/2026/08/03/homenagem-%C3%A0-%C3%A1rvore-querida/
+    author: *3
+    type: repost
+    content: ''
+  '2030271':
+    id: '2030271'
+    uri: https://organica.social/@arthr/117031954192326488#favorited-by-115963023569377637
+    source: false
+    pubdate: 2026-09-09 11:33:22.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@arthr@organica.social/117031954192326488/115963023569377637
+      verified: true
+      verified_date: '2026-09-09T11:33:22+00:00'
+      id: 2030271
+      private: false
+      data:
+        author: &4
+          name: Luciana
+          url: https://organica.social/@luciana
+          photo: https://avatars.webmention.io/organica.social/42f67db4d868e3c4ffbde0f88e8668a40b515cf0d57321416b9999bb050ed240.png
+        url: https://organica.social/@arthr/117031954192326488#favorited-by-115963023569377637
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://irrelefante.com.br/links/2026/08/03/homenagem-%C3%A0-%C3%A1rvore-querida/
+    author: *4
+    type: like
+    content: ''
+  '2030270':
+    id: '2030270'
+    uri: https://organica.social/@luciana/117056051350325247
+    source: false
+    pubdate: 2026-08-07 17:13:16.000000000 -03:00
+    raw:
+      source: https://brid.gy/comment/mastodon/@arthr@organica.social/117031954192326488/117056051350325247
+      verified: true
+      verified_date: '2026-09-09T11:33:07+00:00'
+      id: 2030270
+      private: false
+      data:
+        author: &5
+          name: Luciana
+          url: https://organica.social/@luciana
+          photo: https://avatars.webmention.io/organica.social/42f67db4d868e3c4ffbde0f88e8668a40b515cf0d57321416b9999bb050ed240.png
+        url: https://organica.social/@luciana/117056051350325247
+        name:
+        content: <p><span class="h-card"><a href="https://organica.social/@arthr"
+          class="u-url">@<span>arthr</span></a></span> maravilhosas ambas as reportagens!!!</p>
+        published: '2026-08-07T20:13:16+00:00'
+        published_ts: 1786133596
+      activity:
+        type: reply
+      target: https://irrelefante.com.br/links/2026/08/03/homenagem-%C3%A0-%C3%A1rvore-querida/
+    author: *5
+    type: reply
+    content: <p><span class="h-card"><a href="https://organica.social/@arthr" class="u-url">@<span>arthr</span></a></span>
+      maravilhosas ambas as reportagens!!!</p>
 "/links/2026/08/05/pessoas-que-pensam-antes-cortam-a-grama-melhor-depois/": {}
 "/links/2026/08/05/stg-v-boxsquad/": {}
 "/notas/2026/08/11/o-instrumento-que-fez-o-som-de-os-p%C3%A1ssaros/": {}
