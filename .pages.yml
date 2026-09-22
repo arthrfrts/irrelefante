@@ -49,7 +49,9 @@ components:
       - mastodon
   image:
     type: object
-    label: Image
+    label: Featured Image
+    description: >-
+      A image shown in link previews, social media posts and in the blog index.
     fields:
       - name: path
         label: Image
