@@ -73,27 +73,31 @@ components:
       - name: item
         label: Item
         type: string
+        description: >-
+          The title of the artwork. If not set, the post title will be used.
       - name: format
         label: Format
         type: select
         options:
           values:
             - name: Disco
-              label: Disco
+              label: Music
             - name: Filme
-              label: Filme
+              label: Film
             - name: Jogo
-              label: Jogo
+              label: Game
             - name: Livro
-              label: Livro
+              label: Book
             - name: Série
-              label: Série
+              label: TV Show
       - name: summary
         label: Summary
         type: string
       - name: poster
         label: Poster
         type: image
+        description: >-
+          The artwork poster or cover. If not set, the post featured image will be used.
         options:
           media: media
           categories:
