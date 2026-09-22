@@ -132,8 +132,7 @@ components:
     type: string
     label: Tags
     list: true
-    description: >-
-      A list of topics. Include the author name if it's related to an artwork or quote.
+    placeholder: A list of topics. Include the author name if it's related to an artwork or quote.
   canonical_url:
     type: string
     label: Canonical URL
@@ -143,8 +142,7 @@ components:
     type: string
     label: Syndication
     list: true
-    description: >-
-      A list of links to social websites where this post is linked to.
+    placeholder: A list of links to social websites where this post is linked to.
   at_uri:
     type: string
     label: AT URI
