@@ -16,6 +16,7 @@ review:
 excerpt: O diretor de "A Hora do Mal" captura muito bem como eu me sinto ao jogar
   "Resident Evil" em seu novo filme.
 date: 2026-09-23 09:08 -0300
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3mw6prprtnz2q"
 ---
 Eu já imaginava que isso ia acontecer: eu me diverti um bocado. Zach Cregger subiu pro topo da minha lista de diretores interessantes com seu magnífico _A Hora do Mal_, então eu estava bem empolgado pra ver ele usar seu bom humor e sua atenção para a tensão na adaptação de _Resident Evil_ pro cinema.
 
