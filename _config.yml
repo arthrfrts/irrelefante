@@ -12,13 +12,13 @@ timezone: America/Sao_Paulo
 encoding: utf-8
 
 defaults:
-- scope:
-    path: ""
-    type: "posts"
-  values:
-    syndicate_to:
-      - bluesky
-      - mastodon
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      syndicate_to:
+        - bluesky
+        - mastodon
 
 author:
   name: Arthur Freitas
@@ -75,7 +75,7 @@ jekyll-archives:
 
 # Plugin: jekyll-url-metadata
 url_metadata:
-  retry_after_days: 1
+  retry_after_days: 10
 
 # Plugin: jekyll-webmention_io
 webmentions:

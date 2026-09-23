@@ -1,12 +1,6 @@
 require "jekyll-url-metadata"
 require "date"
 
-# jekyll-url-metadata's own cache (Jekyll::Cache, backed by .jekyll-cache/) is
-# gitignored and wiped whenever _config.yml changes, so it never survives a
-# fresh checkout - every Cloudflare Pages / CI build re-fetches every
-# external_url from scratch. This patch redirects lookups through committed
-# _data files instead, the same way jekyll-webmention_io persists its state
-# under _data/webmentions.
 module URLMetadataCachePatch
   def metadata(input)
     return if !is_input_valid(input) || !is_config_valid()
