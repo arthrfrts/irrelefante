@@ -3,21 +3,23 @@ layout: post
 title: Resident Evil
 category: reviews
 tags:
-- filmes
-- terror
-- Zach Cregger
-- jogos
+  - filmes
+  - terror
+  - Zach Cregger
+  - jogos
 review:
   item: Resident Evil
   format: Filme
-  summary: Zack Cregger, 2026
+  summary: Zach Cregger, 2026
   rating: 3.5
   poster: "/uploads/resident-evil.jpg"
-excerpt: O diretor de "A Hora do Mal" captura muito bem como eu me sinto ao jogar
+excerpt:
+  O diretor de "A Hora do Mal" captura muito bem como eu me sinto ao jogar
   "Resident Evil" em seu novo filme.
 date: 2026-09-23 09:08 -0300
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3mw6prprtnz2q"
 ---
+
 Eu já imaginava que isso ia acontecer: eu me diverti um bocado. Zach Cregger subiu pro topo da minha lista de diretores interessantes com seu magnífico _A Hora do Mal_, então eu estava bem empolgado pra ver ele usar seu bom humor e sua atenção para a tensão na adaptação de _Resident Evil_ pro cinema.
 
 É divertido demais. Captura muito bem duas experiências muito específicas: a primeira, de assistir alguém jogando, e você ficar pensando "não, pula ali", "pega aquela arma", "faz isso mais rápido", etc.; a segunda, e talvez mais específica e especial pra mim, é que o filme traduz exatamente a _minha experiência_ jogando esses jogos de terror. Eu me cago de medo. Eu ignoro qualquer instrução que o mundo do jogo pode tentar me indicar. Eu atiro pra todo o lado na expectativa de que, eventualmente, eu vá acertar o monstro. O Bryan é exatamente como eu controlo os personagens desses jogos.
