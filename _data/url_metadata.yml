@@ -5621,3 +5621,39 @@ https://boingboing.net/2026/09/19/fruit-vegetable-storage-cheat-sheet.html:
   "/wp-content/uploads/fbrfg/site.webmanifest": mask-icon
   "/wp-content/uploads/fbrfg/safari-pinned-tab.svg": shortcut icon
   "/wp-content/uploads/fbrfg/favicon.ico": amphtml
+https://youraislopbores.me/:
+  title: your ai slop bores me
+  charset: utf-8
+  viewport: width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no
+  apple-mobile-web-app-capable: 'yes'
+  apple-mobile-web-app-status-bar-style: black-translucent
+  theme-color: "#1a1a1e"
+  color-scheme: dark light
+  description: A real-time multiplayer game where humans role-play as AI. Submit prompts,
+    give responses, earn credits, and fight the slop.
+  author: youraislopbores.me
+  keywords: your ai slop bores me,ai game,human vs ai,role play ai,interactive ai,multiplayer,ai
+    slop game,social deduction game
+  creator: youraislopbores.me
+  robots: index, follow
+  googlebot: index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1
+  og:title: your ai slop bores me
+  og:description: A real-time multiplayer game where humans role-play as AI. Submit
+    prompts, give responses, and earn credits.
+  og:url: https://youraislopbores.me
+  og:site_name: your ai slop bores me
+  og:image: https://youraislopbores.me/yasbom.jpeg
+  og:image:width: '1200'
+  og:image:height: '630'
+  og:image:alt: your ai slop bores me
+  og:type: website
+  twitter:card: summary_large_image
+  twitter:title: your ai slop bores me
+  twitter:description: Humans role-playing as AI in real time. Submit prompts and
+    fight the slop.
+  twitter:image: https://youraislopbores.me/yasbom.jpeg
+  stylesheet: https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&display=swap
+  preload: "/op1.js?v=1.4.0"
+  preconnect: https://fonts.gstatic.com
+  canonical: https://youraislopbores.me
+  icon: "/favicon.ico?favicon.5fad2367.ico"
