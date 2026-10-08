@@ -2,7 +2,91 @@
 "/reviews/2015/01/02/kentucky-route-zero-act-iii-destr%C3%B3i-sua-alma-com-d%C3%ADvidas-do-passado/": {}
 "/reviews/2016/01/14/animal-crossing-new-leaf-vai-vender-sua-alma-para-reformar-sua-casa/": {}
 "/reviews/2016/07/18/n%C3%A3o-h%C3%A1-muito-o-que-dizer-sobre-esperando-godot/": {}
-"/reviews/2017/07/24/the-legend-of-zelda-breath-of-the-wild-%C3%A9-um-jogo-monumental/": {}
+"/reviews/2017/07/24/the-legend-of-zelda-breath-of-the-wild-%C3%A9-um-jogo-monumental/":
+  '2031719':
+    id: '2031719'
+    uri: https://organica.social/@arthr/117264549669077849#favorited-by-117230217471142966
+    source: false
+    pubdate: 2026-09-13 16:17:10.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@arthr@organica.social/117264549669077849/117230217471142966
+      verified: true
+      verified_date: '2026-09-13T16:17:10+00:00'
+      id: 2031719
+      private: false
+      data:
+        author: &1
+          name: Silva
+          url: https://organica.social/@silva
+          photo: https://avatars.webmention.io/organica.social/3b66d23d82d798bb60bab0205885a7eeb98135e4d22f45fdcf4208fc29edfc9f.jpg
+        url: https://organica.social/@arthr/117264549669077849#favorited-by-117230217471142966
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://irrelefante.com.br/reviews/2017/07/24/the-legend-of-zelda-breath-of-the-wild-%C3%A9-um-jogo-monumental/
+    author: *1
+    type: like
+    content: ''
+  '2031717':
+    id: '2031717'
+    uri: https://organica.social/@arthr/117264549669077849#favorited-by-115706577142521584
+    source: false
+    pubdate: 2026-09-13 16:17:06.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@arthr@organica.social/117264549669077849/115706577142521584
+      verified: true
+      verified_date: '2026-09-13T16:17:06+00:00'
+      id: 2031717
+      private: false
+      data:
+        author: &2
+          name: mrrobot
+          url: https://organica.social/@mrrobot
+          photo: https://avatars.webmention.io/organica.social/98877a495d15428ae068af533b9308240dcacecca4d8b5c1fd916951e846cff5.png
+        url: https://organica.social/@arthr/117264549669077849#favorited-by-115706577142521584
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://irrelefante.com.br/reviews/2017/07/24/the-legend-of-zelda-breath-of-the-wild-%C3%A9-um-jogo-monumental/
+    author: *2
+    type: like
+    content: ''
+  '2031718':
+    id: '2031718'
+    uri: https://organica.social/@silva/117264559296172190
+    source: false
+    pubdate: 2026-09-13 12:59:34.000000000 -03:00
+    raw:
+      source: https://brid.gy/comment/mastodon/@arthr@organica.social/117264549669077849/117264559296172190
+      verified: true
+      verified_date: '2026-09-13T16:17:08+00:00'
+      id: 2031718
+      private: false
+      data:
+        author: &3
+          name: Silva
+          url: https://organica.social/@silva
+          photo: https://avatars.webmention.io/organica.social/3b66d23d82d798bb60bab0205885a7eeb98135e4d22f45fdcf4208fc29edfc9f.jpg
+        url: https://organica.social/@silva/117264559296172190
+        name:
+        content: <p><span class="h-card"><a href="https://organica.social/@arthr"
+          class="u-url">@<span>arthr</span></a></span> E o que achou do remake de
+          Ocarina of time?</p>
+        published: '2026-09-13T15:59:34+00:00'
+        published_ts: 1789315174
+      activity:
+        type: reply
+      target: https://irrelefante.com.br/reviews/2017/07/24/the-legend-of-zelda-breath-of-the-wild-%C3%A9-um-jogo-monumental/
+    author: *3
+    type: reply
+    content: <p><span class="h-card"><a href="https://organica.social/@arthr" class="u-url">@<span>arthr</span></a></span>
+      E o que achou do remake de Ocarina of time?</p>
 "/reviews/2017/10/16/certas-mulheres/": {}
 "/reviews/2019/02/07/o-passado-e-o-presente-se-confundem-em-the-suburbs/": {}
 "/textos/2019/07/31/como-as-tirinhas-salvaram-a-minha-vida/": {}
@@ -320,7 +404,7 @@
       id: 1993549
       private: false
       data:
-        author: &1
+        author: &4
           name: luciana
           url: https://organica.social/@luciana
           photo: https://avatars.webmention.io/organica.social/42f67db4d868e3c4ffbde0f88e8668a40b515cf0d57321416b9999bb050ed240.png
@@ -332,7 +416,7 @@
       activity:
         type: like
       target: https://arthr.me/links/2026/04/30/links-pra-essa-quinta-feira-30-de-abril/
-    author: *1
+    author: *4
     type: like
     content: ''
   '1993548':
@@ -347,7 +431,7 @@
       id: 1993548
       private: false
       data:
-        author: &2
+        author: &5
           name: luciana
           url: https://organica.social/@luciana
           photo: https://avatars.webmention.io/organica.social/42f67db4d868e3c4ffbde0f88e8668a40b515cf0d57321416b9999bb050ed240.png
@@ -360,7 +444,7 @@
       activity:
         type: reply
       target: https://arthr.me/links/2026/04/30/links-pra-essa-quinta-feira-30-de-abril/
-    author: *2
+    author: *5
     type: reply
     content: <p><span class="h-card"><a href="https://organica.social/@arthr" class="u-url">@<span>arthr</span></a></span>
       boaaa!</p>
@@ -410,7 +494,7 @@
       id: 2030269
       private: false
       data:
-        author: &3
+        author: &6
           name: Luciana
           url: https://organica.social/@luciana
           photo: https://avatars.webmention.io/organica.social/42f67db4d868e3c4ffbde0f88e8668a40b515cf0d57321416b9999bb050ed240.png
@@ -422,7 +506,7 @@
       activity:
         type: repost
       target: https://irrelefante.com.br/links/2026/08/03/homenagem-%C3%A0-%C3%A1rvore-querida/
-    author: *3
+    author: *6
     type: repost
     content: ''
   '2030271':
@@ -437,7 +521,7 @@
       id: 2030271
       private: false
       data:
-        author: &4
+        author: &7
           name: Luciana
           url: https://organica.social/@luciana
           photo: https://avatars.webmention.io/organica.social/42f67db4d868e3c4ffbde0f88e8668a40b515cf0d57321416b9999bb050ed240.png
@@ -449,7 +533,7 @@
       activity:
         type: like
       target: https://irrelefante.com.br/links/2026/08/03/homenagem-%C3%A0-%C3%A1rvore-querida/
-    author: *4
+    author: *7
     type: like
     content: ''
   '2030270':
@@ -464,7 +548,7 @@
       id: 2030270
       private: false
       data:
-        author: &5
+        author: &8
           name: Luciana
           url: https://organica.social/@luciana
           photo: https://avatars.webmention.io/organica.social/42f67db4d868e3c4ffbde0f88e8668a40b515cf0d57321416b9999bb050ed240.png
@@ -477,7 +561,7 @@
       activity:
         type: reply
       target: https://irrelefante.com.br/links/2026/08/03/homenagem-%C3%A0-%C3%A1rvore-querida/
-    author: *5
+    author: *8
     type: reply
     content: <p><span class="h-card"><a href="https://organica.social/@arthr" class="u-url">@<span>arthr</span></a></span>
       maravilhosas ambas as reportagens!!!</p>
