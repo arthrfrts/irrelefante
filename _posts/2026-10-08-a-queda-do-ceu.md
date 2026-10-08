@@ -14,6 +14,7 @@ syndicate_to:
 - bluesky
 - mastodon
 date: 2026-10-08 10:35 -0300
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3mxelcm67ya27"
 ---
 Luciana relatou como foi seu dia de eleição --- da esperança do voto ao cataclisma da apuração. No seu blog, _[o sol na cabeça][sol]_:
 
