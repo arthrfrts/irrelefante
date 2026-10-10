@@ -581,4 +581,116 @@
 "/reviews/2026/09/23/resident-evil/": {}
 "/reviews/2026/07/11/uma-mulher-sob-influ%C3%AAncia/": {}
 "/notas/2026/09/28/quieto/": {}
-"/links/2026/10/08/a-queda-do-ceu/": {}
+"/links/2026/10/08/a-queda-do-ceu/":
+  '2038750':
+    id: '2038750'
+    uri: https://organica.social/@arthr/117405988743782529#reblogged-by-115963023569377637
+    source: false
+    pubdate: 2026-10-08 22:26:10.000000000 +00:00
+    raw:
+      source: https://brid.gy/repost/mastodon/@arthr@organica.social/117405988743782529/115963023569377637
+      verified: true
+      verified_date: '2026-10-08T22:26:10+00:00'
+      id: 2038750
+      private: false
+      data:
+        author: &9
+          name: Luciana
+          url: https://organica.social/@luciana
+          photo: https://avatars.webmention.io/organica.social/42f67db4d868e3c4ffbde0f88e8668a40b515cf0d57321416b9999bb050ed240.png
+        url: https://organica.social/@arthr/117405988743782529#reblogged-by-115963023569377637
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: repost
+      target: https://irrelefante.com.br/links/2026/10/08/a-queda-do-ceu/
+    author: *9
+    type: repost
+    content: ''
+  '2038749':
+    id: '2038749'
+    uri: https://organica.social/@arthr/117405988743782529#favorited-by-115963023569377637
+    source: false
+    pubdate: 2026-10-08 22:26:10.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@arthr@organica.social/117405988743782529/115963023569377637
+      verified: true
+      verified_date: '2026-10-08T22:26:10+00:00'
+      id: 2038749
+      private: false
+      data:
+        author: &10
+          name: Luciana
+          url: https://organica.social/@luciana
+          photo: https://avatars.webmention.io/organica.social/42f67db4d868e3c4ffbde0f88e8668a40b515cf0d57321416b9999bb050ed240.png
+        url: https://organica.social/@arthr/117405988743782529#favorited-by-115963023569377637
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://irrelefante.com.br/links/2026/10/08/a-queda-do-ceu/
+    author: *10
+    type: like
+    content: ''
+  '2038776':
+    id: '2038776'
+    uri: https://bsky.app/profile/irrelefante.com.br/post/3mxeridnpp42w#reposted_by_did:plc:3cswpag3rjiccrt6rd5sonxm
+    source: false
+    pubdate: 2026-10-09 02:38:55.000000000 +00:00
+    raw:
+      source: https://brid.gy/repost/bluesky/did:plc:5anqf5uonyp67nsex6h55l6p/at%253A%252F%252Fdid%253Aplc%253A5anqf5uonyp67nsex6h55l6p%252Fapp.bsky.feed.post%252F3mxeridnpp42w/did%253Aplc%253A3cswpag3rjiccrt6rd5sonxm
+      verified: true
+      verified_date: '2026-10-09T02:38:55+00:00'
+      id: 2038776
+      private: false
+      data:
+        author: &11
+          name: luciana
+          url: https://bsky.app/profile/osolnacabeca.com.br
+          photo: https://cdn.bsky.app/img/avatar/plain/did:plc:3cswpag3rjiccrt6rd5sonxm/bafkreigzm7g5cvyb6hq25vh5mnywk7at2p3jnhhlw67eed3muncxxcde6i
+        url: https://bsky.app/profile/irrelefante.com.br/post/3mxeridnpp42w#reposted_by_did:plc:3cswpag3rjiccrt6rd5sonxm
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: repost
+      target: https://irrelefante.com.br/links/2026/10/08/a-queda-do-ceu/
+    author: *11
+    type: repost
+    content: ''
+  '2038748':
+    id: '2038748'
+    uri: https://organica.social/@luciana/117406994671565216
+    source: false
+    pubdate: 2026-10-08 16:42:46.000000000 -03:00
+    raw:
+      source: https://brid.gy/comment/mastodon/@arthr@organica.social/117405988743782529/117406994671565216
+      verified: true
+      verified_date: '2026-10-08T22:26:09+00:00'
+      id: 2038748
+      private: false
+      data:
+        author: &12
+          name: Luciana
+          url: https://organica.social/@luciana
+          photo: https://avatars.webmention.io/organica.social/42f67db4d868e3c4ffbde0f88e8668a40b515cf0d57321416b9999bb050ed240.png
+        url: https://organica.social/@luciana/117406994671565216
+        name:
+        content: "<p><span class=\"h-card\"><a href=\"https://organica.social/@arthr\"
+          class=\"u-url\">@<span>arthr</span></a></span> ahhhh feliz que você curtiu!
+          Também vou começar a leitura, vamos juntos \U0001F970</p>"
+        published: '2026-10-08T19:42:46+00:00'
+        published_ts: 1791488566
+      activity:
+        type: reply
+      target: https://irrelefante.com.br/links/2026/10/08/a-queda-do-ceu/
+    author: *12
+    type: reply
+    content: "<p><span class=\"h-card\"><a href=\"https://organica.social/@arthr\"
+      class=\"u-url\">@<span>arthr</span></a></span> ahhhh feliz que você curtiu!
+      Também vou começar a leitura, vamos juntos \U0001F970</p>"
