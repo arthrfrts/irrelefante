@@ -831,3 +831,7 @@ boingboing.net:
   state: unsupported
   attempts: 5
   last_checked: '2026-09-24 19:19:58 -0300'
+pca.st:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-10-20 13:48:17 -0300'
