@@ -17,6 +17,7 @@ syndicate_to:
 - mastodon
 - bluesky
 date: 2026-10-21 23:27 -0300
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3mygmiqak732g"
 ---
 Vim visitar meus pais antes do segundo turno das eleições e meu pai, que não tá aguentando ver um noticiário, tá explorando a coleção de filmes que eu deixei na casa deles. Hoje foi dia desse — e faziam uns dez anos que eu não via _Quem Tem Medo De Veriginia Woolf?_. Eu tinha esquecido quão estupendo esse filme é.
 
