@@ -694,4 +694,32 @@
     content: "<p><span class=\"h-card\"><a href=\"https://organica.social/@arthr\"
       class=\"u-url\">@<span>arthr</span></a></span> ahhhh feliz que você curtiu!
       Também vou começar a leitura, vamos juntos \U0001F970</p>"
+  '2041494':
+    id: '2041494'
+    uri: https://organica.social/@arthr/117405988743782529#favorited-by-115893187457065726
+    source: false
+    pubdate: 2026-10-17 13:17:50.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/mastodon/@arthr@organica.social/117405988743782529/115893187457065726
+      verified: true
+      verified_date: '2026-10-17T13:17:50+00:00'
+      id: 2041494
+      private: false
+      data:
+        author: &13
+          name: Leandro Maciel
+          url: https://mastodon.social/@leandromaciel
+          photo: https://avatars.webmention.io/organica.social/c42163e4f462b798906a531e0ee3f4429e0b5ee009bb36b0d662c0e94271f788.jpg
+        url: https://organica.social/@arthr/117405988743782529#favorited-by-115893187457065726
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://irrelefante.com.br/links/2026/10/08/a-queda-do-ceu/
+    author: *13
+    type: like
+    content: ''
 "/links/2026/10/20/the-next-picture-show-comenta-a-rede-social/": {}
+"/reviews/2026/10/21/quem-tem-medo-de-virginia-woolf/": {}
