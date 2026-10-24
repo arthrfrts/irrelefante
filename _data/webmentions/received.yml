@@ -722,4 +722,58 @@
     type: like
     content: ''
 "/links/2026/10/20/the-next-picture-show-comenta-a-rede-social/": {}
-"/reviews/2026/10/21/quem-tem-medo-de-virginia-woolf/": {}
+"/reviews/2026/10/21/quem-tem-medo-de-virginia-woolf/":
+  '2043229':
+    id: '2043229'
+    uri: https://bsky.app/profile/irrelefante.com.br/post/3mygscrggqm2r#reposted_by_did:plc:aeaouj6eedwqmk4z3pies55n
+    source: false
+    pubdate: 2026-10-22 15:40:04.000000000 +00:00
+    raw:
+      source: https://brid.gy/repost/bluesky/did:plc:5anqf5uonyp67nsex6h55l6p/at%253A%252F%252Fdid%253Aplc%253A5anqf5uonyp67nsex6h55l6p%252Fapp.bsky.feed.post%252F3mygscrggqm2r/did%253Aplc%253Aaeaouj6eedwqmk4z3pies55n
+      verified: true
+      verified_date: '2026-10-22T15:40:04+00:00'
+      id: 2043229
+      private: false
+      data:
+        author: &14
+          name: arthur
+          url: https://bsky.app/profile/arthr.me
+          photo: https://cdn.bsky.app/img/avatar/plain/did:plc:aeaouj6eedwqmk4z3pies55n/bafkreiaaiaaxj2mf52ztpjrhb5fwsjcltfqwq63kythpootibzxohcagoe
+        url: https://bsky.app/profile/irrelefante.com.br/post/3mygscrggqm2r#reposted_by_did:plc:aeaouj6eedwqmk4z3pies55n
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: repost
+      target: https://irrelefante.com.br/reviews/2026/10/21/quem-tem-medo-de-virginia-woolf/
+    author: *14
+    type: repost
+    content: ''
+  '2043523':
+    id: '2043523'
+    uri: https://bsky.app/profile/irrelefante.com.br/post/3mygscrggqm2r#liked_by_did:plc:m3mohquvvr3n6x22kfaef4qn
+    source: false
+    pubdate: 2026-10-23 14:51:11.000000000 +00:00
+    raw:
+      source: https://brid.gy/like/bluesky/did:plc:5anqf5uonyp67nsex6h55l6p/at%253A%252F%252Fdid%253Aplc%253A5anqf5uonyp67nsex6h55l6p%252Fapp.bsky.feed.post%252F3mygscrggqm2r/did%253Aplc%253Am3mohquvvr3n6x22kfaef4qn
+      verified: true
+      verified_date: '2026-10-23T14:51:11+00:00'
+      id: 2043523
+      private: false
+      data:
+        author: &15
+          name: Nikita Myshkin
+          url: https://bsky.app/profile/nmyshkin.bsky.social
+          photo: https://cdn.bsky.app/img/avatar/plain/did:plc:m3mohquvvr3n6x22kfaef4qn/bafkreid5juzhvpowdo4cuzxewqsnubj3f6vd5canpvici4r65tlfark7te
+        url: https://bsky.app/profile/irrelefante.com.br/post/3mygscrggqm2r#liked_by_did:plc:m3mohquvvr3n6x22kfaef4qn
+        name:
+        content:
+        published:
+        published_ts:
+      activity:
+        type: like
+      target: https://irrelefante.com.br/reviews/2026/10/21/quem-tem-medo-de-virginia-woolf/
+    author: *15
+    type: like
+    content: ''
