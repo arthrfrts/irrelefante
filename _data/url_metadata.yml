@@ -5817,3 +5817,38 @@ https://hiddenpalace.org/Spore_(Feb_19,_2008_prototype):
   alternate: "/w/index.php?title=Special:RecentChanges&feed=atom"
   search: "/w/rest.php/v1/search"
   EditURI: https://hiddenpalace.org/w/api.php?action=rsd
+https://theamericanscholar.org/the-art-of-letting-go/:
+  title: The Art of Letting Go - The American Scholar
+  charset: UTF-8
+  viewport: width=device-width, initial-scale=1.0
+  robots: index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1
+  og:locale: en_US
+  og:type: article
+  og:title: The Art of Letting Go - The American Scholar
+  og:description: On the poetics of loss
+  og:url: https://theamericanscholar.org/the-art-of-letting-go/
+  og:site_name: The American Scholar
+  article:published_time: '2026-10-29T04:04:04+00:00'
+  article:modified_time: '2026-10-30T13:44:36+00:00'
+  og:image: https://theamericanscholar.org/wp-content/uploads/2026/09/ArtLettingGo.jpg
+  og:image:width: '1200'
+  og:image:height: '1301'
+  og:image:type: image/jpeg
+  author: Lisa Russ Spaar
+  twitter:card: summary_large_image
+  twitter:label1: Written by
+  twitter:data1: Lisa Russ Spaar
+  twitter:label2: Est. reading time
+  twitter:data2: 15 minutes
+  facebook-domain-verification: lb1eyo4rirbsm38e8ilfhtbmjntogu
+  profile: https://gmpg.org/xfn/11
+  canonical: https://theamericanscholar.org/the-art-of-letting-go/
+  dns-prefetch: "//fonts.googleapis.com"
+  preconnect: https://fonts.gstatic.com
+  alternate: https://theamericanscholar.org/wp-json/wp/v2/posts/52131
+  preload: https://theamericanscholar.org/wp-content/plugins/bb-plugin/fonts/fontawesome/7.2.0/webfonts/fa-brands-400.woff2
+  stylesheet: https://use.typekit.net/aew1fvd.css
+  https://api.w.org/: https://theamericanscholar.org/wp-json/
+  EditURI: https://theamericanscholar.org/xmlrpc.php?rsd
+  shortlink: https://theamericanscholar.org/?p=52131
+  pingback: https://theamericanscholar.org/xmlrpc.php
