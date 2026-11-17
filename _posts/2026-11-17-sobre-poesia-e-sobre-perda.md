@@ -10,6 +10,7 @@ tags:
 - luto
 - Lisa Russ Spaar
 date: 2026-11-17 13:31 -0300
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3n2jhsftyhy2v"
 ---
 Gostei muito [desse ensaio de Lisa Russ Spaar][lrs] para o _The American Scholar_ em que ela traça as semelhanças entre a poética e a perda --- como um esmiuça e registra talvez o mais básico dos sentimentos, o de perceber a ausência:
 
