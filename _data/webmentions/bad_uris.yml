@@ -835,3 +835,7 @@ pca.st:
   state: unsupported
   attempts: 5
   last_checked: '2026-10-25 01:26:07 -0300'
+theamericanscholar.org:
+  state: unsupported
+  attempts: 1
+  last_checked: '2026-11-17 18:48:47 -0300'
