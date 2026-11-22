@@ -19,6 +19,7 @@ tags:
   - drama
   - Ryusuke Hamaguchi
 date: 2026-11-22 02:30 -0300
+at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3n2uvfnt24g2e"
 ---
 
 Chorei desolado quando Kafuku oferece a mão para apoiar Watari, depois de ela se levantar da neve. Existe uma forma de Hamaguchi observar como os menores atos de gentileza, de proximidade, podem significar o mundo inteiro na hora certa, que me quebra aqui. O relacionamento entre esses dois personagens é esmiuçado com tanta grandeza, e tanta delicadeza, que as menores transformações dos gestos, e do espaço entre eles — que ele filma sempre em seus planos médios, quase ozunianos.
