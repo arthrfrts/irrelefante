@@ -21,7 +21,7 @@ syndication:
 date: 2026-11-22 09:31 -0300
 at_uri: "at://did:plc:5anqf5uonyp67nsex6h55l6p/site.standard.document/3n2vmvjtwm22i"
 ---
-Eu sabia cedo da noite que eu não ia conseguir dormir, então. decidi rever um dos meus filmes favoritos em todas as suas quase cinco horas no telão.
+Eu sabia cedo da noite que eu não ia conseguir dormir, então decidi rever um dos meus filmes favoritos em todas as suas quase cinco horas no telão.
 
 Acho que o filme-diário é o meu tipo de documentário favorito, e _Ao Caminhar Entrevi Lampejos de Beleza_ talvez seja a obra-prima do gênero. Reunindo filmagens feitas por toda a sua vida, Jonas Mekas reúne na mesma trilha de filme o mais banal e o mais excepcional. E tudo isso faz parte da nossa vida.
 
