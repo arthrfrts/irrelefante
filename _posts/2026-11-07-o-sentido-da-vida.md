@@ -8,11 +8,11 @@ tags:
   - filmes
   - drama
   - romance
-  - Riusuke Hamaguchi
+  - Ryusuke Hamaguchi
 review:
   item: O Sentido da Vida
   format: filme
-  summary: Riusuke Hamaguchi, 2026
+  summary: Ryusuke Hamaguchi, 2026
   rating: 5
   poster: "/uploads/2026/11/soudain.jpg"
 syndicate_to:
